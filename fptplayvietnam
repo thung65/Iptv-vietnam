@@ -1,0 +1,1689 @@
+
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
+# VTV
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV" ,VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV" ,VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg" group-title="VTV" ,VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg" group-title="VTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg" group-title="VTV",VTV5
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg" group-title="VTV" ,VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg" group-title="VTV",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" group-title="VTV",VTV9
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg" group-title="VTV" , VTV Cần Thơ
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png" group-title="VTV",VTV5 TNB
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnn" tvg-name="VTV5 TN" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.png" group-title="VTV",VTV5 TN
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+
+#--*.*--HTV--*.*--#
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1 HD
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv2hd.jpg",HTV2 HD
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv3.png",HTV3 HD
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvkey.jpg",HTV Key HD
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv7hd.jpg",HTV7 HD
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv9hd.jpg",HTV9 HD
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="Thể Thao" tvg-logo="https://img.lichphatsong.xyz/logo/htvthethaohd.jpg",HTV Thể Thao HD
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg"",THVL1 HD - Vĩnh Long 1
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" ,THVL2 HD - Vĩnh Long 2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong3hd.jpg" ,THVL3 HD - Vĩnh Long 3
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4 HD - Vĩnh Long 4
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/antv.png",AN NINH TV HD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg",QPVN
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#--*.*--HTVC--*.*--#
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcthuanviet.jpg" ,HTVC Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcdulichhd.jpg",HTVC DU LỊCH & CUỘC SỐNG HD
+https://live.fptplay53.net/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg" ,HTVC GIA ĐÌNH HD
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg",HTVC Phụ Nữ
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcphimhd.jpg",HTVC Phim HD
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcplushd.jpg" ,HTVC PLUS
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvccanhachd.jpg" ,HTVC CA NHẠC
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+
+#QUỐC TẾ
+#EXTINF:-1 tvg-id="kix" group-title="Khám phá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg", Kix
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png" group-title="Quốc Tế",Da Vinci
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg" group-title="Quốc Tế",Outdoor Channel
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế",Asian Food Network
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+
+#-*--Địa phương-*--#
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="yenbai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái
+https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình
+https://live.fptplay53.net/fnxsd1/hoabinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH Lai Châu
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hagiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang
+https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="backan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn
+https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Sơn
+https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV HD _ TH Tuyên Quang
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
+https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh
+https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
+https://live.fptplay53.net/fnxhd2/hanoitv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Dương
+https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD _ TH Thái Bình
+https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP HD _ TH Vĩnh Phúc
+https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 HD _ TH TP. Đà Nẵng
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/hkzIqEV.png",DaNangTV2 HD _ TH TP. Đà Nẵng
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangnam" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT HD _ TH Quảng Nam
+https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quảng Ngãi
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
+https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="phuyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD _ TH Phú Yên
+https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cx5AaTV.png",NTV HD _ TH Ninh Thuận
+https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhthuan" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận
+https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="kontum" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum
+https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai
+https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 HD _ TH Bình Phước
+https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
+https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang
+https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="bentre" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre
+https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh
+https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang
+https://live.fptplay53.net/epzsd1/haugiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang
+https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu
+https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="sonla" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hanam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
+https://live.fptplay53.net/fnxsd1/hanam_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
+https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="namdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
+https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="quangbinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
+https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 _ TH Bình Phước
+https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
+https://live.fptplay53.net/epzsd1/longan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
+https://live.fptplay53.net/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-1-vie-giai-tri-hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
+https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-2-phim-viet-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-2-phim-viet-hd/KenhCoBan",VTVcab 2 - Phim Việt HD
+https://xem.hoiquan.Click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab10-on-cine-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab10-on-cine-hd/KenhCoBan",VTVcab10 - On Cine HD
+https://xem.hoiquan.Click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab19-vie-dramas" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab19-vie-dramas/KenhCoBan",VTVcab19 – Vie Dramas
+https://xem.hoiquan.Click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-8-bi-bi-sd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-8-bi-bi-sd/KenhCoBan",VTVcab 8 Bibi SD
+https://xem.hoiquan.Click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-21-cartoon-kids-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-21-cartoon-kids-hd/KenhCoBan",VTVcab 21- Cartoon Kids HD
+https://xem.hoiquan.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-4-on-movies" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-4-on-movies/KenhCoBan",Vtvcab 4 – On Movies
+https://xem.hoiquan.Click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-5-e-channel-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-5-e-channel-hd/KenhCoBan",VTVcab 5 - E Channel HD
+https://xem.hoiquan.Click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-12-styletv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-12-styletv-hd/KenhCoBan",VTVcab 12 - StyleTV HD
+https://xem.hoiquan.Click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab15-on-music" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab15-on-music/KenhCoBan",VTVcab15 – On Music
+https://xem.hoiquan.Click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab17-trending-tv" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab17-trending-tv/KenhCoBan",Vtvcab17 – Trending TV
+https://xem.hoiquan.Click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-20-v-family-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-20-v-family-hd/KenhCoBan",VTVcab 20 - V Family HD
+https://xem.hoiquan.Click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-22-life-tv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-22-life-tv-hd/KenhCoBan",VTVcab 22 - Life TV HD
+https://xem.hoiquan.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-23-golf-channel" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-23-golf-channel/KenhCoBan",VTVcab 23 - Golf Channel(Kênh VTV Cab)
+https://xem.hoiquan.Click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-9-infotv-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-9-infotv-hd/KenhCoBan",VTVcab 9 - InfoTV HD
+https://xem.hoiquan.Click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab13-on-homeshopping/KenhCoBan",VTVcab13-On Homeshopping
+https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="o2tv" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/o2tv/KenhCoBan",O2TV
+https://xem.hoiquan.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="an-vien-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-vien-hd/KenhCoBan",An Viên HD
+https://xem.hoiquan.Click/CoBan/an-vien-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="box-hits" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/box-hits/KenhCoBan",Box Hits
+https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="box-movie-1-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/box-movie-1-hd/KenhCoBan",Box Movie 1 HD
+https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hollywood-classic-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hollywood-classic-hd/KenhCoBan",Hollywood Classic HD
+https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="in-the-box" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/in-the-box/KenhCoBan",In The Box
+https://xem.hoiquan.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="happy-kids-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/happy-kids-hd/KenhCoBan",Happy Kids HD
+https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="woman-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/woman-hd/KenhCoBan",Woman HD
+https://xem.hoiquan.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="man" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/man/KenhCoBan",Man
+https://xem.hoiquan.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="planet-earth-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/planet-earth-hd/KenhCoBan",Planet Earth HD
+https://xem.hoiquan.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dr-fit-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dr-fit-hd/KenhCoBan",Dr Fit HD
+https://xem.hoiquan.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="music-box" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/music-box/KenhCoBan",Music box
+https://xem.hoiquan.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="outdoor-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/outdoor-hd/KenhCoBan",Outdoor HD
+https://xem.hoiquan.Click/CoBan/outdoor-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="channel-news-asia" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/channel-news-asia/KenhCoBan",Channel News Asia
+https://xem.hoiquan.Click/CoBan/channel-news-asia/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="afn-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/afn-hd/KenhCoBan",AFN HD
+https://xem.hoiquan.Click/CoBan/afn-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hgtv/KenhCoBan",HGTV
+https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kbs-world" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kbs-world/KenhCoBan",KBS World
+https://xem.hoiquan.Click/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dw/KenhCoBan",DW
+https://xem.hoiquan.Click/CoBan/dw/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="nhk" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nhk/KenhCoBan",NHK
+https://xem.hoiquan.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="france-24" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/france-24/KenhCoBan",France 24
+https://xem.hoiquan.Click/CoBan/france-24/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv5" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv5/KenhCoBan",TV5
+https://xem.hoiquan.Click/CoBan/tv5/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="cnbc-sd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/cnbc-sd/KenhCoBan",CNBC SD
+https://xem.hoiquan.Click/CoBan/cnbc-sd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="history-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/history-hd/KenhCoBan",History HD
+https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kix/KenhCoBan",Kix
+https://xem.hoiquan.Click/CoBan/kix/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/arirang/KenhCoBan",Arirang
+https://xem.hoiquan.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="davinci-hd" group-title="Kênh quốc tế" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/davinci-hd/KenhCoBan",DaVinci HD
+https://xem.hoiquan.Click/CoBan/davinci-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv1/KenhCoBan",HTV1
+https://xem.hoiquan.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv2" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv2/KenhCoBan",HTV2
+https://xem.hoiquan.Click/CoBan/htv2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv3/KenhCoBan",HTV3
+https://xem.hoiquan.Click/CoBan/htv3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv4/KenhCoBan",HTV4
+https://xem.hoiquan.Click/CoBan/htv4/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv7-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv7-hd/KenhCoBan",HTV7 HD
+https://xem.hoiquan.Click/CoBan/htv7-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv9-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv9-hd/KenhCoBan",HTV9 HD
+https://xem.hoiquan.Click/CoBan/htv9-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv-the-thao" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
+https://xem.hoiquan.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-gia-dinh" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-gia-dinh/KenhCoBan",HTVC gia đình
+https://xem.hoiquan.Click/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-phu-nu" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-phu-nu/KenhCoBan",HTVC phụ Nữ
+https://xem.hoiquan.Click/CoBan/htvc-phu-nu/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-thuan-viet" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-thuan-viet/KenhCoBan",HTVC thuần việt
+https://xem.hoiquan.Click/CoBan/htvc-thuan-viet/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-phim-truyen-hd" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-phim-truyen-hd/KenhCoBan",HTVC phim truyện HD
+https://xem.hoiquan.Click/CoBan/htvc-phim-truyen-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-ca-nhac" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-ca-nhac/KenhCoBan",HTVC ca nhạc
+https://xem.hoiquan.Click/CoBan/htvc-ca-nhac/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc/KenhCoBan",HTVC+ Channel B
+https://xem.hoiquan.Click/CoBan/htvc/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htvc-du-lich-cuoc-song" group-title="Kênh HTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htvc-du-lich-cuoc-song/KenhCoBan",HTVC du lịch & cuộc sống
+https://xem.hoiquan.Click/CoBan/htvc-du-lich-cuoc-song/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-1" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-1/KenhCoBan",Vĩnh Long 1
+https://xem.hoiquan.Click/CoBan/vinh-long-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-2" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-2/KenhCoBan",Vĩnh Long 2
+https://xem.hoiquan.Click/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-3" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-3/KenhCoBan",Vĩnh Long 3
+https://xem.hoiquan.Click/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-4" group-title="Kênh Vĩnh Long" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-long-4/KenhCoBan",Vĩnh Long 4
+https://xem.hoiquan.Click/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="sctv6" group-title="Kênh SCTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/sctv6/KenhCoBan",SCTV6
+https://xem.hoiquan.Click/CoBan/sctv6/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="Kênh SCTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - Today TV
+https://xem.hoiquan.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="qtv-3" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qtv-3/KenhCoBan",QTV 3
+https://xem.hoiquan.Click/CoBan/qtv-3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-phong-plus" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-phong-plus/KenhCoBan",Hải Phòng +
+https://xem.hoiquan.Click/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-noi-1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-noi-1/KenhCoBan",Hà Nội 1
+https://xem.hoiquan.Click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-noi-2/KenhCoBan",Hà Nội 2
+https://xem.hoiquan.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="an-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/an-giang/KenhCoBan",An Giang
+https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-giang/KenhCoBan",Bắc Giang
+https://xem.hoiquan.Click/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="youtv" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/youtv/KenhCoBan",YouTV
+https://xem.hoiquan.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-kan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-kan/KenhCoBan",Bắc Kạn
+https://xem.hoiquan.Click/CoBan/bac-kan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hitv" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hitv/KenhCoBan",HITV
+https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-lieu" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-lieu/KenhCoBan",Bạc Liêu
+https://xem.hoiquan.Click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-ninh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/bac-ninh/KenhCoBan",Bắc Ninh
+https://xem.hoiquan.Click/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ben-tre" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ben-tre/KenhCoBan",Bến Tre
+https://xem.hoiquan.Click/CoBan/ben-tre/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="binh-dinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-dinh/KenhCoBan",Bình Định
+https://xem.hoiquan.Click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="btv1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/btv1/KenhCoBan",BTV1
+https://xem.hoiquan.Click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="btv2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/btv2/KenhCoBan",BTV2
+https://xem.hoiquan.Click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="binh-phuoc" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-phuoc/KenhCoBan",Bình Phước
+https://xem.hoiquan.Click/CoBan/binh-phuoc/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="binh-thuan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/binh-thuan/KenhCoBan",Bình Thuận
+https://xem.hoiquan.Click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ca-mau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ca-mau/KenhCoBan",Cà Mau
+https://xem.hoiquan.Click/CoBan/ca-mau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="can-tho" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/can-tho/KenhCoBan",Cần Thơ 1
+https://xem.hoiquan.Click/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hau-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hau-giang/KenhCoBan",Cần Thơ 2
+https://xem.hoiquan.Click/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="soc-trang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/soc-trang/KenhCoBan",Cần Thơ 1
+https://xem.hoiquan.Click/CoBan/soc-trang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="cao-bang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/cao-bang/KenhCoBan",Cao Bằng
+https://xem.hoiquan.Click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="da-nang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/da-nang/KenhCoBan",Đà Nẵng
+https://xem.hoiquan.Click/CoBan/da-nang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dac-nong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dac-nong/KenhCoBan",Đắc Nông
+https://xem.hoiquan.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dak-lak" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dak-lak/KenhCoBan",Đắk Lắk
+https://xem.hoiquan.Click/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dien-bien" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dien-bien/KenhCoBan",Điện Biên
+https://xem.hoiquan.Click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="nam-dinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nam-dinh/KenhCoBan",Nam Định
+https://xem.hoiquan.Click/CoBan/nam-dinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-nai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-nai/KenhCoBan",Đồng Nai
+https://xem.hoiquan.Click/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-thap" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-thap/KenhCoBan",Đồng Tháp
+https://xem.hoiquan.Click/CoBan/dong-thap/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="gia-lai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/gia-lai/KenhCoBan",Gia Lai
+https://xem.hoiquan.Click/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-giang/KenhCoBan",Hà Giang
+https://xem.hoiquan.Click/CoBan/ha-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-nam" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-nam/KenhCoBan",Hà Nam
+https://xem.hoiquan.Click/CoBan/ha-nam/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-tinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ha-tinh/KenhCoBan",Hà Tĩnh
+https://xem.hoiquan.Click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-duong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-duong/KenhCoBan",Hải Dương
+https://xem.hoiquan.Click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-phong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hai-phong/KenhCoBan",Hải Phòng
+https://xem.hoiquan.Click/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hoa-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hoa-binh/KenhCoBan",Hòa Bình
+https://xem.hoiquan.Click/CoBan/hoa-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hue" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hue/KenhCoBan",Huế
+https://xem.hoiquan.Click/CoBan/hue/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hung-yen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/hung-yen/KenhCoBan",Hưng Yên
+https://xem.hoiquan.Click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="khanh-hoa" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/khanh-hoa/KenhCoBan",Khánh Hòa
+https://xem.hoiquan.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kien-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kien-giang/KenhCoBan",Kiên Giang
+https://xem.hoiquan.Click/CoBan/kien-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kon-tum" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/kon-tum/KenhCoBan",Kon Tum
+https://xem.hoiquan.Click/CoBan/kon-tum/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lai-chau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lai-chau/KenhCoBan",Lai Châu
+https://xem.hoiquan.Click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lam-dong" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lam-dong/KenhCoBan",Lâm Đồng
+https://xem.hoiquan.Click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lang-son" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lang-son/KenhCoBan",Lạng Sơn
+https://xem.hoiquan.Click/CoBan/lang-son/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lao-cai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/lao-cai/KenhCoBan",Lào Cai
+https://xem.hoiquan.Click/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="long-an" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/long-an/KenhCoBan",Long An
+https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="nghe-an" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/nghe-an/KenhCoBan",Nghệ An
+https://xem.hoiquan.Click/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ninh-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ninh-binh/KenhCoBan",Ninh Bình
+https://xem.hoiquan.Click/CoBan/ninh-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ninh-thuan" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ninh-thuan/KenhCoBan",Ninh Thuận
+https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="phu-tho" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/phu-tho/KenhCoBan",Phú Thọ
+https://xem.hoiquan.Click/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="phu-yen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/phu-yen/KenhCoBan",Phú Yên
+https://xem.hoiquan.Click/CoBan/phu-yen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-binh/KenhCoBan",Quảng Bình
+https://xem.hoiquan.Click/CoBan/quang-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-nam" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-nam/KenhCoBan",Quảng Nam
+https://xem.hoiquan.Click/CoBan/quang-nam/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-ngai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-ngai/KenhCoBan",Quảng Ngãi
+https://xem.hoiquan.Click/CoBan/quang-ngai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="qtv-1" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qtv-1/KenhCoBan",QTV 1
+https://xem.hoiquan.Click/CoBan/qtv-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-tri" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/quang-tri/KenhCoBan",Quảng Trị
+https://xem.hoiquan.Click/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="son-la" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/son-la/KenhCoBan",Sơn La
+https://xem.hoiquan.Click/CoBan/son-la/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tay-ninh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tay-ninh/KenhCoBan",Tây Ninh
+https://xem.hoiquan.Click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thai-binh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thai-binh/KenhCoBan",Thái Bình
+https://xem.hoiquan.Click/CoBan/thai-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thai-nguyen" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thai-nguyen/KenhCoBan",Thái Nguyên
+https://xem.hoiquan.Click/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thanh-hoa" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/thanh-hoa/KenhCoBan",Thanh Hóa
+https://xem.hoiquan.Click/CoBan/thanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tien-giang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tien-giang/KenhCoBan",Tiền Giang
+https://xem.hoiquan.Click/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tra-vinh" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tra-vinh/KenhCoBan",Trà Vinh
+https://xem.hoiquan.Click/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tuyen-quang" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tuyen-quang/KenhCoBan",Tuyên Quang
+https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-phuc" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vinh-phuc/KenhCoBan",Vĩnh Phúc
+https://xem.hoiquan.Click/CoBan/vinh-phuc/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vung-tau" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vung-tau/KenhCoBan",Vũng Tàu
+https://xem.hoiquan.Click/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="yen-bai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/yen-bai/KenhCoBan",Yên Bái
+https://xem.hoiquan.Click/CoBan/yen-bai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-nai-2" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/dong-nai-2/KenhCoBan",Đồng Nai 2
+https://xem.hoiquan.Click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.live/KenhCoBan",TV360 Live
+https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.Mekong" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.Mekong/KenhCoBan",Mekong
+https://xem.hoiquan.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.PhimAuMy/KenhCoBan",Phim Âu Mỹ
+https://xem.hoiquan.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="fm90" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm90/KenhCoBan",FM90(Kênh FM)
+https://xem.hoiquan.Click/CoBan/fm90/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="fm96" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm96/KenhCoBan",FM96(Kênh FM)
+https://xem.hoiquan.Click/CoBan/fm96/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab-16-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-16-hd/KenhCoBan-TV3602",VTVcab 16 - On Football HD TV360
+https://xem.hoiquan.Click/CoBan2/vtvcab-16-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk1" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk1/KenhCoBan-TV3602",TV360+ 1
+https://xem.hoiquan.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk2" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk2/KenhCoBan-TV3602",TV360+ 2
+https://xem.hoiquan.Click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk3" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk3/KenhCoBan-TV3602",TV360+ 3
+https://xem.hoiquan.Click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk4" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk4/KenhCoBan-TV3602",TV360+ 4
+https://xem.hoiquan.Click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk5" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk5/KenhCoBan-TV3602",TV360+ 5
+https://xem.hoiquan.Click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk6" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk6/KenhCoBan-TV3602",TV360+ 6
+https://xem.hoiquan.Click/CoBan2/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk7" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk7/KenhCoBan-TV3602",TV360+ 7
+https://xem.hoiquan.Click/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk8" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk8/KenhCoBan-TV3602",TV360+ 8
+https://xem.hoiquan.Click/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk9" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk9/KenhCoBan-TV3602",TV360+ 9
+https://xem.hoiquan.Click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thcantho2" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa Phương" tvg-logo="https://xem.hoiquan.click/Logo/thcantho2/KenhBoSung",TH Cần Thơ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/thcantho2/ToChaThangVThanh
+#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab16hd/KenhBoSung",ON Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab3hd/KenhBoSung",ON Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="vtvcab18hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab18hd/KenhBoSung",ON Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab6hd/KenhBoSung",ON Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="hanoi2" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://xem.hoiquan.click/Logo/hanoi2/KenhBoSung",Hà Nội 2 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/hanoi2/ToChaThangVThanh
+#EXTINF:-1 tvg-id="kcinehd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/kcinehd/KenhBoSung",K+ Cine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/kcinehd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="kaction" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/kaction/KenhBoSung",K+ Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/kaction/ToChaThangVThanh
+#EXTINF:-1 tvg-id="ksport1hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/ksport1hd/KenhBoSung",K+ Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/ksport1hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="ksport2hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/ksport2hd/KenhBoSung",K+ Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/ksport2hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="kkidshd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://xem.hoiquan.click/Logo/kkidshd/KenhBoSung",K+ Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/kkidshd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv1hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv1hd/KenhBoSung",SCTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv1hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv3hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv3hd/KenhBoSung",SCTV3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv3hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv4hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv4hd/KenhBoSung",SCTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv4hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv7hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv7hd/KenhBoSung",SCTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv7hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv8hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv8hd/KenhBoSung",SCTV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv8hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv9hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv9hd/KenhBoSung",SCTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv9hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv11hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv11hd/KenhBoSung",SCTV11 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv11hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv12hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv12hd/KenhBoSung",SCTV12 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv12hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv13hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv13hd/KenhBoSung",SCTV13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv13hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv14hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv14hd/KenhBoSung",SCTV14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv14hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv15hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv15hd/KenhBoSung",SCTV15 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv15hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv16hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv16hd/KenhBoSung",SCTV16 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv16hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv17hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv17hd/KenhBoSung",SCTV17 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv17hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv18hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv18hd/KenhBoSung",SCTV18 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv18hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv19hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv19hd/KenhBoSung",SCTV19 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv19hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv20hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv20hd/KenhBoSung",SCTV20 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv20hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv21hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv21hd/KenhBoSung",SCTV21 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv21hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv22hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv22hd/KenhBoSung",SCTV22 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv22hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctvhdpth" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctvhdpth/KenhBoSung",SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctvhdpth/ToChaThangVThanh
+#EXTINF:-1 tvg-id="sctv4k" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv4k/KenhBoSung",SCTV4K 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/sctv4k/ToChaThangVThanh
+#EXTINF:-1 tvg-id="BunBoGioHeo" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 21h46-12/08/2025
+https://xem.hoiquan.click/BunBo/BunBoGioHeo/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912060" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912060/TichHop-Socolive",AFFWC: Vietnam (w) vs Thailand (w)
+https://xem.hoiquan.click/BunBo/9912060/GioHeo.m3u8
+#EXTINF:-1 tvg-id="500605" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/500605/TichHop-Socolive",CAF CHAN: Senegal vs Republic of the Congo
+https://xem.hoiquan.click/BunBo/500605/GioHeo.m3u8
+#EXTINF:-1 tvg-id="459401" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/459401/TichHop-Socolive",CAF CHAN: Senegal vs Republic of the Congo
+https://xem.hoiquan.click/BunBo/459401/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912097" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912097/TichHop-Socolive",CAF CHAN: Senegal vs Republic of the Congo
+https://xem.hoiquan.click/BunBo/9912097/GioHeo.m3u8
+#EXTINF:-1 tvg-id="511367" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/511367/TichHop-Socolive",CAF CHAN: Senegal vs Republic of the Congo
+https://xem.hoiquan.click/BunBo/511367/GioHeo.m3u8
+#EXTINF:-1 tvg-id="445260" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/445260/TichHop-Socolive",CAF CHAN: Senegal vs Republic of the Congo
+https://xem.hoiquan.click/BunBo/445260/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912103" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912103/TichHop-Socolive",AFFWC: Vietnam (w) vs Thailand (w)
+https://xem.hoiquan.click/BunBo/9912103/GioHeo.m3u8
+#EXTINF:-1 tvg-id="501412" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/501412/TichHop-Socolive",RUS CUP: Akron Togliatti vs CSKA Moscow
+https://xem.hoiquan.click/BunBo/501412/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912043" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912043/TichHop-Socolive",RUS CUP: Akron Togliatti vs CSKA Moscow
+https://xem.hoiquan.click/BunBo/9912043/GioHeo.m3u8
+#EXTINF:-1 tvg-id="414317" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/414317/TichHop-Socolive",AFFWC: Vietnam (w) vs Thailand (w)
+https://xem.hoiquan.click/BunBo/414317/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912050" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912050/TichHop-Socolive",CAF CHAN: Senegal vs Republic of the Congo
+https://xem.hoiquan.click/BunBo/9912050/GioHeo.m3u8
+#EXTINF:-1 tvg-id="239275" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/239275/TichHop-Socolive",RUS CUP: Akron Togliatti vs CSKA Moscow
+https://xem.hoiquan.click/BunBo/239275/GioHeo.m3u8
+#EXTINF:-1 tvg-id="500606" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/500606/TichHop-Socolive",RUS CUP: Akron Togliatti vs CSKA Moscow
+https://xem.hoiquan.click/BunBo/500606/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912092" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912092/TichHop-Socolive",RUS CUP: Akron Togliatti vs CSKA Moscow
+https://xem.hoiquan.click/BunBo/9912092/GioHeo.m3u8
+#EXTINF:-1 tvg-id="372746" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/372746/TichHop-Socolive",MAS SL: Selangor FC vs DPMM FC
+https://xem.hoiquan.click/BunBo/372746/GioHeo.m3u8
+#EXTINF:-1 tvg-id="532081" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/532081/TichHop-Socolive",MAS SL: Selangor FC vs DPMM FC
+https://xem.hoiquan.click/BunBo/532081/GioHeo.m3u8
+#EXTINF:-1 tvg-id="525113" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/525113/TichHop-Socolive",MAS SL: Kelantan Darul Naim vs Imigresen FC
+https://xem.hoiquan.click/BunBo/525113/GioHeo.m3u8
+#EXTINF:-1 tvg-id="521298" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/521298/TichHop-Socolive",MAS SL: Kelantan Darul Naim vs Imigresen FC
+https://xem.hoiquan.click/BunBo/521298/GioHeo.m3u8
+#EXTINF:-1 tvg-id="285067" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/285067/TichHop-Socolive",UZB PFL: FC OKMK Olmaliq vs Qizilqum Zarafshon
+https://xem.hoiquan.click/BunBo/285067/GioHeo.m3u8
+#EXTINF:-1 tvg-id="474421" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/474421/TichHop-Socolive",UZB PFL: FC OKMK Olmaliq vs Qizilqum Zarafshon
+https://xem.hoiquan.click/BunBo/474421/GioHeo.m3u8
+#EXTINF:-1 tvg-id="525837" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/525837/TichHop-Socolive",UZB PFL: FK Andijon vs Navbahor Namangan
+https://xem.hoiquan.click/BunBo/525837/GioHeo.m3u8
+#EXTINF:-1 tvg-id="515530" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/515530/TichHop-Socolive",UZB PFL: FK Andijon vs Navbahor Namangan
+https://xem.hoiquan.click/BunBo/515530/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912112" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912112/TichHop-Socolive",AFBC: Mali vs Egypt
+https://xem.hoiquan.click/BunBo/9912112/GioHeo.m3u8
+#EXTINF:-1 tvg-id="289098" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/289098/TichHop-Socolive",AFBC: South Sudan vs Guinea
+https://xem.hoiquan.click/BunBo/289098/GioHeo.m3u8
+#EXTINF:-1 tvg-id="9912107" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912107/TichHop-Socolive",AFBC: South Sudan vs Guinea
+https://xem.hoiquan.click/BunBo/9912107/GioHeo.m3u8
+#EXTINF:-1 tvg-id="406865" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/406865/TichHop-Socolive",ACGL: FC Abdysh-Ata Kant vs Hutteen FC
+https://xem.hoiquan.click/BunBo/406865/GioHeo.m3u8
+#EXTINF:-1 tvg-id="491873" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/491873/TichHop-Socolive",ACGL: FC Abdysh-Ata Kant vs Hutteen FC
+https://xem.hoiquan.click/BunBo/491873/GioHeo.m3u8
+#EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/raw/refs/heads/main/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="31" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/31/DoiTac-HieuHa",RTHK 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/31/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="32" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/32/DoiTac-HieuHa",RTHK 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/32/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="33" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/33/DoiTac-HieuHa",RTHK 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/33/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="34" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/34/DoiTac-HieuHa",RTHK 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/34/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="35" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/35/DoiTac-HieuHa",RTHK 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/35/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="77" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/77/DoiTac-HieuHa",HOY 77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/77/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="78" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/78/DoiTac-HieuHa",HOY 78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/78/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="JADE" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/JADE/DoiTac-HieuHa",TVB Jade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/JADE/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="NEWS" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/NEWS/DoiTac-HieuHa",TVB News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/NEWS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="PEARL" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/PEARL/DoiTac-HieuHa",TVB Pearl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/PEARL/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="85" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/85/DoiTac-HieuHa",Phoenix Hong Kong
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/85/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TDMOUMUN" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/TDMOUMUN/DoiTac-HieuHa",TDM Ou Mun (Có treo bảng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TDMOUMUN/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TDMCANALMACAU" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/TDMCANALMACAU/DoiTac-HieuHa",TDM Canal Macau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TDMCANALMACAU/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TDMINFORMATION" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/TDMINFORMATION/DoiTac-HieuHa",TDM Informação
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TDMINFORMATION/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TDMLEGCOCANTO" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/TDMLEGCOCANTO/DoiTac-HieuHa",TDM LegCo Macau (Cantonese)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TDMLEGCOCANTO/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TDMLEGCOPORTUGUESE" group-title="🔁 HieuHa.Hong Kong và Macao" tvg-logo="https://xem.hoiquan.click/Logo/TDMLEGCOPORTUGUESE/DoiTac-HieuHa",TDM LegCo Macau (Portuguese)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TDMLEGCOPORTUGUESE/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVBSASIA" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TVBSASIA/DoiTac-HieuHa",TVBS Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TVBSASIA/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVBS" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TVBS/DoiTac-HieuHa",TVBS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TVBS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVBS ENT" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TVBS ENT/DoiTac-HieuHa",TVBS ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TVBS ENT/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVBSNEWS" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TVBSNEWS/DoiTac-HieuHa",TVBS NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TVBSNEWS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FORMOSA" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/FORMOSA/DoiTac-HieuHa",FORMOSA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/FORMOSA/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TTV" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/TTV/DoiTac-HieuHa",TTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/TTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTV" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTV/DoiTac-HieuHa",CTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/CTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTS" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTS/DoiTac-HieuHa",CTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/CTS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="PTS" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/PTS/DoiTac-HieuHa",PTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/PTS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTIMETRO" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTIMETRO/DoiTac-HieuHa",CTI Metro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/CTIMETRO/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTIENT" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTIENT/DoiTac-HieuHa",CTI Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/CTIENT/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTIXINWEN" group-title="🔁 HieuHa.Đài Loan" tvg-logo="https://xem.hoiquan.click/Logo/CTIXINWEN/DoiTac-HieuHa",CTI News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HieuHa/CTIXINWEN/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="NBT" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/NBT/DoiTac-HieuHa",NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/NBT/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="ALTV" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/ALTV/DoiTac-HieuHa",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/ALTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="5HD" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/5HD/DoiTac-HieuHa",5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/5HD/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="T SPORT" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/T SPORT/DoiTac-HieuHa",T SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/T SPORT/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TPTV" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/TPTV/DoiTac-HieuHa",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/TPTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TNN" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/TNN/DoiTac-HieuHa",TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/TNN/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="JKN18" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/JKN18/DoiTac-HieuHa",JKN18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/JKN18/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MVMallHappy65" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/MVMallHappy65/DoiTac-HieuHa",MVMall Happy (65)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/MVMallHappy65/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="11111" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/11111/DoiTac-HieuHa",ไทบ้านทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/11111/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Nation" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/Nation/DoiTac-HieuHa",Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/Nation/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Workpoint" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/Workpoint/DoiTac-HieuHa",Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/Workpoint/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="True24" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/True24/DoiTac-HieuHa",True24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/True24/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="GMM25" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/GMM25/DoiTac-HieuHa",GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/GMM25/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="boomanime" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/boomanime/DoiTac-HieuHa",Boom Anime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/boomanime/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MCOT" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/MCOT/DoiTac-HieuHa",MCOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/MCOT/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="ONE" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/ONE/DoiTac-HieuHa",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/ONE/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Thairath" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/Thairath/DoiTac-HieuHa",Thairath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/Thairath/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="3HD" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/3HD/DoiTac-HieuHa",3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/3HD/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Amarin" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/Amarin/DoiTac-HieuHa",Amarin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/Amarin/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="7HD" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/7HD/DoiTac-HieuHa",7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/7HD/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="PPTV" group-title="🔁 HieuHa.Thái Lan" tvg-logo="https://xem.hoiquan.click/Logo/PPTV/DoiTac-HieuHa",PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HieuHa/PPTV/DoiTacDongGop.m3u8
+#EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/raw/refs/heads/main/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="32" group-title="🔁 HDA.Thể Thao" tvg-logo="https://xem.hoiquan.click/Logo/32/DoiTac-HDA",DALive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HDA/32/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="33" group-title="🔁 HDA.Thể Thao" tvg-logo="https://xem.hoiquan.click/Logo/33/DoiTac-HDA",DALive 2 (UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HDA/33/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="34" group-title="🔁 HDA.Thể Thao" tvg-logo="https://xem.hoiquan.click/Logo/34/DoiTac-HDA",DALive 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HDA/34/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="35" group-title="🔁 HDA.Thể Thao" tvg-logo="https://xem.hoiquan.click/Logo/35/DoiTac-HDA",DALive 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HDA/35/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="36" group-title="🔁 HDA.Thể Thao" tvg-logo="https://xem.hoiquan.click/Logo/36/DoiTac-HDA",DALive 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HDA/36/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="37" group-title="🔁 HDA.Thể Thao" tvg-logo="https://xem.hoiquan.click/Logo/37/DoiTac-HDA",DALive 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HDA/37/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="38" group-title="🔁 HDA.Thể Thao" tvg-logo="https://xem.hoiquan.click/Logo/38/DoiTac-HDA",DALive 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HDA/38/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="39" group-title="🔁 HDA.Thể Thao" tvg-logo="https://xem.hoiquan.click/Logo/39/DoiTac-HDA",DALive 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/HDA/39/DoiTacDongGop.m3u8
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTINF:-1 tvg-id="SkySpMainEv_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySpMainEv_uk/DoiTac-BMT",SkySports_MainEventUHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySpMainEv_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Sports_UHD_my" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Sports_UHD_my/DoiTac-BMT",Astro_Sports-UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Astro.Sports_UHD_my/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN_bein" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/4k_DIGITAL_Mono_EN_bein/DoiTac-BMT",beIN4k
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/4k_DIGITAL_Mono_EN_bein/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="English_Now.Sports.4K_1_hk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/English_Now.Sports.4K_1_hk/DoiTac-BMT",NowSports1-4k
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/English_Now.Sports.4K_1_hk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hub_Premier_2_HD_sg" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Hub_Premier_2_HD_sg/DoiTac-BMT",HUBPremier2UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Hub_Premier_2_HD_sg/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="V_sport_ULTRA_HD_fi" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/V_sport_ULTRA_HD_fi/DoiTac-BMT",VSportUltraHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/V_sport_ULTRA_HD_fi/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TNT_Sport_Ultimate_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/TNT_Sport_Ultimate_uk/DoiTac-BMT",TNTSport_Ultimate-4K_HDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/TNT_Sport_Ultimate_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Digi_4K_ro" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Digi_4K_ro/DoiTac-BMT",Digi4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Digi_4K_ro/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Eleven.Sports.1.4K.pl/DoiTac-BMT",ElevenSport1-4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Eleven.Sports.1.4K.pl/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Prima_4K_ro" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Prima_4K_ro/DoiTac-BMT",Prima4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Prima_4K_ro/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySp_F1_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySp_F1_HD_uk/DoiTac-BMT",SkySportsF1UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySp_F1_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Ziggo_Sport_nl" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Ziggo_Sport_nl/DoiTac-BMT",Ziggo_Sport_UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Ziggo_Sport_nl/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Eurosport_4K_ro" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Eurosport_4K_ro/DoiTac-BMT",EuroSport4K 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Eurosport_4K_ro/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="M_LaLiga_UHD_es" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/M_LaLiga_UHD_es/DoiTac-BMT",M+LaLigaUHD.es
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/M_LaLiga_UHD_es/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="New_England_Sports_Network_HDTV_NESNHD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/New_England_Sports_Network_HDTV_NESNHD_us/DoiTac-BMT",NESN_UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/New_England_Sports_Network_HDTV_NESNHD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TNTSports1_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/TNTSports1_HD_uk/DoiTac-BMT",TNTSports1-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/TNTSports1_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TNT_Sports_2_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/TNT_Sports_2_uk/DoiTac-BMT",TNTSports2-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/TNT_Sports_2_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TNTSports3_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/TNTSports3_HD_uk/DoiTac-BMT",TNTSports3-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/TNTSports3_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TNTSports4_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/TNTSports4_HD_uk/DoiTac-BMT",TNTSports4-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/TNTSports4_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySpMainEvHD_uk/DoiTac-BMT",SkySports_MainEvent-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySpMainEvHD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySp_PL_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySp_PL_HD_uk/DoiTac-BMT",SkySports_PremierLeague-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySp_PL_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySp_Fball_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySp_Fball_HD_uk/DoiTac-BMT",SkySports_Football-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySp_Fball_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySp_F1_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySp_F1_HD_uk/DoiTac-BMT",SkySports_F1-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySp_F1_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySp_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySp_uk/DoiTac-BMT",SkySports+FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySp_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySp_Tennis_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySp_Tennis_HD_uk/DoiTac-BMT",SkySports_Tennis-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySp_Tennis_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySp_Golf_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySp_Golf_HD_uk/DoiTac-BMT",SkySports_Golf-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySp_Golf_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySp_News_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySp_News_HD_uk/DoiTac-BMT",SkySports_News-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySp_News_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Sky_Action_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Sky_Action_HD_uk/DoiTac-BMT",SkySports_Action-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Sky_Action_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SkySpBoxOff_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SkySpBoxOff_uk/DoiTac-BMT",SkySports_BoxOffice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SkySpBoxOff_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Eurosport_1_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Eurosport_1_HD_uk/DoiTac-BMT",Eurosport1_UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Eurosport_1_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Eurosport_2_HD_uk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Eurosport_2_HD_uk/DoiTac-BMT",Eurosport2_UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Eurosport_2_HD_uk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Premier_Sports_1_HD_ie" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Premier_Sports_1_HD_ie/DoiTac-BMT",PremierSports1-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Premier_Sports_1_HD_ie/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Premier_Sports_2_HD_ie" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Premier_Sports_2_HD_ie/DoiTac-BMT",PremierSports2-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Premier_Sports_2_HD_ie/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="HubPremier_1_sg" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/HubPremier_1_sg/DoiTac-BMT",HubPremier1-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/HubPremier_1_sg/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hub_Premier_2_HD_sg" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Hub_Premier_2_HD_sg/DoiTac-BMT",HubPremier2-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Hub_Premier_2_HD_sg/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hub_Premier_3_sg" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Hub_Premier_3_sg/DoiTac-BMT",HubPremier3-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Hub_Premier_3_sg/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="USA_Network_HDTV_East_USAHD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/USA_Network_HDTV_East_USAHD_us/DoiTac-BMT",USA_NetWork-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/USA_Network_HDTV_East_USAHD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="English_Now_Sports_Premier.League_1_hk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/English_Now_Sports_Premier.League_1_hk/DoiTac-BMT",NowSports_PremierLeague1-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/English_Now_Sports_Premier.League_1_hk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="English_Now_Sports_Premier_League_2_hk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/English_Now_Sports_Premier_League_2_hk/DoiTac-BMT",NowSports_PremierLeague2-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/English_Now_Sports_Premier_League_2_hk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="English_Now_Sports_Premier_League_3_hk" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/English_Now_Sports_Premier_League_3_hk/DoiTac-BMT",NowSports_PremierLeague3-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/English_Now_Sports_Premier_League_3_hk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SKY_Sport_1_nz" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SKY_Sport_1_nz/DoiTac-BMT",SkySport1_NZ-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SKY_Sport_1_nz/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SKY_Sport_2_nz" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SKY_Sport_2_nz/DoiTac-BMT",SkySport2_NZ-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SKY_Sport_2_nz/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SKY_Sport_3_nz" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SKY_Sport_3_nz/DoiTac-BMT",SkySport3_NZ-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SKY_Sport_3_nz/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SKY_Sport_4_nz" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SKY_Sport_4_nz/DoiTac-BMT",SkySport4_NZ-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SKY_Sport_4_nz/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SKY_Sport_5_nz" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SKY_Sport_5_nz/DoiTac-BMT",SkySport5_NZ-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SKY_Sport_5_nz/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SKY_Sport_6_nz" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SKY_Sport_6_nz/DoiTac-BMT",SkySport6_NZ-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SKY_Sport_6_nz/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SKY_Sport_7_nz" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SKY_Sport_7_nz/DoiTac-BMT",SkySport7_NZ-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SKY_Sport_7_nz/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="SKY_Sport_8_nz" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/SKY_Sport_8_nz/DoiTac-BMT",SkySport8-PremierLeague_NZ-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/SKY_Sport_8_nz/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FoxLeague_au" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/FoxLeague_au/DoiTac-BMT",Fox502_AU-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/FoxLeague_au/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FoxSports503_au" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/FoxSports503_au/DoiTac-BMT",Fox503_AU-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/FoxSports503_au/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FoxSports504_au" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/FoxSports504_au/DoiTac-BMT",Fox504_AU-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/FoxSports504_au/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FoxSports505_au" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/FoxSports505_au/DoiTac-BMT",Fox505_AU-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/FoxSports505_au/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FoxSports506_au" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/FoxSports506_au/DoiTac-BMT",Fox506_AU-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/FoxSports506_au/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FoxSports507_au" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/FoxSports507_au/DoiTac-BMT",Fox507_AU-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/FoxSports507_au/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro_Premier_League_my" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Astro_Premier_League_my/DoiTac-BMT",Astro_Premier_League-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Astro_Premier_League_my/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro_Premier_League_2_my" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Astro_Premier_League_2_my/DoiTac-BMT",Astro_Premier_League2-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Astro_Premier_League_2_my/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro_Grandstand_my" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Astro_Grandstand_my/DoiTac-BMT",Astro_Grandstand-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Astro_Grandstand_my/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro_Football_my" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Astro_Football_my/DoiTac-BMT",Astro_Football-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Astro_Football_my/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="EPL_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/EPL_za/DoiTac-BMT",Supersport_Premier_League-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/EPL_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FOOTBALL_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/FOOTBALL_za/DoiTac-BMT",Supersport_Football-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/FOOTBALL_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="LA_LIGA_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/LA_LIGA_za/DoiTac-BMT",Supersport_Laliga-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/LA_LIGA_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="PSL_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/PSL_za/DoiTac-BMT",Supersport_PSL-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/PSL_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MOTORSPORT_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/MOTORSPORT_za/DoiTac-BMT",Supersport_Motosport-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/MOTORSPORT_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="ACTION_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/ACTION_za/DoiTac-BMT",Supersport_Action-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/ACTION_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="RUGBY_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/RUGBY_za/DoiTac-BMT",Supersport_Rugby-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/RUGBY_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="GOLF_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/GOLF_za/DoiTac-BMT",Supersport_Golf-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/GOLF_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TENNIS_za" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/TENNIS_za/DoiTac-BMT",Supersport_Tennis-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/TENNIS_za/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Sportsnet_One_HDTV_SN1HD_ca" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Sportsnet_One_HDTV_SN1HD_ca/DoiTac-BMT",Sportsnet ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Sportsnet_One_HDTV_SN1HD_ca/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Sportsnet_360_HDTV_360HD_ca" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Sportsnet_360_HDTV_360HD_ca/DoiTac-BMT",Sportsnet 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Sportsnet_360_HDTV_360HD_ca/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports_Network_HDTV_CBSSD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/CBS.Sports_Network_HDTV_CBSSD_us/DoiTac-BMT",CBS_Sport_Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/CBS.Sports_Network_HDTV_CBSSD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Madison_Square_Garden_HDTV_MSG_HD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/Madison_Square_Garden_HDTV_MSG_HD_us/DoiTac-BMT",USA:MSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/Madison_Square_Garden_HDTV_MSG_HD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="The_NFL_Network_HDTV_NFLHD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/The_NFL_Network_HDTV_NFLHD_us/DoiTac-BMT",USA:NFL_Network-FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/The_NFL_Network_HDTV_NFLHD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="ESPN_HDTV_Dish_ESPNHD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/ESPN_HDTV_Dish_ESPNHD_us/DoiTac-BMT",USA:ESPN-HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/ESPN_HDTV_Dish_ESPNHD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="ESPN2_HDTV_Dish_ESPN2HD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/ESPN2_HDTV_Dish_ESPN2HD_us/DoiTac-BMT",USA:ESPN2-HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/ESPN2_HDTV_Dish_ESPN2HD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="WWE_Network_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/WWE_Network_us/DoiTac-BMT",USA:WWE_Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/WWE_Network_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="NBA_TV_HDTV_NBA_HD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/NBA_TV_HDTV_NBA_HD_us/DoiTac-BMT",USA:NBA_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/NBA_TV_HDTV_NBA_HD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MLB_Network_HDTV_DISH_MLBHD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/MLB_Network_HDTV_DISH_MLBHD_us/DoiTac-BMT",USA:MLB_Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/MLB_Network_HDTV_DISH_MLBHD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="NHL_Network_US_HDTV_NHLHD_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/NHL_Network_US_HDTV_NHLHD_us/DoiTac-BMT",USA:NHL_Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/NHL_Network_US_HDTV_NHLHD_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="UFC_Fight_Pass_Dummy_us" group-title="🔁 BMT.⚽ Sport" tvg-logo="https://xem.hoiquan.click/Logo/UFC_Fight_Pass_Dummy_us/DoiTac-BMT",USA:UFC_24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/UFC_Fight_Pass_Dummy_us/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="nhkg_tokyo" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/nhkg_tokyo/DoiTac-BMT",NHK G
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/nhkg_tokyo/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="nhke_tokyo" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/nhke_tokyo/DoiTac-BMT",NHK E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/nhke_tokyo/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="ntv" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/ntv/DoiTac-BMT",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/ntv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tbs" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/tbs/DoiTac-BMT",TBS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/tbs/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="fuji_tv" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/fuji_tv/DoiTac-BMT",Fuji TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/fuji_tv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tv_asahi" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/tv_asahi/DoiTac-BMT",TV Asahi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/tv_asahi/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tv_tokyo" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/tv_tokyo/DoiTac-BMT",TV Tokyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/tv_tokyo/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tokyo_mx" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/tokyo_mx/DoiTac-BMT",TOKYO MX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/tokyo_mx/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tokyo_mx2" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/tokyo_mx2/DoiTac-BMT",TOKYO MX2 (test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/tokyo_mx2/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="nhkg_osaka" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/nhkg_osaka/DoiTac-BMT",NHK G Osaka (test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/nhkg_osaka/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mbs" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/mbs/DoiTac-BMT",MBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/mbs/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="abc" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/abc/DoiTac-BMT",ABC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/abc/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tv_osaka" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/tv_osaka/DoiTac-BMT",TV Osaka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/tv_osaka/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="kansai_tv" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/kansai_tv/DoiTac-BMT",Kansai TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/kansai_tv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="yormuri_tv" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/yormuri_tv/DoiTac-BMT",ytv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/yormuri_tv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="kbs" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/kbs/DoiTac-BMT",KBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/kbs/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="sun_tv" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/sun_tv/DoiTac-BMT",SUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/sun_tv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="teny" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/teny/DoiTac-BMT",teny (test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/teny/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="nhk_bs" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/nhk_bs/DoiTac-BMT",NHK BS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/nhk_bs/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="animax" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/animax/DoiTac-BMT",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/animax/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="BS11.jp" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/BS11.jp/DoiTac-BMT",BS11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/BS11.jp/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="nhk_bsp4k" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/nhk_bsp4k/DoiTac-BMT",NHK BS4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/nhk_bsp4k/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bs_ntv" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/bs_ntv/DoiTac-BMT",BS NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/bs_ntv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bs_asahi" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/bs_asahi/DoiTac-BMT",BS Asahi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/bs_asahi/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bs_tbs" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/bs_tbs/DoiTac-BMT",BS TBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/bs_tbs/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bs_tvtokyo" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/bs_tvtokyo/DoiTac-BMT",BS TV Tokyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/bs_tvtokyo/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bs_fuji" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/bs_fuji/DoiTac-BMT",BS Fuji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/bs_fuji/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="wowow_prime" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/wowow_prime/DoiTac-BMT",WOWOW Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/wowow_prime/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="wowow_cinema" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/wowow_cinema/DoiTac-BMT",WOWOW Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/wowow_cinema/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="wowow_live" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/wowow_live/DoiTac-BMT",WOWOW Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/wowow_live/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="js1" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/js1/DoiTac-BMT",JSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/js1/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="js2" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/js2/DoiTac-BMT",JSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/js2/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="js3" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/js3/DoiTac-BMT",JSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/js3/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="js4" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/js4/DoiTac-BMT",JSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/js4/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="at-x" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/at-x/DoiTac-BMT",AT-X
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/at-x/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="qvc" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/qvc/DoiTac-BMT",QVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/qvc/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="space_shower" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/space_shower/DoiTac-BMT",Space Shower TV-test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/space_shower/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tbs_ch1" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/tbs_ch1/DoiTac-BMT",TBS Channel 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/tbs_ch1/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tbs_ch2" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.hoiquan.click/Logo/tbs_ch2/DoiTac-BMT",TBS Channel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/BMT/tbs_ch2/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/hbohd/DoiTac-BMT",HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/hbohd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/cinemaxhd/DoiTac-BMT",CINEMAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/cinemaxhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/axnhd/DoiTac-BMT",AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/axnhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/cinemaworldhd/DoiTac-BMT",CINEMAWORLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/cinemaworldhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/abcaustralia/DoiTac-BMT",ABC AUSTRALIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/abcaustralia/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/animalhd/DoiTac-BMT",ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/animalhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="afnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/afnhd/DoiTac-BMT",AFN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/afnhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/discoveryhd/DoiTac-BMT",DISCOVERY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/discoveryhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/discoveryasiahd/DoiTac-BMT",DISCOVERY ASIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/discoveryasiahd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="outdoorhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/outdoorhd/DoiTac-BMT",OUTDOOR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/outdoorhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/cartoonhd/DoiTac-BMT",CARTOON NETWORK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/cartoonhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/dreamworks/DoiTac-BMT",DREAMWORKS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/dreamworks/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bbccbeebies" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/bbccbeebies/DoiTac-BMT",BBC CBEEBIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/bbccbeebies/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/bbclifestyle/DoiTac-BMT",BBC LIFESTYLE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/bbclifestyle/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bbcearth" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/bbcearth/DoiTac-BMT",BBC EARTH HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/bbcearth/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/bbcworldnews/DoiTac-BMT",BBC NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/bbcworldnews/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/cnn/DoiTac-BMT",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/cnn/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="nhkworld" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/nhkworld/DoiTac-BMT",NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/nhkworld/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/kbsworld/DoiTac-BMT",KBS WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/kbsworld/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/fashionhd/DoiTac-BMT",FASHION TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/fashionhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/dw/DoiTac-BMT",DW ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/dw/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/france24eng/DoiTac-BMT",FRANCE 24H ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/france24eng/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tv5monde" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/tv5monde/DoiTac-BMT",TV5MONDE ASIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/tv5monde/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="rt" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/rt/DoiTac-BMT",RT NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/rt/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="rtd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/rtd/DoiTac-BMT",RT DOCUMENTARY ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/rtd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/arirang/DoiTac-BMT",ARIRANG WORLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/arirang/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="davincihd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/davincihd/DoiTac-BMT",DA VINCI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/davincihd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="wbtv" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/wbtv/DoiTac-BMT",WBTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/wbtv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/boxmovie1/DoiTac-BMT",Box Movie 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/boxmovie1/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/hollywoodclassics/DoiTac-BMT",Hollywood Classics
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://xem.hoiquan.Click/BMT/hollywoodclassics/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/inthebox/DoiTac-BMT",In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/inthebox/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/boxhits/DoiTac-BMT",Box Hits
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://xem.hoiquan.Click/BMT/boxhits/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="manhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/manhd/DoiTac-BMT",Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/manhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/musicbox/DoiTac-BMT",Music Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/musicbox/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/drfithd/DoiTac-BMT",Dr.Fit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/drfithd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/happykids/DoiTac-BMT",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://xem.hoiquan.Click/BMT/happykids/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/woman/DoiTac-BMT",Woman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/woman/DoiTacDongGop.m3u8
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTINF:-1 tvg-id="axnhd" group-title="🔁 CuongHeHe.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/axnhd/DoiTac-CuongHeHe",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/CuongHeHe/axnhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🔁 CuongHeHe.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/hbohd/DoiTac-CuongHeHe",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/CuongHeHe/hbohd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🔁 CuongHeHe.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/warnertvhd/DoiTac-CuongHeHe",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/CuongHeHe/warnertvhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🔁 CuongHeHe.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/discoveryhd/DoiTac-CuongHeHe",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.hoiquan.Click/CuongHeHe/discoveryhd/DoiTacDongGop.m3u8
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTINF:-1 tvg-id="TVK.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/TVK.kh/DoiTac-HuuVinh",TVK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/TVK.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/TVK2.kh/DoiTac-HuuVinh",TVK 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/TVK2.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="BayonTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/BayonTV.kh/DoiTac-HuuVinh",Bayon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/BayonTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TV5Cambodia.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/TV5Cambodia.kh/DoiTac-HuuVinh",TV5 Cambodia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/TV5Cambodia.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="FreshNews.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/FreshNews.kh/DoiTac-HuuVinh",Fresh News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/FreshNews.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTV9.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/CTV9.kh/DoiTac-HuuVinh",CTV 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/CTV9.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="ApsaraTV11.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/ApsaraTV11.kh/DoiTac-HuuVinh",Apsara TV11 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/ApsaraTV11.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/RasmeyHangMeasHDTV.kh/DoiTac-HuuVinh",Rasmey Hang Meas HDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/RasmeyHangMeasHDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/HangMeasHDTV.kh/DoiTac-HuuVinh",Hang Meas HDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/HangMeasHDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hang_Meas_Now_UHDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/Hang_Meas_Now_UHDTV.kh/DoiTac-HuuVinh",Hang Meas NOW UHDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Hang_Meas_Now_UHDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hang_Meas_Melody_UHDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/Hang_Meas_Melody_UHDTV.kh/DoiTac-HuuVinh",Hang Meas MELODY UHDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Hang_Meas_Melody_UHDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hang_Meas_PLAY_UHDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/Hang_Meas_PLAY_UHDTV.kh/DoiTac-HuuVinh",Hang Meas PLAY UHDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Hang_Meas_PLAY_UHDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hang_Meas_CINE_UHDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/Hang_Meas_CINE_UHDTV.kh/DoiTac-HuuVinh",Hang Meas CINE UHDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Hang_Meas_CINE_UHDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hang_Meas_MALL_HDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/Hang_Meas_MALL_HDTV.kh/DoiTac-HuuVinh",Hang Meas MALL HDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Hang_Meas_MALL_HDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hang_Meas_GO_UHDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/Hang_Meas_GO_UHDTV.kh/DoiTac-HuuVinh",Hang Meas GO UHDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Hang_Meas_GO_UHDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Hang_Meas_BOXING_UHDTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/Hang_Meas_BOXING_UHDTV.kh/DoiTac-HuuVinh",Hang Meas BOXING UHDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Hang_Meas_BOXING_UHDTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CNC" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/CNC/DoiTac-HuuVinh",CNC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/CNC/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="CTN" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/CTN/DoiTac-HuuVinh",CTN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/CTN/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="PPPDigitalTV" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/PPPDigitalTV/DoiTac-HuuVinh",PP Digital TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/PPPDigitalTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MSJTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/MSJTV.kh/DoiTac-HuuVinh",MSJ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/MSJTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="NetLinkTV" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/NetLinkTV/DoiTac-HuuVinh",Netlink TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/NetLinkTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="ABCTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/ABCTV.kh/DoiTac-HuuVinh",ABC Cambodia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/ABCTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="PNN.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/PNN.kh/DoiTac-HuuVinh",PNN (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/PNN.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/TownTV.kh/DoiTac-HuuVinh",Town TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/TownTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TV3.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/TV3.kh/DoiTac-HuuVinh",TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/TV3.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/WikiTV.kh/DoiTac-HuuVinh",WIKI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/WikiTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MyTV.kh" group-title="🔁 HuuVinh.Truyền hình chích điện siêu phê" tvg-logo="https://xem.hoiquan.click/Logo/MyTV.kh/DoiTac-HuuVinh",My TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/MyTV.kh/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MRTV" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/MRTV/DoiTac-HuuVinh",MRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/MRTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="MRTVNEWS" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/MRTVNEWS/DoiTac-HuuVinh",MRTV News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/MRTVNEWS/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mrtvnrc" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mrtvnrc/DoiTac-HuuVinh",MRTV NRC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mrtvnrc/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mrtvschannel5" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mrtvschannel5/DoiTac-HuuVinh",MRTV Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mrtvschannel5/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="channel_mrtv_farmers" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/channel_mrtv_farmers/DoiTac-HuuVinh",MRTV Farmers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/channel_mrtv_farmers/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mitv" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mitv/DoiTac-HuuVinh",MITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mitv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mntv" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mntv/DoiTac-HuuVinh",MNTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mntv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mrtv4" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mrtv4/DoiTac-HuuVinh",MRTV-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mrtv4/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mrtv4hd" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mrtv4hd/DoiTac-HuuVinh",MRTV-4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mrtv4hd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="5plus" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/5plus/DoiTac-HuuVinh",Channel 5Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/5plus/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="channel7" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/channel7/DoiTac-HuuVinh",Channel 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/channel7/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="channelk" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/channelk/DoiTac-HuuVinh",Channel K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/channelk/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="dvbmyanmar" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/dvbmyanmar/DoiTac-HuuVinh",DVB (MYANMAR CHAMPIONS LEAGUE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/dvbmyanmar/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mwd" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mwd/DoiTac-HuuVinh",MWD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mwd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mwd_variety" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mwd_variety/DoiTac-HuuVinh",MWD Variety
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mwd_variety/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mwd_family" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mwd_family/DoiTac-HuuVinh",MWD Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mwd_family/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mwd_shopping" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mwd_shopping/DoiTac-HuuVinh",MWD Shopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mwd_shopping/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mwd_document" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mwd_document/DoiTac-HuuVinh",MWD Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mwd_document/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mwd_movie" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mwd_movie/DoiTac-HuuVinh",MWD Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mwd_movie/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="mwd_movie" group-title="🔁 HuuVinh.Miến Điện" tvg-logo="https://xem.hoiquan.click/Logo/mwd_movie/DoiTac-HuuVinh",MWD Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/mwd_movie/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="AstroAwani" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/AstroAwani/DoiTac-HuuVinh",Astro Awani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/AstroAwani/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Prima" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Prima/DoiTac-HuuVinh",Astro Prima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.Prima/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Ria" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Ria/DoiTac-HuuVinh",Astro Ria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.Ria/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Citra" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Citra/DoiTac-HuuVinh",Astro Citra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.Citra/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Oasis" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Oasis/DoiTac-HuuVinh",Astro Oasis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.Oasis/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Rania" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Rania/DoiTac-HuuVinh",Astro Rania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.Rania/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Aura" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Aura/DoiTac-HuuVinh",Astro Aura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.Aura/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Vaanavil" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Vaanavil/DoiTac-HuuVinh",Astro Vaanavil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.Vaanavil/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.Vellithirai" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.Vellithirai/DoiTac-HuuVinh",Astro Vellithirai 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.Vellithirai/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Astro.AEC" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Astro.AEC/DoiTac-HuuVinh",Astro AEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Astro.AEC/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Wahlaitoi.Jade" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Wahlaitoi.Jade/DoiTac-HuuVinh",Astro Wah Lai Toi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Wahlaitoi.Jade/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Quanjua" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Quanjua/DoiTac-HuuVinh",Astro QJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Quanjua/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Huahee" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Huahee/DoiTac-HuuVinh",Astro Hua Hee Dai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Huahee/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="iQiyi" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/iQiyi/DoiTac-HuuVinh",Astro iQiyi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/iQiyi/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="channel5hd" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/channel5hd/DoiTac-HuuVinh",Channel 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/channel5hd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="vasanthamhd" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/vasanthamhd/DoiTac-HuuVinh",Vasantham
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/vasanthamhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="cnahd" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/cnahd/DoiTac-HuuVinh",CNA (Domestic Feed)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/cnahd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="channeluhd" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/channeluhd/DoiTac-HuuVinh",Channel U HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/channeluhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="201" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/201/DoiTac-HuuVinh",RTB Sukmaindera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/201/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="202" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/202/DoiTac-HuuVinh",RTB Aneka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/202/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="TVRISMART" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/TVRISMART/DoiTac-HuuVinh",TVRI Smart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/TVRISMART/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="RCTI" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/RCTI/DoiTac-HuuVinh",RCTI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/RCTI/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Kompass" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Kompass/DoiTac-HuuVinh",Kompass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Kompass/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="indosiarhd" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/indosiarhd/DoiTac-HuuVinh",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/indosiarhd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="Antvdeophaikenhcongan" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/Antvdeophaikenhcongan/DoiTac-HuuVinh",ANTV (KHÔNG PHẢI KÊNH CÔNG AN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/Antvdeophaikenhcongan/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="trans7" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/trans7/DoiTac-HuuVinh",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/trans7/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="transtv" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/transtv/DoiTac-HuuVinh",TransTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/transtv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="metrotv" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/metrotv/DoiTac-HuuVinh",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/metrotv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="metrotv" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/metrotv/DoiTac-HuuVinh",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/metrotv/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="sctvkhongphaikenhhai" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/sctvkhongphaikenhhai/DoiTac-HuuVinh",SCTV (KHÔNG PHẢI KÊNH HÀI ĐẮK LẮK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/sctvkhongphaikenhhai/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="tvone" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/tvone/DoiTac-HuuVinh",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/tvone/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="GTV" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/GTV/DoiTac-HuuVinh",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/GTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="RTV" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/RTV/DoiTac-HuuVinh",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/RTV/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="JAKTV" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/JAKTV/DoiTac-HuuVinh",JakTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://xem.hoiquan.Click/HuuVinh/JAKT
