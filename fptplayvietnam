@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://0.vylc.name.vn:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml, https://hoiquan.click/EPG-VN"
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV" ,VTV1
