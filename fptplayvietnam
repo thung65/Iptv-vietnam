@@ -1366,6 +1366,8 @@ https://xem.hoiquan.Click/HuuVinh/RTV/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="JAKTV" group-title="🔁 HuuVinh.ĐÔNG NAM Á" tvg-logo="https://xem.hoiquan.click/Logo/JAKTV/DoiTac-HuuVinh",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://xem.hoiquan.Click/HuuVinh/JAKT
+#EXTINF:-1 tvg-id="ninh-thuan" group-title="Địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/ninh-thuan/KenhCoBan",Khánh Hòa 1
+https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/v1/b521/51/index.m3u8
@@ -1398,6 +1400,8 @@ https://sgchill.io.vn/v1/b521/53/index.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=VMTTV
 https://sgchill.io.vn/v1/b521/255/index.m3u8
+#EXTINF:-1 tvg-id="gia-lai" group-title="Kênh địa phương" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/gia-lai/KenhCoBan",Gia Lai
+https://xem.hoiquan.Click/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", ĐNNRTV3 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.io.vn/v1/b522/dongnai3/index.m3u8
