@@ -176,10 +176,10 @@ https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV1 HD _ TH Lâm Đồng
 https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title=" Địa phương"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV2HD.png",LTV2 HD | TH Lâm Đồng 2
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8 
+#EXTINF:-1 group-title=" Địa phương"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV2HD.png",LTV2 HD | TH Lâm Đồng
+https://xem.hoiquan.Click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8 
 
-#EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png", LTV3 HD - Báo và PTTH Lâm Đồng
+#EXTINF:-1 tvg-id="daknong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png", LTV3 HD	| TH Lâm Đồng
 https://xem.hoiquan.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương
