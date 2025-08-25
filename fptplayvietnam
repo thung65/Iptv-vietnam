@@ -191,10 +191,10 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV2 _ TH Tây Ninh
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2.png",TTV2 _ TH Tây Ninh
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/TTV1_TayNinhTV.png/revision/latest?cb=20250704141446&path-prefix=vi", TTV1 _ TH Tây Ninh
+#EXTINF:-1 tvg-id="longan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg", TTV1 _ TH Tây Ninh
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vungtau" group-title="Địa phương" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu
