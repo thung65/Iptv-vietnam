@@ -352,6 +352,8 @@ https://xem.hoiquan.Click/NguonOnliveTV/kkidshd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv1hd/ToChaThangVThanh
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/op4KV3i.jpg",SCTV2 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv3hd/KenhBoSung",SCTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -360,6 +362,9 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctv3hd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv4hd/ToChaThangVThanh
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/pYk0tuo.jpg",SCTV5 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s1/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/SCTV6_logo_19-01-2023_b%E1%BA%A3n_2.png/revision/latest?cb=20240226015929&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8", SCTV6 HD
 #EXTINF:-1 tvg-id="sctv7hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv7hd/KenhBoSung",SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -368,6 +373,10 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctv7hd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv8hd/ToChaThangVThanh
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/M5IzgUZ.jpg",SCTV9 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s1/index.m3u8
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/ZT9DnVo.jpg",SCTV10 HD
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv11hd/KenhBoSung",SCTV11 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -384,10 +393,24 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctv13hd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv14hd/ToChaThangVThanh
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/CtNAWst.jpg",SCTV15 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s1/index.m3u8
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/1JIXf1x.jpg",SCTV16 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/9crl4vY.jpg",SCTV 17 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s1/index.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv18hd/KenhBoSung",SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv18hd/ToChaThangVThanh
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/lRlVHFo.jpg",SCTV19 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/dvIY7s6.jpg",SCTV20 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/vabKf4R.jpg",SCTV21 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
+#EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/uzenoQZ.jpg",SCTV22 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctvhdpth/KenhBoSung",SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
