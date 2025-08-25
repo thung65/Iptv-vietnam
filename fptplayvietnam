@@ -353,7 +353,7 @@ https://xem.hoiquan.Click/NguonOnliveTV/kkidshd/ToChaThangVThanh
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv1hd/ToChaThangVThanh
 #EXTINF:0 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/op4KV3i.jpg",SCTV2 HD
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8
+https://xemtvtructuyen.com/xem-kenh-sctv2-truc-tuyen/
 #EXTINF:-1 tvg-id="sctv3hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv3hd/KenhBoSung",SCTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
