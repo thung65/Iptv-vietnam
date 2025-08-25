@@ -150,7 +150,7 @@ https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An
-https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
 #EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tĩnh
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
