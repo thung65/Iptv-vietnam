@@ -359,8 +359,6 @@ https://xem.hoiquan.Click/NguonOnliveTV/sctv3hd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/sctv4hd/ToChaThangVThanh
-#EXTINF:-1 group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/OTwJmmm.png",SCTV5
-https://cdn3.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756126520/W0eRUUO2ETVB8JutiOHj0F2j10g/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/vfa8XaspXtEX5UomlKaJgQ/1756227600/RIPQ1Y7/live/hls/sctv5/index.m3u8?token=YTU8fLHEeTrB5H-vRTbvNw&e=1756191469
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
