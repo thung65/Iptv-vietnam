@@ -345,60 +345,47 @@ https://xem.hoiquan.Click/NguonOnliveTV/ksport2hd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/kkidshd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv1hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv1hd/KenhBoSung",SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv1hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="Kênh SCTV" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - Today TV
-https://xem.hoiquan.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv3hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv3hd/KenhBoSung",SCTV3 HD
+https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv3hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv4hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv4hd/KenhBoSung",SCTV4 HD
+https://sgchill.io.vn/v1/b521/201/index.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv4hd/ToChaThangVThanh
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/SCTV6.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv7hd/KenhBoSung",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv7hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv8hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv8hd/KenhBoSung",SCTV8 HD
+https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg", SCTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv8hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv11hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv11hd/KenhBoSung",SCTV11 HD 
+https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv11hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv12hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv12hd/KenhBoSung",SCTV12 HD
+https://liveh12.seenow.vn/hls/SCTV11/03.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv12hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv13hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv13hd/KenhBoSung",SCTV13 HD
+https://liveh12.seenow.vn/hls/SCTV12/03.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/SCTV13.jpg", SCTV13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv13hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv14hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv14hd/KenhBoSung",SCTV14 HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv14hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv18hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv18hd/KenhBoSung",SCTV18 HD
+https://liveh12.seenow.vn/hls/SCTV13/03.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv18hd/ToChaThangVThanh
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
-#EXTINF:-1 tvg-id="sctvhdpth" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctvhdpth/KenhBoSung",SCTV HD Phim Tổng Hợp
+https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctvhdpth/ToChaThangVThanh
-#EXTINF:-1 tvg-id="sctv4k" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv4k/KenhBoSung",SCTV4K 
+https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/sctv4k/ToChaThangVThanh
+https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
+https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 tvg-id="BunBoGioHeo" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/BunBoGioHeo/TichHop-Socolive",Nạp 21h46-12/08/2025
 https://xem.hoiquan.click/BunBo/BunBoGioHeo/GioHeo.m3u8
 #EXTINF:-1 tvg-id="9912060" group-title="SocoliveTV ⚽️™" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/9912060/TichHop-Socolive",AFFWC: Vietnam (w) vs Thailand (w)
