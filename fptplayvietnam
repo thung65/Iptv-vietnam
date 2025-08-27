@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml, http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV" ,VTV1
@@ -343,6 +343,9 @@ https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/9dUXDYr.png", SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn3.tvmienphi.xyz:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756216728/8JZsI2hsSmn5tS0P34Dr8trDcFg/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/PYOMTIglzWpRwIQzZDJEAA/1756314000/RIPQ1Y7/live/hls/sctv9/index.m3u8?token=29HBV3qpcgoNABLPAz2ugA&e=1756282875
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo=" https://i.imgur.com/G8By4lM.png", SCTV10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn1.tvmienphi.xyz:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756196198/-9Rcb8emAd7cM9oMvxkBcG1wHzg/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/U8EvZMdEJpS_04jPYurxLQ/1756314000/RIPQ1Y7/live/hls/sctv10/index.m3u8?token=RHMSFqXgPCBxlTWJcJZzfg&e=1756286101
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo=" https://i.imgur.com/G8By4lM.png", SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV11/03.m3u8
