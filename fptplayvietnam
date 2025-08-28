@@ -341,7 +341,7 @@ https://cdn5.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/FsDtbV5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo=" https://i.imgur.com/5Px8WQl.png", SCTV7 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/qDJ9Cke.png", SCTV8 HD
@@ -350,10 +350,10 @@ https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/9dUXDYr.png", SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn3.tvmienphi.xyz:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756216728/8JZsI2hsSmn5tS0P34Dr8trDcFg/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/PYOMTIglzWpRwIQzZDJEAA/1756314000/RIPQ1Y7/live/hls/sctv9/index.m3u8?token=29HBV3qpcgoNABLPAz2ugA&e=1756282875
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo=" https://i.imgur.com/GHcVQkB.png", SCTV10 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn1.tvmienphi.xyz:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756196198/-9Rcb8emAd7cM9oMvxkBcG1wHzg/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/U8EvZMdEJpS_04jPYurxLQ/1756314000/RIPQ1Y7/live/hls/sctv10/index.m3u8?token=RHMSFqXgPCBxlTWJcJZzfg&e=1756286101
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo=" https://i.imgur.com/G8By4lM.png", SCTV11 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV11/03.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://i.imgur.com/didV8dZ.png", SCTV12 HD
