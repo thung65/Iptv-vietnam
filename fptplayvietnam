@@ -144,7 +144,7 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://imgur.com/HyiwlZV",H2 HD _ TH Hà Nội
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
 https://sgchill.io.vn/v1/b521/34/index.m3u8
 
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png", CRTV HD - Báo Cao Bằng
