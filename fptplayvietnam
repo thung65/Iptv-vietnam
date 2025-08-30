@@ -347,7 +347,7 @@ https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
 https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.imgur.com/OTwJmmm.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV5 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://cdn5.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1756208221/7S0yMuZAQiUf3k6BgVB28ub1ItQ/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/c_EHoug3C8ijWkRMjFH1NQ/1756314000/RIPQ1Y7/live/hls/sctv5/index.m3u8?token=GR2a3gixM1ACfbE_dytMMw&e=1756282758
+https://tinyurl.com/46cskkrh
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/FsDtbV5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
