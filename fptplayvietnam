@@ -179,7 +179,7 @@ https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH Khánh Hòa
 https://xem.hoiquan.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/R4uthe7.png",BHT HD _ TH Hà Tĩnh
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHT HD _ TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
 #EXTINF:0 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk
