@@ -183,7 +183,7 @@ https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",DaNangTV2 HD _ Báo và PTTH TP. Đà Nẵng
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://i.imgur.com/McmKwa8.png",QNgTV _ Báo và PTTH Quảng Ngãi
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV _ Báo và PTTH Quảng Ngãi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV | Báo và PTTH Gia Lai
