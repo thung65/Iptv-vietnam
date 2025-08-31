@@ -147,7 +147,7 @@ https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội
 https://sgchill.io.vn/v1/b521/34/index.m3u8
 
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png", H2 UHD - Đài Hà Nội
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png", H2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://freem3u.xyz/api/live/play.m3u8?vid=9929
 
