@@ -333,21 +333,21 @@ https://sgchill.io.vn/v1/b521/179/index.m3u8
 https://sgchill.io.vn/v1/b521/188/index.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://img.lichphatsong.xyz/logo/on-golf.jpg", On Golf
 https://sgchill.io.vn/v1/b521/169/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="VTVcab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab13-on-homeshopping/KenhCoBan",On Homeshopping
+#EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Home_Shopping.png",On Homeshopping
 https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTVcab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab16hd/KenhBoSung",ON Football
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Football_logo_2022.png",ON Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTVcab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab3hd/KenhBoSung",ON Sports
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090409050986.png",ON Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="vtvcab18hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTVcab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab18hd/KenhBoSung",ON Sports News
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Sports_News_logo_2022.png",ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTVcab" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab6hd/KenhBoSung",ON Sports+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090408582705.png",ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
