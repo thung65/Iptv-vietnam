@@ -161,6 +161,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9929
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://stream.thingnet.vn/live/smil:CRTV.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/YouTV_logo_31-03-2025_(HanoiTV).png",YouTV | Báo và PTTH YouTV
+https://xem.hoiquan.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ Báo và PTTH TP. Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
