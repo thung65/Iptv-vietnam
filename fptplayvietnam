@@ -435,8 +435,6 @@ https://tinyurl.com/z4a79tkh
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xem.hoiquan.Click/HieuHa/77/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/hbohd/DoiTac-BMT",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/hbohd/DoiTacDongGop.m3u8
@@ -625,7 +623,6 @@ https://sgchill.io.vn/v1/b521/94/index.m3u8
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", NTV - Báo và PTTH Nghệ An
 https://xem.hoiquan.Click/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8
-https://xem.hoiquan.Click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png", KTV HD - Báo và PTTH Khánh Hòa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.hoiquan.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
@@ -655,7 +652,6 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png", LSTV HD - Báo và PTTH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
-https://xem.hoiquan.Click/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg", BTV - Báo và PTTH Bắc Ninh 
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://xem.hoiquan.Click/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8
