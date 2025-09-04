@@ -351,23 +351,23 @@ https://xem.hoiquan.Click/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="kcinehd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://xem.hoiquan.click/Logo/kcinehd/KenhBoSung",K+ Cine
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/kcinehd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="kaction" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://xem.hoiquan.click/Logo/kaction/KenhBoSung",K+ Action
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/kaction/ToChaThangVThanh
-#EXTINF:-1 tvg-id="ksport1hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://xem.hoiquan.click/Logo/ksport1hd/KenhBoSung",K+ Sport 1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/ksport1hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="ksport2hd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://xem.hoiquan.click/Logo/ksport2hd/KenhBoSung",K+ Sport 2
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/ksport2hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="kkidshd" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="K+" tvg-logo="https://xem.hoiquan.click/Logo/kkidshd/KenhBoSung",K+ Kids
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://xem.hoiquan.Click/NguonOnliveTV/kkidshd/ToChaThangVThanh
