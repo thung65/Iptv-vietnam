@@ -161,10 +161,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9929
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://stream.thingnet.vn/live/smil:CRTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/YouTV_logo_31-03-2025_(HanoiTV).png",YouTV | Báo và PTTH YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416523807.png",YouTV | Báo và PTTH YouTV
 https://fo-hlc.tv360.vn/bpk-tv/50/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTY5NzkzNzYsInVyaSI6Ii9icGstdHYvNTAvb3V0cHV0L2luZGV4Lm0zdTgifQ.zEm4SE8YaGUR49PqeMIqYbfJdygXBVg5HBldPrMx3AY&minrate=0&maxrate=5000000&uid=275792449
 
-#EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Logo_HiTV_from_2013.png",HITV | Báo và PTTH HITV
+#EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416544781.png",HITV | Báo và PTTH HITV
 https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ Báo và PTTH TP. Hải Phòng
