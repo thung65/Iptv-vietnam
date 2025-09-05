@@ -151,7 +151,7 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ Báo và PTTH Hà Nội
-https://sgchill.io.vn/v1/b521/34/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9929
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png", H2 UHD - Báo và PTTH Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
@@ -586,7 +586,7 @@ https://sgchill.io.vn/v1/b522/dongnai3/index.m3u8
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png", Hà Nội 2 HD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
-https://sgchill.io.vn/v1/b521/34/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9929
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png", Hà Nội 2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
