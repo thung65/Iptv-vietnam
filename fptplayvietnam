@@ -155,14 +155,13 @@ https://sgchill.io.vn/v1/b521/34/index.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png", H2 UHD - Báo và PTTH Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
-https://freem3u.xyz/api/live/play.m3u8?vid=9929
+https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png", CRTV HD - Báo và PTTH Cao Bằng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://stream.thingnet.vn/live/smil:CRTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416523807.png",YouTV | Báo và PTTH YouTV
-https://pop5-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3MDc1NTUwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy80NDcvSExTX0NsZWFuX01ITl8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU5NzYzOTUxNDA5ZWQ0OTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNzMuMTk2Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxNSIsInNvdXJjZXMiOlszMzQsNDg4LDQ5MSw0OTVdfQ==.kiZJPTpYhIfBjDX-qZqEu8MoJWC036wrm5zMA-YZzSHIdammm0fOiE7_pNG3xwnNALhJn6hacTjhcS9nzKWUOw==/live/eds/447/HLS_Clean_MHN_2s/447.m3u8?uid=19821352
 
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416544781.png",HITV | Báo và PTTH HITV
 https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
