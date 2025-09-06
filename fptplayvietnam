@@ -437,34 +437,34 @@ https://tinyurl.com/z4a79tkh
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/hbohd/DoiTac-BMT",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/hbohd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/cinemaxhd/DoiTac-BMT",CINEMAX HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/uB76Ft0.png",CINEMAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/cinemaxhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/axnhd/DoiTac-BMT",AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/axnhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/cinemaworldhd/DoiTac-BMT",CINEMAWORLD HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🔁 BMT.In The Box" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",CINEMAWORLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/cinemaworldhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="abcaustralia" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/abcaustralia/DoiTac-BMT",ABC AUSTRALIA HD
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🔁 BMT.In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ABC AUSTRALIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/abcaustralia/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/animalhd/DoiTac-BMT",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="animalhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/odiBT9V.png",ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/animalhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="afnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/afnhd/DoiTac-BMT",AFN HD
+#EXTINF:-1 tvg-id="afnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/B8zA2gc.png",AFN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/afnhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/discoveryhd/DoiTac-BMT",DISCOVERY HD
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/8GG7Ny9.png",DISCOVERY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/discoveryhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/discoveryasiahd/DoiTac-BMT",DISCOVERY ASIA HD
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/discoveryasiahd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/outdoorhd/DoiTac-BMT",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="outdoorhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/isCqVcE.png",OUTDOOR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/outdoorhd/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/9aw5DAe.png",CARTOON NETWORK HD
@@ -497,7 +497,7 @@ https://xem.hoiquan.Click/BMT/kbsworld/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/6u4tZn6.png",FASHION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/fashionhd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/no9Mv3X.png",DW ENGLISH
+#EXTINF:-1 tvg-id="dw" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/dw/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/no9Mv3X.png",FRANCE 24H ENGLISH
