@@ -250,7 +250,7 @@ https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="tienggiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -486,7 +486,8 @@ https://xem.hoiquan.Click/BMT/bbcearth/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/bbcworldnews/DoiTacDongGop.m3u8
-#EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Kir4aaU.png",GOLF
+#EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Kir4aaU.png",Golf SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id="cnn" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
