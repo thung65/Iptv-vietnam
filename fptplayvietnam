@@ -490,7 +490,7 @@ https://xem.hoiquan.Click/BMT/bbcearth/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/bbcworldnews/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="golfchannel" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Kir4aaU.png",Golf SD
+#EXTINF:-1 tvg-id="golf-channel" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Kir4aaU.png",GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://fl3.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
