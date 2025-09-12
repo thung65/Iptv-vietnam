@@ -469,6 +469,9 @@ https://xem.hoiquan.Click/BMT/discoveryhd/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/discoveryasiahd/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🔁| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/135/index.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/isCqVcE.png",OUTDOOR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/outdoorhd/DoiTacDongGop.m3u8
