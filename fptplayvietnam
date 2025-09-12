@@ -500,6 +500,8 @@ https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id="cnbc" group-title="🔁 BMT.In The Box" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
 http://iptv.nhadai.org/stream/cnbc
+#EXTINF:-1 tvg-id="cna" group-title="🔁 BMT.In The Box" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
+http://iptv.nhadai.org/stream/channel-newsasia
 #EXTINF:-1 tvg-id="cnn" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/cnn/DoiTacDongGop.m3u8
