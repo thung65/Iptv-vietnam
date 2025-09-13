@@ -168,7 +168,7 @@ https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416523807.png",YouTV | Báo và PTTH YouTV
 https://xem.hoiquan.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416544781.png",HITV | Báo và PTTH HITV
+#EXTINF:-1 tvg-id="hanoicab" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416544781.png",HITV | Báo và PTTH HITV
 https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ Báo và PTTH TP. Hải Phòng
@@ -190,10 +190,10 @@ https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:0 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QRTV HD _ Báo và PTTH Quảng Trị
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",DaNangTV1 HD _ Báo và PTTH TP. Đà Nẵng
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",DNRT1 HD _ Báo và PTTH TP. Đà Nẵng
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",DaNangTV2 HD _ Báo và PTTH TP. Đà Nẵng
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",DNRT2 HD _ Báo và PTTH TP. Đà Nẵng
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV _ Báo và PTTH Quảng Ngãi
