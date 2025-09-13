@@ -338,7 +338,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Life.png", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest?cb=20230118075014&path-prefix=vi", On Golf
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091312533979.png", On Golf
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/169/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Home_Shopping.png",On Homeshopping
 https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
