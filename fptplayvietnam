@@ -287,7 +287,7 @@ https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ Báo và PTTH Thanh Hóa
-https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
 #EXTINF:0 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ Báo và PTTH Thừa Thiên Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
@@ -589,15 +589,15 @@ https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png", ĐNNRTV1 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=VMTTV
-https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/53/index.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", ĐNNRTV2 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=VMTTV
-https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/GTV_Gia_Lai.png",GTV - Báo và PTTH Gia Lai
-https://xem.hoiquan.Click/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/255/index.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", ĐNNRTV3 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban2/dongnai3/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban2/dongnai3/index.m3u8
+#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/GTV_Gia_Lai.png",GTV - Báo và PTTH Gia Lai
+https://xem.hoiquan.Click/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png", Hà Nội 1 HD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
