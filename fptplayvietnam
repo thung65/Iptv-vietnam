@@ -295,51 +295,51 @@ https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/180/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/175/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/175/index.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",On Movies - You TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/181/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png", ON E- Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/182/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.m3u8
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png, On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/136/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/136/index.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png", On BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/178/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png", ON Info TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/176/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png", ON Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/176/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/176/index.m3u8
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png", ON Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/184/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png", On Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/185/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/185/index.m3u8
 #EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/186/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/177/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png", ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/187/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8
 #EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Kids_logo.png", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/179/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Life.png", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/188/index.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest?cb=20230118075014&path-prefix=vi", On Golf
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/169/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/169/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab13-on-homeshopping" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Home_Shopping.png",On Homeshopping
 https://xem.hoiquan.Click/CoBan/vtvcab13-on-homeshopping/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Football_logo_2022.png",ON Football
