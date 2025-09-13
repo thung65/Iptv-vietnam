@@ -163,7 +163,7 @@ https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/CRTV.png/revision/latest?cb=20241005043306&path-prefix=vi", CRTV - Báo và PTTH Cao Bằng
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://cloud.sgchill.io.vn/tools/getlink/television/source/coban1/48/index.m3u8
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416523807.png",YouTV | Báo và PTTH YouTV
 https://xem.hoiquan.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
