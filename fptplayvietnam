@@ -498,6 +498,8 @@ https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="golf-channel" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Kir4aaU.png",GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://49.0.64.96:8007/GOLF
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="🔁 BMT.In The Box",HGTV
+https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🔁 BMT.In The Box" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
