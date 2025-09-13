@@ -503,6 +503,12 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 http://iptv.nhadai.org/stream/cnbc
 #EXTINF:-1 tvg-id="cna" group-title="🔁 BMT.In The Box" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 http://iptv.nhadai.org/stream/channel-newsasia
+#EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV-1_logo_2001.png/revision/latest/scale-to-width-down/1538?cb=20220607044228&path-prefix=vi", CCTV1
+http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426912&extension=ts&play_token=7Dy1OBLUCx
+#EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png", CCTV2
+http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426913&extension=ts&play_token=RJ0fZcMDgB
+#EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/CCTV3.png/revision/latest/scale-to-width-down/680?cb=20230514030148&path-prefix=vi", CCTV3
+http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426914&extension=ts&play_token=Ft1hc8SBZD
 #EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV4" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cache1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU3Nzg1NTIzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jY3R2NC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjYTZiY2RlMzFlOTUyYTI1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.LBajDAr89LrtWMrcU_pvWXp-0bg4Wg7ALjJtRwx46gpDcSgXRoae7XGs4z_yGeWymsx8qe8rM7XAEguVNEjjVA==/live/eds/cctv4/browser-HLS8/cctv4.m3u8
