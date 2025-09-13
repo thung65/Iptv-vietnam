@@ -469,9 +469,6 @@ https://xem.hoiquan.Click/BMT/discoveryhd/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/discoveryasiahd/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="🔁 BMT.In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xem.hoiquan.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/isCqVcE.png",OUTDOOR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/outdoorhd/DoiTacDongGop.m3u8
@@ -548,31 +545,34 @@ https://xem.hoiquan.Click/BMT/wbtv/DoiTacDongGop.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/v1/b521/159/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/159/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://sgchill.io.vn/v1/b521/160/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/160/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="🔁 BMT.In The Box" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/InTheBOX_Channel_screenbug.png",In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/v1/b521/235/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/235/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="🔁 BMT.In The Box" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Box_Hits_2023.png",Box Hits
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://sgchill.io.vn/v1/b521/239/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/239/index.m3u8
 #EXTINF:-1 tvg-id="manhd" group-title="🔁 BMT.In The Box" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/MAN.png",Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/v1/b521/237/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/237/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/v1/b521/289/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/289/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/v1/b521/162/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/162/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://sgchill.io.vn/v1/b521/212/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/212/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🔁 BMT.In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/135/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/v1/b521/163/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/163/index.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
