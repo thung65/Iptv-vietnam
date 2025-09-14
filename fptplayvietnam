@@ -552,7 +552,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/235/index.
 #EXTINF:-1 tvg-id="boxhits" group-title="🔁 BMT.In The Box" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Box_Hits_2023.png",Box Hits
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/239/index.m3u8
-#EXTINF:-1 tvg-id="manhd" group-title="🔁 BMT.In The Box" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/MAN.png",Man
+#EXTINF:-1 tvg-id="man" group-title="🔁 BMT.In The Box" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/MAN.png",Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/237/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
