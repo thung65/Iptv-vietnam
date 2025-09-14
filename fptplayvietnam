@@ -436,7 +436,7 @@ https://tinyurl.com/5fvsh2ht
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21 HD
 https://tinyurl.com/yuxwhczf
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22 HD
-http://bentre5.hoangai.vn:12346/192.168.2.41:100/stream?url=https://cdnet-cdn-01.onsports.vn/onplus/SCTV22/manifest.mpd&key=30d13ea42031b9ff8271e5dc37d90e10&token=aismile
+https://cdn1.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1757829112/SFxXK7BhwswpXwS3uJ64MHlTZtQ/e10.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/-fLrdKJ7rx-tEbmc-z6Lcw/1757955600/RIPQ1Y7/live/sctv22/router_v1_windows_10_chrome.mpd?token=wYa1zNO6u1MKrPT0vAdrUA&e=1757850248
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/91XkT2M.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
