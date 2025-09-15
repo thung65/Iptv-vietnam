@@ -165,12 +165,6 @@ https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="you-tv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416523807.png",YouTV | Báo và PTTH YouTV
-https://xem.hoiquan.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
-
-#EXTINF:-1 tvg-id="hi-tv" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025090416544781.png",HITV | Báo và PTTH HITV
-https://xem.hoiquan.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
-
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ Báo và PTTH TP. Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
@@ -709,6 +703,15 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbht/2cc3530c808035de6c91.jpg", BHTTV - Báo Hà Tĩnh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/58/index.m3u8
+#EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png", CRTV - Báo và PTTH Cao Bằng
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="lamdong" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV1.png", LTV1 HD - Báo và PTTH Lâm Đồng
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="lamdong2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV2HD.png", LTV2 HD - Báo và PTTH Lâm Đồng
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/45/index.m3u8
+#EXTINF:-1 tvg-id="lamdong3" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png", LTV3 HD - Báo và PTTH Lâm Đồng
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/50/index.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png", VOV2
