@@ -205,7 +205,7 @@ https://xem.hoiquan.Click/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ Báo và PTTH Khánh Hòa
 https://tv.ktv.org.vn/hls/ktv1.m3u8
 
-#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Báo và PTTH Khánh Hòa
+#EXTINF:0 tvg-id="ninh-thuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Báo và PTTH Khánh Hòa
 https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHT HD _ Báo và PTTH Hà Tĩnh
@@ -680,7 +680,7 @@ https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m
 https://xem.hoiquan.Click/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://hungyentv.vn/templates/frontend/hytv/Assets/img/truyenhinh.jpg", HYTV HD - Báo và PTTH Hưng Yên
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/64/index.m3u8
-#EXTINF:-1 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1.png", KTV1 HD - Báo và PTTH Khánh Hòa
+#EXTINF:-1 tvg-id="ninh-thuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1.png", KTV1 HD - Báo và PTTH Khánh Hòa
 https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png", TTV HD - Báo và PTTH Tuyên Quang
 https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
