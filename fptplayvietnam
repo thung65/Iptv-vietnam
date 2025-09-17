@@ -722,27 +722,23 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/38/index.m
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD - Báo và PTTH Thanh Hóa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/89/index.m3u8
-#EXTINF:-1 tvg-id="vov1" group-title="📻| Radio" tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg", VOV1
+#EXTINF:-1 tvg-id="vov1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest?cb=20241207091446&path-prefix=vi", VOV1
 https://media-audio.vov.vn/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov2" group-title="📻| Radio" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png", VOV2
+#EXTINF:-1 tvg-id="vov2" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VOV2_2020.png/revision/latest?cb=20241207091405&path-prefix=vi", VOV2
 https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov3" group-title="📻| Radio" tvg-logo="https://vov3.vov.vn/sites/default/files/styles/front_medium/public/2021-12/Logo%20VOV3%20800x600%20edit.jpg", VOV3
+#EXTINF:-1 tvg-id="vov3" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VOV3_logo_2022.svg/revision/latest?cb=20220213141104&path-prefix=vi", VOV3
 https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4taybac" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png.webp", VOV4 Tây Bắc
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4dongbac" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789125.png.webp", VOV4 Đông Bắc
 https://stream.vovmedia.vn/vov4db
-#EXTINF:-1 tvg-id="vov4taynguyen" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Nguyên
+#EXTINF:-1 tvg-id="vov4taynguyen" group-title="VIỆT NAM" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png.webp", VOV4 Tây Nguyên
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov4scl" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 MEKONG
+#EXTINF:-1 tvg-id="vov4scl" group-title="VIỆT NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/Logo_VOV4_%C4%90%E1%BB%93ng_B%E1%BA%B1ng_S%C3%B4ng_C%E1%BB%ADu_Long.png/revision/latest?cb=20210925024433&path-prefix=vi", VOV4 Sông Cửu Long
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4hcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 SAIGON
+#EXTINF:-1 tvg-id="vov4hcm" group-title="VIỆT NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/Logo_VOV4_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh.png/revision/latest?cb=20210925024440&path-prefix=vi", VOV4 Hồ Chí Minh 
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8"
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov4scl" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 MEKONG
-http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4hcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 SAIGON
-http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788129.png.webp", VOV5 24/7
