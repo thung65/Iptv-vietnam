@@ -738,11 +738,9 @@ https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4hcm" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717520712.jpg", VOV4 Hồ Chí Minh 
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8"
-#EXTINF:-1 group-title="📻| Radio" radio=true,TÂY NINH RADIO 1
-https://live.la34.com.vn/la34/radio-transmux.m3u8
-#EXTINF:-1 group-title="📻| Radio" radio=true,TÂY NINH RADIO 2
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Radio_TTV_TayNinhTV.png/revision/latest?cb=20250818025600&path-prefix=vi",TÂY NINH RADIO 2
 http://118.69.83.22:1935/radio11/tnradio/playlist.m3u8
-#EXTINF:-1 group-title="#EXTINF:-1 group-title="📻| Radio" radio=true,VĨNH LONG
+#EXTINF:-1 group-title="📻| Radio" radio=true,VĨNH LONG
 https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
