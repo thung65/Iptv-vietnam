@@ -722,11 +722,11 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/38/index.m
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png", TTV HD - Báo và PTTH Thanh Hóa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/89/index.m3u8
-#EXTINF:-1 tvg-id="vov1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest?cb=20241207091446&path-prefix=vi", VOV1
+#EXTINF:-1 tvg-id="vov1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VOV1_2020.png/revision/latest?cb=20231109100518&path-prefix=vi", VOV1
 https://media-audio.vov.vn/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov2" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VOV2_2020.png/revision/latest?cb=20241207091405&path-prefix=vi", VOV2
+#EXTINF:-1 tvg-id="vov2" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717423249.jpg", VOV2
 https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov3" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VOV3_logo_2022.svg/revision/latest?cb=20220213141104&path-prefix=vi", VOV3
+#EXTINF:-1 tvg-id="vov3" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/VOV3_logo_2020.svg/revision/latest?cb=20220815153151&path-prefix=vi", VOV3
 https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4taybac" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png.webp", VOV4 Tây Bắc
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
