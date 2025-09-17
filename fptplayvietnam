@@ -732,12 +732,18 @@ https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4dongbac" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789125.png.webp", VOV4 Đông Bắc
 https://stream.vovmedia.vn/vov4db
-#EXTINF:-1 tvg-id="vov4taynguyen" group-title="VIỆT NAM" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png.webp", VOV4 Tây Nguyên
+#EXTINF:-1 tvg-id="vov4taynguyen" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png.webp", VOV4 Tây Nguyên
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov4scl" group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717513153.jpg", VOV4 Sông Cửu Long
+#EXTINF:-1 tvg-id="vov4scl" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717513153.jpg", VOV4 Sông Cửu Long
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4hcm" group-title="VIỆT NAM" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717520712.jpg", VOV4 Hồ Chí Minh 
+#EXTINF:-1 tvg-id="vov4hcm" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717520712.jpg", VOV4 Hồ Chí Minh 
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8"
+#EXTINF:-1 group-title="📻| Radio" radio=true,TÂY NINH RADIO 1
+https://live.la34.com.vn/la34/radio-transmux.m3u8
+#EXTINF:-1 group-title="📻| Radio" radio=true,TÂY NINH RADIO 2
+http://118.69.83.22:1935/radio11/tnradio/playlist.m3u8
+#EXTINF:-1 group-title="#EXTINF:-1 group-title="📻| Radio" radio=true,VĨNH LONG
+https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788129.png.webp", VOV5 24/7
