@@ -761,6 +761,12 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="voh610" group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Logo_GTV_Gia_Lai_-_FM_97%2C0MHz%2C_FM_99%2C9MHz%2C_FM_102MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818034448&path-prefix=vi",GIA LAI
+http://14.224.130.186:8000/binhdinh
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/Logo_BTV_B%C3%ACnh_D%C6%B0%C6%A1ng_FM_92%2C5MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230927023730&path-prefix=vi",BÌNH DƯƠNG
+https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-binhduong.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Logo_LTV_L%C3%A2m_%C4%90%E1%BB%93ng_FM_97MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818031738&path-prefix=vi",LÂM ĐỒNG
+http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh
 http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
