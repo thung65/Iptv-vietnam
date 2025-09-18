@@ -738,8 +738,6 @@ https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4hcm" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717520712.jpg", VOV4 Hồ Chí Minh 
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8"
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Radio_TTV_TayNinhTV.png/revision/latest?cb=20250818025600&path-prefix=vi",TÂY NINH
-http://118.69.83.22:1935/radio11/tnradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/Logo_THVL_V%C4%A9nh_Long_FM_90%2C2MHz.png/revision/latest/scale-to-width-down/1569?cb=20230701032307&path-prefix=vi",VĨNH LONG
 http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
 #EXTINF:-1 tvg-id="vov5" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
@@ -762,10 +760,10 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Logo_GTV_Gia_Lai_-_FM_97%2C0MHz%2C_FM_99%2C9MHz%2C_FM_102MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818034448&path-prefix=vi",GIA LAI
 http://14.224.130.186:8000/binhdinh
+#EXTINF:-1 group-title="📻| Radio" radio=true,ĐÀI PHÁT THANH PTQ QUANG NGAI (FM102.9MHz) 
+https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/Logo_BTV_B%C3%ACnh_D%C6%B0%C6%A1ng_FM_92%2C5MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230927023730&path-prefix=vi",BÌNH DƯƠNG
-https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-binhduong.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Logo_LTV_L%C3%A2m_%C4%90%E1%BB%93ng_FM_97MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818031738&path-prefix=vi",LÂM ĐỒNG
-http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
+https://btvfm011220.cdn.vnns.io/56f2259e759ee2da1a2a8973a1f2b5571758176208/btv-fm.tms/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh
 http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
@@ -814,7 +812,7 @@ http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg", Thái Nguyên
 http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://w.ladicdn.com/s450x400/5ec394fc3354ff26568e1124/logo-fm1031mhz-20211008162127.png", Tây Ninh
-http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
+https://1288243165.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ3OTQwOTQwLTE4NWUtNDdiYy1hNzFhLTBiNWU1M2MyOTNjYyIsImV4cCI6MTc1ODE5MTc1MywidXJpIjoiL3JhZGlvMTEvdG5yYWRpbyIsImlhdCI6MTc1ODE3MDE1M30.faasvmpUG9yQusWVJQKpQwzXPuY_PHdWHsnLIXGYsgs-/radio11/tnradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
 https://stream.zeno.fm/4q7y9hvkp2zuv
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/", Cải Lương Việt Nam
