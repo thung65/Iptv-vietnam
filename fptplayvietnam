@@ -764,7 +764,7 @@ http://quangtritv.vn/audios/audiovnpt2024.m3u8
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/60/Logo_QNgTV_FM_102%2C9MHz%2C_95%2C1MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818073230&path-prefix=vi",QNgTV
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/Logo_BTV_B%C3%ACnh_D%C6%B0%C6%A1ng_FM_92%2C5MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230927023730&path-prefix=vi" Bình Dương
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/Logo_BTV_B%C3%ACnh_D%C6%B0%C6%A1ng_FM_92%2C5MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230927023730&path-prefix=vi", Bình Dương
 https://btvfm011220.cdn.vnns.io/56f2259e759ee2da1a2a8973a1f2b5571758176208/btv-fm.tms/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh
 http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
