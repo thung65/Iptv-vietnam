@@ -737,7 +737,7 @@ https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4scl" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717513153.jpg", VOV4 Sông Cửu Long
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="vov4hcm" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717520712.jpg", VOV4 Hồ Chí Minh 
-http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8"
+https://stream.vovmedia.vn/vovgt-hcm
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/Logo_THVL_V%C4%A9nh_Long_FM_90%2C2MHz.png/revision/latest/scale-to-width-down/1569?cb=20230701032307&path-prefix=vi",Vĩnh Long
 http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
 #EXTINF:-1 tvg-id="vov5" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
