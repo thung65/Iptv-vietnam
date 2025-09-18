@@ -760,7 +760,7 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Logo_GTV_Gia_Lai_-_FM_97%2C0MHz%2C_FM_99%2C9MHz%2C_FM_102MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818034448&path-prefix=vi",GIA LAI
 http://14.224.130.186:8000/binhdinh
-#EXTINF:-1 group-title="📻| Radio" radio=true,ĐÀI PHÁT THANH PTQ QUANG NGAI (FM102.9MHz) 
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/60/Logo_QNgTV_FM_102%2C9MHz%2C_95%2C1MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818073230&path-prefix=vi",QNGTV
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/Logo_BTV_B%C3%ACnh_D%C6%B0%C6%A1ng_FM_92%2C5MHz_m%E1%BB%9Bi.png/revision/latest?cb=20230927023730&path-prefix=vi",BÌNH DƯƠNG
 https://btvfm011220.cdn.vnns.io/56f2259e759ee2da1a2a8973a1f2b5571758176208/btv-fm.tms/playlist.m3u8
