@@ -764,7 +764,7 @@ http://quangtritv.vn/audios/audiovnpt2024.m3u8
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/60/Logo_QNgTV_FM_102%2C9MHz%2C_95%2C1MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818073230&path-prefix=vi",QNgTV
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CuZ6JFmn5rbE43t3RKgaL9yPVHziv9gzRg&s" radio=true,Hải Phòng 3
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/THP3.png/revision/latest?cb=20250705010529&path-prefix=vi" radio=true,Hải Phòng 3
 https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh
 http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
