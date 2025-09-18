@@ -748,7 +748,7 @@ https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
 https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgiaothonghochiminh" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787823.png.webp", VOV Giao thông Hồ Chí Minh
 https://media-audio.vov.vn/vovGTHCM.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788606.png.webp", VOVGT Mekong
+#EXTINF:-1 tvg-id="vovgtmekong" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788606.png.webp", VOVGT Mekong
 https://media-audio.vov.vn/vovgtMeKong.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="voh999" group-title="📻| Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
