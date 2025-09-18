@@ -728,11 +728,11 @@ https://media-audio.vov.vn/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/VOV3_2020.png/revision/latest?cb=20231109102402&path-prefix=vi", VOV3
 https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov4taybac" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png.webp", VOV4 Tây Bắc
+#EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788849.png.webp", VOV4 Tây Bắc
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4dongbac" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789125.png.webp", VOV4 Đông Bắc
+#EXTINF:-1 tvg-id="vov4db" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789125.png.webp", VOV4 Đông Bắc
 https://stream.vovmedia.vn/vov4db
-#EXTINF:-1 tvg-id="vov4taynguyen" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png.webp", VOV4 Tây Nguyên
+#EXTINF:-1 tvg-id="vov4tn" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671789171.png.webp", VOV4 Tây Nguyên
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4scl" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091717513153.jpg", VOV4 Sông Cửu Long
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
