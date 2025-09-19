@@ -787,7 +787,7 @@ https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/47/Logo_BHT_H%C3%A0_T%C4%A9nh_FM_97%2C8MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250419122356&path-prefix=vi", Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/HY_logo_2021_%28Hungyentv_Go%29.png/revision/latest?cb=20210919033404&path-prefix=vi", Hưng Yên
-http://103.90.220.236/hytvlive/radio.m3u8
+https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/Logo_KTV_Khanh_Hoa_FM_106%2C5MHz_2025.png/revision/latest?cb=20250818032251&path-prefix=vi", Khánh Hòa
 http://210.245.20.94/hls/radio.m3u8
 #EXTINF:-1 tvg-id="fm994" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/ATV_2022.png/revision/latest?cb=20240501092054&path-prefix=vi", An Giang
