@@ -740,7 +740,7 @@ https://stream.vovmedia.vn/vovgt-hcm
 http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
 #EXTINF:-1 tvg-id="vov5" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VOV5_logo_2021.png/revision/latest?cb=20211218080612&path-prefix=vi", VOV5
 https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov247" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/1758257227335.png", VOV5 24/7
+#EXTINF:-1 tvg-id="vov247" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/IMG_20250919_121304.png", VOV5 24/7
 https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgiaothonghanoi" group-title="📻| Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp", VOV Giao thông Hà Nội
 https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
