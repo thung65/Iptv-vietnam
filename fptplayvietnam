@@ -489,13 +489,13 @@ https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="399489" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Kir4aaU.png",GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://49.0.64.96:8007/GOLF
-#EXTINF:-1 tvg-id="tlchd" group-title="🔁 BMT.In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" ,TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/ZStxdQI.png" ,TLC
 https://1.org.vn/tlc
 #EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="🔁 BMT.In The Box" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
+#EXTINF:-1 tvg-id="cnbc" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/H0hAm72.png", CNBC
 http://iptv.nhadai.org/stream/cnbc
-#EXTINF:-1 tvg-id="cna" group-title="🔁 BMT.In The Box" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
+#EXTINF:-1 tvg-id="cna" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/RIQE8kA.png", CNA
 http://iptv.nhadai.org/stream/channel-newsasia
 #EXTINF:-1 tvg-id="cnn" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
