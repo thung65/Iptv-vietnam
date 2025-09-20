@@ -786,9 +786,9 @@ http://quangtritv.vn/audios/audiovnpt2024.m3u8
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 tvg-id="quangngairadio" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/QNgTV.png/revision/latest?cb=20250703035236&path-prefix=vi",QNgTV
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8
-#EXTINF:-1 tvg-id="haiphongtonghopradio" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Logo_FM_93%2C7MHz.png/revision/latest?cb=20250419150232&path-prefix=vi" radio=true,Hải Phòng Tổng Hợp
+#EXTINF:-1 tvg-id="haiphong" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Logo_FM_93%2C7MHz.png/revision/latest?cb=20250419150232&path-prefix=vi" radio=true,Hải Phòng Tổng Hợp
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
-#EXTINF:-1 tvg-id="haiphonggiaothongradio" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Logo_FM_102%2C2MHz.png/revision/latest?cb=20250419025013&path-prefix=vi" radio=true,Hải Phòng Giao Thông
+#EXTINF:-1 tvg-id="haiphongplus" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Logo_FM_102%2C2MHz.png/revision/latest?cb=20250419025013&path-prefix=vi" radio=true,Hải Phòng Giao Thông
 https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Logo_FM_104%2C5MHz.png/revision/latest?cb=20250703053644&path-prefix=vi" radio=true,Hải Phòng 3
 https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
