@@ -824,15 +824,15 @@ https://radio.thainguyentv.vn/hls/livestream.m3u8
 https://cdn.la34.com.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/TTV_TayNinhTV.png/revision/latest/scale-to-width-down/1725?cb=20250703001544&path-prefix=vi" radio=true, Tây Ninh 2
 http://118.69.83.22:1935/radio11/tnradio/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/" radio=true, M Radio Việt Nam
+#EXTINF:-1 tvg-id="mradiovietnam" group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/" radio=true, M Radio Việt Nam
 https://stream.zeno.fm/4q7y9hvkp2zuv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/" radio=true, Cải Lương Việt Nam
+#EXTINF:-1 tvg-id="cailuongvietnam" group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/" radio=true, Cải Lương Việt Nam
 https://stream.zeno.fm/0trm6wrnga0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/cropped-logo-nhac-vang-1-2.png" radio=true, Radio Nhạc Vàng Xưa
+#EXTINF:-1 tvg-id="radionhacvangxua" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/cropped-logo-nhac-vang-1-2.png" radio=true, Radio Nhạc Vàng Xưa
 https://stream.zeno.fm/x2z45v7d84zuv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/" radio=true, Radio DJ
+#EXTINF:-1 tvg-id="radiodj" group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/" radio=true, Radio DJ
 https://stream.zeno.fm/ehbutdfccm0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/" radio=true, Radio Phật Giáo
+#EXTINF:-1 tvg-id="radiophatgiao" group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/" radio=true, Radio Phật Giáo
 https://stream.zeno.fm/8456uy0bcm0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/" radio=true, Radio Nhạc Dân Ca
+#EXTINF:-1 tvg-id="radionhacdanca" group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/" radio=true, Radio Nhạc Dân Ca
 https://stream.zeno.fm/a2dbs2tq1p8uv
