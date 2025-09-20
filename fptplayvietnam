@@ -746,7 +746,7 @@ https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgiaothonghochiminh" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091914593997.png", VOV Giao thông Hồ Chí Minh
 https://media-audio.vov.vn/vovGTHCM.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="VIỆT NAM" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VOV_Giao_th%C3%B4ng_Duy%C3%AAn_h%E1%BA%A3i.png/revision/latest?cb=20250608084021&path-prefix=vi", VOV Giao thông Duyên Hải
+#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="📻| Radio" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VOV_Giao_th%C3%B4ng_Duy%C3%AAn_h%E1%BA%A3i.png/revision/latest?cb=20250608084021&path-prefix=vi", VOV Giao thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/VOV_Mekong_logo_2020.png/revision/latest?cb=20241021110847&path-prefix=vi", VOVGT Mekong
 https://media-audio.vov.vn/vovgtMeKong.sdp_aac/playlist.m3u8
