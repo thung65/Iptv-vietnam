@@ -172,7 +172,7 @@ https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
-#EXTINF:0 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | Báo và PTTH Hải Phòng
+#EXTINF:0 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | Báo và PTTH Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong03_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD _ Báo và PTTH Ninh Bình
