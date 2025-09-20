@@ -525,7 +525,7 @@ http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG WORLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/arirang/DoiTacDongGop.m3u8
-#EXTINF:-1 tvg-id="davincihd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/davincihd/DoiTac-BMT",DA VINCI HD
+#EXTINF:-1 tvg-id="davincihd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/V8AUJP6.png",DA VINCI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/davincihd/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD
