@@ -762,6 +762,8 @@ https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 #EXTINF:-1 tvg-id="hanoi96" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/Logo_FM96_K%C3%AAnh_Th%E1%BB%9Di_S%E1%BB%B1_H%C3%A0_N%E1%BB%99i.png/revision/latest?cb=20230309171509&path-prefix=vi", Hà Nội FM 96
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo"https://static.wikia.nocookie.net/logos/images/4/42/Logo_BTV_B%C3%ACnh_D%C6%B0%C6%A1ng_FM_92%2C5MHz_2022.png/revision/latest?cb=20250831145624&path-prefix=vi" radio=true,Bình Dương
+http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest?cb=20211224040641&path-prefix=vi" radio=true,Lào Cai
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/BTV_Bac_Ninh_logo_2025.png/revision/latest?cb=20250725122625&path-prefix=vi", Bắc Ninh
