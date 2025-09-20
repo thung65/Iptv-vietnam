@@ -525,6 +525,9 @@ http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG WORLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/arirang/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="davincihd" group-title="🔁 BMT.In The Box" tvg-logo="https://xem.hoiquan.click/Logo/davincihd/DoiTac-BMT",DA VINCI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/davincihd/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/wbtv/DoiTacDongGop.m3u8
@@ -759,8 +762,10 @@ http://quangtritv.vn/audios/audiovnpt2024.m3u8
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/QNgTV.png/revision/latest?cb=20250703035236&path-prefix=vi",QNgTV
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Logo_FM_93%2C7MHz.png/revision/latest?cb=20250419150232&path-prefix=vi" radio=true,Hải Phòng
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Logo_FM_93%2C7MHz.png/revision/latest?cb=20250419150232&path-prefix=vi" radio=true,Hải Phòng Tổng Hợp
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/pEFj2vE.png" radio=true,Hải Phòng Giao Thông
+https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Logo_FM_104%2C5MHz.png/revision/latest?cb=20250703053644&path-prefix=vi" radio=true,Hải Phòng 3
 https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/BTV_Bac_Ninh_logo_2025.png/revision/latest?cb=20250725122625&path-prefix=vi", Bắc Ninh
