@@ -798,7 +798,7 @@ https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/Logo_KTV_Khanh_Hoa_FM_106%2C5MHz_2025.png/revision/latest?cb=20250818032251&path-prefix=vi", Khánh Hòa
 http://210.245.20.94/hls/radio.m3u8
-#EXTINF:-1 tvg-id="angiang" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/ATV_2022.png/revision/latest?cb=20240501092054&path-prefix=vi", An Giang
+#EXTINF:-1 tvg-id="angiang2" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/ATV_2022.png/revision/latest?cb=20240501092054&path-prefix=vi", An Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTINF:-1 tvg-id="lamdong" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Logo_LTV_L%C3%A2m_%C4%90%E1%BB%93ng_FM_97MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818031738&path-prefix=vi", Lâm Đồng
