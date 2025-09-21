@@ -258,7 +258,7 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:0 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | Báo và PTTH An Giang
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025083113233114.png", ATV3 | Báo và PTTH An Giang
+#EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025092107183193.png", ATV3 | Báo và PTTH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
