@@ -503,6 +503,8 @@ https://xem.hoiquan.Click/BMT/cnn/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/nhkworld/DoiTacDongGop.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/kbsworld/DoiTacDongGop.m3u8
@@ -759,8 +761,6 @@ https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 #EXTINF:-1 tvg-id="hanoi96" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/Logo_FM96_K%C3%AAnh_Th%E1%BB%9Di_S%E1%BB%B1_H%C3%A0_N%E1%BB%99i.png/revision/latest?cb=20230309171509&path-prefix=vi" radio=true, Hà Nội FM 96
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
-#EXTINF:-1 tvg-id="binhduong" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e6/BTV_Radio_logo_2014.png/revision/latest?cb=20230106141951&path-prefix=vi" radio=true, Bình Dương
-http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest?cb=20211224040641&path-prefix=vi" radio=true,Lào Cai
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/BTV_Bac_Ninh_logo_2025.png/revision/latest?cb=20250725122625&path-prefix=vi" radio=true, Bắc Ninh
