@@ -155,7 +155,7 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ Báo và PTTH Hà Nội
-http://27.67.80.132:18080/283.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RUPKPNu6KRtkMUh+ISScGw3UqeZIPo9VdtxE2OvsCxT5+ZY+5cL8AG7SC+6KLeencAMCBtDf6EpD2yhPGgGQu1A4cjU0XmirEEZ+2hO35uddO+5l4J1NMQBq1L5eCru3dJvnEhHfs0yF0lIKbR3X9/0sTAkPGQVteVU9XX35oZnA==&uid=19680&SessionID=01200df7-5b45-42bb-90d8-745a560d1b8e&StreamID=2b91a9bf-db88-4d0e-a27d-a87e5dc7c82f&MinBw=0&MaxBw=4500000
+https://bit.ly/hanoitv2hd
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png", H2 UHD - Báo và PTTH Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
