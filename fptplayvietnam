@@ -533,6 +533,8 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-id="arirang" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG WORLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/arirang/DoiTacDongGop.m3u8
+#EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/PoorlyTraceHangMeas.svg/revision/latest/scale-to-width-down/250?cb=20240221092523", RAMSEY HANGMEAS MELODY UHD
+http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist
 #EXTINF:-1 tvg-id="davinci" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/V8AUJP6.png",DA VINCI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/davincihd/DoiTacDongGop.m3u8
