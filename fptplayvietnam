@@ -524,6 +524,8 @@ https://xem.hoiquan.Click/BMT/tv5monde/DoiTacDongGop.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-en" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT DOCUMENTARY ENGLISH
 http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="cgtn" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN ENGLISH HD
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG WORLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/arirang/DoiTacDongGop.m3u8
