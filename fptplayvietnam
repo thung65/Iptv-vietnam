@@ -232,7 +232,7 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNRTV2 HD _ Báo và PTTH Đồng Nai
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025092108363534.png", ĐNRTV3 _ Báo và PTTH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025092108363534.png",ĐNNRTV3 _ Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban2/dongnai3/index.m3u8
 
@@ -740,7 +740,7 @@ https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
 https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/Logo_VOV4_T%C3%A2y_B%E1%BA%AFc.png/revision/latest?cb=20210925024455&path-prefix=vi" radio=true, VOV4 Tây Bắc
 https://stream.vovmedia.vn/vov4tb
-#EXTINF:-1 tvg-id="vov4db" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/Logo_VOV4_%C4%90%C3%B4ng_B%E1%BA%AFc.png/revision/latest?cb=20210925024248&path-prefix=vi" radio=true, VOV4 Đông Bắc
+#EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/Logo_VOV4_%C4%90%C3%B4ng_B%E1%BA%AFc.png/revision/latest?cb=20210925024248&path-prefix=vi" radio=true, VOV4 Đông Bắc
 https://stream.vovmedia.vn/vov4db
 #EXTINF:-1 tvg-id="vov4tn" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c6/Logo_VOV4_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20210925012259&path-prefix=vi" radio=true, VOV4 Tây Nguyên
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
