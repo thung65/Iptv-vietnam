@@ -37,43 +37,6 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="vietnam today" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
-#VTV
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV" ,VTV1 (HD 8Mbps)
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV" ,VTV2 (HD 8Mbps)
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV" ,VTV3 (HD 8Mbps)
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV" ,VTV4 (HD 8Mbps)
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV" ,VTV5 (HD 8Mbps)
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png" ,VTV Cần Thơ (HD 8Mbps)
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV" ,VTV7 (HD 8Mbps)
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="VTV" ,VTV8 (HD 8Mbps)
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="VTV" ,VTV9 (HD 8Mbps)
-https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV" ,VTV5 TÂY NAM BỘ (HD 8Mbps)
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png" ,VTV5 TÂY NGUYÊN (HD 8Mbps)
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vietnam today" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY (HD 8Mbps)
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-
 #--*.*--HTV--*.*--#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
