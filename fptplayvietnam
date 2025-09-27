@@ -135,6 +135,15 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW ENGLISH
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG WORLD
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",FRANCE 24H ENGLISH
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5MONDE ASIE
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+
 #-*--Địa phương-*--#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ Báo và PTTH Lào Cai
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
