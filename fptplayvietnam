@@ -200,7 +200,7 @@ https://xem.hoiquan.Click/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
 https://tv.ktv.org.vn/hls/ktv1.m3u8
 
 #EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Báo và PTTH Khánh Hòa
-https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+https://618b88f69e53b.streamlock.net/NTV/ntvtv/playlist.m3u8
 
 #EXTINF:0 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHT HD _ Báo và PTTH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
