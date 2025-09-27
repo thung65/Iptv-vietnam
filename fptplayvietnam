@@ -120,6 +120,12 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Khám phá" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png", CNBC
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RIQE8kA.png", CNA
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+
 #-*--Địa phương-*--#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ Báo và PTTH Lào Cai
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
