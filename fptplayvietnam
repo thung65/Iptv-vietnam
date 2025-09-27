@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz,https://iptvx.one/EPG_NOARCH, https://epg.pw/api/epg.xml?channel_id=399489, https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song, https://epg.pw/xmltv/epg_ID.xml"
 
+#FPTPLAY
+#EXTINF:-1 tvg-id="fptplayhd" tvg-name="fptplay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LOGO_FPT_Play.png/1200px-LOGO_FPT_Play.png" group-title="FPTPLAY" ,FPT PLAY
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b2500000.m3u8
+
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV" ,VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
@@ -428,8 +432,6 @@ https://tinyurl.com/3wf6vyh9
 https://tinyurl.com/5fvsh2ht
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21 HD
 https://tinyurl.com/yuxwhczf
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22 HD
-https://cdn1.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1757829112/SFxXK7BhwswpXwS3uJ64MHlTZtQ/e10.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/-fLrdKJ7rx-tEbmc-z6Lcw/1757955600/RIPQ1Y7/live/sctv22/router_v1_windows_10_chrome.mpd?token=wYa1zNO6u1MKrPT0vAdrUA&e=1757850248
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/91XkT2M.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
