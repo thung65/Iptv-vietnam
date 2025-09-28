@@ -674,9 +674,9 @@ https://xem.hoiquan.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế TV - Báo và PTTH Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tayninh1" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg", TTV1 - Báo và PTTH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg", TTV1 - Báo và PTTH Tây Ninh
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/72/index.m3u8
-#EXTINF:-1 tvg-id="tayninh2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2.png", TTV2 - Báo và PTTH Tây Ninh
+#EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2.png", TTV2 - Báo và PTTH Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/86/index.m3u8
 #EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", THĐT1 HD - Báo và PTTH Đồng Tháp
