@@ -461,13 +461,13 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/BMT/hbohd/DoiTacDongGop.m3u8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/uB76Ft0.png",CINEMAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/cinemaxhd/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/BMT/axnhd/DoiTacDongGop.m3u8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164010&extension=ts&play_token=ugKAP3E1xv
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🔁 BMT.In The Box" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",CINEMAWORLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/cinemaworldhd/DoiTacDongGop.m3u8
