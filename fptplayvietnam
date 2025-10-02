@@ -440,7 +440,7 @@ https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15 HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16 HD
-https://cdn3.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1759308751/Jw2tjQITeEVAPeeDNDr_hHpddfw/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/Z02kxX-ii96QrlvL-Btqug/1759424400/RIPQ1Y7/live/hls/sctv16/index.m3u8?token=4kffrUVuApI0QQrSU8D5Qg&e=1759395789
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17 HD
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/lmMnwF5.png", SCTV18 HD
