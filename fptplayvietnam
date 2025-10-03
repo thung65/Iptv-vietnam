@@ -487,6 +487,9 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ABC_Australia
 #EXTINF:-1 tvg-id="animalhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/odiBT9V.png",ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Animal_Planet
+#EXTINF:-1 tvg-id="hgtv" group-title="🔁 BMT.In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1280px-HGTV_2010.svg.png",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/B8zA2gc.png",AFN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
