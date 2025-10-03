@@ -499,7 +499,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Asia_HD
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/isCqVcE.png",OUTDOOR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="🔁 BMT.In The Box" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg", Cartoonito
+#EXTINF:-1 tvg-id="boomerang" group-title="🔁 BMT.In The Box" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg",CARTOONNITO HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Cartoonito_HD
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/9aw5DAe.png",CARTOON NETWORK HD
@@ -530,7 +530,7 @@ https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id="tlchd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/ZStxdQI.png" ,TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://1.org.vn/tlc
+https://HaNoiIPTV.short.gy/HaNoiIPTV-TLC_HD
 #EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",BLOOMBERG TV ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -547,13 +547,14 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/BMT/fashionhd/DoiTacDongGop.m3u8
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Fashion_TV_HD
 #EXTINF:-1 tvg-id="dw" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
