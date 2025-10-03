@@ -203,7 +203,7 @@ https://live.fptplay53.net/fnxsd1/haiphong03_hls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ Báo và PTTH Nghệ An
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QRTV HD _ Báo và PTTH Quảng Trị
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
