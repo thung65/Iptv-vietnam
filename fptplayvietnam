@@ -502,6 +502,9 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🔁 BMT.In The Box" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg",CARTOONNITO HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Cartoonito_HD
+#EXTINF:0 tvg-id="ntvhd" group-title="🔁 BMT.In The Box" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Ntv_India_official_logo.png",NTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://HaNoiIPTV.short.gy/HaNoiIPTV-NTV_HD
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/9aw5DAe.png",CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Cartoon_Network_HD
