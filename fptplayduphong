@@ -379,7 +379,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Life.png", ON Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://i.imgur.com/a/4hl7TQf.png", ON Golf
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://i.imgur.com/4hl7TQf.png", ON Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/169/index.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Football_logo_2022.png",ON Football
@@ -407,10 +407,10 @@ https://liveh34.seenow.vn/hls/SCTV3/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.imgur.com/OTwJmmm.png", SCTV5 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1759505842/rkqTUi1IPpTrbtcAQRWyIXfiMLQ/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/2uw7I2ZNh-mgD7ern5Logg/1759597200/RIPQ1Y7/live/hls/sctv5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/FsDtbV5.png", SCTV6 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
