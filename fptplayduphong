@@ -522,7 +522,7 @@ EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://static.wik
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 tvg-id="vov4mt" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/Logo_VOV4_Mi%E1%BB%81n_Trung.png/revision/latest?cb=20210925024358&path-prefix=vi" radio=true, VOV4 Miền Trung
 https://stream.vovmedia.vn/vov4mt
-#EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/Logo_VOV4_%C4%90%C3%B4ng_B%E1%BA%AFc.png/revision/latest?cb=20210925024248&path-prefix=vi" radio=true, VOV4 Đông Bắc
+#EXTINF:-1 tvg-id="vov4db" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/Logo_VOV4_%C4%90%C3%B4ng_B%E1%BA%AFc.png/revision/latest?cb=20210925024248&path-prefix=vi" radio=true, VOV4 Đông Bắc
 https://stream.vovmedia.vn/vov4db
 #EXTINF:-1 tvg-id="vov4tn" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c6/Logo_VOV4_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20210925012259&path-prefix=vi" radio=true, VOV4 Tây Nguyên
 https://stream.vovmedia.vn/vov4tn
