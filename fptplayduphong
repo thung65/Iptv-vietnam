@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz, https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song"
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV" ,VTV1
