@@ -250,13 +250,13 @@ https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNRTV1 HD _ Báo và PTTH Đồng Nai
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ Báo và PTTH Đồng Nai
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNRTV2 HD _ Báo và PTTH Đồng Nai
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://i.imgur.com/9k2RCRu.png",ĐNRTV2 HD _ Báo và PTTH Đồng Nai
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025092108363534.png",ĐNNRTV3 _ Báo và PTTH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://i.imgur.com/Nz0OREC.png",ĐNNRTV3 _ Báo và PTTH Đồng Nai
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban2/dongnai3/index.m3u8
 
 #EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png", TTV1 _ Báo và PTTH Tây Ninh
