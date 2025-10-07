@@ -510,8 +510,26 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 tvg-id="vov1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest?cb=20241207091446&path-prefix=vi" radio=true, VOV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov1
 #EXTINF:-1 tvg-id="vov2" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VOV2_2020.png/revision/latest?cb=20241207091405&path-prefix=vi" radio=true, VOV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov2
 #EXTINF:-1 tvg-id="vov3" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091911205166.png" radio=true, VOV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov3
+#EXTINF:-1 tvg-id="hanoi90" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/Logo_FM90_K%C3%AAnh_Tin_T%E1%BB%A9c_v%C3%A0_Giao_Th%C3%B4ng_H%C3%A0_N%E1%BB%99i.png/revision/latest?cb=20230309171444&path-prefix=vi" radio=true, Hà Nội FM 90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
+#EXTINF:-1 tvg-id="hanoi96" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/Logo_FM96_K%C3%AAnh_Th%E1%BB%9Di_S%E1%BB%B1_H%C3%A0_N%E1%BB%99i.png/revision/latest?cb=20230309171509&path-prefix=vi" radio=true, Hà Nội FM 96
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091915470492.png" radio=true, Sơn La
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
+#EXTINF:-1 tvg-id="hue" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/Logo_HUE_Radio_%28Ph%C3%A1t_thanh_Hu%E1%BA%BF%29.png/revision/latest?cb=20250320033736&path-prefix=vi" radio=true, Thừa Thiên Huế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.huetv.com.vn/Radio-online/playlist.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/TN_logo_2025.png/revision/latest?cb=20250707111207&path-prefix=vi" radio=true, Thái Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://radio.thainguyentv.vn/hls/livestream.m3u8
