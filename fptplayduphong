@@ -518,7 +518,7 @@ https://stream.vovmedia.vn/vov2
 #EXTINF:-1 tvg-id="vov3" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091911205166.png" radio=true, VOV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov3
-EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/Logo_VOV4_T%C3%A2y_B%E1%BA%AFc.png/revision/latest?cb=20210925024455&path-prefix=vi" radio=true, VOV4 Tây Bắc
+#EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/Logo_VOV4_T%C3%A2y_B%E1%BA%AFc.png/revision/latest?cb=20210925024455&path-prefix=vi" radio=true, VOV4 Tây Bắc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 tvg-id="vov4mt" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/Logo_VOV4_Mi%E1%BB%81n_Trung.png/revision/latest?cb=20210925024358&path-prefix=vi" radio=true, VOV4 Miền Trung
@@ -635,9 +635,9 @@ http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 tvg-id="quangngai" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/QNgTV.png/revision/latest?cb=20250703035236&path-prefix=vi" radio=true,QNgTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/47/Logo_BHT_H%C3%A0_T%C4%A9nh_FM_97%2C8MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250419122356&path-prefix=vi" radio=true, Hà Tĩnh
+#EXTINF:-1 tvg-id="quangninhradio1" group-title="📻| Radio" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu4.png" radio=true, QNR1 - Quảng Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://wse.hatinhtv.net/radio/voht/playlist.m3u8
-#EXTINF:-1 tvg-id="lamdong1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Logo_LTV_L%C3%A2m_%C4%90%E1%BB%93ng_FM_97MHz_m%E1%BB%9Bi.png/revision/latest?cb=20250818031738&path-prefix=vi" radio=true, Lâm Đồng
+http://103.90.220.236/qtvlive/qnr1.m3u8
+#EXTINF:-1 tvg-id="quangninhradio2" group-title="📻| Radio" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu3.png" radio=true, QNR2 - Quảng Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
+http://103.90.220.236/qtvlive/qnr2.m3u8
