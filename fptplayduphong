@@ -519,28 +519,40 @@ https://stream.vovmedia.vn/vov2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov3
 EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/Logo_VOV4_T%C3%A2y_B%E1%BA%AFc.png/revision/latest?cb=20210925024455&path-prefix=vi" radio=true, VOV4 Tây Bắc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 tvg-id="vov4mt" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/Logo_VOV4_Mi%E1%BB%81n_Trung.png/revision/latest?cb=20210925024358&path-prefix=vi" radio=true, VOV4 Miền Trung
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4mt
 #EXTINF:-1 tvg-id="vov4db" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/Logo_VOV4_%C4%90%C3%B4ng_B%E1%BA%AFc.png/revision/latest?cb=20210925024248&path-prefix=vi" radio=true, VOV4 Đông Bắc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4db
 #EXTINF:-1 tvg-id="vov4tn" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c6/Logo_VOV4_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20210925012259&path-prefix=vi" radio=true, VOV4 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4tn
 #EXTINF:-1 tvg-id="vov4scl" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/Logo_VOV4_%C4%90%E1%BB%93ng_B%E1%BA%B1ng_S%C3%B4ng_C%E1%BB%ADu_Long.png/revision/latest?cb=20210925024433&path-prefix=vi" radio=true, VOV4 Sông Cửu Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4dbscl
 #EXTINF:-1 tvg-id="vov4hcm" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/Logo_VOV4_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh.png/revision/latest?cb=20210925024440&path-prefix=vi" radio=true, VOV4 Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vovgt-hcm
 #EXTINF:-1 tvg-id="vov5" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VOV5_logo_2021.png/revision/latest?cb=20211218080612&path-prefix=vi" radio=true, VOV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov5
 #EXTINF:-1 tvg-id="vov247" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/IMG_20250919_121304.png" radio=true, VOV5 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov247
 #EXTINF:-1 tvg-id="vovgiaothonghanoi" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091914581891.png" radio=true, VOV Giao thông Hà Nội
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vovgt-hn
 #EXTINF:-1 tvg-id="vovgiaothonghochiminh" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091914593997.png" radio=true, VOV Giao thông Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vovgt-hcm
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="📻| Radio" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VOV_Giao_th%C3%B4ng_Duy%C3%AAn_h%E1%BA%A3i.png/revision/latest?cb=20250608084021&path-prefix=vi" radio=true, VOV Giao thông Duyên Hải
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/gtduyenhai
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025092413161416.png" radio=true, VOVGT Mekong
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 tvg-id="hanoi90" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/Logo_FM90_K%C3%AAnh_Tin_T%E1%BB%A9c_v%C3%A0_Giao_Th%C3%B4ng_H%C3%A0_N%E1%BB%99i.png/revision/latest?cb=20230309171444&path-prefix=vi" radio=true, Hà Nội FM 90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
