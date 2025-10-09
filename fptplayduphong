@@ -146,42 +146,52 @@ https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/159/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/160/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/InTheBOX_Channel_screenbug.png",In The Box
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/235/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Box_Hits_2023.png",Box Hits
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/239/index.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/MAN.png",Man
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/237/index.m3u8
 
 #EXTINF:-1 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/289/index.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/162/index.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/212/index.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Planet_Earth_logo.png", Planet Earth
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/135/index.m3u8
 
 #EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/163/index.m3u8
 
@@ -220,6 +230,7 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ Báo và PTTH Hà Nội
+#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8
 
@@ -281,6 +292,7 @@ https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="lamdong3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png", LTV3 HD	| Báo và PTTH Lâm Đồng
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 
