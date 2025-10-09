@@ -633,7 +633,7 @@ https://liveh34.seenow.vn/hls/SCTV7/03.m3u8
 https://liveh34.seenow.vn/hls/SCTV8/03.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/9_2e957ae2.jpg", SCTV9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -660,7 +660,7 @@ https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/16_47eb3436.jpg",SCTV16 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -668,7 +668,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/17_03ba5e54.jpg",SCTV17 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -678,7 +678,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
 https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/19_3b86f52a.jpg",SCTV19 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -687,7 +687,7 @@ https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/20_6c70556d.jpg",SCTV20 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -696,7 +696,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/21_8f6788be.jpg",SCTV21 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -711,7 +711,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-sctv4k_e0a24400.jpg", SCTV4K 
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
