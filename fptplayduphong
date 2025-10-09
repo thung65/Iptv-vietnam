@@ -237,6 +237,7 @@ https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png", H2 UHD - Báo và PTTH Hà Nội
@@ -304,6 +305,7 @@ https://live.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 
@@ -714,6 +716,7 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 tvg-id="vov1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest?cb=20241207091446&path-prefix=vi" radio=true, VOV1
