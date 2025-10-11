@@ -167,7 +167,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-HBO_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&extension=ts&play_token=liPMjLtNEA
 
-#EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118313524.jpg",HBO His HD
+#EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118313524.jpg",HGTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
