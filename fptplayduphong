@@ -453,7 +453,7 @@ http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="Quốc TếQuốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113092509.jpg",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113092509.jpg",CGTN DOCUMENTARY
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
