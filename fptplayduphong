@@ -145,6 +145,69 @@ https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv5monde"  tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014382601.jpg" group-title="Quốc Tế",Tv5mode Asie
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://HaNoiIPTV.short.gy/HaNoiIPTV-HBO_HD
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uB76Ft0.png",CINEMAX HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinemax_HD
+
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://HaNoiIPTV.short.gy/HaNoiIPTV-AXN_HD
+
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế " tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",CINEMAWORLD HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinema_World_HD
+
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H2tGzri.png",ABC AUSTRALIA HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ABC_Australia
+
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/odiBT9V.png",HÀNH TINH ĐỘNG VẬT HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Animal_Planet
+
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101110425988.jpg" ,TLC HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -189,6 +252,24 @@ https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8GG7Ny9.png",DISCOVERY HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Channel
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Asia_HD
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015443941.jpg",Box Movie 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
