@@ -145,7 +145,7 @@ https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv5monde"  tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014382601.jpg" group-title="Quốc Tế",Tv5mode Asie
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112004508.jpg",Hbo HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -156,7 +156,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HBO_HD
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/uB76Ft0.png",CINEMAX HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112012221.jpg",Cinemax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -166,7 +166,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-HBO_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinemax_HD
 
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112020264.jpg",Axn HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -176,7 +176,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinemax_HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://HaNoiIPTV.short.gy/HaNoiIPTV-AXN_HD
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế " tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",CINEMAWORLD HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế " tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg",Cinemaxworld HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -187,7 +187,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-AXN_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinema_World_HD
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H2tGzri.png",ABC AUSTRALIA HD
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112022413.jpg",Abc Australia HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -198,7 +198,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinema_World_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ABC_Australia
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/odiBT9V.png",HÀNH TINH ĐỘNG VẬT HD
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112024369.jpg",Animal Planet HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
