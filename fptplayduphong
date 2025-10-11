@@ -156,7 +156,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HBO_HD
 
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118124769.jpg",HBO His HD
+#EXTINF:-1 tvg-id "hbohitshd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118124769.jpg",HBO Hits HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
