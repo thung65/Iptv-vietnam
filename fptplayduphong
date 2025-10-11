@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz, https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz,https://iptvx.one/EPG_NOARCH, https://epg.pw/api/epg.xml?channel_id=399489, https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song, https://epg.pw/xmltv/epg_ID.xml"
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/42_be27f2ac.jpg" group-title="VTV" ,VTV1
