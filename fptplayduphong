@@ -189,7 +189,7 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163794&exten
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.me:8080/live/drzain/002808/317258.ts
 
-#EXTINF:0 tvg-id="470310" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/N-tv_logo-september2017.svg.png",NTV HD
+#EXTINF:0 tvg-id="470310" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101206424977.jpg",NTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
