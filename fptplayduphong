@@ -231,7 +231,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinemax_HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164010&extension=ts&play_token=ugKAP3E1xv
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế " tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg",Cinemaxworld HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg",Cinemaxworld HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
