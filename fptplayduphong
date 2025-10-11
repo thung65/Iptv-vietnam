@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz,https://iptvx.one/EPG_NOARCH, https://epg.pw/api/epg.xml?channel_id=399489, https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song, https://epg.pw/xmltv/epg_ID.xml, https://epg.pw/api/epg.xml?channel_id=6580"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz,https://iptvx.one/EPG_NOARCH, https://epg.pw/api/epg.xml?channel_id=399489, https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song, https://epg.pw/xmltv/epg_ID.xml, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=9621"
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/42_be27f2ac.jpg" group-title="VTV" ,VTV1
@@ -189,7 +189,7 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163794&exten
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.tv:8080//live/drzain/002808/302251.ts
 
-#EXTINF:-1 tvg-id="trtworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118374201.jpg", TRT World
+#EXTINF:-1 tvg-id="9621" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118374201.jpg", TRT World
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
