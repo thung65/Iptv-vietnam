@@ -535,7 +535,7 @@ https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id="tlchd" group-title="🔁 BMT.In The Box" tvg-logo="https://i.imgur.com/ZStxdQI.png" ,TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://HaNoiIPTV.short.gy/HaNoiIPTV-TLC_HD
+http://live247.freem3u.xyz:21585/tlc/tracks-v1a1/2025/10/11/03/32/43-06000.ts
 #EXTINF:-1 group-title="🔁 BMT.In The Box" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",BLOOMBERG TV ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
