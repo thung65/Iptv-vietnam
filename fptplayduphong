@@ -252,7 +252,7 @@ https://xem.hoiquan.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/8GG7Ny9.png",DISCOVERY HD
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112294108.jpg",DISCOVERY HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -261,7 +261,8 @@ https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Channel
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA HD
+
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112300368.jpg",DISCOVERY ASIA HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -271,7 +272,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Channel
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Asia_HD
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9aw5DAe.png",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112303314.jpg",CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -282,7 +283,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Asia_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Cartoon_Network_HD
 
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/N69Cori.png",DREAMWORKS HD
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112305164.jpg",DREAMWORKS HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -293,7 +294,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Cartoon_Network_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Dreamworks_HD
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png",BBC CBEEBIES HD
+#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112311816.jpg",BBC CBEEBIES HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -304,7 +305,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Dreamworks_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-CBeeBies_HD
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/BBC_Lifestyle_logo.png",BBC LIFESTYLE HD
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112313675.jpg",BBC LIFESTYLE HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -315,7 +316,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-CBeeBies_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-BBC_Lifestyle
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/BBC_Earth.png",BBC EARTH HD
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112323567.jpg",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -326,7 +327,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-BBC_Lifestyle
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-BBC_Earth_HD
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112325686.jpg",BBC NEWS
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
