@@ -109,40 +109,40 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 
 #QUỐC TẾ
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014341458.jpg" group-title="Quốc Tế",Kix
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014341458.jpg" group-title="Quốc Tế",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014345623.jpg" group-title="Quốc Tế",Da Vinci
+#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014345623.jpg" group-title="Quốc Tế",DA VINCI
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014351921.jpg" group-title="Quốc Tế",Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014351921.jpg" group-title="Quốc Tế",OUTDOOR CHANNEL
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014353518.jpg" group-title="Quốc Tế",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014353518.jpg" group-title="Quốc Tế",ASIAN FOOD NETWORK
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" tvg-name="CBNC" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014354910.jpg" group-title="Quốc Tế",CBNC
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="cna"  tvg-name="Channel News Asia" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014465840.jpg" group-title="Quốc Tế",Channel News Asia
+#EXTINF:-1 tvg-id="cna"  tvg-name="Channel News Asia" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014465840.jpg" group-title="Quốc Tế",CHANNEL NEWS ASIA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014360837.jpg" group-title="Quốc Tế",Kbs World
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014360837.jpg" group-title="Quốc Tế",KBS WORLD
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014364846.jpg" group-title="Quốc Tế",Nhk Word Japan
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014364846.jpg" group-title="Quốc Tế",NHK WORD JAPAN
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014371224.jpg" group-title="Quốc Tế",Dw English
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014371224.jpg" group-title="Quốc Tế",DW ENGLISH
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="arirang"  tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014375038.jpg" group-title="Quốc Tế",Arirang World
+#EXTINF:-1 tvg-id="arirang"  tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014375038.jpg" group-title="Quốc Tế",ARIRANG WORLD
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014380945.jpg" group-title="Quốc Tế",France 24 English
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014380945.jpg" group-title="Quốc Tế",FRANCE 24 ENGLISH
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tv5monde"  tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014382601.jpg" group-title="Quốc Tế",Tv5mode Asie
+#EXTINF:-1 tvg-id="tv5monde"  tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014382601.jpg" group-title="Quốc Tế",TV5MODE ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112004508.jpg",HBO HD
