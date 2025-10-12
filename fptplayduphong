@@ -156,7 +156,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HBO_HD
 
-#EXTINF:-1 tvg-id "hbohits" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118124769.jpg",HBO Hits HD
+#EXTINF:-1 tvg-id "hbohits" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118124769.jpg",HBO HITS HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -167,7 +167,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-HBO_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&extension=ts&play_token=liPMjLtNEA
 
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118130012.jpg",HBO Family
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118130012.jpg",HBO FAMILY HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -178,7 +178,7 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&exten
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163794&extension=ts&play_token=Y69qN5p7zN
 
-#EXTINF:-1 tvg-id "412112" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118233754.jpg",HBO SIGNATURE
+#EXTINF:-1 tvg-id "412112" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118233754.jpg",HBO SIGNATURE HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -189,7 +189,7 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163794&exten
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.tv:8080//live/drzain/002808/302251.ts
 
-#EXTINF:-1 tvg-id="9621" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118374201.jpg", TRT World
+#EXTINF:-1 tvg-id="9621" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118374201.jpg", TRT WORLD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -210,7 +210,7 @@ http://filex.me:8080/live/drzain/002808/317258.ts
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-NTV_HD
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112012221.jpg",Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112012221.jpg",CINEMAX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -220,7 +220,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-NTV_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinemax_HD
 
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112020264.jpg",Axn HD
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112020264.jpg",AXN HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -230,7 +230,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinemax_HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164010&extension=ts&play_token=ugKAP3E1xv
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg",Cinemaxworld HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg",CINEMAXWORLD HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -241,7 +241,7 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164010&exten
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinema_World_HD
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112022413.jpg",Abc Australia HD
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112022413.jpg",ABC AUSTRALIA HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -252,7 +252,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinema_World_HD
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ABC_Australia
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112024369.jpg",Animal Planet HD
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112024369.jpg",ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -294,7 +294,7 @@ http://live247.freem3u.xyz:21585/cnn/index.m3u8?_xtfc=a660597001145554fd42644a44
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://49.0.64.96:8007/GOLF
 
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101117395365.jpg",Cartoonnito
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101117395365.jpg",CARTOONNITO
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
