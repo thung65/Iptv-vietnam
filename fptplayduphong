@@ -452,7 +452,7 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
-#EXTINF:-1 tvg-id="CGTNFrance.cn" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101208362488.jpg" group-title="Quốc Tế",CGTN Français 
+#EXTINF:-1 tvg-id="171855" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101209031081.jpg", Al Jazeera English
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -461,7 +461,7 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="bloomberg" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101115091920.jpg",BLOOMBERG TV ASIA
 #EXTVLCOPT:http-user-agent=VThanhTivi
