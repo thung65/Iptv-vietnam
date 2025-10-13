@@ -108,6 +108,26 @@ https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB8sx0Qm66q5LBoiax4Uhlt4/ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB6ZIFGrnIzFXzNnyk27itwQ/ts
+#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB1su1RRVF_dt-XFB7QE-yG4/ts
+#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://aismile.dpdns.org/play/PlJVLeh3OFlevh__G-rmB8yV69CzO-NYhtM1euNYgrY/ts
 #EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="append" , ON Vie Giải trí (MyTV)
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png" catchup="append" catchup-days="2" catchup-source="/catchup/198/${start}/${end}",ON Phim Việt (MyTV)
