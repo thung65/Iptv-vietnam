@@ -728,10 +728,10 @@ https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018482453.jpg",BTV9 B Channel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018514847.jpg",ĐNRTV1 HD _ Báo và PTTH Đồng Nai
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018514847.jpg",ĐNNRTV1 HD _ Báo và PTTH Đồng Nai
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018521302.jpg",ĐNRTV2 HD _ Báo và PTTH Đồng Nai
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018521302.jpg",ĐNNRTV2 HD _ Báo và PTTH Đồng Nai
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018522428.jpg",ĐNNRTV3 _ Báo và PTTH Đồng Nai
@@ -744,7 +744,7 @@ https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://livecdn-vthcm-gcore.vieon.vn/cb4e22e81acda6b59c05182077e74857/1760344996000/livetv/enc/43ec53af7a809687be1a97622aec2eff/playlist.m3u8
+https://sgchill.io.vn/s97/vieon.html?id=dongnai3
 
 #EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018580696.jpg", TTV1 _ Báo và PTTH Tây Ninh
 #EXTVLCOPT:http-user-agent=VThanhTivi
