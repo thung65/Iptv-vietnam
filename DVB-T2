@@ -216,7 +216,7 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai1" group-title=" Địa phương" tvg-logo="https://i.imgur.com/CDpoPbW.png,DTV - DONG NAI 1 HD 
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8 
 
-#EXTINF:0 tvg-id="dongnai2" group-title=" Địa phương" tvg-logo="https://i.imgur.com/9k2RCru.png",DTV - DONG NAI 2 HD
+#EXTINF:0 tvg-id="dongnai2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",DTV - DONG NAI 2 HD
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8 
 
 #EXTINF:-1 tvg-id="dongnai3" group-title=" Địa phương" tvg-logo="https://i.imgur.com/Nz0OREC.png",DTV - DONG NAI 3
