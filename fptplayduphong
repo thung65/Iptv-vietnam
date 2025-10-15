@@ -218,7 +218,7 @@ http://dinhdong.ddns.net:13579/udp/225.1.2.86:30120
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://HaNoiIPTV.short.gy/HaNoiIPTV-AXN_HD
+http://dinhdong.ddns.net:13579/udp/225.1.2.225:30120
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg",CINEMAXWORLD HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -293,7 +293,7 @@ http://49.0.64.96:8007/GOLF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Cartoonito_HD 
+http://dinhdong.ddns.net:13579/udp/225.1.1.138:30120 
 
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015371322.jpg",HISTORY
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -314,7 +314,7 @@ https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Channel
+http://dinhdong.ddns.net:13579/udp/225.1.1.238:30120
 
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112300368.jpg",DISCOVERY ASIA HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -324,7 +324,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Asia_HD
+http://dinhdong.ddns.net:13579/udp/225.1.2.223:30120
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112303314.jpg",CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -335,7 +335,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Discovery_Asia_HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Cartoon_Network_HD
+http://dinhdong.ddns.net:13579/udp/225.1.2.231:30120
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112305164.jpg",DREAMWORKS HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -346,7 +346,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Cartoon_Network_HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Dreamworks_HD
+http://dinhdong.ddns.net:13579/udp/225.1.1.136:30120
 
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112311816.jpg",BBC CBEEBIES HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
