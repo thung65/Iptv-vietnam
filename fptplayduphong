@@ -208,7 +208,7 @@ http://filex.me:8080/live/drzain/002808/317258.ts
 #EXTVLCOPT:http-user-aent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinemax_HD
+http://dinhdong.ddns.net:13579/udp/225.1.2.86:30120
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112020264.jpg",AXN HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -229,7 +229,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-AXN_HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinema_World_HD
+http://dinhdong.ddns.net:13579/udp/225.1.1.142:30120
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112022413.jpg",ABC AUSTRALIA HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -357,7 +357,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Dreamworks_HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-CBeeBies_HD
+http://dinhdong.ddns.net:13579/udp/225.1.1.134:30120
 
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112313675.jpg",BBC LIFESTYLE HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -390,7 +390,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-BBC_Earth_HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-BBC_News
+http://dinhdong.ddns.net:13579/udp/225.1.2.74:30120
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113084887.jpg",WBTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -400,7 +400,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-BBC_News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Warner_TV_HD
+http://dinhdong.ddns.net:13579/udp/225.1.1.139:30120
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="skyspnews" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113094917.jpg",SKY SPORTS NEWS
 #EXTVLCOPT:http-user-agent=VThanhTivi
