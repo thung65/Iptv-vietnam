@@ -566,7 +566,15 @@ https://xem.hoiquan.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016054778.jpg",DR.FIT
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57 
 https://xem.hoiquan.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016060902.jpg",HAPPY KIDS
@@ -581,7 +589,7 @@ https://xem.hoiquan.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57 
 https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016063129.jpg", PLANET EARTH
+#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016063129.jpg",PLANET EARTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -593,8 +601,16 @@ https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57 
 https://xem.hoiquan.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://raw.githubuserc#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101712570023.jpg,WOMAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57 
 https://xem.hoiquan.Click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #-*--Địa phương-*--#
