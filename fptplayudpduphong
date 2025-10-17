@@ -442,7 +442,7 @@ http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113092509.jpg",TÀI LIỆU CGTN
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113092509.jpg",CGTN DOCUMENTARY
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -629,7 +629,8 @@ https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="bacninh" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017564247.jpg",BTV | Báo và PTTH Bắc Ninh
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tuyenquang" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017565962.jpg",TTV HD _ Báo và PTTH T#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 tvg-id="tuyenquang" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017565962.jpg",TTV HD _ Báo và PTTH Tuyên Quang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, như Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=cv
@@ -637,7 +638,7 @@ https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57 uyên Quang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57 
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="thainguyen" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017572213.jpg",TN HD _ Báo và PTTH Thái Nguyên
