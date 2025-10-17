@@ -1269,5 +1269,5 @@ https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="vungtauradio" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ed/Logo_BRT_B%C3%A0_R%E1%BB%8Ba_-_V%C5%A9ng_T%C3%A0u_FM_92MHz_10-2025.png/revision/latest?cb=20251004095751&path-prefix=vi" radio=true,Vũng Tàu
 https://1288926866.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZlMWVlYTQzLWFlM2QtNDU0YS1iZGI2LTViN2U0YzAzMDcxNSIsImV4cCI6MTc2MDcxMDg3OCwidXJpIjoiL3JhZGlvYnJ0IiwiaWF0IjoxNzYwNjg5Mjc4fQ.9p3kwGlNAtwfaPTo8PS2miiD6hyu5njZEwGywOruel8-/radiobrt/playlist.m3u8
-#EXTINF:-1 tvg-id="binhduongradio" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Logo_BTV_Bình_Dương_FM_92,5MHz_mới_09-2025.png" radio=true,Bình Dương
+#EXTINF:-1 tvg-id="binhduongradio" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Logo_BTV_Bình_Dương_FM_92,5MHz_mới_09-2025.png" radio=true, Bình Dương
 http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
