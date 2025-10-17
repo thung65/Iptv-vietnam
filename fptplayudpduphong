@@ -1235,8 +1235,6 @@ http://tv.ctvcamau.vn/live/radio/radio.m3u8
 http://sohoa.truyenthanhthongminh.vn/daitinhvinhlong
 #EXTINF:-1 tvg-id="canthoradio2" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/B%C3%A1o_C%E1%BA%A7n_Th%C6%A1_2025.png/revision/latest?cb=20250910095203&path-prefix=vi" radio=true, Cần Thơ
 https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/DNRT_Radio.png/revision/latest?cb=20250707145943&path-prefix=vi" radio=true, Đà Nẵng
-https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
 #EXTINF:-1 tvg-id="daklakradio" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/Logo_DRT_FM_92%2C4MHz_%26_FM_94%2C7MHz.png/revision/latest/scale-to-width-down/1082?cb=20220613173357&path-prefix=vi" radio=true, Đắk Lắk
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnairadio" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025092011505572.png" radio=true, Đồng Nai
