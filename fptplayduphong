@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz,https://iptvx.one/EPG_NOARCH, https://epg.pw/api/epg.xml?channel_id=399489, https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song, https://epg.pw/xmltv/epg_ID.xml, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=9621"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz, https://epg.pw/api/epg.xml?channel_id=399489, https://epg.pw/xmltv/epg_ID.xml, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=9621, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=7374"
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/42_be27f2ac.jpg" group-title="VTV" ,VTV1
@@ -422,7 +422,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="rtd-en" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113102506.jpg",RT DOCUMENTARY ENGLISH
+#EXTINF:-1 tvg-id="7374" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113102506.jpg",RT DOCUMENTARY ENGLISH
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
