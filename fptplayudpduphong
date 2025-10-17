@@ -1165,13 +1165,13 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
-#EXTINF:-1 tvg-id="vov1" group-title="📻| Đài phát thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest?cb=20241207091446&path-prefix=vi" radio=true, VOV1
+#EXTINF:-1 tvg-id="vov1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest?cb=20241207091446&path-prefix=vi" radio=true, VOV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov1
-#EXTINF:-1 tvg-id="vov2" group-title="📻| Đài phát thanh" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VOV2_2020.png/revision/latest?cb=20241207091405&path-prefix=vi" radio=true, VOV2
+#EXTINF:-1 tvg-id="vov2" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VOV2_2020.png/revision/latest?cb=20241207091405&path-prefix=vi" radio=true, VOV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov2
-#EXTINF:-1 tvg-id="vov3" group-title="📻| Đài phát thanh" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091911205166.png" radio=true, VOV3
+#EXTINF:-1 tvg-id="vov3" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091911205166.png" radio=true, VOV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov3
 #EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/Logo_VOV4_T%C3%A2y_B%E1%BA%AFc.png/revision/latest?cb=20210925024455&path-prefix=vi" radio=true, VOV4 Tây Bắc
@@ -1203,11 +1203,11 @@ https://stream.vovmedia.vn/vovgiaothonghochiminh
 https://stream.vovmedia.vn/vovgtduyenhai
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025092413161416.png" radio=true, VOVGT Mekong
 https://stream.vovmedia.vn/vovgtmekong
-#EXTINF:-1 tvg-id="voh999" group-title="📻| Đài phát thanh" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm999-512x512-104012.png" radio=true, VOH FM 99.9Mhz
+#EXTINF:-1 tvg-id="voh999" group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm999-512x512-104012.png" radio=true, VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="voh956" group-title="📻| Đài phát thanh" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm956-512x512-110204.png" radio=true, VOH FM 95.6Mhz
+#EXTINF:-1 tvg-id="voh956" group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm956-512x512-110204.png" radio=true, VOH FM 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="voh877" group-title="📻| Đài phát thanh" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm877-512x512-110237.png" radio=true, VOH FM 87.7Mhz
+#EXTINF:-1 tvg-id="voh877" group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm877-512x512-110237.png" radio=true, VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="voh610" group-title="📻| Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png" radio=true, VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
