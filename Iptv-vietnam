@@ -115,7 +115,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014345623.jpg" group-title="Quốc Tế",DA VINCI
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="outdoorhd" tvg-name="Kênh Ngoài Trời" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014351921.jpg" group-title="Quốc Tế",KÊNH NGOÀI TRỜI
+#EXTINF:-1 tvg-id="outdoorhd" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014351921.jpg" group-title="Quốc Tế",OUTDOOR CHANNEL
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014353518.jpg" group-title="Quốc Tế",ASIAN FOOD NETWORK
