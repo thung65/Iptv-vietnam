@@ -1215,9 +1215,9 @@ https://stream.vovmedia.vn/vov5
 #EXTINF:-1 tvg-id="vov247" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/IMG_20250919_121304.png" radio=true, VOV5 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov247
-#EXTINF:-1 tvg-id="vovgiaothonghanoi" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091914581891.png" radio=true, VOV Giao thông Hà Nội
+#EXTINF:-1 tvg-id="vovgthn" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091914581891.png" radio=true, VOV Giao thông Hà Nội
 https://stream.vovmedia.vn/vovgiaothonghanoi
-#EXTINF:-1 tvg-id="vovgiaothonghochiminh" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091914593997.png" radio=true, VOV Giao thông Hồ Chí Minh
+#EXTINF:-1 tvg-id="vovgthcm" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025091914593997.png" radio=true, VOV Giao thông Hồ Chí Minh
 https://stream.vovmedia.vn/vovgiaothonghochiminh
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="📻| Radio" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VOV_Giao_th%C3%B4ng_Duy%C3%AAn_h%E1%BA%A3i.png/revision/latest?cb=20250608084021&path-prefix=vi" radio=true, VOV Giao thông Duyên Hải
 https://stream.vovmedia.vn/vovgtduyenhai
