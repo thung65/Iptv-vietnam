@@ -1265,10 +1265,10 @@ https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 #EXTINF:-1 tvg-id="khanhhoaradio" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/Logo_KTV_Khanh_Hoa_FM_106%2C5MHz_2025.png/revision/latest?cb=20250818032251&path-prefix=vi" radio=true, Khánh Hòa
 http://210.245.20.94/hls/radio.m3u8
-#EXTINF:-1 tvg-id="angiangradio1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/ATV_2022.png/revision/latest?cb=20240501092054&path-prefix=vi" radio=true, An Giang
+#EXTINF:-1 tvg-id="angiangradio1" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/ATV_2022.png/revision/latest?cb=20240501092054&path-prefix=vi" radio=true, An Giang Radio 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-id="angiangradio2" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/ATV_2022.png/revision/latest?cb=20240501092054&path-prefix=vi" radio=true, An Giang
+#EXTINF:-1 tvg-id="angiangradio2" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/ATV_2022.png/revision/latest?cb=20240501092054&path-prefix=vi" radio=true, An Giang Radio 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
 #EXTINF:-1 tvg-id="langsonradio" group-title="📻| Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/Logo_Ph%C3%A1t_thanh_L%E1%BA%A1ng_S%C6%A1n_2025.png/revision/latest?cb=20250419094515&path-prefix=vi" radio=true, Lạng Sơn
