@@ -1649,7 +1649,7 @@ https://stream.vovmedia.vn/vov4mt
 #EXTINF:-1 tvg-id="vov4tn" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101317223728.jpg" radio=true, VOV4 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4tn
-#EXTINF:-1 tvg-id="vov4scl" group-title="📻| Radio" tvg-logo="https://statihttps://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101317224673.jpg" radio=true, VOV4 SÔNG CỬU LONG
+#EXTINF:-1 tvg-id="vov4scl" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101317224673.jpg" radio=true, VOV4 SÔNG CỬU LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4dbscl
 #EXTINF:-1 tvg-id="vov4hcm" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101317225767.jpg" radio=true, VOV4 HỒ CHÍ MINH
