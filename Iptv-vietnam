@@ -442,7 +442,7 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
-#EXTINF:-1 tvg-id="CGTNFrance.cn" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025140657.jpg" group-title="QUỐC TẾ",CGTN Français 
+#EXTINF:-1 tvg-id="CGTNFrance.cn" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025140657.jpg" group-title="Quốc Tế",CGTN FRANÇAIS
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -452,7 +452,7 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025140728.jpg" group-title="QUỐC TẾ",CGTN العربية 
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025140728.jpg" group-title="Quốc Tế",CGTN العربية
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
