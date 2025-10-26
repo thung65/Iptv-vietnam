@@ -1053,6 +1053,7 @@ http://filex.me:8080/live/drzain/002808/304303.ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157967.ts
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt2" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102610403366.jpg",TNT SPORTS 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -1062,6 +1063,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157967.ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt3" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102610404778.jpg",TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -1071,6 +1073,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157969.ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157972.ts
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt4" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102610411699.jpg",TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -1080,7 +1083,8 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157972.ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.ts
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102610420684.jpg",TNT SPORTS 5
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt6" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102613340620.jpg",TNT SPORTS 6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -1088,7 +1092,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157978.ts
 
 #-*--Địa phương-*--#
 #EXTINF:0 tvg-id="laocai" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017394914.jpg",THLC _ BÁO VÀ PTTH LÀO CAI
