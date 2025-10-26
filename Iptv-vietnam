@@ -1112,7 +1112,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157978.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157978.ts
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157979.ts
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt8" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102614370559.jpg",TNT SPORTS 8
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -1122,7 +1122,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157978.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157978.ts
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157980.ts
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt9" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102614371950.jpg",TNT SPORTS 9
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -1132,7 +1132,17 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157978.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157978.ts
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157981.ts
+
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="premiersports1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102614371950.jpg",PREMIER SPORTS 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157982.ts
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102613425574.jpg", POLSAT SPORT 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
