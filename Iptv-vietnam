@@ -1203,6 +1203,17 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233717&extens
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145807.ts
 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102712210105.jpg", SPORTS DIGITAL
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145467.ts
+
+
 #-*--Địa phương-*--#
 #EXTINF:0 tvg-id="laocai" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017394914.jpg",THLC _ BÁO VÀ PTTH LÀO CAI
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
@@ -2330,3 +2341,5 @@ http://103.90.220.236/qtvlive/qnr2.m3u8
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
 #EXTINF:-1 tvg-id="thainguyenradio" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017572213.jpg" radio=true, THÁI NGUYÊN
 https://radio.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="laichau" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017425098.jpg" radio=true, LAI CHÂU
+https://cloudstreamhntv.tek4tv.vn/events/laichau_radio/playlist.m3u8
