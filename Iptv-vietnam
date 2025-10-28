@@ -1521,7 +1521,7 @@ https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-http://113.160.33.158:8889/Vieon.php?id=dongnai3
+https://cloud.sgchill.io.vn/tv/getlink/source/coban2/index.m3u8?id=dongnai3&token=2025
 
 #EXTINF:-1 tvg-id="tayninh1" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018580696.jpg", TTV1 _ BÁO VÀ PTTH TÂY NINH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
