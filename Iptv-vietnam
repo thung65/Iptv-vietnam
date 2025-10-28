@@ -1909,7 +1909,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=175
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=175&token=2025
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-movies-01_d2a5d26a.jpg",ON MOVIES - YOU TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
