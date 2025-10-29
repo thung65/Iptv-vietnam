@@ -19,7 +19,7 @@ https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/vtv-can-tho_c14a6160.jpg",VTV CẦN THƠ
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv7hd" ​​​​tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/45_2dcdf703.jpg" group-title="VTV" ,VTV7
+#EXTINF:-1 tvg-id="vtv7hd" ​​​​tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102912005424.jpg" group-title="VTV" ,VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/vtv8_a48edffc.jpg" group-title="VTV",VTV8
@@ -28,7 +28,7 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/46_3fad28d7.jpg" group-title="VTV",VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/z4377698296781-93ce7173fc5a0f8c76615c31e46e6e79_fb10c7bf.jpg" group-title="VTV",VTV5 TÂY NĂM BỘ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102912021314.jpg" group-title="VTV",VTV5 TÂY NĂM BỘ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-trendingtv-01_9736692b.png" group-title="VTV",VTV5 TÂY NGUYÊN
