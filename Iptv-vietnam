@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz, https://epg.pw/api/epg.xml?channel_id=399489, https://epg.pw/xmltv/epg_ID.xml, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=9621, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=7374, https://epg.pw/api/epg.xml?channel_id=3357"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz, https://epg.pw/api/epg.xml?channel_id=399489, https://epg.pw/xmltv/epg_ID.xml, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=9621, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=7374, https://epg.pw/api/epg.xml?channel_id=3357, https://epg.pw/api/epg.xml?channel_id=412112"
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/42_be27f2ac.jpg" group-title="VTV" ,VTV1
