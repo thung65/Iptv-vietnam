@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz, https://epg.pw/api/epg.xml?channel_id=399489, https://epg.pw/xmltv/epg_ID.xml, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=9621, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=7374, https://epg.pw/api/epg.xml?channel_id=3357, https://epg.pw/api/epg.xml?channel_id=412112"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml, https://lichphatsong.site/schedule/epg.xml.gz, https://vnepg.site/epg.xml.gz, https://epg.pw/api/epg.xml?channel_id=399489, https://epg.pw/xmltv/epg_ID.xml, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=9621, https://epg.pw/api/epg.xml?channel_id=6580, https://epg.pw/api/epg.xml?channel_id=7374, https://epg.pw/api/epg.xml?channel_id=3994, https://epg.pw/api/epg.xml?channel_id=4008, https://epg.pw/api/epg.xml?channel_id=3357, https://epg.pw/api/epg.xml?channel_id=412112"
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/42_be27f2ac.jpg" group-title="VTV" ,VTV1
@@ -156,7 +156,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://dinhdong.ddns.net:13579/udp/225.1.1.112:30120
 
-#EXTINF:-1 tvg-id "hbohits" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118124769.jpg",HBO HITS HD
+#EXTINF:-1 tvg-id "3994" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118124769.jpg",HBO HITS HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -167,7 +167,7 @@ http://dinhdong.ddns.net:13579/udp/225.1.1.112:30120
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.tv:8080//live/drzain/002808/302250.ts
 
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118130012.jpg",HBO FAMILY HD
+#EXTINF:-1 tvg-id "4008" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118130012.jpg",HBO FAMILY HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
