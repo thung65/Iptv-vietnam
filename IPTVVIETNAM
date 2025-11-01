@@ -103,34 +103,34 @@ https://liveh34.seenow.vn/hls/SCTV8/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/53.png",SCTV9
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
 
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/54.png",SCTV10
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="",SCTV10
 https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/55.png",SCTV11
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/54.png",SCTV11
 https://liveh34.seenow.vn/hls/SCTV11/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/56.png",SCTV12
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/55.png",SCTV12
 https://liveh34.seenow.vn/hls/SCTV12/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/57.png",SCTV13
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/56.png",SCTV13
 https://liveh34.seenow.vn/hls/SCTV13/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/58.png",SCTV14
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/57.png",SCTV14
 https://liveh34.seenow.vn/hls/SCTV14/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/60.png",SCTV16
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/58.png",SCTV16
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/62.png",SCTV18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/60.png",SCTV18
 https://liveh34.seenow.vn/hls/SCTV18/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/63.png",SCTV19
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/61.png",SCTV19
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
 
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/64.png",SCTV20
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/62.png",SCTV20
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/65.png",SCTV21
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/63.png",SCTV21
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://vnepg.site/logos/170.png",SCTV PHIM TỔNG HỢP
