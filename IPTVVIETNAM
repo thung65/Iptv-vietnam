@@ -133,7 +133,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/65.png",SCTV21
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://vnepg.site/logos/67.png",SCTV PHIM TỔNG HỢP
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://vnepg.site/logos/170.png",SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://bom.so/68png", SCTV4K 
