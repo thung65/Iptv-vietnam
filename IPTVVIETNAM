@@ -450,7 +450,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=212&token=202
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025
 
-#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/139.png
+#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/139.png",WOMAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
