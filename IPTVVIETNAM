@@ -1,3 +1,5 @@
+#EXTM3U url-tvg "https://lichphatsong.site/schedule/epg.xml" 
+
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://vnepg.site/logos/1.png" group-title="VTV" ,VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
@@ -391,5 +393,5 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hue" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/106.png",HUETV _ BÁO VÀ PTTH THỪA THIÊN HUẾ
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="TVBvietnam" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025163206.jpg",TVB VIỆT NAM
+#EXTINF:-1 tvg-id="TVBvietnam" group-title=" Địa phương" tvg-logo="https://bom.so/247png",TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
