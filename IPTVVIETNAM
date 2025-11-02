@@ -1,4 +1,4 @@
-#EXTM3U url-tvg "https://lichphatsong.site/schedule/epg.xml" 
+#EXTM3U url-tvg "https://lichphatsong.site/schedule/epg.xml, https://epg.pw/api/epg.xml?channel_id=3994, https://epg.pw/api/epg.xml?channel_id=4008" 
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://vnepg.site/logos/1.png" group-title="VTV" ,VTV1
@@ -431,6 +431,28 @@ https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" tvg-logo="https://vnepg.site/logos/162.png" group-title="Quốc Tế",TV5MODE ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id "3994" group-title="Quốc Tế" tvg-logo="https://bom.so/189png",HBO HITS HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+http://filex.tv:8080//live/drzain/002808/302250.ts
+
+#EXTINF:-1 tvg-id "4008" group-title="Quốc Tế" tvg-logo="https://bom.so/188png",HBO FAMILY HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+http://filex.tv:8080//live/drzain/002808/302249.ts
 
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/168.png" ,TLC HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
