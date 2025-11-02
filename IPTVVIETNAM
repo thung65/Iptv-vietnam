@@ -575,7 +575,17 @@ https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv5monde" tvg-logo="https://vnepg.site/logos/162.png" group-title="Quốc Tế",TV5MODE ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id "3994" group-title="Quốc Tế" tvg-logo="https://bom.so/206png",HBO HITS HD
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/143.png",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71986&extension=ts&play_token=bxZiCrEqA4
+
+#EXTINF:-1 tvg-id "3994" group-title="Quốc Tế" tvg-logo="https://bom.so/206png",HBO HITS
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -586,7 +596,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.tv:8080//live/drzain/002808/302250.ts
 
-#EXTINF:-1 tvg-id "4008" group-title="Quốc Tế" tvg-logo="https://bom.so/205png",HBO FAMILY HD
+#EXTINF:-1 tvg-id "4008" group-title="Quốc Tế" tvg-logo="https://bom.so/205png",HBO FAMILY
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -597,7 +607,7 @@ http://filex.tv:8080//live/drzain/002808/302250.ts
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.tv:8080//live/drzain/002808/302249.ts
 
-#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/168.png" ,TLC HD
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/168.png" ,TLC
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -618,6 +628,17 @@ http://live247.freem3u.xyz:21585/tlc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://live247.freem3u.xyz:21585/cnn/index.m3u8?_xtfc=a660597001145554fd42644a4420c49d&_xt=1760154594
+
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/148.png",BBC EARTH
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71995&extension=ts&play_token=mvpWiPu9Lp
 
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/151.png",BBC NEWS
 #EXTVLCOPT:http-user-agent=VThanhTivi
