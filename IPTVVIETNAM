@@ -302,7 +302,7 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai2" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/96.png",ĐNNRTV2 HD _ BÁO VÀ PTTH ĐỒNG NAI
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai3" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/97.png",ĐNNRTV3 _ BÁO VÀ PTTH ĐỒNG NAI
+#EXTINF:-1 tvg-id="dongnai3" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/174.png",ĐNNRTV3 _ BÁO VÀ PTTH ĐỒNG NAI
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
