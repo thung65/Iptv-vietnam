@@ -947,7 +947,7 @@ http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588069&exte
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588065&extension=ts&play_token=xBXM5E3VAZ
 
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skypl" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110318563147.jpg",SKY SPORT PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
