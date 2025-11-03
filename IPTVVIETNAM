@@ -1,6 +1,6 @@
 #EXTM3U url-tvg "https://lichphatsong.site/schedule/epg.xml, https://epg.pw/api/epg.xml?channel_id=3994, https://epg.pw/api/epg.xml?channel_id=4008" 
 
-# VTV
+#--*.*--VTV--*.*--#
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://vnepg.site/logos/1.png" group-title="VTV" ,VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
