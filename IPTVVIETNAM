@@ -16,16 +16,16 @@ https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://vnepg.site/logos/5.png",VTV5
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://vnepg.site/logos/7.png",VTV CẦN THƠ
+#EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://vnepg.site/logos/8.png",VTV CẦN THƠ
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv7hd" ​​​​​​tvg-name="VTV7" tvg-logo="https://vnepg.site/logos/8.png",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" ​​​​​​tvg-name="VTV7" tvg-logo="https://vnepg.site/logos/9.png",VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://vnepg.site/logos/9.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://vnepg.site/logos/10.png",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://vnepg.site/logos/10.png",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://vnepg.site/logos/11.png",VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://vnepg.site/logos/6.png",VTV5 TÂY NAM BỘ
