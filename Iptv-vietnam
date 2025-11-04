@@ -228,7 +228,7 @@ http://filex.tv:8080//live/drzain/002808/302249.ts
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.tv:8080//live/drzain/002808/302251.ts
 
-#EXTINF:-1 tvg-id "dmax" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vHmt91V.png",DMAX
+#EXTINF:-1 tvg-id "dmax" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110412260998.jpg",DMAX
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
