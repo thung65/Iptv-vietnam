@@ -406,8 +406,8 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= {"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],
-https://cdn1.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1762275178/KqIdjVV2PhkNWh390XAs_96PFUQ/e4.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/3/TAmNLyztvsv0EYr-bZq-MA/1762362000/RIPQ1Y7/live/msky/live_dzones/dscasia.smil/manifest.mpd?token=tvkUgW1XDyYoIxuR-hpzPA&e=1762326886
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112303314.jpg",CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
