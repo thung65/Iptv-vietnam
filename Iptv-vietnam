@@ -1092,6 +1092,8 @@ https://live.fptplay53.net/fnxch1/thethao16_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025144421.jpg",EVENT
 https://live.fptplay53.net/fnxch1/thethao19_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025144421.jpg",EVENT
+https://live.fptplay53.net/fnxch1/thethao20_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025144421.jpg", EVENT
 https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251025144421.jpg", EVENT
