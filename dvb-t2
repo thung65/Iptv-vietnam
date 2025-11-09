@@ -89,6 +89,9 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8 
 
 #-*-- Địa phương-*--# 
+
+
+
 #EXTINF:0 tvg-id="laocai" group-title=" Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",DTV - LAO CAI HD 
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8 
 
@@ -158,7 +161,7 @@ https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=34&token=2025
 
-#EXTINF:-1 tvg-id="hanoi2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",DTV - HA NOI 2 UHD 
+#EXTINF:-1 tvg-id="hanoi2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",DTV - HA NOI 2 4K
 #EXTVLCOPT:http-user-agent=VMTTV 
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8 
 
@@ -313,3 +316,6 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="hue" group-title=" Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png",DTV - HUE HD 
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8 
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015183016.jpg",DTV - K+ SPORT 1 (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.125:10326
