@@ -26,10 +26,10 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="VTV",VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="VTV",VTV5 TÂY NAM BỘ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="VTV",VTV5 TÂY NAM BỘ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 TÂY NGUYÊN
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vietnam today" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY
@@ -640,7 +640,7 @@ https://liveh34.seenow.vn/hls/SCTV13/03.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
 https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png",SCTV16
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
@@ -653,7 +653,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
 https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://bom.so/199png",SCTV19
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.imgur.com/yBAFZRs.png",SCTV19
 https://liveh34.seenow.vn/hls/SCTV19/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
