@@ -330,4 +330,4 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",DTV - K+ SPORT 1 (THỬ NGHIỆM DVB-T2)
-
+http://14.172.129.72:12343/rtp/232.84.1.125:10326
