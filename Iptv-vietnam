@@ -2721,6 +2721,9 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=34&token=2025
 #EXTVLCOPT:http-user-agent=VMTTV
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 
+#EXTINF:0 tvg-id="btv6" group-title=" Địa phương" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
+http://14.172.129.72:12343/rtp/232.84.2.197:10966
+
 #EXTINF:0 tvg-id="youtv" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110817025475.jpg",YOUTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
