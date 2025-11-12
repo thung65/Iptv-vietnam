@@ -3302,7 +3302,7 @@ http://14.172.129.72:12343/rtp/232.84.1.98:8562
 http://14.172.129.72:12343/rtp/232.84.1.131:10368
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101610365948.jpg",K+ KIDS SD
-htt://14.172.129.72:12343/rtp/232.84.3.43:11794
+http://14.172.129.72:12343/rtp/232.84.3.43:11794
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015173512.jpg",K+ CINE HD
 http://14.172.129.72:12343/rtp/232.84.1.38:8202
