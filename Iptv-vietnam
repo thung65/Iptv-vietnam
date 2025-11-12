@@ -338,7 +338,7 @@ http://14.172.129.72:12343/rtp/232.84.3.139:10702
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-http://live247.freem3u.xyz:21585/tlc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
+http://14.172.129.72:12343/rtp/232.84.3.156:10708
 
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101110512224.jpg",CNN
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -349,7 +349,7 @@ http://live247.freem3u.xyz:21585/tlc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window Nhttp://dinhdong.ddns.net:13579/udp/225.1.1.231:30120T 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-http://live247.freem3u.xyz:21585/cnn/index.m3u8?_xtfc=a660597001145554fd42644a4420c49d&_xt=1760154594
+http://14.172.129.72:12343/rtp/232.84.3.153:10690
 
 #EXTINF:-1 tvg-id="399489" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113224713.jpg",GOLF SD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -370,7 +370,7 @@ http://49.0.64.96:8007/GOLF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-http://14.172.129.72:12343/rtp/232.84.2.197:10966
+http://14.172.129.72:12343/rtp/232.84.3.210:11182
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112294108.jpg",DISCOVERY HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -456,7 +456,7 @@ http://14.172.129.72:12343/rtp/232.84.3.226:11278
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-http://125hvt.ddns.net:21585/bbc/index.m3u8
+http://14.172.129.72:12343/rtp/232.84.3.224:11266
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113084887.jpg",WBTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
