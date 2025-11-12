@@ -2470,6 +2470,26 @@ http://filex.me:8080/live/drzain/002808/304302.ts
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.me:8080/live/drzain/002808/304303.ts
 
+#EXTINF:-1 tvg-id "spotv" group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Polish_20251025_165507279.jpg", SPOTV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+http://14.172.129.72:12343/rtp/232.84.3.111:10666
+
+#EXTINF:-1 tvg-id "spotv2" group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Polish_20251025_165507279.jpg", SPOTV2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+http://14.172.129.72:12343/rtp/232.84.3.129:10672
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102610395469.jpg",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
