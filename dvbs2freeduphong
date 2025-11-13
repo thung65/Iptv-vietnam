@@ -328,8 +328,36 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png",DTV - HUE HD 
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",DTV - K+ SPORT 1 (THỬ NGHIỆM DVB-T2)
-http://14.172.129.72:12343/rtp/232.84.1.125:10326
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015173512.jpg",$ K+ CINE SD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.96:8550
+
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015175962.jpg",$ K+ ACTION SD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.97:8556
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015183016.jpg",$ K+ SPORT 1 SD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.98:8562 
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015261022.jpg",$ K+ SPORT 2 SD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.131:10368
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101610365948.jpg",$ K+ KIDS SD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.3.43:11794
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015173512.jpg",$ K+ CINE HD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.38:8202
+
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015175962.jpg",$ K+ ACTION HD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.33:8172
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015183016.jpg",$ K+ SPORT 1 HD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.125:10326 
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015261022.jpg",$ K+ SPORT 2 HD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.1.176:10374
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101610365948.jpg", $K+ KIDS HD (THỬ NGHIỆM DVB-T2)
+http://14.172.129.72:12343/rtp/232.84.3.42:11800
+
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",DTV - ON VIE GIẢI TRÍ
 #EXTVLCOPT:http-user-agent=VThanhTivi
