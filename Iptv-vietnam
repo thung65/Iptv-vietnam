@@ -273,7 +273,7 @@ http://14.172.129.72:12343/rtp/232.84.3.153:10690
 http://49.0.64.96:8007/GOLF
 
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101117395365.jpg",CARTOONNITO
-http://dinhdong.ddns.net:13579/udp/225.1.1.138:30120
+http://dinhdong.ddns.net:13579/udp/225.1.4.16:30120
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112294108.jpg",DISCOVERY HD
 http://14.172.129.72:12343/rtp/232.84.3.132:10528
