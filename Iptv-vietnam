@@ -3292,7 +3292,7 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015173512.jpg",K+ CINE SD
 http://14.172.129.72:12343/rtp/232.84.1.96:8550
 
-#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015175962.jpg",K+ ACTION SD
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015175962.jpg",K+ ACTION SD
 http://14.172.129.72:12343/rtp/232.84.1.97:8556
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015183016.jpg",K+ SPORT 1 SD
@@ -3321,7 +3321,7 @@ http://14.172.129.72:12343/rtp/232.84.3.43:11794
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 http://14.172.129.72:12343/rtp/232.84.1.38:8202
 
-#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015175962.jpg",K+ ACTION HD
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015175962.jpg",K+ ACTION HD
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=cv
