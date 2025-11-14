@@ -2300,7 +2300,7 @@ http://filex.me:8080/live/drzain/002808/304302.ts
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.me:8080/live/drzain/002808/304303.ts
 
-#EXTINF:-1 tvg-id "spotv" group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025111214280108.jpg", SPOTV
+#EXTINF:-1 tvg-id "spotv1" group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025111214280108.jpg", SPOTV
 http://14.172.129.72:12343/rtp/232.84.3.111:10666
 
 #EXTINF:-1 tvg-id "spotv2" group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025111214282257.jpg", SPOTV2
