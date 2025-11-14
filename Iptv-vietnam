@@ -281,7 +281,7 @@ http://14.172.129.72:12343/rtp/232.84.3.132:10528
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112300368.jpg",DISCOVERY ASIA HD
 http://14.172.129.72:12343/rtp/232.84.3.219:11236
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65Iptv-vietnam/refs/heads/main/2025101112303314.jpg",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112303314.jpg",CARTOON NETWORK HD
 http://14.172.129.72:12343/rtp/232.84.2.144:10684
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112305164.jpg",DREAMWORKS HD
