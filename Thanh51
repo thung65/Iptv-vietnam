@@ -251,70 +251,125 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101109122563.jpg",ON VIE GIẢI TRÍ SD
-http://14.172.129.72:12343/rtp/232.84.3.78:11584
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON VIE GIẢI TRÍ SD
+http://14.172.129.72:12343/rtp/232.84.1.143:8832
 
-#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/kenh-2_ce40790f.jpg",ON PHIM VIỆT SD
-http://14.172.129.72:12343/rtp/232.84.3.77:11590
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON PHIM VIỆT SD
+http://14.172.129.72:12343/rtp/232.84.1.168:8982
 
-#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-movies-01_d2a5d26a.jpg",ON MOVIES - YOU TV SD
-http://14.172.129.72:12343/rtp/232.84.2.190:10924
+#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png", ON E CHANNEL SD
+http://14.172.129.72:12343/rtp/232.84.1.193:9132
 
-#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-onechannel_093be041.jpg", ON E CHANNEL SD
-http://14.172.129.72:12343/rtp/232.84.3.76:11596
+#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png, ON O2TV SD
+http://14.172.129.72:12343/rtp/232.84.1.26:8130
 
-#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/bo-logo-on-the-thao-van-hoa-xa-hoi-chuan-vtvcab-18-1_b13b7241.jpg, ON O2TV SD
-http://14.172.129.72:12343/rtp/232.84.3.74:11608
+#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png", ON BIBI SD
+http://14.172.129.72:12343/rtp/232.84.1.206:9210
 
-#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/bo-logo-on-xa-hoi-hoa-chuan-vtvcab-28_43e41faa.jpg", ON BIBI SD
-http://14.172.129.72:12343/rtp/232.84.3.217:11224
+#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png", ON INFO TV SD
+http://14.172.129.72:12343/rtp/232.84.2.191:10930
 
-#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-infotv_1c69ec8d.jpg", ON INFO TV SD
-http://14.172.129.72:12343/rtp/232.84.3.73:11614
+#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png", ON CINE SD
+http://14.172.129.72:12343/rtp/232.84.1.205:9204
 
-#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/kenh-10_f448d047.jg", ON CINE SD
-http://14.172.129.72:12343/rtp/232.84.3.72:11620
+#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png", ON STYLE SD
+http://14.172.129.72:12343/rtp/232.84.1.244:9438
 
-#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-styletv_b0660a32.jpg", ON STYLE SD
-http://14.172.129.72:12343/rtp/232.84.3.71:11626
+#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png", ON MUSIC SD
+http://14.172.129.72:12343/rtp/232.84.2.192:10936
 
-#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/bo-logo-on-the-thao-van-hoa-xa-hoi-chuan-vtvcab-22_42ecf324.jpg", ON MUSIC SD
-http://14.172.129.72:12343/rtp/232.84.3.70:11632
-
-#EXTINF:0 tvg-id="onhomeshopping" type="stream" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110412472427.jpg", ON HOME SHOPPING SD
+#EXTINF:0 tvg-id="onhomeshopping" type="stream" group-title="VTVcab" tvg-logo="https://i.imgur.com/g6it2z6.png", ON HOME SHOPPING SD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livesct.vtvprime.vn/mean/VTVCAB13/manifest.mpd
+
+#EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png", ON TRENDING TV SD
+http://14.172.129.72:12343/rtp/232.84.1.217:9276
+
+#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png", ON VIE DRAMAS SD
+http://14.172.129.72:12343/rtp/232.84.1.169:8988
+
+#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png", ON V FAMILY SD
+http://14.172.129.72:12343/rtp/232.84.1.245:10344
+
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL SD
+http://14.172.129.72:12343/rtp/232.84.1.138:8802
+
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS SD
+http://14.172.129.72:12343/rtp/232.84.1.208:9222
+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+ SD
+http://14.172.129.72:12343/rtp/232.84.1.220:9294
+
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101109122563.jpg",ON VIE GIẢI TRÍ
+http://14.172.129.72:12343/rtp/232.84.3.78:11584
+
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/kenh-2_ce40790f.jpg",ON PHIM VIỆT
+http://14.172.129.72:12343/rtp/232.84.3.77:11590
+
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-movies-01_d2a5d26a.jpg",ON MOVIES - YOU TV
+http://14.172.129.72:12343/rtp/232.84.2.190:10924
+
+#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-onechannel_093be041.jpg", ON E CHANNEL
+http://14.172.129.72:12343/rtp/232.84.3.76:11596
+
+#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/bo-logo-on-the-thao-van-hoa-xa-hoi-chuan-vtvcab-18-1_b13b7241.jpg, ON 2TV
+http://14.172.129.72:12343/rtp/232.84.3.74:11608
+
+#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/bo-logo-on-xa-hoi-hoa-chuan-vtvcab-28_43e41faa.jpg", ON BIBI
+http://14.172.129.72:12343/rtp/232.84.3.217:11224
+
+#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-infotv_1c69ec8d.jpg", ON INFO TV
+http://14.172.129.72:12343/rtp/232.84.3.73:11614
+
+#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/kenh-10_f448d047.jg", ON CINE
+http://14.172.129.72:12343/rtp/232.84.3.72:11620
+
+#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-styletv_b0660a32.jpg", ON STYLE
+http://14.172.129.72:12343/rtp/232.84.3.71:11626
+
+#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/bo-logo-on-the-thao-van-hoa-xa-hoi-chuan-vtvcab-22_42ecf324.jpg", ON MUSIC
+http://14.172.129.72:12343/rtp/232.84.3.70:11632
+
+#EXTINF:0 tvg-id="onhomeshopping" type="stream" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110412472427.jpg", ON HOME SHOPPING 
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/manifest.mpd
 
-#EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-trendingtv-01_66ef5ac5.jpg", ON TRENDING TV SS
+#EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-trendingtv-01_66ef5ac5.jpg", ON TRENDING TV
 http://14.172.129.72:12343/rtp/232.84.3.69:11638
 
-#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107004279.jpg", ON VIE DRAMAS SD
+#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107004279.jpg", ON VIE DRAMAS
 http://14.172.129.72:12343/rtp/232.84.3.218:11230
 
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-vfamily_8ebfce2c.jpg", ON V FAMILY SD
+#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-vfamily_8ebfce2c.jpg", ON V FAMILY
 http://14.172.129.72:12343/rtp/232.84.3.68:11644
 
-#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107011410.jpg", ON KIDS SD
+#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107011410.jpg", ON KIDS
 http://14.172.129.72:12343/rtp/232.84.3.41:11806
 
-#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107014869.jpg", ON LIFE SD
+#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107014869.jpg", ON LIFE
 http://14.172.129.72:12343/rtp/232.84.3.40:11812
 
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107034879.jpg", ON GOLF SD
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107034879.jpg", ON GOLF
 http://14.172.129.72:12343/rtp/232.84.2.246:10876
 
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/on-football_12c45260.jpg",ON FOOTBALL SD
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/on-football_12c45260.jpg",ON FOOTBALL
 http://14.172.129.72:12343/rtp/232.84.3.243:11380
 
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/on-sports_756f7916.jpg",ON SPORTS SD
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/on-sports_756f7916.jpg",ON SPORTS
 http://14.172.129.72:12343/rtp/232.84.3.242:11374
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107201747.jpg",ON SPORTS NEWS SD
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107201747.jpg",ON SPORTS NEWS
 http://14.172.129.72:12343/rtp/232.84.2.193:10942
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-sports_91c6373e.jpg",ON SPORTS+
