@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-id "" ,Update từ ngày 29/11/2025
-https://raw.githubusercontent.com/DinhLap96/ListTivi/main/ListTiVi/Logo/giaodientv.mp4
+https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251115083741.mp4
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/522px-Logo_de_FUTV.svg.png", FUTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -197,7 +197,7 @@ http://14.172.129.72:12343/rtp/232.84.1.241:9420
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="VTV",VTV5 TÂY NAM BỘ SD
 http://14.172.129.72:12343/rtp/232.84.3.85:11536
 
-#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 TN" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 TN" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN SD
 http://14.172.129.72:12343/rtp/232.84.3.67:11650
 
 #EXTINF:-1 tvg-id="vietnam today" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY SD
