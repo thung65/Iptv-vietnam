@@ -372,8 +372,64 @@ http://14.172.129.72:12343/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+ HD
 http://14.172.129.72:12343/rtp/232.84.3.75:11602
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO HD
 http://14.172.129.72:12343/rtp/232.84.3.101:10648
 
 #EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102615304997.jpg",HGTV
 https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-id "dmax" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110412260998.jpg",DMAX
+http://14.172.129.72:12343/rtp/232.84.1.1:7980
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112012221.jpg",CINEMAX HD
+http://14.172.129.72:12343/rtp/232.84.3.117:10654
+
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112020264.jpg",AXN HD
+http://14.172.129.72:12343/rtp/232.84.3.121:10660
+
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg",CINEMAXWORLD HD
+http://14.172.129.72:12343/rtp/232.84.3.103:10840
+
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112022413.jpg",ABC AUSTRALIA HD
+http://14.172.129.72:12343/rtp/232.84.2.244:10482
+
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112024369.jpg",ANIMAL PLANET HD
+http://14.172.129.72:12343/rtp/232.84.3.139:10702
+
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101110425988.jpg" ,TLC HD
+http://14.172.129.72:12343/rtp/232.84.3.156:10708
+
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101110512224.jpg",CNN
+http://14.172.129.72:12343/rtp/232.84.3.153:10690
+
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101117395365.jpg",CARTOONNITO
+http://dinhdong.ddns.net:13579/udp/225.1.4.16:30120
+
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112294108.jpg",DISCOVERY HD
+http://14.172.129.72:12343/rtp/232.84.3.132:10528
+
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112300368.jpg",DISCOVERY ASIA HD
+http://14.172.129.72:12343/rtp/232.84.3.219:11236
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112303314.jpg",CARTOON NETWORK HD
+http://14.172.129.72:12343/rtp/232.84.2.144:10684
+
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112305164.jpg",DREAMWORKS HD
+http://14.172.129.72:12343/rtp/232.84.3.227:11284
+
+#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112311816.jpg",BBC CBEEBIES HD
+http://14.172.129.72:12343/rtp/232.84.1.90:10398
+
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112313675.jpg",BBC LIFESTYLE HD
+http://14.172.129.72:12343/rtp/232.84.3.225:11272
+
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112323567.jpg",BBC EARTH HD
+http://14.172.129.72:12343/rtp/232.84.3.226:11278
+
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112325686.jpg",BBC NEWS
+http://14.172.129.72:12343/rtp/232.84.3.224:11266
+
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113084887.jpg",WBTV HD
+http://14.172.129.72:12343/rtp/232.84.3.114:10516
+
+
