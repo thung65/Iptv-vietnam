@@ -200,9 +200,6 @@ http://14.172.129.72:12343/rtp/232.84.3.85:11536
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 TN" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN SD
 http://14.172.129.72:12343/rtp/232.84.3.67:11650
 
-#EXTINF:-1 tvg-id="vietnam today" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY SD
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
@@ -375,3 +372,8 @@ http://14.172.129.72:12343/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+ HD
 http://14.172.129.72:12343/rtp/232.84.3.75:11602
 
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD
+http://14.172.129.72:12343/rtp/232.84.3.101:10648
+
+#EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102615304997.jpg",HGTV
+https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8
