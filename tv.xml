@@ -1,0 +1,39 @@
+#-*ONPlus*-#
+Premium 1: {"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
+Premium 2: {"keys":[{"kty":"oct","k":"I1MoZkOOTWC4ozvhPjsJCA","kid":"/TIp5+zAQY+FaxjEJC5b+g"}],"type":"temporary"}
+Premium 3: {"keys":[{"kty":"oct","k":"BGTc94QySj6C4m9tEjskZA","kid":"/rxpNqMHQwuPNtx+mlW3kQ"}],"type":"temporary"}
+Premium 4: {"keys":[{"kty":"oct","k":"cczWOwt5TUSfJx0S3jbkmA","kid":"AGmI58pET8a23zbBcbySYw"}],"type":"temporary"}
+Premium 5: {"keys":[{"kty":"oct","k":"S5s8Z+rRRaW8IV0bBurqKQ","kid":"gpw3XTPjTXKTIfgunTg9ZA"}],"type":"temporary"}
+Premium 6: {"keys":[{"kty":"oct","k":"2T/dgituSQ+yNn6TJ2QTGA","kid":"9pmXvGDoQpqPcbkzEpUqzw"}],"type":"temporary"}
+Premium 7: {"keys":[{"kty":"oct","k":"N8k+wWymSqyz6Fa5GZIMKA","kid":"qxLFpa8nR9KFqTVHYFgVlQ"}],"type":"temporary"}
+Premium 8: {"keys":[{"kty":"oct","k":"h/sxnyz9S7+VL+BPyCSL5A","kid":"lMiPg7ALTjS/nKUUAnuqBQ"}],"type":"temporary"}
+Premium 9: {"keys":[{"kty":"oct","k":"pCCCn7VXRSGfHWMx4FSt5A","kid":"fExTzudfT7WcHoLtobhQjg"}],"type":"temporary"}
+Premium 10: {"keys":[{"kty":"oct","k":"LN3gh6RMQtuNg2NHe/c9yA","kid":"OJPGonV6Txi2MaquBN5EnA"}],"type":"temporary"}
+#-*MyTV*-#
+AXN: {"keys":[{"kty":"oct","k":"bxwJwDXqs2Mj1g0UVNs9IA","kid":"nSn4fv3sPJ+rNo9ySmKtDg"}],"type":"temporary"}
+Animax: { "keys":[ { "kty":"oct", "k":"12vq1C+Ydcg736NVlggbwA", "kid":"V6AvqpA8OIemkd/radGvBg" } ], "type":"temporary" }
+ABC Australia: {"keys":[{"kty":"oct","k":"BvjRpv6v+9q5Kt80fntGnA","kid":"mgmnPsHcNIWE4vEw4n2mZw"}],"type":"temporary"}
+Animal Planet: { "keys":[ { "kty":"oct", "k":"HVOI4HgUFevOyZFPWtdYdQ", "kid":"7G8HLHElN3qbwK5hWYCV9A" } ], "type":"temporary" }
+BBC Cbeebies: {"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
+BBC Earth: {"keys":[{"kty":"oct","k":"8/oP4805pS9O79Nv9xYeiQ","kid":"UBSUGixCN5iAte33IwTBZQ"}],"type":"temporary"}
+BBC Lifestyle: { "keys":[ { "kty":"oct", "k":"I+jF8v4gKQasLWVU2VJymQ", "kid":"WLlJmG7RMpS8AbDzMKvFJw" },{ "kty":"oct", } ], "type":"temporary" }
+BBC World News: { "keys":[ { "kty":"oct", "k":"03S485kEv1cmieo0euhlkQ", "kid":"x7pGCG3aNFqSnim/FV5FnA" } ], "type":"temporary" }
+Bloomberg: { "keys":[{"kty":"oct","k":"eg+MPHLg//+BHVNMkpxXwg","kid":"EHE5P4/CN/OpooAoFCEQ9w"}],"type":"temporary"}
+Boomerang: {"keys":[{"kty":"oct","kid":"sfDXWekUNp2ziLOw3IFZcQ","k":"VnjTF-FwB6iKm5U55FJlEg"}],"type":"temporary"}
+Cartoon Network: { "keys":[ { "kty":"oct", "k":"PMGt1Drszj/jHJxqKluMIQ", "kid":"PCAWZmCpOnWsd9uBVnOJ9w" } ], "type":"temporary" }
+Cinemax: {"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
+CinemaWorld: {"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
+CNN: {"keys":[{"kty":"oct","k":"Gs9Y/41M2HwtPBLSIkjvsQ","kid":"cUzI7QWgOruaxhvUu9HYoA"}],"type":"temporary"}
+DMAX: {"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+Dreamworks: { "keys":[ { "kty":"oct", "k":"WTKPYh1WdnvF/5QEqJQGgw", "kid":"Z9riBSfGPa2qrmCaqRV3yw" } ], "type":"temporary" }
+Discovery Asia: {"keys":[{"kty":"oct","k":"eI4oNfuYVortL0e73AkVFQ","kid":"k0kHsTS+OWOmJjpFOEaSTA"}],"type":"temporary"}
+Discovery Channel: {"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
+Fashion TV: {"keys":[ { "kty":"oct", "k":"MMNhPpsG4PfMIBAU8xv12A", "kid":"wdnyVwECNQi/pnN+OoxwAQ" } ], "type":"temporary"}
+HBO: { "keys":[ { "kty":"oct", "k":"PeDzjc8BSCff1b7Dh0PGog", "kid":"Cd3+PWOGPK+ut50FRrCYqw" } ], "type":"temporary" }
+TLC: { "keys":[ { "kty":"oct", "k":"fKm/A2I/d7Xi8W3wtT8nTQ", "kid":"tpCGKXMmOa2kgUpiCCltnA" },{ "kty":"oct", } ], "type":"temporary" }
+Warner TV: { "keys":[ { "kty":"oct", "k":"NPGQjP4uBe4GAEbUDxSuyQ", "kid":"CG0JpAv/OgCqbdTbr5wTsg" } ], "type":"temporary" }
+#-*K+*-#
+K+CINE: {"keys":[ {"kty":"oct", "kid":"a5NqIuyCRNWTOGldRTzXMw", "k":"a5gqQjytRkiLrHclUOnjjA" }], "type":"temporary"}
+K+ACTION: {"keys":[ {"kty":"oct", "kid":"UcxH1duZT4C8xEhXr8AZYQ", "k":"8aSmIGS/TEKbf+qFJfvpOQ" }], "type":"temporary"}
+#-*SCTV+*-#
+SCTV9: {"keys":[ {"kty":"oct", "kid":"22a9a9a63d2746df9f90c184c596105a", "k":"2d9d24caeaea42f8b44e413fe04f0e5c" }], "type":"temporary"}
