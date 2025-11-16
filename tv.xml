@@ -36,4 +36,4 @@ Warner TV: { "keys":[ { "kty":"oct", "k":"NPGQjP4uBe4GAEbUDxSuyQ", "kid":"CG0JpA
 K+CINE: {"keys":[ {"kty":"oct", "kid":"a5NqIuyCRNWTOGldRTzXMw", "k":"a5gqQjytRkiLrHclUOnjjA" }], "type":"temporary"}
 K+ACTION: {"keys":[ {"kty":"oct", "kid":"UcxH1duZT4C8xEhXr8AZYQ", "k":"8aSmIGS/TEKbf+qFJfvpOQ" }], "type":"temporary"}
 #-*SCTV+*-#
-SCTV9: {"keys":[ {"kty":"oct", "kid":"22a9a9a63d2746df9f90c184c596105a", "k":"2d9d24caeaea42f8b44e413fe04f0e5c" }], "type":"temporary"}
+SCTV9: 22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
