@@ -269,7 +269,7 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://49.0.64.96:8007/GOLF
 
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101117395365.jpg",CARTOONNITO
+#EXTINF:-1 tvg-id="cartoonito" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101117395365.jpg",CARTOONNITO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
