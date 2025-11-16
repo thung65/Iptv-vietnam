@@ -108,43 +108,43 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 
 #QUỐC TẾ
-#EXTINF:-1 tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014341458.jpg" group-title="Quốc Tế",KIX
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014341458.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014345623.jpg" group-title="Quốc Tế",DA VINCI
+#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014345623.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/davincihd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DA VINCI
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="outdoorhd" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014351921.jpg" group-title="Quốc Tế",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="outdoorhd" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014351921.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/ourdoorchannelhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",OUTDOOR CHANNEL
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014353518.jpg" group-title="Quốc Tế",ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014353518.jpg" group-title="Quốc Tế"catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/afnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ASIAN FOOD NETWORK
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="cnbc" tvg-name="CBNC" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014354910.jpg" group-title="Quốc Tế",CBNC
+#EXTINF:-1 tvg-id="cnbc" tvg-name="CBNC" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014354910.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cbnc_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CBNC
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="cna" tvg-name="Channel News Asia" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014465840.jpg" group-title="Quốc Tế",CHANNEL NEWS ASIA
+#EXTINF:-1 tvg-id="cna" tvg-name="Channel News Asia" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014465840.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cna_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CHANNEL NEWS ASIA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014360837.jpg" group-title="Quốc Tế",KBS WORLD
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014360837.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbsworld_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KBS WORLD
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014364846.jpg" group-title="Quốc Tế",NHK WORD JAPAN
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014364846.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/nhkworldjapan_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",NHK WORD JAPAN
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014371224.jpg" group-title="Quốc Tế",DW ENGLISH
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014371224.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dw_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DW ENGLISH
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="arirang" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014375038.jpg" group-title="Quốc Tế",ARIRANG WORLD
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014375038.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/arirang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ARIRANG WORLD
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014380945.jpg" group-title="Quốc Tế",FRANCE 24 ENGLISH
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014380945.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/france24_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",FRANCE 24 ENGLISH
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tv5monde" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014382601.jpg" group-title="Quốc Tế",TV5MODE ASIE
+#EXTINF:-1 tvg-id="tv5monde" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101014382601.jpg" group-title="Quốc Tế" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/tv5monde_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TV5MODE ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112004508.jpg",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112004508.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -191,7 +191,7 @@ https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/key.xml
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/dash/cg_hbosign/mainifest.mpd
 
-#EXTINF:-1 tvg-id "dmax" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110412260998.jpg",DMAX
+#EXTINF:-1 tvg-id "dmax" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110412260998.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -209,49 +209,49 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.me:8080/live/drzain/002808/317258.ts
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112012221.jpg",CINEMAX HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112012221.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",CINEMAX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112020264.jpg",AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112020264.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg",CINEMAXWORLD HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112013869.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemaxworld_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",CINEMAXWORLD HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112022413.jpg",ABC AUSTRALIA HD
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112022413.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ABC AUSTRALIA HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112024369.jpg",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112024369.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101110425988.jpg" ,TLC HD
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101110425988.jpg" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101110512224.jpg",CNN
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101110512224.jpg" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cnn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -275,49 +275,49 @@ http://49.0.64.96:8007/GOLF
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112294108.jpg",DISCOVERY HD
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112294108.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DISCOVERY HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112300368.jpg",DISCOVERY ASIA HD
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112300368.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovreryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DISCOVERY ASIA HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112303314.jpg",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112303314.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112305164.jpg",DREAMWORKS HD
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112305164.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DREAMWORKS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112311816.jpg",BBC CBEEBIES HD
+#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112311816.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbccbeebies_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC CBEEBIES HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112313675.jpg",BBC LIFESTYLE HD
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112313675.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC LIFESTYLE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112323567.jpg",BBC EARTH HD
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112323567.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
