@@ -2497,7 +2497,6 @@ http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145807.ts
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145467.ts
 
-
 #-*--Địa phương-*--#
 #EXTINF:0 tvg-id="laocai" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017394914.jpg",THLC _ BÁO VÀ PTTH LÀO CAI
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
@@ -2906,7 +2905,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=169&token=202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2_fd5dc799.jpg", SCTV2 HD
-https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=201&token=2025
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/3_efafd3ec.jpg", SCTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.seenow.vn/hls/SCTV3/03.m3u8
