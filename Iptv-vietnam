@@ -2739,12 +2739,6 @@ https://live.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://freem3u.xyz/api/live/play.m3u8?vid=50
 
-#EXTINF:0 tvg-id="binhduong1" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018475246.jpg",BTV1 HD _ TH BÌNH DƯƠNG (TRUNG TÂM HTV)
-https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="binhduong2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018481326.jpg",BTV2 HD _ TH BÌNH DƯƠNG (TRUNG TÂM HTV)
-https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:0 tvg-id="anvienhd" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018482453.jpg",BTV9 B CHANNEL (TRUNG TÂM HTV)
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
@@ -2766,7 +2760,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban2/index.m3u8?id=dongnai3&toke
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=72&token=2025
+https://toiyeuvietnam.dpdns.org/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8 
 
 #EXTINF:0 tvg-id="tayninh2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018581769.jpg",TTV2 _ BÁO VÀ PTTH TÂY NINH
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
