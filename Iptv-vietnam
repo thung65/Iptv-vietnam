@@ -2618,7 +2618,7 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="hanoi2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101109430889.jpg",H2 HD _ BÁO VÀ PTTH HÀ NỘI
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=34&token=2025
+https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017593882.jpg", H2 UHD _ BÁO VÀ PTTH HÀ NỘI
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
