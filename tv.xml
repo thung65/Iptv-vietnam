@@ -37,3 +37,5 @@ K+CINE: {"keys":[ {"kty":"oct", "kid":"a5NqIuyCRNWTOGldRTzXMw", "k":"a5gqQjytRki
 K+ACTION: {"keys":[ {"kty":"oct", "kid":"UcxH1duZT4C8xEhXr8AZYQ", "k":"8aSmIGS/TEKbf+qFJfvpOQ" }], "type":"temporary"}
 #-*SCTV+*-#
 SCTV9: 22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
+SCTV15: a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+SCTV17: a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
