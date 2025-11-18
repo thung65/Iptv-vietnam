@@ -3028,7 +3028,7 @@ https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptv-vietnam.vercel.app/tv.xml
+#KODIPROP:inputstream.adaptive.license_key=https://gitlab.com/thung65-group/thung65-project/-/raw/main/tv.json
 https://livecdn.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https:/raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/16_47eb3436.jpg",SCTV16 HD
@@ -3043,7 +3043,7 @@ https://liveh34.seenow.vn/hls/SCTV16/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptv-vietnam.vercel.app/tv.xml
+#KODIPROP:inputstream.adaptive.license_key=https://gitlab.com/thung65-group/thung65-project/-/raw/main/tv.json
 https://livecdn.seenow.vn/mean/SCTV17/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/18_664a253b.jpg", SCTV18 HD
