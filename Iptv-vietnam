@@ -3028,7 +3028,7 @@ https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/key.xml
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livecdn.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https:/raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/16_47eb3436.jpg",SCTV16 HD
