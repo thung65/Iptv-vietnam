@@ -3024,11 +3024,7 @@ https://liveh34.seenow.vn/hls/SCTV13/03.m3u8
 https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/15_f6a8241e.jpg",SCTV15 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livecdn.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
+https://freem3u.xyz/shaka.html?videoUrl=https://livecdn.seenow.vn/mean/SCTV15HD/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https:/raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/16_47eb3436.jpg",SCTV16 HD
 https://liveh34.seenow.vn/hls/SCTV16/index.m3u8
@@ -3039,11 +3035,7 @@ https://liveh34.seenow.vn/hls/SCTV16/index.m3u8
 #EXTVLCOPT:http-user-agent=cv
 #EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livecdn.seenow.vn/mean/SCTV17/manifest.mpd
+https://freem3u.xyz/shaka.html?videoUrl=https://livecdn.seenow.vn/mean/SCTV17/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/18_664a253b.jpg", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
