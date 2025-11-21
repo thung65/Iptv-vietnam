@@ -216,7 +216,7 @@ https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://bom.so/HISTORY
+https://toiyeuvietnam.dpdns.org/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id "dmax" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110412260998.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dmax_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -480,7 +480,7 @@ https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Box-movie-1
+https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/hwc-2021_df4ce62c.jpg",HOLLYWOOD CLASSICS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -492,7 +492,7 @@ https://bom.so/Box-movie-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Hollywood-classic
+https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101015531794.jpg",IN THE BOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -504,7 +504,7 @@ https://bom.so/Hollywood-classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/In-the-box
+https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016190852.jpg",BOX HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -516,7 +516,7 @@ https://bom.so/In-the-box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Box-hits
+https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016045453.jpg",MAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -528,7 +528,7 @@ https://bom.so/Box-hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Man
+https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016071169.jpg",MUSIC BOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -540,7 +540,7 @@ https://bom.so/Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Music-box
+https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016054778.jpg",DR.FIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -552,7 +552,7 @@ https://bom.so/Music-box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Dr-fit
+https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016060902.jpg",HAPPY KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -564,7 +564,7 @@ https://bom.so/Dr-fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Happy-kids
+https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016063129.jpg",PLANET EARTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -576,7 +576,7 @@ https://bom.so/Happy-kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Planet-earth
+https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251020162338.jpg,WOMAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -588,7 +588,7 @@ https://bom.so/Planet-earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://bom.so/Woman
+https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101113094917.jpg",SKY SPORTS NEWS
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -2912,10 +2912,10 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101109122563.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON VIE GIẢI TRÍ
-https://livevlisctcdnw.seenow.vn/livesnv2/GIAITRI_TV_HD/manifest.mpd
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/kenh-2_ce40790f.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}",ON PHIM VIỆT
-https://bom.so/On-phim-viet
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-movies-01_d2a5d26a.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}",ON MOVIES - YOU TV
 https://freem3u.xyz/api/live/play.m3u8?vid=181
@@ -3043,7 +3043,7 @@ https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct", "kid":"a7c942778e874d43be92b8d0a0cd11b4", "k":"6d54358306571658ffdb952c6560688b" }], "type":"temporary"}
 https://livecdn.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https:/raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/16_47eb3436.jpg",SCTV16 HD
