@@ -3284,7 +3284,9 @@ https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u
 https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="music-box" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/music-box/KenhCoBan",MUSIC BOX
 https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="outdoor-hd" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ou#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
+#EXTINF:-1 tvg-id="outdoor-hd" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/outdoor-hd/KenhCoBan",OUTDOOR CHANNEL HD
+https://toiyeuvietnam.dpdns.org/CoBan/outdoor-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh
 #EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab3hd/KenhBoSung",ON Sports
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh
@@ -3292,8 +3294,6 @@ https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
 #EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab6hd/KenhBoSung",ON Sports+
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
-tdoor-hd/KenhCoBan",OUTDOOR CHANNEL HD
-https://toiyeuvietnam.dpdns.org/CoBan/outdoor-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="channel-news-asia" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/channel-news-asia/KenhCoBan",CHANNEL NEWS ASIA HD
 https://toiyeuvietnam.dpdns.org/CoBan/channel-news-asia/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="afn-hd" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/afn-hd/KenhCoBan",AFN HD
@@ -3356,5 +3356,5 @@ https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vinh-long-4" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-4/KenhCoBan",THVL4
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-5" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025112311052843.png",THVL5
+#EXTINF:-1 tvg-id="vinh-long-5" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tinyurl.com/vinh-long-1-tv360",THVL5
 https://toiyeuvietnam.dpdns.org/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
