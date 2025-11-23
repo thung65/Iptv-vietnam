@@ -3217,7 +3217,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vinh-long-4" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-4/KenhCoBan",THVL4 HD
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-5" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tinyurl.com/vinh-long-1-tv360",THVL5 HD
+#EXTINF:-1 tvg-id="vinh-long-5" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025112311052843.png",THVL5 HD
 https://toiyeuvietnam.dpdns.org/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="qtv-1" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/qtv-1/KenhCoBan",QTV1 HD
 https://toiyeuvietnam.dpdns.org/CoBan/qtv-1/TuyetDoiKhongKinhDoanh.m3u8
@@ -3265,7 +3265,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dong-thap" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dong-thap/KenhCoBan",ĐỒNG THÁP 1 HD
 https://toiyeuvietnam.dpdns.org/CoBan/dong-thap/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tien-giang" group-title="Kênh địa phương" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tien-giang/KenhCoBan",ĐỒNG THÁP 2 HD
+#EXTINF:-1 tvg-id="tien-giang" group-title="Kênh địa phương" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025112318242577.png",ĐỒNG THÁP 2 HD
 https://toiyeuvietnam.dpdns.org/CoBan/tien-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="gia-lai" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/gia-lai/KenhCoBan",GIA LAI HD
 https://toiyeuvietnam.dpdns.org/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
