@@ -3240,25 +3240,25 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDo
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="o2tv" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/o2tv/KenhCoBan",VTVCAB 7 - ON O2TV HD
 https://toiyeuvietnam.dpdns.org/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON FOOTBALL
+#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON FOOTBALL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
-#EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab3hd/KenhBoSung",ON SPORTS
+#EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab3hd/KenhBoSung",ON SPORTS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
 https://livecdn.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
-#EXTINF:-1 tvg-id="vtvcab18hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab18hd/KenhBoSung",ON SPORTS NEWS
+#EXTINF:-1 tvg-id="vtvcab18hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab18hd/KenhBoSung",ON SPORTS NEWS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
 https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
-#EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab6hd/KenhBoSung",ON SPORTS+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="TV360" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab6hd/KenhBoSung",ON SPORTS+ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3348,21 +3348,111 @@ https://toiyeuvietnam.dpdns.org/CoBan/htvc-ca-nhac/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/htvc/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvc-du-lich-cuoc-song" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htvc-du-lich-cuoc-song/KenhCoBan",HTVC DU LỊCH & CUỘC SỐNG
 https://toiyeuvietnam.dpdns.org/CoBan/htvc-du-lich-cuoc-song/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-1" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-1/KenhCoBan",THVL1
+#EXTINF:-1 tvg-id="vinh-long-1" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-1/KenhCoBan",THVL1 HD
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-2" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-2/KenhCoBan",THVL2
+#EXTINF:-1 tvg-id="vinh-long-2" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-2/KenhCoBan",THVL2 HD
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-3" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-3/KenhCoBan",THVL3
+#EXTINF:-1 tvg-id="vinh-long-3" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-3/KenhCoBan",THVL3 HD
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-4" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-4/KenhCoBan",THVL4
+#EXTINF:-1 tvg-id="vinh-long-4" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-4/KenhCoBan",THVL4 HD
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vinh-long-5" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tinyurl.com/vinh-long-1-tv360",THVL5
+#EXTINF:-1 tvg-id="vinh-long-5" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tinyurl.com/vinh-long-1-tv360",THVL5 HD
 https://toiyeuvietnam.dpdns.org/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv6" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv6/KenhCoBan",SCTV6 - FIM360
+#EXTINF:-1 tvg-id="qtv-1" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/qtv-1/KenhCoBan",QTV1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/qtv-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="qtv-3" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/qtv-3/KenhCoBan",QTV3 HD
+https://toiyeuvietnam.dpdns.org/CoBan/qtv-3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-noi-1" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-1/KenhCoBan",HÀ NỘI 1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",HÀ NỘI 2 HD
+https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="an-giang" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/an-giang/KenhCoBan",AN GIANG 2 HD
+https://toiyeuvietnam.dpdns.org/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bac-ninh" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/bac-giang/KenhCoBan",BẮC NINH HD
+https://toiyeuvietnam.dpdns.org/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hitv" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hitv/KenhCoBan",HITV
+https://toiyeuvietnam.dpdns.org/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="binh-thuan" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/binh-thuan/KenhCoBan",LÂM ĐỒNG 2 HD
+https://toiyeuvietnam.dpdns.org/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ca-mau" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ca-mau/KenhCoBan",CÀ MAU HD
+https://toiyeuvietnam.dpdns.org/CoBan/ca-mau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="can-tho" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/can-tho/KenhCoBan",CẦN THƠ 1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/can-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hau-giang" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hau-giang/KenhCoBan",CẦN THƠ 2 HD
+https://toiyeuvietnam.dpdns.org/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="soc-trang" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/soc-trang/KenhCoBan",CẦN THƠ 3 HD
+https://toiyeuvietnam.dpdns.org/CoBan/soc-trang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="cao-bang" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/cao-bang/KenhCoBan",CAO BẰNG HD
+https://toiyeuvietnam.dpdns.org/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="da-nang" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/da-nang/KenhCoBan",ĐÀ NẴNG 2 HD
+https://toiyeuvietnam.dpdns.org/CoBan/da-nang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dac-nong" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dac-nong/KenhCoBan",LÂM ĐỒNG 3 HD
+https://toiyeuvietnam.dpdns.org/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dak-lak" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dak-lak/KenhCoBan",ĐẮK LẮK HD
+https://toiyeuvietnam.dpdns.org/CoBan/dak-lak/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dien-bien" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dien-bien/KenhCoBan",ĐIỆN BIÊN HD
+https://toiyeuvietnam.dpdns.org/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-nai" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dong-nai/KenhCoBan",ĐỒNG NAI 1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/dong-nai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-thap" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dong-thap/KenhCoBan",ĐỒNG THÁP HD
+https://toiyeuvietnam.dpdns.org/CoBan/dong-thap/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="gia-lai" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/gia-lai/KenhCoBan",GIA LAI HD
+https://toiyeuvietnam.dpdns.org/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ha-tinh" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-tinh/KenhCoBan",HÀ TĨNH HD
+https://toiyeuvietnam.dpdns.org/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-phong" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hai-phong/KenhCoBan",HẢI PHÒNG HD
+https://toiyeuvietnam.dpdns.org/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-phong-plus" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hai-phong-plus/KenhCoBan",HẢI PHÒNG + HD
+https://toiyeuvietnam.dpdns.org/CoBan/hai-phong-plus/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hai-duong" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hai-duong/KenhCoBan",HẢI PHÒNG 3 HD
+https://toiyeuvietnam.dpdns.org/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hue" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hue/KenhCoBan",HUẾ HD
+https://toiyeuvietnam.dpdns.org/CoBan/hue/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hung-yen" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hung-yen/KenhCoBan",HƯNG YÊN HD
+https://toiyeuvietnam.dpdns.org/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="khanh-hoa" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/khanh-hoa/KenhCoBan",KHÁNH HÒA HD
+https://toiyeuvietnam.dpdns.org/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="kien-giang" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kien-giang/KenhCoBan",AN GIANG 1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/kien-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lai-chau" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/lai-chau/KenhCoBan",LAI CHÂU HD
+https://toiyeuvietnam.dpdns.org/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lam-dong" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/lam-dong/KenhCoBan",LÂM ĐỒNG 1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lang-son" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/lang-son/KenhCoBan",LẠNG SƠN HD
+https://toiyeuvietnam.dpdns.org/CoBan/lang-son/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="lao-cai" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/lao-cai/KenhCoBan",LÀO CAI HD
+https://toiyeuvietnam.dpdns.org/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="long-an" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/long-an/KenhCoBan",TÂY NINH 1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="nghe-an" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/nghe-an/KenhCoBan",NGHỆ AN HD
+https://toiyeuvietnam.dpdns.org/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ninh-binh" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ninh-binh/KenhCoBan",NINH BÌNH HD
+https://toiyeuvietnam.dpdns.org/CoBan/ninh-binh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ninh-thuan" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ninh-thuan/KenhCoBan",KHÁNH HÒA 1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="phu-tho" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/phu-tho/KenhCoBan",PHÚ THỌ HD
+https://toiyeuvietnam.dpdns.org/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-ngai" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/quang-ngai/KenhCoBan",QUẢNG NGÃI HD
+https://toiyeuvietnam.dpdns.org/CoBan/quang-ngai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="quang-tri" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/quang-tri/KenhCoBan",QUẢNG TRỊ HD
+https://toiyeuvietnam.dpdns.org/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="son-la" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/son-la/KenhCoBan",SƠN LA HD
+https://toiyeuvietnam.dpdns.org/CoBan/son-la/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tay-ninh" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tay-ninh/KenhCoBan",TÂY NINH 2 HD
+https://toiyeuvietnam.dpdns.org/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thai-nguyen" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/thai-nguyen/KenhCoBan",THÁI NGUYÊN HF
+https://toiyeuvietnam.dpdns.org/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="thanh-hoa" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/thanh-hoa/KenhCoBan",THANH HÓA HD
+https://toiyeuvietnam.dpdns.org/CoBan/thanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tuyen-quang" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tuyen-quang/KenhCoBan",TUYÊN QUANG HD
+https://toiyeuvietnam.dpdns.org/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dong-nai-2" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/dong-nai-2/KenhCoBan",ĐỒNG NAI 2 HD
+https://toiyeuvietnam.dpdns.org/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="sctv6" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv6/KenhCoBan",SCTV6 - FLIM360 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - TODAY TV
+#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - TODAY TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
@@ -3370,19 +3460,19 @@ https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
-#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="SCTVONLINE" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - TODAY TV
+#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="SCTVONLINE" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - TODAY TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv3hd/KenhBoSung",SCTV3 - SEE TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT: http-referrer=https://hoiquan.cli
 https://liveh34.seenow.vn/hls/SCTV3/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv4hd/KenhBoSung",SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
-#EXTINF:-1 tvg-id="sctv6" group-title="SCTVONLINE" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv6/KenhCoBan",SCTV6 - FIM360
+#EXTINF:-1 tvg-id="sctv6" group-title="SCTVONLINE" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv6/KenhCoBan",SCTV6 - FLIM360 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
