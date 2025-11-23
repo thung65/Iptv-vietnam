@@ -2421,11 +2421,7 @@ http://filex.me:8080/live/drzain/002808/304302.ts
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://filex.me:8080/live/drzain/002808/304303.ts
 
-#EXTINF:-1 tvg-id "spotv1" group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025111214280108.jpg", SPOTV
-http://14.172.129.72:12343/rtp/232.84.3.111:10666
 
-#EXTINF:-1 tvg-id "spotv2" group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025111214282257.jpg", SPOTV2
-http://14.172.129.72:12343/rtp/232.84.3.129:10672
 
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102610395469.jpg",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
