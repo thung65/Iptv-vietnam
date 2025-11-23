@@ -2383,6 +2383,16 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157981.ts
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157982.ts
 
+#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="premiersports2" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102614513632.jpg",PREMIER SPORTS 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+https://7pal.short.gy/prsport2
+
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110318262619.jpg", POLSAT SPORT 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
