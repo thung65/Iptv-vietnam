@@ -3358,3 +3358,93 @@ https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vinh-long-5" group-title="TV360" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tinyurl.com/vinh-long-1-tv360",THVL5
 https://toiyeuvietnam.dpdns.org/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="sctv1hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv1hd/KenhBoSung",SCTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
+#EXTINF:-1 tvg-id="sctv2-today-tv" group-title="SCTVONLINE" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv2-today-tv/KenhCoBan",SCTV2 - TODAY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv3hd/KenhBoSung",SCTV3 - SEE TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV3/index.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv4hd/KenhBoSung",SCTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
+#EXTINF:-1 tvg-id="sctv6" group-title="SCTVONLINE" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv6/KenhCoBan",SCTV6 - FIM360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv7hd/KenhBoSung",SCTV7 - SHOW TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV7/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv8hd/KenhBoSung",SCTV8 - VITV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv9hd/KenhBoSung",SCTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+#EXTINF:-1 tvg-id="sctv11hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv11hd/KenhBoSung",SCTV11 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV11/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv12hd/KenhBoSung",SCTV12 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV12/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv13hd/KenhBoSung",SCTV13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV13/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv14hd/KenhBoSung",SCTV14 - KÊNH PHIM VIỆT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV14/index.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv15hd/KenhBoSung",SCTV15 - SSPORTS2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livecdn.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
+#EXTINF:-1 tvg-id="sctv16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv16hd/KenhBoSung",SCTV16 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV16/index.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv17hd/KenhBoSung",SCTV17 - SSPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livecdn.seenow.vn/mean/SCTV17/manifest.mpd
+#EXTINF:-1 tvg-id="sctv18hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv18hd/KenhBoSung",SCTV18 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv19hd/KenhBoSung",SCTV19 - T CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv20hd/KenhBoSung",SCTV20 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv21hd/KenhBoSung",SCTV21 - VIỆT NAM KÍ ỨC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV21/index.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctv22hd/KenhBoSung",SCTV22 - SSPORTS1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh34.seenow.vn/hls/SCTV22/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SCTVONLINE" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/sctvhdpth/KenhBoSung",SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
