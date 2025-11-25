@@ -3018,7 +3018,7 @@ https://stream.vovmedia.vn/vov2
 https://stream.vovmedia.vn/vov3
 #EXTINF:-1 tvg-id="vov4" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025112316053050.jpg" radio=true, VOV4 DÂN TỘC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/shaka.html?audioUrl=https://stream.vovmedia.vn/vov4
+https://stream.vovmedia.vn/vov4
 #EXTINF:-1 tvg-id="vov4tb" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101317214807.jpg" radio=true, VOV4 TÂY BẮC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.vovmedia.vn/vov4tb
