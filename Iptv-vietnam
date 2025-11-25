@@ -2555,10 +2555,10 @@ https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:0 tvg-id="btv6" group-title=" Địa phương" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
 
 #EXTINF:0 tvg-id="youtv" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110817025475.jpg",YOUTV
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=31&token=2025
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=31&token=BLjOIlaKSsUaZvtX
 
 #EXTINF:0 tvg-id="hitv" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110816212728.jpg",HITV
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=32&token=2025
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=32&token=BLjOIlaKSsUaZvtX
 
 #EXTINF:-1 tvg-id="caobang" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018000394.jpg", CRTV _ BÁO VÀ PTTH CAO BẰNG
 https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
@@ -2678,7 +2678,7 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="dongnai3" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018522428.jpg",ĐNNRTV3 _ BÁO VÀ PTTH ĐỒNG NAI
-https://cloud.sgchill.io.vn/tv/getlink/source/coban2/index.m3u8?id=dongnai3&token=2025
+https://cloud.sgchill.io.vn/tv/getlink/source/coban2/index.m3u8?id=dongnai3&token=BLjOIlaKSsUaZvtX
 
 #EXTINF:-1 tvg-id="tayninh1" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018580696.jpg", TTV1 _ BÁO VÀ PTTH TÂY NINH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -2844,7 +2844,7 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/kenh-2_ce40790f.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=198&time=${start}&offset=${duration}",ON PHIM VIỆT
-https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=175&token=BLjOIlaKSsUaZvtX
 
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-movies-01_d2a5d26a.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}",ON MOVIES - YOU TV
 https://freem3u.xyz/api/live/play.m3u8?vid=181
@@ -2896,7 +2896,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo=" https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101107034879.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab23-golf-channel/${start}/${offset}",ON GOLF
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=169&token=2025
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=169&token=BLjOIlaKSsUaZvtX
 
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/on-football_12c45260.jpg",ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
