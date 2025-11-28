@@ -1,35 +1,43 @@
-#EXTINF:-1 tvg-id="vtv1hd",VTV1
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="vtv1hd",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd",VTV2
+#EXTINF:-1 tvg-id="vtv2hd",VTV2 HD
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv3hd",VTV3
+#EXTINF:-1 tvg-id="vtv3hd",VTV3 HD
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv4hd",VTV4
+#EXTINF:-1 tvg-id="vtv4hd",VTV4 HD
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd",VTV5
+#EXTINF:-1 tvg-id="vtv5hd",VTV5 HD
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcantho",VTV CẦN THƠ
+#EXTINF:-1 tvg-id="vtvcantho",VTV Can Tho
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv7hd",VTV7
+#EXTINF:-1 tvg-id="vtv7hd",VTV7 HD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv8hd",VTV8
+#EXTINF:-1 tvg-id="vtv8hd",VTV8 HD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd",VTV9
+#EXTINF:-1 tvg-id="vtv9hd",VTV9 HD
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 TÂY NĂM BỘ
+#EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 TNB HD
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtn",VTV5 TÂY NGUYÊN
+#EXTINF:-1 tvg-id="vtv5hdtn",VTV5 TN
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vietnamtoday",VIETNAM TODAY
+#EXTINF:-1 tvg-id="vietnamtoday",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd",VTV4 SD
+https://liveh12.seenow.vn/hls/VTV4_HD/01.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd",VTV7 SD
+https://liveh12.seenow.vn/hls/VTV7_HD/01.m3u8
