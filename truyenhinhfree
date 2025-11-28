@@ -65,3 +65,34 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="ninhbinh",NBTV - Ninh Binh HD
 https://liveh34.seenow.vn/hls/NINHBINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="hanoi1",DTV - HA NOI 1 HD
+https://liveh34.seenow.vn/hls/HANOI1TV/03.m3u8
+
+#EXTINF:-1 tvg-id="hanoi2",DTV - HA NOI 2 HD
+https://liveh34.seenow.vn/hls/HANOI2TV/03.m3u8
+
+#EXTINF:-1 tvg-id="hanoi2",DTV - HA NOI 2 4K
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong1hd",DTV - THVL1 HD
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="haiphong",DTV - HAI PHONG HD
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="thainguyen",DTV - THAI NGUYEN HD
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="quangninh1",DTV - QUANG NINH 1 HD
+https://liveh12.seenow.vn/hls/QUANGNINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="quangninh3",DTV - QUANG NINH 3
+https://liveh34.seenow.vn/hls/QUANGNINH3/01.m3u8
+
+#EXTINF:-1 tvg-id="hungyen",DTV - HUNG YEN HD
+https://liveh12.seenow.vn/hls/HUNGYENTV/03.m3u8
+
+#EXTINF:-1 tvg-id="quangninh3",DTV - PHU THO HD
+https://liveh34.seenow.vn/hls/PHUTHOTV/03.m3u8
+
