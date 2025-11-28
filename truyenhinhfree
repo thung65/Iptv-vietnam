@@ -36,6 +36,9 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="vietnamtoday",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="huongdankhachhang" tvg-logo="https://i.imgur.com/QmLjiSw.jpeg" ,Hướng dẫn khách hàng
+https://dl.dropboxusercontent.com/scl/fi/g5gavq8tn281ahl41izet/lv_0_20251128163603.mp4?rlkey=8zawfezrlsp6gibryb304dasv&st=fmiqk3h9&raw=1
+
 #EXTINF:-1 tvg-id="vtv4hd",VTV4 SD
 https://liveh12.seenow.vn/hls/VTV4_HD/01.m3u8
 
