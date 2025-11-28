@@ -1,31 +1,31 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="vtv1hd",VTV1 HD
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+https://liveh12.seenow.vn/hls/VTV1_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd",VTV2 HD
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+https://liveh12.seenow.vn/hls/VTV2_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd",VTV3 HD
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+https://liveh12.seenow.vn/hls/VTV3_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd",VTV4 HD
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+https://liveh12.seenow.vn/hls/VTV4_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd",VTV5 HD
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+https://liveh12.seenow.vn/hls/VTV5_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtvcantho",VTV Can Tho
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+https://liveh12.seenow.vn/hls/VTVCANTHO_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd",VTV7 HD
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://liveh12.seenow.vn/hls/VTV7_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd",VTV8 HD
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+https://liveh12.seenow.vn/hls/VTV8_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd",VTV9 HD
-https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
+https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 TNB HD
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
@@ -45,8 +45,8 @@ https://liveh12.seenow.vn/hls/VTV7_HD/01.m3u8
 #EXTINF:-1 tvg-id="bacninh",BẮC NINH HD
 https://liveh34.seenow.vn/hls/BACGIANGTV/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv7hd",Hai Duong
+#EXTINF:-1 tvg-id="haiphong3",Hai Duong
 https://liveh34.seenow.vn/hls/HAIDUONGTV/03.m3u8
 
-#EXTINF:-1 tvg-id="vtv7hd",Ninh Binh
+#EXTINF:-1 tvg-id="ninhbinh",Ninh Binh
 https://liveh34.seenow.vn/hls/NINHBINHTV/03.m3u8
