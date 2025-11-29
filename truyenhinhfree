@@ -85,7 +85,7 @@ https://liveh34.seenow.vn/hls/HAIDUONGTV/03.m3u8
 https://liveh34.seenow.vn/hls/NINHBINHTV/03.m3u8
 
 #EXTINF:-1 tvg-id="cantho3",CAN THO 3 HD
-https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htv9",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b1800000.m3u8
@@ -118,16 +118,16 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="lamdong2",TH BINH THUAN 
-https://liveh34.seenow.vn/hls/BINHTHUANTV/01.m3u8
+https://liveh34.seenow.vn/hls/BINHTHUANTV/02.m3u8
 
 #EXTINF:-1 tvg-id="tayninh1",Bao va PTTHTayNinh1
-https://freem3u.xyz/api/live/play.m3u8?vid=72
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=72&token=BLjOIlaKSsUaZvtX
 
 #EXTINF:-1 tvg-id="cantho3",TH CAN THO 3
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="dongnai1",Bao va PHTHDongNai1
-https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="dongthap2",TH DONG THAP 2
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b1800000.m3u8
