@@ -231,7 +231,7 @@ https://c.mjh.nz/abc-nsw.m3u8?_xtfc=8f6694d260bbdd4fb507a24c7f66e80b&_xt=1764218
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
-https://toiyeuvietnam.dpdns.org/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
 #EXTINF:-1 tvg-id "dmax" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110412260998.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dmax_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
