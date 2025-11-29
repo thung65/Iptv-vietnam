@@ -1,35 +1,35 @@
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/42_be27f2ac.jpg" group-title="VTV" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}",VTV1
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=2&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=2
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/vtv2_efbf54b9.jpg" group-title="VTV" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}",VTV2
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=3&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=3
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101109415735.jpg" group-title="VTV" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}",VTV3
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=4&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=4
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/vtv4_0e6f90b2.jpg" group-title="VTV" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}",VTV4
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=108&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=108
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/vtv5_577bcf6b.jpg" group-title="VTV" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}",VTV5
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=110&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=110
 
 #EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/vtv-can-tho_c14a6160.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}",VTV CẦN THƠ
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=98&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=98
 
 #EXTINF:-1 tvg-id="vtv7hd" ​​​​tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102912005424.jpg" group-title="VTV" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}",VTV7
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=6&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=6
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/vtv8_a48edffc.jpg" group-title="VTV" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=380&time=${start}&offset=${duration}",VTV8
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=115&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=115
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/46_3fad28d7.jpg" group-title="VTV" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}",VTV9
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=8&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025102912021314.jpg" group-title="VTV" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}",VTV5 TÂY NĂM BỘ
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=157&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=157
 
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo-on-trendingtv-01_9736692b.png" group-title="VTV" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=642&time=${start}&offset=${duration}",VTV5 TÂY NGUYÊN
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=207&token=BLjOIlaKSsUaZvtX
+https://freem3u.xyz/api/live/play.m3u8?vid=207
 
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/vietnam-today_452e998d.jpg" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vietnamtoday_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VIETNAM TODAY
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
