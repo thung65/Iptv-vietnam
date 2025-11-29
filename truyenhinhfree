@@ -75,52 +75,97 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kubolive" ,Hướng dẫn khách hàng
 https://dl.dropboxusercontent.com/scl/fi/g5gavq8tn281ahl41izet/lv_0_20251128163603.mp4?rlkey=8zawfezrlsp6gibryb304dasv&st=fmiqk3h9&raw=1
 
+#EXTINF:-1 tvg-id="bacninh",BẮC NINH SD
+https://liveh34.seenow.vn/hls/BACGIANGTV/02.m3u8
+
 #EXTINF:-1 tvg-id="bacninh",BẮC NINH HD
 https://liveh34.seenow.vn/hls/BACGIANGTV/03.m3u8
+
+#EXTINF:-1 tvg-id="haiphong3",Hai Duong SD
+https://liveh34.seenow.vn/hls/HAIDUONGTV/02.m3u8
 
 #EXTINF:-1 tvg-id="haiphong3",Hai Duong
 https://liveh34.seenow.vn/hls/HAIDUONGTV/03.m3u8
 
+#EXTINF:-1 tvg-id="ninhbinh",Ninh Binh SD
+https://liveh34.seenow.vn/hls/NINHBINHTV/02.m3u8
+
 #EXTINF:-1 tvg-id="ninhbinh",Ninh Binh
 https://liveh34.seenow.vn/hls/NINHBINHTV/03.m3u8
+
+#EXTINF:-1 tvg-id="cantho3",CAN THO 3 SD
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="cantho3",CAN THO 3 HD
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htv9",HTV9
+#EXTINF:-1 tvg-id="htv9",HTV9 SD
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="htv9",HTV9 HD
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htv7",HTV7 SD
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b1800000.m3u8 
 
 #EXTINF:-1 tvg-id="htv7",HTV7 HD
 https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
 
+#EXTINF:-1 tvg-id="htv1",HTV1 SD
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b1800000.m3u8
+
 #EXTINF:-1 tvg-id="htv1",HTV1 HD
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htv1",TH CAN THO 1 SD
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="htv1",TH CAN THO 1 HD
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="qpvnhd",QPVN HD
+#EXTINF:-1 tvg-id="qpvnhd",TH QPVN SD
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="qpvnhd",TH QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="tayninh2",Bao va PTTHTayNinh2
+#EXTINF:-1 tvg-id="tayninh2",TH TAY NINH 2 SD
+https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="tayninh2",TH TAY NINH 2 HD
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="danang2",TH DA NANG 2
+#EXTINF:-1 tvg-id="danang2",TH DA NANG 2 SD
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="danang2",TH DA NANG 2 HD
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="dongthap1",TH DONG THAP 1 SD
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="dongthap1",TH DONG THAP 1 HD
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="htvthethaohd",HTV THE THAO
+#EXTINF:-1 tvg-id="htvthethaohd",HTV THE THAO HD
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="camau",Bao va PHTHCaMau
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd",HTV THE THAO HD
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="lamdong2",TH BINH THUAN 
+#EXTINF:-1 tvg-id="camau",TH CÀ MAU SD
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="camau",TH CÀ MAU HD
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="lamdong2",TH BINH THUAN SD
 https://liveh34.seenow.vn/hls/BINHTHUANTV/02.m3u8
 
-#EXTINF:-1 tvg-id="tayninh1",Bao va PTTHTayNinh1
+#EXTINF:-1 tvg-id="lamdong2",TH BINH THUAN HD
+https://liveh34.seenow.vn/hls/BINHTHUANTV/03.m3u8
+
+#EXTINF:-1 tvg-id="tayninh1",TH TÂY NINH 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -131,19 +176,34 @@ https://liveh34.seenow.vn/hls/BINHTHUANTV/02.m3u8
 #EXTVLCOPT:http-user-agent=VMTTV
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 
-#EXTINF:-1 tvg-id="cantho3",TH CAN THO 3
+#EXTINF:-1 tvg-id="cantho3",TH CAN THO 3 SD
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai1",Bao va PHTHDongNai1
+#EXTINF:-1 tvg-id="cantho3",TH CAN THO 3 HD
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="dongnai1",TH DONG NAI 1 SD
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="dongnai1",TH DONG NAI 1 HD
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongthap2",TH DONG THAP 2
+#EXTINF:-1 tvg-id="dongthap2",TH DONG THAP 2 SD
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="dongthap2",TH An Giang 2
+#EXTINF:-1 tvg-id="dongthap2",TH DONG THAP 2 HD
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="angiang2",TH An Giang 2 SD
+https://liveh34.seenow.vn/hls/THAIBINHTV/02.m3u8
+
+#EXTINF:-1 tvg-id="angiang2",TH An Giang 2 HD
 https://liveh34.seenow.vn/hls/THAIBINHTV/03.m3u8
 
-#EXTINF:-1 tvg-id="cantho2",TH CAN THO 2
+#EXTINF:-1 tvg-id="cantho2",TH CAN THO 2 SD
+https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="cantho2",TH CAN THO 2 HD
 https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd",THVL1-HD
