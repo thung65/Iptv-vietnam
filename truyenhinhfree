@@ -51,7 +51,7 @@ https://liveh12.seenow.vn/hls/VTV4_HD/04.m3u8
 #EXTINF:-1 tvg-id="vtv5hd",VTV5 HD
 https://liveh12.seenow.vn/hls/VTV5_HD/04.m3u8
 
-#EXTINF:-1 tvg-id="vtvcantho",VTV Can Tho
+#EXTINF:-1 tvg-id="vtvcantho",VTV Can Tho HD
 https://liveh12.seenow.vn/hls/VTVCANTHO_HD/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd",VTV7 HD
@@ -66,10 +66,10 @@ https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 TNB HD
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtn",VTV5 TN
+#EXTINF:-1 tvg-id="vtv5hdtn",VTV5 TN HD
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vietnamtoday",Vietnam Today
+#EXTINF:-1 tvg-id="vietnamtoday",Vietnam Today HD
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="kubolive" ,Hướng dẫn khách hàng
@@ -247,7 +247,10 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd",THVL5-HD
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="camau",TH CA MAU
+#EXTINF:-1 tvg-id="camau",TH CA MAU SD
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-id="camau",TH CA MAU HD
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="hitv",DTV - HI TV
@@ -287,7 +290,7 @@ https://liveh12.seenow.vn/hls/HUNGYENTV/02.m3u8
 https://liveh12.seenow.vn/hls/HUNGYENTV/03.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa",KTV - Khanh Hoa SD
-https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa",KTV - Khanh Hoa HD
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
