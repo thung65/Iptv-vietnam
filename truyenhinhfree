@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz,https://live.qphim.xyz/epg.xml.gz"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz,https://live.qphim.xyz/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="vtv1hd",VTV1 HD
 https://liveh12.seenow.vn/hls/VTV1_HD/04.m3u8
@@ -133,7 +133,7 @@ https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 https://liveh12.seenow.vn/hls/HUNGYENTV/03.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa",KTV - Khanh Hoa HD
-https://liveh12.seenow.vn/hls/HUNGYENTV/03.m3u8
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="ninhbinh",NBTV - Ninh Binh HD
 https://liveh34.seenow.vn/hls/NINHBINHTV/03.m3u8
@@ -151,13 +151,13 @@ https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="nghean",NTV - Nghe An HD
-https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd",THVL3 HD
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="haiphong",THP - Hai Phong HD
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1",DTV - HA NOI 1 HD
 https://liveh34.seenow.vn/hls/HANOI1TV/03.m3u8
