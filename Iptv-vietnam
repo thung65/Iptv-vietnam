@@ -2575,6 +2575,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 
 #EXTINF:0 tvg-id="btv6" group-title=" Địa phương" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
+http://khaitv.giize.com:1979/mytv/new/get.php?id=115
 
 #EXTINF:0 tvg-id="youtv" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110817025475.jpg",YOUTV
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=31&token=BLjOIlaKSsUaZvtX
@@ -2973,7 +2974,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/9_2e957ae2.jpg", SCTV9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+http://khaitv.giize.com:1979/mytv/new/get.php?id=790
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/10_dd39c053.jpg",SCTV10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
