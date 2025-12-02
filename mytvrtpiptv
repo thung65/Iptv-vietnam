@@ -178,49 +178,49 @@ https://ace.hoiquan.click/module/IPTV/?id=KSPORT1&accKenh=vuminhthanh1
 https://ace.hoiquan.click/module/IPTV/?id=KSPORT2&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS (MyTV)
 https://ace.hoiquan.click/module/IPTV/?id=KKIDS&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv1hd" group-logo="https://phuhdtv.github.io/thumbs/Groups/SCTV.png" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv2hd" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv3hd" tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv4hd" tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv5hd" tvg-logo="https://i.imgur.com/OTwJmmm.png",SCTV5
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv6/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv7hd" ​​tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv7/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv8hd" tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv10hd" tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv10/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv11hd" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv11/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv12hd" tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv12/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv13hd" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv14hd" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
-http://123.21.223.9:8081/sctv/s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="sctv15hd" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv16hd" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="sctv17hd" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv18hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv19hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV19
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv20hd" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctv21hd" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="sctv22hd" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
-#EXTINF:-1 group-title="💚| SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV PHIM TỔNG HỢP
-http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv1hd" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
+http://khaitv.giize.com:1979/mytv/new/get.php?id=769
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv2hd" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
+http://khaitv.giize.com:1979/mytv/new/get.php?id=772
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv3hd" tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3
+http://khaitv.giize.com:1979/mytv/new/get.php?id=775
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv4hd" tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4
+http://khaitv.giize.com:1979/mytv/new/get.php?id=778
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv5hd" tvg-logo="https://i.imgur.com/OTwJmmm.png",SCTV5
+
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
+http://khaitv.giize.com:1979/mytv/new/get.php?id=781
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv7hd" ​​tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7
+http://khaitv.giize.com:1979/mytv/new/get.php?id=784
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv8hd" tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8
+http://khaitv.giize.com:1979/mytv/new/get.php?id=787
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
+http://khaitv.giize.com:1979/mytv/new/get.php?id=790
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv10hd" tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10
+
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv11hd" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
+http://khaitv.giize.com:1979/mytv/new/get.php?id=793
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv12hd" tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12
+http://khaitv.giize.com:1979/mytv/new/get.php?id=796
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv13hd" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13
+http://khaitv.giize.com:1979/mytv/new/get.php?id=799
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv14hd" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
+http://khaitv.giize.com:1979/mytv/new/get.php?id=802
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv15hd" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
+http://khaitv.giize.com:1979/mytv/new/get.php?id=823
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv16hd" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
+http://khaitv.giize.com:1979/mytv/new/get.php?id=805
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv17hd" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
+http://khaitv.giize.com:1979/mytv/new/get.php?id=826
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv18hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
+http://khaitv.giize.com:1979/mytv/new/get.php?id=808
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv19hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV19
+http://khaitv.giize.com:1979/mytv/new/get.php?id=811
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv20hd" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
+http://khaitv.giize.com:1979/mytv/new/get.php?id=814
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv21hd" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21
+http://khaitv.giize.com:1979/mytv/new/get.php?id=817
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv22hd" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
+http://khaitv.giize.com:1979/mytv/new/get.php?id=829
+#EXTINF:-1 group-title="SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV PHIM TỔNG HỢP
+http://khaitv.giize.com:1979/mytv/new/get.php?id=766
