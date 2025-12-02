@@ -214,7 +214,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=805
 http://khaitv.giize.com:1979/mytv/new/get.php?id=826
 #EXTINF:-1 group-title="SCTV" tvg-id="sctv18hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
 http://khaitv.giize.com:1979/mytv/new/get.php?id=808
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv19hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV19
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv19hd" tvg-logo="https://i.imgur.com/yBAFZRs.png",SCTV19
 http://khaitv.giize.com:1979/mytv/new/get.php?id=811
 #EXTINF:-1 group-title="SCTV" tvg-id="sctv20hd" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
 http://khaitv.giize.com:1979/mytv/new/get.php?id=814
