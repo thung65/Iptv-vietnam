@@ -531,7 +531,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=235&token=BLj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=239&token=BLjOIlaKSsUaZvtX
+http://khaitv.giize.com:1979/mytv/new/get.php?id=105
 
 #EXTINF:-1 tvg-id="man" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016045453.jpg",MAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -555,7 +555,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=237&token=BLj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=289&token=BLjOIlaKSsUaZvtX
+http://khaitv.giize.com:1979/mytv/new/get.php?id=69
 
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101016054778.jpg",DR.FIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
