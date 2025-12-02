@@ -93,7 +93,7 @@ https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="htv7",HTV7 HD
 https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="btv6" tvg-logo="" ,BTV6-SHOPPING 24H
+#EXTINF:-1 tvg-id="btv6" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251202130021.jpg" ,BTV6-SHOPPING 24H
 http://khaitv.giize.com:1979/mytv/new/get.php?id=115
 
 #EXTINF:-1 tvg-id="htv1",HTV1 HD
