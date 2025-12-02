@@ -2574,7 +2574,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101017593882.jpg", H2 UHD _ BÁO VÀ PTTH HÀ NỘI
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 
-#EXTINF:0 tvg-id="btv6" group-title=" Địa phương" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
+#EXTINF:0 tvg-id="btv6" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025111214235127.jpg",BTV6
 http://khaitv.giize.com:1979/mytv/new/get.php?id=115
 
 #EXTINF:0 tvg-id="youtv" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025110817025475.jpg",YOUTV
