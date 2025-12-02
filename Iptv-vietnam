@@ -2973,13 +2973,13 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=796
 http://khaitv.giize.com:1979/mytv/new/get.php?id=799
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/14_614545db.jpg", SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8|Referer=https://sctvonline.vn/
+http://khaitv.giize.com:1979/mytv/new/get.php?id=802
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/15_f6a8241e.jpg",SCTV15 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://khaitv.giize.com:1979/mytv/new/get.php?id=823
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https:/raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/16_47eb3436.jpg",SCTV16 HD
-https://liveh34.seenow.vn/hls/SCTV16/index.m3u8
+http://khaitv.giize.com:1979/mytv/new/get.php?id=805
 
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/17_03ba5e54.jpg",SCTV17 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
