@@ -16,9 +16,9 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=459
 http://khaitv.giize.com:1979/mytv/new/get.php?id=380
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=381
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 TÂY NĂM BỘ (MyTV)
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 TÂY NĂM BỘ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=615
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 TÂY NGUYÊN (MyTV)
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://khaitv.giize.com:1979/mytv/new/get.php?id=227
