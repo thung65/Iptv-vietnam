@@ -128,13 +128,13 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=227
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 http://khaitv.giize.com:1979/mytv/new/get.php?id=35
-#EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="append" , ON VIE GIẢI TRÍ (MyTV)
+#EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png", ON VIE GIẢI TRÍ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=197
-#EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png" catchup="append" catchup-days="2" catchup-source="/catchup/198/${start}/${end}",ON PHIM VIỆT (MyTV)
+#EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON PHIM VIỆT (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=198
 #EXTINF:-1 id-xtream="24646" tvg-id="onsports" plan="VIP,K+,VN" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ON_Sports_logo_2022.png" group-title="VTVcab", ON SPORTS (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=200
-#EXTINF:-1 id-xtream="50929" tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png"  catchup="append" catchup-days="2" catchup-source="/catchup/435/${start}/${end}", ON MOVIES (MyTV)
+#EXTINF:-1 id-xtream="50929" tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png", ON MOVIES (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=435
 #EXTINF:-1 id-xtream="11211" tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png" catchup="append" catchup-days="2" catchup-source="/catchup/202/${start}/${end}", ON E CHANNEL (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=202
