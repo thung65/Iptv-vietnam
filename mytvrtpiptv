@@ -8,7 +8,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=211
 http://khaitv.giize.com:1979/mytv/new/get.php?id=378
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=379
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (MyTV)
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=212
 #EXTINF:0 tvg-id="vtv7hd" ​​group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=459
@@ -16,39 +16,13 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=459
 http://khaitv.giize.com:1979/mytv/new/get.php?id=380
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=381
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (MyTV)
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 TÂY NĂM BỘ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=615
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (MyTV)
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 TÂY NGUYÊN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://khaitv.giize.com:1979/mytv/new/get.php?id=227
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
-http://khaitv.giize.com:1979/mytv/new/get.php?id=35
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=210
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=377
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=211
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=378
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=379
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=212
-#EXTINF:0 tvg-id="vtv7hd" ​​group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=459
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=380
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=381
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=615
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=642
-#EXTINF:0 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-http://khaitv.giize.com:1979/mytv/new/get.php?id=227
-#EXTINF:0 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://khaitv.giize.com:1979/mytv/new/get.php?id=35
 #EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON VIE GIẢI TRÍ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=197
