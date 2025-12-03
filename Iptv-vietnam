@@ -233,7 +233,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/oldkey/tv.xml
+#KODIPROP:inputstream.adaptive.license_key=https://iptv-vietnam.vercel.app/tv.xml
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="9621" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101118374201.jpg", TRT WORLD
