@@ -128,106 +128,96 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=158
 #EXTINF:0 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH LAI CHÂU
 http://khaitv.giize.com:1979/mytv/new/get.php?id=156
 #EXTINF:0 tvg-id="caobang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH CAO BẰNG
-udp://@225.1.1.102:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=141
 #EXTINF:0 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH LẠNG SƠN
-udp://@225.1.1.160:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=193
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG
-udp://@225.1.2.188:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=154
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN HD _ TH THÁI NGUYÊN
-udp://@225.1.2.179:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=406
 #EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ
-udp://@225.1.2.165:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=410
 #EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH QUẢNG NINH
-udp://@225.1.2.181:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=455
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH
-udp://@225.1.2.180:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=457
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH BẮC NINH
-udp://@225.1.1.40:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=183
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI
-udp://@225.1.2.186:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=400
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI
-udp://@225.1.1.125:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=401
 #EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QmzXd4R.png",THP3 _ TH TP. HẢI PHÒNG
-udp://@225.1.1.158:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=93
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. HẢI PHÒNG
-udp://@225.1.1.44:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=407
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD _ TH NINH BÌNH
-udp://@225.1.2.185:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=160
 #EXTINF:0 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH NGHỆ AN
-udp://@225.1.2.183:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=453
 #EXTINF:0 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/R4uthe7.png",BHT HD _ TH HÀ TĨNH
-udp://@225.1.1.75:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=405
 #EXTINF:0 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://i.imgur.com/4TLTYfu.png",QTTV _ TH QUẢNG TRỊ
-udp://@225.1.1.117:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=121
 #EXTINF:0 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DNRT1 HD _ TH TP. ĐÀ NẴNG
-udp://@225.1.1.147:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=90
 #EXTINF:0 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/hkzIqEV.png",DNRT2 HD _ TH TP. ĐÀ NẴNG
-udp://@225.1.1.146:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=60
 #EXTINF:0 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/McmKwa8.png",QNGTV _ TH QUẢNG NGÃI
-udp://@225.1.2.174:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=409
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH KHÁNH HÒA
-udp://@225.1.1.133:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=114
 #EXTINF:0 tvg-id="khanhhoa1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/cx5AaTV.png",KTV1 HD _ TH KHÁNH HOÀ
-udp://@225.1.2.178:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=176
 #EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",LTV2 HD _ TH LÂM ĐỒNG
-udp://@225.1.1.124:30120
-#EXTINF:0 tvg-id="kontum" group-title="Địa Phương" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum 
-udp://@225.1.1.36:30120
-#EXTINF:0 tvg-id="gialai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/csqFzvA.png",THGL HD _ TH Gia Lai 
-udp://@225.1.2.176:30120
-#EXTINF:0 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Đắk Lắk 
-udp://@225.1.1.64:30120
-#EXTINF:0 tvg-id="lamdong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH Lâm Đồng 
-udp://@225.1.2.177:30120
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel 
-udp://@225.1.2.189:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ TH Đồng Nai 
-udp://@225.1.1.152:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNRTV2 HD _ TH Đồng Nai 
-udp://@225.1.1.151:30120
-#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV11 _ TH Tây Ninh 
-udp://@225.1.1.130:30120
-#EXTINF:0 tvg-id="vungtau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu 
-udp://@225.1.2.175:30120
-#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp 
-udp://@225.1.1.163:30120
-#EXTINF:0 tvg-id="" group-title="Địa Phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây 
-udp://@225.1.1.210:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang 
-udp://@225.1.2.170:30120
-#EXTINF:0 tvg-id="angiang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV2 _ TH AN GIANG
-udp://@225.1.2.173:30120
-#EXTINF:0 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre 
-udp://@225.1.1.156:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=125
+#EXTINF:0 tvg-id="gialai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/csqFzvA.png",GTV _ TH GIA LAI
+http://khaitv.giize.com:1979/mytv/new/get.php?id=172
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH ĐẮK LẮK
+http://khaitv.giize.com:1979/mytv/new/get.php?id=162
+#EXTINF:0 tvg-id="lamdong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV HD _ TH LÂM ĐỒNG
+http://khaitv.giize.com:1979/mytv/new/get.php?id=164
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL
+http://khaitv.giize.com:1979/mytv/new/get.php?id=479
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ TH ĐỒNG NAI
+http://khaitv.giize.com:1979/mytv/new/get.php?id=404
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNRTV2 HD _ TH ĐỒNG NAI
+http://khaitv.giize.com:1979/mytv/new/get.php?id=95
+#EXTINF:0 tvg-id="tayninh2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/dnxIv2A.png",TTV2 _ TH TÂY NINH
+http://khaitv.giize.com:1979/mytv/new/get.php?id=53
+#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH ĐỒNG THÁP
+http://khaitv.giize.com:1979/mytv/new/get.php?id=96
+#EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY
+http://khaitv.giize.com:1979/mytv/new/get.php?id=54
+#EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV2 _ TH AN GIANG
+http://khaitv.giize.com:1979/mytv/new/get.php?id=34
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH VĨNH LONG
-udp://@225.1.1.155:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=421
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH VĨNH LONG
-udp://@225.1.1.154:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=423
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH VĨNH LONG
-udp://@225.1.1.235:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=425
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH VĨNH LONG
-udp://@225.1.2.25:30120
-#EXTINF:0 tvg-id="travinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THVL5 HD _ TH VĨNH LONG
-udp://@225.1.2.172:30120
-#EXTINF:0 tvg-id="haugiang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang 
-udp://@225.1.1.157:30120
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/jCTogPb.png",ATV1 _ TH AN GIANG
-udp://@225.1.2.182:30120
-#EXTINF:0 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau 
-udp://@225.1.1.104:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NyrxzES.png",CẦN THƠ 1 _ TH TP. CẦN THƠ
-udp://@225.1.1.132:30120
-#EXTINF:0 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
-udp://@225.1.1.98:30120
-#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hưng Yên
-udp://@225.1.1.118:30120
-#EXTINF:0 tvg-id="namdinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Định
-udp://@225.1.1.120:30120
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
-udp://@225.1.2.184:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=429
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THVL5 HD _ TH VĨNH LONG
+http://khaitv.giize.com:1979/mytv/new/get.php?id=175
+#EXTINF:0 tvg-id="cantho2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/a3joZFM.png",CẦN THƠ 2 _ TH TP. CẦN THƠ
+http://khaitv.giize.com:1979/mytv/new/get.php?id=181
+#EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/jCTogPb.png",ATV1 _ TH AN GIANG
+http://khaitv.giize.com:1979/mytv/new/get.php?id=433
+#EXTINF:0 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH CÀ MAU
+http://khaitv.giize.com:1979/mytv/new/get.php?id=180
+#EXTINF:0 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NyrxzES.png",CẦN THƠ 1 _ TH TP. CẦN THƠ
+http://khaitv.giize.com:1979/mytv/new/get.php?id=39
+#EXTINF:0 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH SƠN LA
+http://khaitv.giize.com:1979/mytv/new/get.php?id=157
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH HƯNG YÊN
+http://khaitv.giize.com:1979/mytv/new/get.php?id=408
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH THANH HÓA
+http://khaitv.giize.com:1979/mytv/new/get.php?id=477
 #EXTINF:0 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ
-udp://@225.1.1.161:30120
-#EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/jBWD3It.png",TTV1 _ TH TÂY NINH
-udp://@225.1.1.162:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=168
+#EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/fM6jcQB.png",TTV1 _ TH TÂY NINH
+http://khaitv.giize.com:1979/mytv/new/get.php?id=47
 #EXTINF:0 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5KQJoBg.png",CẦN THƠ 3 _ TH TP. CẦN THƠ
-udp://@225.1.1.159:30120
+http://khaitv.giize.com:1979/mytv/new/get.php?id=52
