@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
+#------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=210
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (MyTV)
@@ -21,12 +22,12 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=381
 http://khaitv.giize.com:1979/mytv/new/get.php?id=615
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=642
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VIETNAM TODAY (MyTV)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=642
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+#------------------------Thiết Yếu------------------------#
+#EXTINF:0 tvg-id="qpvnhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://khaitv.giize.com:1979/mytv/new/get.php?id=227
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+#EXTINF:0 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://khaitv.giize.com:1979/mytv/new/get.php?id=35
+#------------------------VTVcab------------------------#
 #EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON VIE GIẢI TRÍ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=197
 #EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON PHIM VIỆT (MyTV)
@@ -67,6 +68,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=742
 http://khaitv.giize.com:1979/mytv/new/get.php?id=745
 #EXTINF:-1 id-xtream="57739" tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=415
+#------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=7
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL (MyTV)
@@ -95,6 +97,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=16
 http://khaitv.giize.com:1979/mytv/new/get.php?id=300
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=384
+#------------------------Địa Phương------------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=116
 #EXTINF:0 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN (MyTV)
@@ -197,6 +200,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=168
 http://khaitv.giize.com:1979/mytv/new/get.php?id=47
 #EXTINF:0 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/7FA1I1d.png",CẦN THƠ 3 _ TH TP. CẦN THƠ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=52
+#--------------SCTV--------------#
 #EXTINF:-1 group-title="SCTV" tvg-id="sctv1hd" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=769
 #EXTINF:-1 group-title="SCTV" tvg-id="sctv2hd" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2 (MyTV)
@@ -239,6 +243,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=817
 http://khaitv.giize.com:1979/mytv/new/get.php?id=829
 #EXTINF:-1 group-title="SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV PHIM TỔNG HỢP (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=766
+#------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=321
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET (MyTV)
@@ -347,3 +352,12 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=633
 http://khaitv.giize.com:1979/mytv/new/get.php?id=395
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=361
+#--------------MyTV--------------#
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/NWtbAS5.png",Sự kiện 801
+http://khaitv.giize.com:1979/mytv/new/get.php?id=267
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/NWtbAS5.png",Sự kiện 802
+http://khaitv.giize.com:1979/mytv/new/get.php?id=349
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/NWtbAS5.png",Sự kiện 803
+http://khaitv.giize.com:1979/mytv/new/get.php?id=447
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/NWtbAS5.png",Sự kiện 804
+http://khaitv.giize.com:1979/mytv/new/get.php?id=449
