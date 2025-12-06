@@ -65,159 +65,177 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=742
 http://khaitv.giize.com:1979/mytv/new/get.php?id=745
 #EXTINF:-1 id-xtream="57739" tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=415
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE (MyTV)
-https://ace.hoiquan.click/module/IPTV/?id=KCINE&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION (MyTV)
-https://ace.hoiquan.click/module/IPTV/?id=KACTION&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT 1 (MyTV)
-https://ace.hoiquan.click/module/IPTV/?id=KSPORT1&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT 2 (MyTV)
-https://ace.hoiquan.click/module/IPTV/?id=KSPORT2&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS (MyTV)
-https://ace.hoiquan.click/module/IPTV/?id=KKIDS&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv1hd" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
-http://khaitv.giize.com:1979/mytv/new/get.php?id=769
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv2hd" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
-http://khaitv.giize.com:1979/mytv/new/get.php?id=772
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv3hd" tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3
-http://khaitv.giize.com:1979/mytv/new/get.php?id=775
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv4hd" tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4
-http://khaitv.giize.com:1979/mytv/new/get.php?id=778
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
-http://khaitv.giize.com:1979/mytv/new/get.php?id=781
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv7hd" ​​tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7
-http://khaitv.giize.com:1979/mytv/new/get.php?id=784
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv8hd" tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8
-http://khaitv.giize.com:1979/mytv/new/get.php?id=787
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
-http://khaitv.giize.com:1979/mytv/new/get.php?id=790
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv11hd" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
-http://khaitv.giize.com:1979/mytv/new/get.php?id=793
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv12hd" tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12
-http://khaitv.giize.com:1979/mytv/new/get.php?id=796
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv13hd" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13
-http://khaitv.giize.com:1979/mytv/new/get.php?id=799
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv14hd" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
-http://khaitv.giize.com:1979/mytv/new/get.php?id=802
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv15hd" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-http://khaitv.giize.com:1979/mytv/new/get.php?id=823
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv16hd" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
-http://khaitv.giize.com:1979/mytv/new/get.php?id=805
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv17hd" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
-http://khaitv.giize.com:1979/mytv/new/get.php?id=826
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv18hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
-http://khaitv.giize.com:1979/mytv/new/get.php?id=808
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv19hd" tvg-logo="https://i.imgur.com/yBAFZRs.png",SCTV19
-http://khaitv.giize.com:1979/mytv/new/get.php?id=811
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv20hd" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
-http://khaitv.giize.com:1979/mytv/new/get.php?id=814
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv21hd" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21
-http://khaitv.giize.com:1979/mytv/new/get.php?id=817
-#EXTINF:-1 group-title="SCTV" tvg-id="sctv22hd" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
-http://khaitv.giize.com:1979/mytv/new/get.php?id=829
-#EXTINF:-1 group-title="SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV PHIM TỔNG HỢP
-http://khaitv.giize.com:1979/mytv/new/get.php?id=766
-#EXTINF:-1 tvg-id="spotv1" group-title="SPOTV" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV
-http://khaitv.giize.com:1979/mytv/new/get.php?id=632
-#EXTINF:-1 tvg-id="spotv2" group-title="SPOTV" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2
-http://khaitv.giize.com:1979/mytv/new/get.php?id=633
-#EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI 
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=7
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=127
+#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=110
+#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV KEYS (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=9
+#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=128
+#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=190
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=18
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC CA NHẠC (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=12
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH VÀO CUỘC SỐNG (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=13
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC GIA ĐÌNH (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=14
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC PHIM (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=302
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC PHỤ NỮ (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=16
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=300
+#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=384
+#EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=116
-#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN
+#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=158
-#EXTINF:0 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH LAI CHÂU
+#EXTINF:0 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH LAI CHÂU (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=156
-#EXTINF:0 tvg-id="caobang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH CAO BẰNG
+#EXTINF:0 tvg-id="caobang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH CAO BẰNG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=141
-#EXTINF:0 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH LẠNG SƠN
+#EXTINF:0 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH LẠNG SƠN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=193
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=154
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/9mtg3kd.png",TN HD _ TH THÁI NGUYÊN
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/9mtg3kd.png",TN HD _ TH THÁI NGUYÊN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=406
-#EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=410
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH QUẢNG NINH
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH QUẢNG NINH (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=455
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=457
-#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=183
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=400
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=401
-#EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QmzXd4R.png",THP3 _ TH TP. HẢI PHÒNG
+#EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QmzXd4R.png",THP3 _ TH TP. HẢI PHÒNG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=93
-#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. HẢI PHÒNG
+#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. HẢI PHÒNG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=407
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD _ TH NINH BÌNH
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD _ TH NINH BÌNH (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=160
-#EXTINF:0 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH NGHỆ AN
+#EXTINF:0 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH NGHỆ AN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=453
-#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/kGDxmOS.png",BHT HD _ TH HÀ TĨNH
+#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/kGDxmOS.png",BHT HD _ TH HÀ TĨNH (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=405
-#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://i.imgur.com/oXtKDtN.png",QTTV _ TH QUẢNG TRỊ
+#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://i.imgur.com/oXtKDtN.png",QTTV _ TH QUẢNG TRỊ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=121
-#EXTINF:0 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/b4hZPxo.png",DNRT1 HD _ TH TP. ĐÀ NẴNG
+#EXTINF:0 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/b4hZPxo.png",DNRT1 HD _ TH TP. ĐÀ NẴNG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=90
-#EXTINF:0 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/qgwls5b.png",DNRT2 HD _ TH TP. ĐÀ NẴNG
+#EXTINF:0 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/qgwls5b.png",DNRT2 HD _ TH TP. ĐÀ NẴNG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=60
-#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QjIOaaN.png",QNGTV _ TH QUẢNG NGÃI
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QjIOaaN.png",QNGTV _ TH QUẢNG NGÃI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=409
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH KHÁNH HÒA
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH KHÁNH HÒA (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=114
-#EXTINF:0 tvg-id="khanhhoa1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/OckyNsp.png",KTV1 HD _ TH KHÁNH HOÀ
+#EXTINF:0 tvg-id="khanhhoa1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/OckyNsp.png",KTV1 HD _ TH KHÁNH HOÀ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=176
-#EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/TMhhiF3.png",LTV2 HD _ TH LÂM ĐỒNG
+#EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/TMhhiF3.png",LTV2 HD _ TH LÂM ĐỒNG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=125
-#EXTINF:0 tvg-id="gialai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/csqFzvA.png",GTV _ TH GIA LAI
+#EXTINF:0 tvg-id="gialai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/csqFzvA.png",GTV _ TH GIA LAI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=172
-#EXTINF:0 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH ĐẮK LẮK
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH ĐẮK LẮK (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=162
-#EXTINF:0 tvg-id="lamdong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CFFHnmw.png",LTV1 HD _ TH LÂM ĐỒNG
+#EXTINF:0 tvg-id="lamdong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CFFHnmw.png",LTV1 HD _ TH LÂM ĐỒNG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=164
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=479
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ TH ĐỒNG NAI
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ TH ĐỒNG NAI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=404
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CCavB9h.png",ĐNRTV2 HD _ TH ĐỒNG NAI
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CCavB9h.png",ĐNRTV2 HD _ TH ĐỒNG NAI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=95
-#EXTINF:0 tvg-id="tayninh2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/dnxIv2A.png",TTV2 _ TH TÂY NINH
+#EXTINF:0 tvg-id="tayninh2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/dnxIv2A.png",TTV2 _ TH TÂY NINH (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=53
-#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH ĐỒNG THÁP
+#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH ĐỒNG THÁP (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=96
-#EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY
+#EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=54
-#EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/RCgYcRm.png",ATV2 _ TH AN GIANG
+#EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/RCgYcRm.png",ATV2 _ TH AN GIANG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=34
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH VĨNH LONG
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH VĨNH LONG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=421
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH VĨNH LONG
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH VĨNH LONG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=423
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH VĨNH LONG
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH VĨNH LONG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=425
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH VĨNH LONG
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH VĨNH LONG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=429
-#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/GlQQ4KU.png",THVL5 HD _ TH VĨNH LONG
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://i.imgur.com/GlQQ4KU.png",THVL5 HD _ TH VĨNH LONG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=175
-#EXTINF:0 tvg-id="cantho2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/HqV3frO.png",CẦN THƠ 2 _ TH TP. CẦN THƠ
+#EXTINF:0 tvg-id="cantho2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/HqV3frO.png",CẦN THƠ 2 _ TH TP. CẦN THƠ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=181
-#EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/rVTUW7a.png",ATV1 _ TH AN GIANG
+#EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/rVTUW7a.png",ATV1 _ TH AN GIANG (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=433
-#EXTINF:0 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH CÀ MAU
+#EXTINF:0 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH CÀ MAU (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=180
-#EXTINF:0 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/F5OhQVa.png",CẦN THƠ 1 _ TH TP. CẦN THƠ
+#EXTINF:0 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/F5OhQVa.png",CẦN THƠ 1 _ TH TP. CẦN THƠ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=39
-#EXTINF:0 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH SƠN LA
+#EXTINF:0 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH SƠN LA (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=157
-#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH HƯNG YÊN
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH HƯNG YÊN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=408
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH THANH HÓA
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH THANH HÓA (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=477
-#EXTINF:0 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ
+#EXTINF:0 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=168
-#EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/fM6jcQB.png",TTV1 _ TH TÂY NINH
+#EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/fM6jcQB.png",TTV1 _ TH TÂY NINH (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=47
-#EXTINF:0 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/7FA1I1d.png",CẦN THƠ 3 _ TH TP. CẦN THƠ
+#EXTINF:0 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/7FA1I1d.png",CẦN THƠ 3 _ TH TP. CẦN THƠ (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=52
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv1hd" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=769
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv2hd" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=772
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv3hd" tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=775
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv4hd" tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=778
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=781
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv7hd" ​​tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=784
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv8hd" tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=787
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=790
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv11hd" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=793
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv12hd" tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=796
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv13hd" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=799
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv14hd" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=802
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv15hd" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=823
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv16hd" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=805
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv17hd" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=826
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv18hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=808
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv19hd" tvg-logo="https://i.imgur.com/yBAFZRs.png",SCTV19 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=811
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv20hd" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=814
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv21hd" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=817
+#EXTINF:-1 group-title="SCTV" tvg-id="sctv22hd" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=829
+#EXTINF:-1 group-title="SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV PHIM TỔNG HỢP (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=766
+#EXTINF:-1 tvg-id="spotv1" group-title="SPOTV" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=632
+#EXTINF:-1 tvg-id="spotv2" group-title="SPOTV" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2 (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=633
