@@ -133,7 +133,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=141
 http://khaitv.giize.com:1979/mytv/new/get.php?id=193
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG
 http://khaitv.giize.com:1979/mytv/new/get.php?id=154
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN HD _ TH THÁI NGUYÊN
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/9mtg3kd.png",TN HD _ TH THÁI NGUYÊN
 http://khaitv.giize.com:1979/mytv/new/get.php?id=406
 #EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ
 http://khaitv.giize.com:1979/mytv/new/get.php?id=410
@@ -141,7 +141,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=410
 http://khaitv.giize.com:1979/mytv/new/get.php?id=455
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH
 http://khaitv.giize.com:1979/mytv/new/get.php?id=457
-#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH BẮC NINH
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH
 http://khaitv.giize.com:1979/mytv/new/get.php?id=183
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI
 http://khaitv.giize.com:1979/mytv/new/get.php?id=400
