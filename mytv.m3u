@@ -235,8 +235,12 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=817
 http://khaitv.giize.com:1979/mytv/new/get.php?id=829
 #EXTINF:-1 group-title="SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV PHIM TỔNG HỢP (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=766
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=321
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=394
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=63
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",ASIAN FOOD NETWORK (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=298
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (MyTV)
