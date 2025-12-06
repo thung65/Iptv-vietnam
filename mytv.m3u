@@ -331,6 +331,8 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=313
 http://khaitv.giize.com:1979/mytv/new/get.php?id=362
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=385
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=306
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DoCK1GY.png",MUSIC BOX (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=69
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN (MyTV)
