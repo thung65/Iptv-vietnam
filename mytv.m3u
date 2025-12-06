@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://vnepg.site/epg.xml.gz"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=210
@@ -349,7 +350,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=395
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=361
 #--------------MyTV--------------#
-#EXTM3U url-tvg="http://vnepg.site/epg.xml.gz"
 #EXTINF:0 tvg-id="mytv801" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/FMdLmtD.png",SỰ KIỆN 801
 http://khaitv.giize.com:1979/mytv/new/get.php?id=267
 #EXTINF:0 tvg-id="mytv802" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/TP17rUG.png",SỰ KIỆN 802
