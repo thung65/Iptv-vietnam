@@ -295,6 +295,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 http://khaitv.giize.com:1979/mytv/new/get.php?id=386
 #EXTINF:0 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=366
+#EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=358
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=392
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/t9fzARL.png",DA VINCI (MyTV)
