@@ -325,11 +325,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=363
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/N69Cori.png",DREAMWORKS (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+http://khaitv.giize.com:1979/mytv/new/get.php?id=553
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=313
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (MyTV)
@@ -353,11 +349,11 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=395
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=361
 #--------------MyTV--------------#
-#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/NWtbAS5.png",SỰ KIỆN 801
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/91/1e/e6/66/6f/ff/91e66-p801-channel-unkn.png",SỰ KIỆN 801
 http://khaitv.giize.com:1979/mytv/new/get.php?id=267
-#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/NWtbAS5.png",SỰ KIỆN 802
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e6/68/82/2a/a6/62/e682a-p802-channel-unkn.png",SỰ KIỆN 802
 http://khaitv.giize.com:1979/mytv/new/get.php?id=349
-#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/NWtbAS5.png",SỰ KIỆN 803
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/f0/02/2e/e3/3d/dc/f02e3-p803-channel-unkn.png",SỰ KIỆN 803
 http://khaitv.giize.com:1979/mytv/new/get.php?id=447
-#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/NWtbAS5.png",SỰ KIỆN 804
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6c/c8/8b/ba/a7/72/6c8ba-p804-channel-unkn.png",SỰ KIỆN 804
 http://khaitv.giize.com:1979/mytv/new/get.php?id=449
