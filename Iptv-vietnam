@@ -2625,7 +2625,7 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="dongnai3" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018522428.jpg",ĐNNRTV3 _ BÁO VÀ PTTH ĐỒNG NAI
-https://cloud.sgchill.io.vn/tv/getlink/source/coban2/index.m3u8?id=dongnai3&token=BLjOIlaKSsUaZvtX
+http://14.248.224.236:8889/Vieon.php?id=dongnai3
 
 #EXTINF:-1 tvg-id="tayninh1" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101018580696.jpg", TTV1 _ BÁO VÀ PTTH TÂY NINH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -2657,8 +2657,7 @@ https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="angiang3" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101019080739.jpg", ATV3 _ BÁO VÀ PTTH AN GIANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="camau" group-title=" Địa phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101019082568.jpg",CTV HD _ BÁO VÀ PTTH TH CÀ MAU
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
