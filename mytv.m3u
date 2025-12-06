@@ -21,6 +21,8 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=381
 http://khaitv.giize.com:1979/mytv/new/get.php?id=615
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=642
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VIETNAM TODAY (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://khaitv.giize.com:1979/mytv/new/get.php?id=227
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
@@ -115,6 +117,8 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=455
 http://khaitv.giize.com:1979/mytv/new/get.php?id=457
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=183
+#EXTINF:0 tvg-id="btv6" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6 _ TH BÌNH THUẬN (MyTV)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=115
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=400
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI (MyTV)
