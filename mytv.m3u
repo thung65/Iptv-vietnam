@@ -349,11 +349,11 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=395
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (MyTV)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=361
 #--------------MyTV--------------#
-#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/91/1e/e6/66/6f/ff/91e66-p801-channel-unkn.png",SỰ KIỆN 801
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/FMdLmtD.png",SỰ KIỆN 801
 http://khaitv.giize.com:1979/mytv/new/get.php?id=267
-#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/e6/68/82/2a/a6/62/e682a-p802-channel-unkn.png",SỰ KIỆN 802
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/TP17rUG.png",SỰ KIỆN 802
 http://khaitv.giize.com:1979/mytv/new/get.php?id=349
-#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/f0/02/2e/e3/3d/dc/f02e3-p803-channel-unkn.png",SỰ KIỆN 803
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/M8vO6qd.png",SỰ KIỆN 803
 http://khaitv.giize.com:1979/mytv/new/get.php?id=447
-#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/6c/c8/8b/ba/a7/72/6c8ba-p804-channel-unkn.png",SỰ KIỆN 804
+#EXTINF:0 tvg-id="" group-title="Dịch vụ MyTV" tvg-logo="https://i.imgur.com/yNA1Rfs.png",SỰ KIỆN 804
 http://khaitv.giize.com:1979/mytv/new/get.php?id=449
