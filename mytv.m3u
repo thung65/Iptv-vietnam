@@ -274,11 +274,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"I+jF8v4gKQasLWVU2VJymQ", "kid":"WLlJmG7RMpS8AbDzMKvFJw" },{ "kty":"oct", } ], "type":"temporary" }
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"03S485kEv1cmieo0euhlkQ", "kid":"x7pGCG3aNFqSnim/FV5FnA" } ], "type":"temporary" }
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+http://125hvt.ddns.net:21585/bbc/index.m3u8
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
