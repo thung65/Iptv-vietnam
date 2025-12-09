@@ -23,7 +23,7 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=381
 http://khaitv.giize.com:1979/mytv/new/get.php?id=615
 #EXTINF:0 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=642
-#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=227
 #EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://khaitv.giize.com:1979/mytv/new/get.php?id=35
