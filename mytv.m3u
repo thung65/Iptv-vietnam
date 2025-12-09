@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://vnepg.site/epg.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AE1.xml.gz"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=210
