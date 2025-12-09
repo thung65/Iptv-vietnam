@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://vnepg.site/epg.xml.gz"
-#------------------------VTV------------------------#
+
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=210
 #EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
@@ -23,12 +23,10 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=381
 http://khaitv.giize.com:1979/mytv/new/get.php?id=615
 #EXTINF:0 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=642
-#------------------------Thiết Yếu------------------------#
 #EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://khaitv.giize.com:1979/mytv/new/get.php?id=227
 #EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://khaitv.giize.com:1979/mytv/new/get.php?id=35
-#------------------------VTVcab------------------------#
 #EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON VIE GIẢI TRÍ (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=197
 #EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON PHIM VIỆT (HD 8Mbps)
@@ -69,7 +67,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=742
 http://khaitv.giize.com:1979/mytv/new/get.php?id=745
 #EXTINF:-1 id-xtream="57739" tvg-id="ongolf" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=415
-#------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=7
 #EXTINF:0 tvg-id="htv2hd" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL (HD 8Mbps)
@@ -98,7 +95,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=16
 http://khaitv.giize.com:1979/mytv/new/get.php?id=300
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=384
-#------------------------Địa Phương------------------------#
 #EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=116
 #EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN (HD 8Mbps)
@@ -244,7 +240,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=817
 http://khaitv.giize.com:1979/mytv/new/get.php?id=829
 #EXTINF:-1tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV PHIM TỔNG HỢP (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=766
-#------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="abcaustralia" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=321
 #EXTINF:0 tvg-id="animalhd" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET (HD 8Mbps)
@@ -341,7 +336,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=633
 http://khaitv.giize.com:1979/mytv/new/get.php?id=395
 #EXTINF:0 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=361
-#--------------MyTV--------------#
 #EXTINF:0 tvg-id="mytv801" tvg-logo="https://i.imgur.com/FMdLmtD.png",SỰ KIỆN 801
 http://khaitv.giize.com:1979/mytv/new/get.php?id=267
 #EXTINF:0 tvg-id="mytv802" tvg-logo="https://i.imgur.com/TP17rUG.png",SỰ KIỆN 802
