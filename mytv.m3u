@@ -318,6 +318,8 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=553
 http://khaitv.giize.com:1979/mytv/new/get.php?id=313
 #EXTINF:0 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=362
+#EXTINF:0 tvg-id="france24eng" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 (HD 8Mbps)
+http://khaitv.giize.com:1979/mytv/new/get.php?id=308
 #EXTINF:0 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
 http://khaitv.giize.com:1979/mytv/new/get.php?id=385
 #EXTINF:0 tvg-id="kbsworld" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (HD 8Mbps)
