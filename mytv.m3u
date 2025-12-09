@@ -266,7 +266,11 @@ https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC LIFESTYLE (HD 8Mbps)
 https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="bbcworldnews" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS (HD 8Mbps)
-http://125hvt.ddns.net:21585/bbc/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"03S485kEv1cmieo0euhlkQ", "kid":"x7pGCG3aNFqSnim/FV5FnA" } ], "type":"temporary" }
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:0 tvg-id="bloomberg" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (HD 8Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
