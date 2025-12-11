@@ -25,349 +25,165 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY SD
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=210
-#EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=377
-#EXTINF:0 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=211
-#EXTINF:0 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=378
-#EXTINF:0 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=379
-#EXTINF:0 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=212
-#EXTINF:0 tvg-id="vtv7hd" ​​ tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=459
-#EXTINF:0 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=380
-#EXTINF:0 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=381
-#EXTINF:0 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 TÂY NĂM BỘ (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=615
-#EXTINF:0 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=642
-#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=227
-#EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
-http://khaitv.giize.com:1979/mytv/new/get.php?id=35
-#EXTINF:-1 id-xtream="36997" tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON VIE GIẢI TRÍ (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=197
-#EXTINF:-1 id-xtream="12864" tvg-id="onphimviet" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON PHIM VIỆT (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=198
-#EXTINF:-1 id-xtream="24646" tvg-id="onsports" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=200
-#EXTINF:-1 id-xtream="50929" tvg-id="onmovies" tvg-logo="https://i.imgur.com/765Y3jw.png",ON MOVIES (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=435
-#EXTINF:-1 id-xtream="11211" tvg-id="onechannel" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E CHANNEL (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=202
-#EXTINF:-1 id-xtream="63793" tvg-id="onsportsplus" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+ (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=203
-#EXTINF:-1 id-xtream="22152" tvg-id="ono2tv" tvg-logo="https://i.imgur.com/nqwVkmM.png", ON O2TV (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=27
-#EXTINF:-1 id-xtream="84252" tvg-id="onbibi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BIBI (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=205
-#EXTINF:-1 id-xtream="83861" tvg-id="oninfotv" tvg-logo="https://i.imgur.com/jp57P0v.png",ON INFO TV (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=437
-#EXTINF:-1 id-xtream="63553" tvg-id="oncine" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON CINE (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=204
-#EXTINF:-1 id-xtream="36266" tvg-id="onstyle" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON STYLE TV (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=206
-#EXTINF:-1 id-xtream="36266" tvg-id="onmusic" tvg-logo="https://i.imgur.com/45BXPY3.png",ON MUSIC (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=439
-#EXTINF:-1 id-xtream="42852" tvg-id="onfootball" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=208
-#EXTINF:0 id-xtream="12933" tvg-id="ontrending" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON TRENDING TV (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=209
-#EXTINF:-1 id-xtream="44545" tvg-id="onsportsnews" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON SPORTS NEWS (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=441
-#EXTINF:-1 id-xtream="19216" tvg-id="onviedramas" tvg-logo="https://i.imgur.com/n7QICK7.png",ON VIE DRAMAS (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=201
-#EXTINF:-1 id-xtream="35271" tvg-id="onvfamily" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFAMILY (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=241
-#EXTINF:-1 id-xtream="96150" tvg-id="onkids" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON KIDS (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=742
-#EXTINF:-1 id-xtream="32686" tvg-id="onlife" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON LIFE (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=745
-#EXTINF:-1 id-xtream="57739" tvg-id="ongolf" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=415
-#EXTINF:0 tvg-id="htv1" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=7
-#EXTINF:0 tvg-id="htv2hd" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=127
-#EXTINF:0 tvg-id="htv3" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=110
-#EXTINF:0 tvg-id="htvkey" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV KEYS (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=9
-#EXTINF:0 tvg-id="htv7hd" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=128
-#EXTINF:0 tvg-id="htv9hd" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=190
-#EXTINF:0 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=18
-#EXTINF:0 tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC CA NHẠC (HD 8Mbps)
+#EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV SD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
+#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN SD
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
+#EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 HD
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ HD
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="vtv7hd" ​​ tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 TÂY NĂM BỘ HD
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN HD
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png",VIETNAM TODAY HD
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htv1" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 HD
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="htv2hd" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL HD
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htv3" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 HD
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="htvkey" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV KEYS HD
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="htv7hd" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:0 tvg-id="htv9hd" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO HD
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC CA NHẠC HD
 http://khaitv.giize.com:1979/mytv/new/get.php?id=12
-#EXTINF:0 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH VÀO CUỘC SỐNG (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH VÀO CUỘC SỐNG HD
 http://khaitv.giize.com:1979/mytv/new/get.php?id=13
-#EXTINF:0 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC GIA ĐÌNH (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC GIA ĐÌNH HD
 http://khaitv.giize.com:1979/mytv/new/get.php?id=14
-#EXTINF:0 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC PHIM (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC PHIM HD
 http://khaitv.giize.com:1979/mytv/new/get.php?id=302
-#EXTINF:0 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC PHỤ NỮ (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC PHỤ NỮ HD
 http://khaitv.giize.com:1979/mytv/new/get.php?id=16
-#EXTINF:0 tvg-id="htvcthuanviet" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcthuanviet" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT HD
 http://khaitv.giize.com:1979/mytv/new/get.php?id=300
-#EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 8Mbps)
+#EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ HD
 http://khaitv.giize.com:1979/mytv/new/get.php?id=384
-#EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI (HD 8Mbps)
+#EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=116
-#EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN (HD 8Mbps)
+#EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=158
-#EXTINF:0 tvg-id="laichau" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH LAI CHÂU (HD 8Mbps)
+#EXTINF:0 tvg-id="laichau" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH LAI CHÂU 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=156
-#EXTINF:0 tvg-id="caobang" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH CAO BẰNG (HD 8Mbps)
+#EXTINF:0 tvg-id="caobang" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH CAO BẰNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=141
-#EXTINF:0 tvg-id="langson" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH LẠNG SƠN (HD 8Mbps)
+#EXTINF:0 tvg-id="langson" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH LẠNG SƠN 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=193
-#EXTINF:0 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG (HD 8Mbps)
+#EXTINF:0 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=154
-#EXTINF:0 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/9mtg3kd.png",TN HD _ TH THÁI NGUYÊN (HD 8Mbps)
+#EXTINF:0 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/9mtg3kd.png",TN HD _ TH THÁI NGUYÊN 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=406
-#EXTINF:0 tvg-id="phutho" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ (HD 8Mbps)
+#EXTINF:0 tvg-id="phutho" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=410
-#EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH QUẢNG NINH (HD 8Mbps)
+#EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH QUẢNG NINH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=455
-#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH (HD 8Mbps)
+#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=457
-#EXTINF:0 tvg-id="bacninh" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH (HD 8Mbps)
+#EXTINF:0 tvg-id="bacninh" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=183
-#EXTINF:0 tvg-id="btv6" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6 _ TH BÌNH THUẬN (HD 8Mbps)
+#EXTINF:0 tvg-id="btv6" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6 _ TH BÌNH THUẬN 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=115
-#EXTINF:0 tvg-id="hanoi1" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI (HD 8Mbps)
+#EXTINF:0 tvg-id="hanoi1" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=400
-#EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI (HD 8Mbps)
+#EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=401
-#EXTINF:0 tvg-id="haiphong3" tvg-logo="https://i.imgur.com/H2Sduzb.png",THP3 _ TH TP. HẢI PHÒNG (HD 8Mbps)
+#EXTINF:0 tvg-id="haiphong3" tvg-logo="https://i.imgur.com/H2Sduzb.png",THP3 _ TH TP. HẢI PHÒNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=93
-#EXTINF:0 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. HẢI PHÒNG (HD 8Mbps)
+#EXTINF:0 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. HẢI PHÒNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=407
-#EXTINF:0 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD _ TH NINH BÌNH (HD 8Mbps)
+#EXTINF:0 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD _ TH NINH BÌNH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=160
-#EXTINF:0 tvg-id="nghean" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH NGHỆ AN (HD 8Mbps)
+#EXTINF:0 tvg-id="nghean" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH NGHỆ AN 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=453
-#EXTINF:0 tvg-id="hatinh" tvg-logo="https://i.imgur.com/kGDxmOS.png",BHT HD _ TH HÀ TĨNH (HD 8Mbps)
+#EXTINF:0 tvg-id="hatinh" tvg-logo="https://i.imgur.com/kGDxmOS.png",BHT HD _ TH HÀ TĨNH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=405
-#EXTINF:0 tvg-id="quangtri" tvg-logo="https://i.imgur.com/oXtKDtN.png",QTTV _ TH QUẢNG TRỊ (HD 8Mbps)
+#EXTINF:0 tvg-id="quangtri" tvg-logo="https://i.imgur.com/oXtKDtN.png",QTTV _ TH QUẢNG TRỊ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=121
-#EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/b4hZPxo.png",DNRT1 HD _ TH TP. ĐÀ NẴNG (HD 8Mbps)
+#EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/b4hZPxo.png",DNRT1 HD _ TH TP. ĐÀ NẴNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=90
-#EXTINF:0 tvg-id="danang2" tvg-logo="https://i.imgur.com/qgwls5b.png",DNRT2 HD _ TH TP. ĐÀ NẴNG (HD 8Mbps)
+#EXTINF:0 tvg-id="danang2" tvg-logo="https://i.imgur.com/qgwls5b.png",DNRT2 HD _ TH TP. ĐÀ NẴNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=60
-#EXTINF:0 tvg-id="quangngai" tvg-logo="https://i.imgur.com/QjIOaaN.png",QNGTV _ TH QUẢNG NGÃI (HD 8Mbps)
+#EXTINF:0 tvg-id="quangngai" tvg-logo="https://i.imgur.com/QjIOaaN.png",QNGTV _ TH QUẢNG NGÃI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=409
-#EXTINF:0 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH KHÁNH HÒA (HD 8Mbps)
+#EXTINF:0 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH KHÁNH HÒA 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=114
-#EXTINF:0 tvg-id="khanhhoa1" tvg-logo="https://i.imgur.com/OckyNsp.png",KTV1 HD _ TH KHÁNH HOÀ (HD 8Mbps)
+#EXTINF:0 tvg-id="khanhhoa1" tvg-logo="https://i.imgur.com/OckyNsp.png",KTV1 HD _ TH KHÁNH HOÀ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=176
-#EXTINF:0 tvg-id="lamdong2" tvg-logo="https://i.imgur.com/TMhhiF3.png",LTV2 HD _ TH LÂM ĐỒNG (HD 8Mbps)
+#EXTINF:0 tvg-id="lamdong2" tvg-logo="https://i.imgur.com/TMhhiF3.png",LTV2 HD _ TH LÂM ĐỒNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=125
-#EXTINF:0 tvg-id="gialai" tvg-logo="https://i.imgur.com/9qGzykW.png",GTV _ TH GIA LAI (HD 8Mbps)
+#EXTINF:0 tvg-id="gialai" tvg-logo="https://i.imgur.com/9qGzykW.png",GTV _ TH GIA LAI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=172
-#EXTINF:0 tvg-id="daklak" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH ĐẮK LẮK (HD 8Mbps)
+#EXTINF:0 tvg-id="daklak" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH ĐẮK LẮK 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=162
-#EXTINF:0 tvg-id="lamdong1" tvg-logo="https://i.imgur.com/CFFHnmw.png",LTV1 HD _ TH LÂM ĐỒNG (HD 8Mbps)
+#EXTINF:0 tvg-id="lamdong1" tvg-logo="https://i.imgur.com/CFFHnmw.png",LTV1 HD _ TH LÂM ĐỒNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=164
-#EXTINF:0 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL (HD 8Mbps)
+#EXTINF:0 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=479
-#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ TH ĐỒNG NAI (HD 8Mbps)
+#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ TH ĐỒNG NAI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=404
-#EXTINF:0 tvg-id="dongnai2" tvg-logo="https://i.imgur.com/CCavB9h.png",ĐNRTV2 HD _ TH ĐỒNG NAI (HD 8Mbps)
+#EXTINF:0 tvg-id="dongnai2" tvg-logo="https://i.imgur.com/CCavB9h.png",ĐNRTV2 HD _ TH ĐỒNG NAI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=95
-#EXTINF:0 tvg-id="tayninh2" tvg-logo="https://i.imgur.com/dnxIv2A.png",TTV2 _ TH TÂY NINH (HD 8Mbps)
+#EXTINF:0 tvg-id="tayninh2" tvg-logo="https://i.imgur.com/dnxIv2A.png",TTV2 _ TH TÂY NINH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=53
-#EXTINF:0 tvg-id="dongthap" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH ĐỒNG THÁP (HD 8Mbps)
+#EXTINF:0 tvg-id="dongthap" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH ĐỒNG THÁP 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=96
-#EXTINF:0 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY (HD 8Mbps)
+#EXTINF:0 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=54
-#EXTINF:0 tvg-id="angiang2" tvg-logo="https://i.imgur.com/RCgYcRm.png",ATV2 _ TH AN GIANG (HD 8Mbps)
+#EXTINF:0 tvg-id="angiang2" tvg-logo="https://i.imgur.com/RCgYcRm.png",ATV2 _ TH AN GIANG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=34
-#EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH VĨNH LONG (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH VĨNH LONG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=421
-#EXTINF:0 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH VĨNH LONG (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH VĨNH LONG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=423
-#EXTINF:0 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH VĨNH LONG (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong3hd" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH VĨNH LONG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=425
-#EXTINF:0 tvg-id="vinhlong4hd" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH VĨNH LONG (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong4hd" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH VĨNH LONG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=429
-#EXTINF:0 tvg-id="vinhlong5hd" tvg-logo="https://i.imgur.com/GlQQ4KU.png",THVL5 HD _ TH VĨNH LONG (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong5hd" tvg-logo="https://i.imgur.com/GlQQ4KU.png",THVL5 HD _ TH VĨNH LONG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=175
-#EXTINF:0 tvg-id="cantho2" tvg-logo="https://i.imgur.com/HqV3frO.png",CẦN THƠ 2 _ TH TP. CẦN THƠ (HD 8Mbps)
+#EXTINF:0 tvg-id="cantho2" tvg-logo="https://i.imgur.com/HqV3frO.png",CẦN THƠ 2 _ TH TP. CẦN THƠ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=181
-#EXTINF:0 tvg-id="angiang1" tvg-logo="https://i.imgur.com/rVTUW7a.png",ATV1 _ TH AN GIANG (HD 8Mbps)
+#EXTINF:0 tvg-id="angiang1" tvg-logo="https://i.imgur.com/rVTUW7a.png",ATV1 _ TH AN GIANG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=433
-#EXTINF:0 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH CÀ MAU (HD 8Mbps)
+#EXTINF:0 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH CÀ MAU 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=180
-#EXTINF:0 tvg-id="cantho1" tvg-logo="https://i.imgur.com/F5OhQVa.png",CẦN THƠ 1 _ TH TP. CẦN THƠ (HD 8Mbps)
+#EXTINF:0 tvg-id="cantho1" tvg-logo="https://i.imgur.com/F5OhQVa.png",CẦN THƠ 1 _ TH TP. CẦN THƠ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=39
-#EXTINF:0 tvg-id="sonla" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH SƠN LA (HD 8Mbps)
+#EXTINF:0 tvg-id="sonla" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH SƠN LA 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=157
-#EXTINF:0 tvg-id="hungyen" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH HƯNG YÊN (HD 8Mbps)
+#EXTINF:0 tvg-id="hungyen" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH HƯNG YÊN 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=408
-#EXTINF:0 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH THANH HÓA (HD 8Mbps)
+#EXTINF:0 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH THANH HÓA 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=477
-#EXTINF:0 tvg-id="hue" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ (HD 8Mbps)
+#EXTINF:0 tvg-id="hue" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=168
-#EXTINF:0 tvg-id="tayninh1" tvg-logo="https://i.imgur.com/fM6jcQB.png",TTV1 _ TH TÂY NINH (HD 8Mbps)
+#EXTINF:0 tvg-id="tayninh1" tvg-logo="https://i.imgur.com/fM6jcQB.png",TTV1 _ TH TÂY NINH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=47
-#EXTINF:0 tvg-id="cantho3" tvg-logo="https://i.imgur.com/7FA1I1d.png",CẦN THƠ 3 _ TH TP. CẦN THƠ (HD 8Mbps)
+#EXTINF:0 tvg-id="cantho3" tvg-logo="https://i.imgur.com/7FA1I1d.png",CẦN THƠ 3 _ TH TP. CẦN THƠ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=52
-#--------------SCTV--------------#
-#EXTINF:-1tvg-id="sctv1hd" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=769
-#EXTINF:-1tvg-id="sctv2hd" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=772
-#EXTINF:-1tvg-id="sctv3hd" tvg-logo="https://i.imgur.com/OHetPmW.png",SCTV3 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=775
-#EXTINF:-1tvg-id="sctv4hd" tvg-logo="https://i.imgur.com/q4GDdbO.png",SCTV4 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=778
-#EXTINF:-1tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=781
-#EXTINF:-1tvg-id="sctv7hd" ​​tvg-logo="https://i.imgur.com/5Px8WQl.png",SCTV7 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=784
-#EXTINF:-1tvg-id="sctv8hd" tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=787
-#EXTINF:-1tvg-id="sctv9hd" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=790
-#EXTINF:-1tvg-id="sctv11hd" tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=793
-#EXTINF:-1tvg-id="sctv12hd" tvg-logo="https://i.imgur.com/didV8dZ.png",SCTV12 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=796
-#EXTINF:-1tvg-id="sctv13hd" tvg-logo="https://i.imgur.com/3i51qm8.png",SCTV13 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=799
-#EXTINF:-1tvg-id="sctv14hd" tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=802
-#EXTINF:-1tvg-id="sctv15hd" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=823
-#EXTINF:-1tvg-id="sctv16hd" tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=805
-#EXTINF:-1tvg-id="sctv17hd" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=826
-#EXTINF:-1tvg-id="sctv18hd" tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=808
-#EXTINF:-1tvg-id="sctv19hd" tvg-logo="https://i.imgur.com/yBAFZRs.png",SCTV19 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=811
-#EXTINF:-1tvg-id="sctv20hd" tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=814
-#EXTINF:-1tvg-id="sctv21hd" tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=817
-#EXTINF:-1tvg-id="sctv22hd" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=829
-#EXTINF:-1tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV PHIM TỔNG HỢP (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=766
-#EXTINF:0 tvg-id="abcaustralia" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=321
-#EXTINF:0 tvg-id="animalhd" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=394
-#EXTINF:0 tvg-id="arirang" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=63
-#EXTINF:0 tvg-id="afnhd" tvg-logo="https://i.imgur.com/KL9oaqc.png",ASIAN FOOD NETWORK (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=298
-#EXTINF:0 tvg-id="axnhd" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=387
-#EXTINF:0 tvg-id="cbeebies" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBEEBIES (HD 8Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
-#EXTINF:0 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC EARTH (HD 8Mbps)
-https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC LIFESTYLE (HD 8Mbps)
-https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="bbcworldnews" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS (HD 8Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"03S485kEv1cmieo0euhlkQ", "kid":"x7pGCG3aNFqSnim/FV5FnA" } ], "type":"temporary" }
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
-#EXTINF:0 tvg-id="bloomberg" tvg-logo="https://i.imgur.com/rxFZgIK.png",BLOOMBERG (HD 8Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{"kty":"oct","k":"eg+MPHLg//+BHVNMkpxXwg","kid":"EHE5P4/CN/OpooAoFCEQ9w"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
-#EXTINF:0 tvg-id="boxhits" tvg-logo="https://i.imgur.com/kL9ubfw.png",BOX HITS (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=105
-#EXTINF:0 tvg-id="bommerang" tvg-logo="https://i.imgur.com/C8nDHeY.png",CARTOONITO (HD 8Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sfDXWekUNp2ziLOw3IFZcQ","k":"VnjTF-FwB6iKm5U55FJlEg"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
-#EXTINF:0 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=391
-#EXTINF:0 tvg-id="cinemaworldhd" tvg-logo="https://i.imgur.com/vFVxJx4.png",CINEMA WORLD (HD 8Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:0 tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/NzROY7r.png",CINEMAX (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=386
-#EXTINF:0 tvg-id="cna" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=366
-#EXTINF:0 tvg-id="cnbc" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=358
-#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=392
-#EXTINF:0 tvg-id="davinci" tvg-logo="https://i.imgur.com/t9fzARL.png",DA VINCI (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=294
-#EXTINF:0 tvg-id="discoveryasiahd" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA (HD 8Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eI4oNfuYVortL0e73AkVFQ","kid":"k0kHsTS+OWOmJjpFOEaSTA"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/2JR5vSZ.png",DISCOVERY CHANNEL (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=363
-#EXTINF:0 tvg-id="dmax" tvg-logo="https://i.imgur.com/vHmt91V.png",DMAX (HD 8Mbps)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
-#EXTINF:0 tvg-id="dreamworks" tvg-logo="https://i.imgur.com/N69Cori.png",DREAMWORKS (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=553
-#EXTINF:0 tvg-id="dw" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=313
-#EXTINF:0 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/ALDt1JX.png",FASHION TV (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=362
-#EXTINF:0 tvg-id="france24eng" tvg-logo="https://i.imgur.com/YF2zMTz.png",FRANCE 24 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=308
-#EXTINF:0 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=385
-#EXTINF:0 tvg-id="kbsworld" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=306
-#EXTINF:0 tvg-id="musicbox" tvg-logo="https://i.imgur.com/DoCK1GY.png",MUSIC BOX (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=69
-#EXTINF:0 tvg-id="nhkworld" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=185
-#EXTINF:0 tvg-id="outdoorhd" tvg-logo="https://i.imgur.com/x4zXtYX.png",OUTDOOR CHANNEL (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=191
-#EXTINF:0 tvg-id="spotv1" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=632
-#EXTINF:0 tvg-id="spotv2" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=633
-#EXTINF:0 tvg-id="tlchd" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=395
-#EXTINF:0 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
-http://khaitv.giize.com:1979/mytv/new/get.php?id=361
-#EXTINF:0 tvg-id="mytv801" tvg-logo="https://i.imgur.com/FMdLmtD.png",SỰ KIỆN 801
-http://khaitv.giize.com:1979/mytv/new/get.php?id=267
-#EXTINF:0 tvg-id="mytv802" tvg-logo="https://i.imgur.com/TP17rUG.png",SỰ KIỆN 802
-http://khaitv.giize.com:1979/mytv/new/get.php?id=349
-#EXTINF:0 tvg-id="mytv803" tvg-logo="https://i.imgur.com/M8vO6qd.png",SỰ KIỆN 803
-http://khaitv.giize.com:1979/mytv/new/get.php?id=447
-#EXTINF:0 tvg-id="mytv804" tvg-logo="https://i.imgur.com/yNA1Rfs.png",SỰ KIỆN 804
-http://khaitv.giize.com:1979/mytv/new/get.php?id=449
-
