@@ -1,34 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://vnepg.site/epg.xml.gz"
-
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 SD
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 SD
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 SD
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 SD
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 SD
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ SD
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" ​​tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 SD
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 SD
-https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 SD
-https://live.fptplay53.net/fnxch2/vtv9hd_abr.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 TÂY NAM BỘ SD
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN SD
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY SD
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV SD
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN SD
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
@@ -71,20 +42,20 @@ https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO HD
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC CA NHẠC HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=12
-#EXTINF:0 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH VÀO CUỘC SỐNG HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=13
-#EXTINF:0 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC GIA ĐÌNH HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=14
-#EXTINF:0 tvg-id="htvcphimhd" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC PHIM HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=302
-#EXTINF:0 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC PHỤ NỮ HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=16
-#EXTINF:0 tvg-id="htvcthuanviet" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=300
-#EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ HD
-http://khaitv.giize.com:1979/mytv/new/get.php?id=384
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC CA NHẠC HD
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH VÀ CUỘC SỐNG HD
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC GIA ĐÌNH HD
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC PHIM HD
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC PHỤ NỮ HD
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT HD
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ HD
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=116
 #EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN 
