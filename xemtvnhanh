@@ -362,3 +362,9 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="tv5monde" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE HD
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112024369.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HVOI4HgUFevOyZFPWtdYdQ", "kid":"7G8HLHElN3qbwK5hWYCV9A" } ], "type":"temporary" }
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
