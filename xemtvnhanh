@@ -4,7 +4,7 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6062"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6061"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6060"
-#EXTM3U url-tvg="https://drive.google.com/file/d/1uJUMdANzhhGlQ9Pxhqd9XAYrn-sCjHWJ/view"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/66093.xml.gz"
 
 #EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 12/12/2025
 https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251115083741.mp4
