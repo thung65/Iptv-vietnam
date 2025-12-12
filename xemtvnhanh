@@ -116,38 +116,58 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=116
-#EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=158
-#EXTINF:0 tvg-id="laichau" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH LAI CHÂU 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=156
-#EXTINF:0 tvg-id="caobang" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH CAO BẰNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=141
-#EXTINF:0 tvg-id="langson" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH LẠNG SƠN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=193
-#EXTINF:0 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=154
-#EXTINF:0 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/9mtg3kd.png",TN HD _ TH THÁI NGUYÊN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=406
-#EXTINF:0 tvg-id="phutho" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=410
-#EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH QUẢNG NINH 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=455
-#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=457
-#EXTINF:0 tvg-id="bacninh" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=183
-#EXTINF:0 tvg-id="btv6" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6 _ TH BÌNH THUẬN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=115
 #EXTINF:0 tvg-id="hanoi1" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=400
 #EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=401
-#EXTINF:0 tvg-id="haiphong3" tvg-logo="https://i.imgur.com/H2Sduzb.png",THP3 _ TH TP. HẢI PHÒNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=93
+#EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 UHD _ TH HÀ NỘI 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=401
 #EXTINF:0 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. HẢI PHÒNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=407
+#EXTINF:0 tvg-id="haiphongplus" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ _ TH TP. HẢI PHÒNG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=606
+#EXTINF:0 tvg-id="haiphong3" tvg-logo="https://i.imgur.com/H2Sduzb.png",THP3 _ TH TP. HẢI PHÒNG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=93
+#EXTINF:0 tvg-id="hue" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=168
+#EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/b4hZPxo.png",DNRT1 HD _ TH TP. ĐÀ NẴNG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=90
+#EXTINF:0 tvg-id="danang2" tvg-logo="https://i.imgur.com/qgwls5b.png",DNRT2 HD _ TH TP. ĐÀ NẴNG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=60
+#EXTINF:0 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=479
+#EXTINF:0 tvg-id="cantho1" tvg-logo="https://i.imgur.com/F5OhQVa.png",CẦN THƠ 1 _ TH TP. CẦN THƠ 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=39
+#EXTINF:0 tvg-id="cantho2" tvg-logo="https://i.imgur.com/HqV3frO.png",CẦN THƠ 2 _ TH TP. CẦN THƠ 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=181
+#EXTINF:0 tvg-id="cantho3" tvg-logo="https://i.imgur.com/7FA1I1d.png",CẦN THƠ 3 _ TH TP. CẦN THƠ 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=52
+#EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=158
+#EXTINF:0 tvg-id="laichau" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH LAI CHÂU 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=156
+#EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=116
+#EXTINF:0 tvg-id="sonla" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH SƠN LA 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=157
+#EXTINF:0 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=154
+#EXTINF:0 tvg-id="caobang" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH CAO BẰNG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=141
+#EXTINF:0 tvg-id="langson" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH LẠNG SƠN 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=193
+#EXTINF:0 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/9mtg3kd.png",TN HD _ TH THÁI NGUYÊN 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=406
+#EXTINF:0 tvg-id="phutho" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=410
+#EXTINF:0 tvg-id="bacninh" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=183
+#EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH QUẢNG NINH 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=455
+#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=457
+#EXTINF:0 tvg-id="hungyen" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH HƯNG YÊN 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=408
 #EXTINF:0 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD _ TH NINH BÌNH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=160
 #EXTINF:0 tvg-id="nghean" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH NGHỆ AN 
@@ -156,26 +176,20 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=453
 http://khaitv.giize.com:1979/mytv/new/get.php?id=405
 #EXTINF:0 tvg-id="quangtri" tvg-logo="https://i.imgur.com/oXtKDtN.png",QTTV _ TH QUẢNG TRỊ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=121
-#EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/b4hZPxo.png",DNRT1 HD _ TH TP. ĐÀ NẴNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=90
-#EXTINF:0 tvg-id="danang2" tvg-logo="https://i.imgur.com/qgwls5b.png",DNRT2 HD _ TH TP. ĐÀ NẴNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=60
 #EXTINF:0 tvg-id="quangngai" tvg-logo="https://i.imgur.com/QjIOaaN.png",QNGTV _ TH QUẢNG NGÃI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=409
-#EXTINF:0 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH KHÁNH HÒA 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=114
-#EXTINF:0 tvg-id="khanhhoa1" tvg-logo="https://i.imgur.com/OckyNsp.png",KTV1 HD _ TH KHÁNH HOÀ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=176
-#EXTINF:0 tvg-id="lamdong2" tvg-logo="https://i.imgur.com/TMhhiF3.png",LTV2 HD _ TH LÂM ĐỒNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=125
 #EXTINF:0 tvg-id="gialai" tvg-logo="https://i.imgur.com/9qGzykW.png",GTV _ TH GIA LAI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=172
 #EXTINF:0 tvg-id="daklak" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH ĐẮK LẮK 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=162
+#EXTINF:0 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH KHÁNH HÒA 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=114
+#EXTINF:0 tvg-id="khanhhoa1" tvg-logo="https://i.imgur.com/OckyNsp.png",KTV1 HD _ TH KHÁNH HOÀ 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=176
 #EXTINF:0 tvg-id="lamdong1" tvg-logo="https://i.imgur.com/CFFHnmw.png",LTV1 HD _ TH LÂM ĐỒNG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=164
-#EXTINF:0 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=479
+#EXTINF:0 tvg-id="lamdong2" tvg-logo="https://i.imgur.com/TMhhiF3.png",LTV2 HD _ TH LÂM ĐỒNG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=125
 #EXTINF:0 tvg-id="dongnai1" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ TH ĐỒNG NAI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=404
 #EXTINF:0 tvg-id="dongnai2" tvg-logo="https://i.imgur.com/CCavB9h.png",ĐNRTV2 HD _ TH ĐỒNG NAI 
@@ -186,8 +200,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=53
 http://khaitv.giize.com:1979/mytv/new/get.php?id=96
 #EXTINF:0 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=54
-#EXTINF:0 tvg-id="angiang2" tvg-logo="https://i.imgur.com/RCgYcRm.png",ATV2 _ TH AN GIANG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=34
 #EXTINF:0 tvg-id="vinhlong1hd" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH VĨNH LONG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=421
 #EXTINF:0 tvg-id="vinhlong2hd" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH VĨNH LONG 
@@ -198,23 +210,13 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=425
 http://khaitv.giize.com:1979/mytv/new/get.php?id=429
 #EXTINF:0 tvg-id="vinhlong5hd" tvg-logo="https://i.imgur.com/GlQQ4KU.png",THVL5 HD _ TH VĨNH LONG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=175
-#EXTINF:0 tvg-id="cantho2" tvg-logo="https://i.imgur.com/HqV3frO.png",CẦN THƠ 2 _ TH TP. CẦN THƠ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=181
 #EXTINF:0 tvg-id="angiang1" tvg-logo="https://i.imgur.com/rVTUW7a.png",ATV1 _ TH AN GIANG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=433
+#EXTINF:0 tvg-id="angiang2" tvg-logo="https://i.imgur.com/RCgYcRm.png",ATV2 _ TH AN GIANG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=3
 #EXTINF:0 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH CÀ MAU 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=180
-#EXTINF:0 tvg-id="cantho1" tvg-logo="https://i.imgur.com/F5OhQVa.png",CẦN THƠ 1 _ TH TP. CẦN THƠ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=39
-#EXTINF:0 tvg-id="sonla" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH SƠN LA 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=157
-#EXTINF:0 tvg-id="hungyen" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH HƯNG YÊN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=408
+http://khaitv.giize.com:1979/mytv/new/get.php?id=18
 #EXTINF:0 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH THANH HÓA 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=477
-#EXTINF:0 tvg-id="hue" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=168
 #EXTINF:0 tvg-id="tayninh1" tvg-logo="https://i.imgur.com/fM6jcQB.png",TTV1 _ TH TÂY NINH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=47
-#EXTINF:0 tvg-id="cantho3" tvg-logo="https://i.imgur.com/7FA1I1d.png",CẦN THƠ 3 _ TH TP. CẦN THƠ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=52
