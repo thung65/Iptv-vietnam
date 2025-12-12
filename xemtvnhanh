@@ -117,17 +117,17 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hanoi1" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=400
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=401
-#EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 UHD _ TH HÀ NỘI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=401
+https://liveh34.vtvprime.vn/hls/HANOI2TV/03.m3u8
+#EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/jA1bqI4.png",H2 UHD _ TH HÀ NỘI 
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:0 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. HẢI PHÒNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=407
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="haiphongplus" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ _ TH TP. HẢI PHÒNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=606
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="haiphong3" tvg-logo="https://i.imgur.com/H2Sduzb.png",THP3 _ TH TP. HẢI PHÒNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=93
+https://live.fptplay53.net/fnxsd1/haiphong03_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="hue" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=168
 #EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/b4hZPxo.png",DNRT1 HD _ TH TP. ĐÀ NẴNG 
