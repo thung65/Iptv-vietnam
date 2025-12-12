@@ -346,8 +346,18 @@ https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="afnhd" tvg-logo="https://i.imgur.com/KL9oaqc.png",ASIAN FOOD NETWORK HD
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="animalplanet" tvg-logo="https://i.imgur.com/UI80qhw.png",ANIMAL PLANET HD
+https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
+#EXTINF:0 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC EARTH HD
+https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
+#EXTINF:0 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC LIFESTYLE HD
+https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
+#EXTINF:0 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC NEWS HD
+http://125hvt.ddns.net:21585/bbc/index.m3u8
 #EXTINF:0 tvg-id="cna" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA HD
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN HD
+http://125hvt.ddns.net:21585/cnn/index.m3u8
 #EXTINF:0 tvg-id="davinci" tvg-logo="https://i.imgur.com/t9fzARL.png",DA VINCI HD
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dw" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (ENGLISH) HD
@@ -360,11 +370,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="outdoorhd" tvg-logo="https://i.imgur.com/x4zXtYX.png",OUTDOOR CHANNEL HD
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="tlc" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC HD
+http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTINF:0 tvg-id="tv5monde" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE HD
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025101112024369.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANIMAL PLANET HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HVOI4HgUFevOyZFPWtdYdQ", "kid":"7G8HLHElN3qbwK5hWYCV9A" } ], "type":"temporary" }
-https://s938.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
