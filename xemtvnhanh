@@ -21,7 +21,7 @@ https://liveh12.seenow.vn/hls/VTV9_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 TÂY NAM BỘ SD
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN SD
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b1800000.m3u8
+https://liveh12.seenow.vn/hls/VTV5_TN/02.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY SD
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV SD
