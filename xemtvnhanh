@@ -56,6 +56,8 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ SD
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b1800000.m3u8
+#EXTINF:0 tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 SD
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
@@ -112,6 +114,8 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ HD
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=116
 #EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN 
