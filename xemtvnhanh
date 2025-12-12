@@ -24,6 +24,10 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY SD
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b1800000.m3u8
+#EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV SD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
+#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN SD
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
@@ -48,9 +52,9 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png",VIETNAM TODAY HD
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="qpvnhd" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="htv1" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 HD
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
