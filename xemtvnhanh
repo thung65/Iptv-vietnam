@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
+S#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://vnepg.site/epg.xml.gz"
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 SD
 https://liveh12.seenow.vn/hls/VTV1_HD/02.m3u8
@@ -9,7 +9,7 @@ https://liveh12.seenow.vn/hls/VTV3_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 SD
 https://liveh12.seenow.vn/hls/VTV4_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 SD
-https://liveh12.seenow.vn/hls/VTV6_HD/02.m3u8
+https://liveh12.seenow.vn/hls/VTV5_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ SD
 https://liveh12.seenow.vn/hls/VTVCANTHO_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" ​​​​tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 SD
@@ -129,71 +129,71 @@ https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="haiphong3" tvg-logo="https://i.imgur.com/H2Sduzb.png",THP3 _ TH TP. HẢI PHÒNG 
 https://live.fptplay53.net/fnxsd1/haiphong03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hue" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV _ TH TP. HUẾ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=168
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="danang1" tvg-logo="https://i.imgur.com/b4hZPxo.png",DNRT1 HD _ TH TP. ĐÀ NẴNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=90
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="danang2" tvg-logo="https://i.imgur.com/qgwls5b.png",DNRT2 HD _ TH TP. ĐÀ NẴNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=60
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=479
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="cantho1" tvg-logo="https://i.imgur.com/F5OhQVa.png",CẦN THƠ 1 _ TH TP. CẦN THƠ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=39
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="cantho2" tvg-logo="https://i.imgur.com/HqV3frO.png",CẦN THƠ 2 _ TH TP. CẦN THƠ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=181
+https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="cantho3" tvg-logo="https://i.imgur.com/7FA1I1d.png",CẦN THƠ 3 _ TH TP. CẦN THƠ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=52
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH ĐIỆN BIÊN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=158
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="laichau" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD _ TH LAI CHÂU 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=156
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH LÀO CAI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=116
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="sonla" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH SƠN LA 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=157
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH TUYÊN QUANG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=154
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="caobang" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH CAO BẰNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=141
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="langson" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH LẠNG SƠN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=193
+https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/9mtg3kd.png",TN HD _ TH THÁI NGUYÊN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=406
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="phutho" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=410
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="bacninh" tvg-logo="https://i.imgur.com/CoYqQa5.png",BTV _ TH BẮC NINH 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=183
+https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH QUẢNG NINH 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=455
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH QUẢNG NINH 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=457
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hungyen" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH HƯNG YÊN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=408
+https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD _ TH NINH BÌNH 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=160
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="nghean" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH NGHỆ AN 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=453
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hatinh" tvg-logo="https://i.imgur.com/kGDxmOS.png",BHT HD _ TH HÀ TĨNH 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=405
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangtri" tvg-logo="https://i.imgur.com/oXtKDtN.png",QTTV _ TH QUẢNG TRỊ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=121
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangngai" tvg-logo="https://i.imgur.com/QjIOaaN.png",QNGTV _ TH QUẢNG NGÃI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=409
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="gialai" tvg-logo="https://i.imgur.com/9qGzykW.png",GTV _ TH GIA LAI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=172
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="daklak" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH ĐẮK LẮK 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=162
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD _ TH KHÁNH HÒA 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=114
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="khanhhoa1" tvg-logo="https://i.imgur.com/OckyNsp.png",KTV1 HD _ TH KHÁNH HOÀ 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=176
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="lamdong1" tvg-logo="https://i.imgur.com/CFFHnmw.png",LTV1 HD _ TH LÂM ĐỒNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=164
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="lamdong2" tvg-logo="https://i.imgur.com/TMhhiF3.png",LTV2 HD _ TH LÂM ĐỒNG 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=125
+https://live.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai1" tvg-logo="https://i.imgur.com/CDpoPbW.png",ĐNRTV1 HD _ TH ĐỒNG NAI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=404
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai2" tvg-logo="https://i.imgur.com/CCavB9h.png",ĐNRTV2 HD _ TH ĐỒNG NAI 
-http://khaitv.giize.com:1979/mytv/new/get.php?id=95
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="tayninh2" tvg-logo="https://i.imgur.com/dnxIv2A.png",TTV2 _ TH TÂY NINH 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=53
 #EXTINF:0 tvg-id="dongthap" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH ĐỒNG THÁP 
