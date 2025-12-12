@@ -367,4 +367,4 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HVOI4HgUFevOyZFPWtdYdQ", "kid":"7G8HLHElN3qbwK5hWYCV9A" } ], "type":"temporary" }
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+https://s938.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
