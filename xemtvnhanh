@@ -214,6 +214,8 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=175
 http://khaitv.giize.com:1979/mytv/new/get.php?id=433
 #EXTINF:0 tvg-id="angiang2" tvg-logo="https://i.imgur.com/RCgYcRm.png",ATV2 _ TH AN GIANG 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=3
+#EXTINF:0 tvg-id="angiang3" tvg-logo="https://i.imgur.com/CazMp0S.png",ATV3 _ TH AN GIANG 
+http://khaitv.giize.com:1979/mytv/new/get.php?id=3
 #EXTINF:0 tvg-id="camau" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH CÀ MAU 
 http://khaitv.giize.com:1979/mytv/new/get.php?id=18
 #EXTINF:0 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH THANH HÓA 
