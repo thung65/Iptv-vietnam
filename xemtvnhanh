@@ -1,5 +1,18 @@
-S#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://vnepg.site/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6063"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6062"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6061"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6060"
+
+#EXTINF:-1 tvg-id="6063" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002452",MAX SPORT 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
+#EXTINF:-1 tvg-id="6062" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Max_Sport_2_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002701",MAX SPORT 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
+#EXTINF:-1 tvg-id="6061" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Max_Sport_3_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002837",MAX SPORT 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31803&extension=ts&play_token=h5UuqXNs2K
+#EXTINF:-1 tvg-id="6060" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Max_Sport_4_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505003011",MAX SPORT 4
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 SD
 https://liveh12.seenow.vn/hls/VTV1_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 SD
