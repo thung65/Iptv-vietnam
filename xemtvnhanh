@@ -52,7 +52,7 @@ https://liveh12.seenow.vn/hls/VTV4_HD/02.m3u8
 https://liveh12.seenow.vn/hls/VTV5_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ SD
 https://liveh12.seenow.vn/hls/VTVCANTHO_HD/02.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" ​​​​tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 SD
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 SD
 https://liveh12.seenow.vn/hls/VTV7_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 SD
 https://liveh12.seenow.vn/hls/VTV8_HD/02.m3u8
@@ -218,9 +218,9 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="tv5monde" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE SD
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b1800000.m3u8
-#EXTINF:0 tvg-id="arirang"  tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG SD
+#EXTINF:0 tvg-id="arirang" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG SD
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b1800000.m3u8
-#EXTINF:0 tvg-id="cnbc"  tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC SD
+#EXTINF:0 tvg-id="cnbc" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC SD
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
@@ -234,7 +234,7 @@ https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ HD
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0 tvg-id="vtv7hd" ​​ tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
