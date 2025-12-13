@@ -17,6 +17,17 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=426005"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=426062"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=426082"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6317"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6626"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=5791"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6445"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6254"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6958"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6553"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=405554"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7214"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7673"
+
 
 #EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 12/12/2025
 https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251213065815.mp4
@@ -44,6 +55,28 @@ http://filex.me:8080/live/drzain/002808/318165.ts
 http://filex.me:8080/live/drzain/002808/318166.ts
 #EXTINF:-1 tvg-id="6060" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Max_Sport_4_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505003011",MAX SPORT 4
 http://filex.me:8080/live/drzain/002808/318167.ts
+#EXTINF:-1 tvg-id="7673" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Sky_Sports_NFL.svg/revision/latest/scale-to-width-down/284?cb=20200924152829",SKY SPORT NFL
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="6626" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152703",SKY SPORTS NEWS
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="6317" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152412",SKY SPORT F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="6958" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152906",SKY SPORT PREMIER LEAGUE
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="5791" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152526",SKY SPORT FOOTBALL
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="6254" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924153122",SKY SPORT CRICKET
+https://7pal.short.gy/ssportscrk
+#EXTINF:-1 tvg-id="412959" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sky_Sports%2B.svg/revision/latest/scale-to-width-down/340?cb=20240808030609",SKY SPORT +
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="7673" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sky_Sports_Main_Event_2025.svg/revision/latest/scale-to-width-down/340?cb=20251016165734",SKY SPORT MAIN EVENT
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="6553" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152645",SKY SPORT MIX
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
+#EXTINF:-1 tvg-id="405554" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212",SKY SPORT TENNIS
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
+#EXTINF:-1 tvg-id="6445" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152539",SKY SPORT GOLF
+https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="426062" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021328", SPORTV 1
 http://filex.me:8080/live/drzain/002808/304301.ts
 #EXTINF:-1 tvg-id="426082" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021523", SPORTV 2
