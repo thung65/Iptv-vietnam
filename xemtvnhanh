@@ -8,6 +8,8 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7449"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7448"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7447"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6819"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=44879"
 
 
 #EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 12/12/2025
@@ -18,7 +20,11 @@ http://filex.me:8080/live/drzain/002808/318159.ts
 http://filex.me:8080/live/drzain/002808/318160.ts
 #EXTINF:-1 tvg-id="7447" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307213719.png",DIEMA SPORT 3
 http://filex.me:8080/live/drzain/002808/318161.ts
-#EXTINF:-1 tvg-id="6063" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002452",MAX SPORT 1
+#EXTINF:-1 tvg-id="7449" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1024px-Eurosport_1_Logo_2015.svg.png?20210505112129",EURO SPORT 1
+http://filex.me:8080/live/drzain/002808/318162.ts
+#EXTINF:-1 tvg-id="6819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1600px-Eurosport_2_Logo_2015.svg.png?20220107215705",EURO SPORT 2
+http://filex.me:8080/live/drzain/002808/318163.ts
+#EXTINF:-1 tvg-id="44879" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002452",MAX SPORT 1
 http://filex.me:8080/live/drzain/002808/318164.ts
 #EXTINF:-1 tvg-id="6062" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Max_Sport_2_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002701",MAX SPORT 2
 http://filex.me:8080/live/drzain/002808/318165.ts
