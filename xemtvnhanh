@@ -10,10 +10,18 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7447"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6819"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=44879"
-
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=459266"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=459645"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=459188"
 
 #EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 12/12/2025
 https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251213065815.mp4
+#EXTINF:-1 tvg-id="459266" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest/scale-to-width-down/284?cb=20230901182304",CANAL+ SPORT
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
+#EXTINF:-1 tvg-id="459645" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Canal%2BSport52022.svg/revision/latest/scale-to-width-down/250?cb=20231216124604",CANAL+ SPORT 5
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233714&extension=ts&play_token=klT8fyTCz5
+#EXTINF:-1 tvg-id="459188" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Canal%2B_Foot_2023.svg/revision/latest/scale-to-width-down/284?cb=20230901182252",CANAL+ FOOT
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 #EXTINF:-1 tvg-id="7449" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307202520.png",DIEMA SPORT
 http://filex.me:8080/live/drzain/002808/318159.ts
 #EXTINF:-1 tvg-id="7448" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307151168.png",DIEMA SPORT 2
