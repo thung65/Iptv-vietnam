@@ -41,6 +41,12 @@ http://filex.me:8080/live/drzain/002808/318165.ts
 http://filex.me:8080/live/drzain/002808/318166.ts
 #EXTINF:-1 tvg-id="6060" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Max_Sport_4_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505003011",MAX SPORT 4
 http://filex.me:8080/live/drzain/002808/318167.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021328", SPORTV 1
+http://filex.me:8080/live/drzain/002808/304301.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021523", SPORTV 2
+http://filex.me:8080/live/drzain/002808/304302.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021644", SPORTV 3
+http://filex.me:8080/live/drzain/002808/304303.ts
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
@@ -244,6 +250,7 @@ http://filex.me:8080/live/drzain/002808/302250.ts
 http://filex.me:8080/live/drzain/002808/302249.ts
 #EXTINF:0 tvg-id="465279" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120",HBO SIGNATURE HD
 http://filex.me:8080/live/drzain/002808/302251.ts
+
 #EXTINF:0 tvg-id="kbsworld" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD HD
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="kix" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX HD
