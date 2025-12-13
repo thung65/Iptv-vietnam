@@ -28,61 +28,6 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7214"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7673"
 
-
-#EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 12/12/2025
-https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251213065815.mp4
-#EXTINF:-1 tvg-id="459266" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest/scale-to-width-down/284?cb=20230901182304",CANAL+ SPORT
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
-#EXTINF:-1 tvg-id="459645" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Canal%2BSport52022.svg/revision/latest/scale-to-width-down/250?cb=20231216124604",CANAL+ SPORT 5
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233714&extension=ts&play_token=klT8fyTCz5
-#EXTINF:-1 tvg-id="459188" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Canal%2B_Foot_2023.svg/revision/latest/scale-to-width-down/284?cb=20230901182252",CANAL+ FOOT
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
-#EXTINF:-1 tvg-id="7449" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307202520.png",DIEMA SPORT
-http://filex.me:8080/live/drzain/002808/318159.ts
-#EXTINF:-1 tvg-id="7448" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307151168.png",DIEMA SPORT 2
-http://filex.me:8080/live/drzain/002808/318160.ts
-#EXTINF:-1 tvg-id="7447" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307213719.png",DIEMA SPORT 3
-http://filex.me:8080/live/drzain/002808/318161.ts
-#EXTINF:-1 tvg-id="7449" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1.svg/revision/latest/scale-to-width-down/284?cb=20210911124742",EURO SPORT 1
-http://filex.me:8080/live/drzain/002808/318162.ts
-#EXTINF:-1 tvg-id="6819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/284?cb=20171209134527",EURO SPORT 2
-http://filex.me:8080/live/drzain/002808/318163.ts
-#EXTINF:-1 tvg-id="44879" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002452",MAX SPORT 1
-http://filex.me:8080/live/drzain/002808/318164.ts
-#EXTINF:-1 tvg-id="6062" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Max_Sport_2_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002701",MAX SPORT 2
-http://filex.me:8080/live/drzain/002808/318165.ts
-#EXTINF:-1 tvg-id="6061" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Max_Sport_3_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002837",MAX SPORT 3
-http://filex.me:8080/live/drzain/002808/318166.ts
-#EXTINF:-1 tvg-id="6060" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Max_Sport_4_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505003011",MAX SPORT 4
-http://filex.me:8080/live/drzain/002808/318167.ts
-#EXTINF:-1 tvg-id="7673" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Sky_Sports_NFL.svg/revision/latest/scale-to-width-down/284?cb=20200924152829",SKY SPORT NFL
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="6626" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152703",SKY SPORTS NEWS
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 tvg-id="6317" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152412",SKY SPORT F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-id="6958" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152906",SKY SPORT PREMIER LEAGUE
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="5791" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152526",SKY SPORT FOOTBALL
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-id="6254" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924153122",SKY SPORT CRICKET
-https://7pal.short.gy/ssportscrk
-#EXTINF:-1 tvg-id="412959" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sky_Sports%2B.svg/revision/latest/scale-to-width-down/340?cb=20240808030609",SKY SPORT +
-https://7pal.short.gy/ssportplus
-#EXTINF:-1 tvg-id="7673" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sky_Sports_Main_Event_2025.svg/revision/latest/scale-to-width-down/340?cb=20251016165734",SKY SPORT MAIN EVENT
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="6553" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152645",SKY SPORT MIX
-http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
-#EXTINF:-1 tvg-id="405554" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212",SKY SPORT TENNIS
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
-#EXTINF:-1 tvg-id="6445" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152539",SKY SPORT GOLF
-https://7pal.short.gy/ssportsgf
-#EXTINF:-1 tvg-id="426062" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021328", SPORTV 1
-http://filex.me:8080/live/drzain/002808/304301.ts
-#EXTINF:-1 tvg-id="426082" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021523", SPORTV 2
-http://filex.me:8080/live/drzain/002808/304302.ts
-#EXTINF:-1 tvg-id="426005" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021644", SPORTV 3
-http://filex.me:8080/live/drzain/002808/304303.ts
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
@@ -487,5 +432,57 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="cnbc" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC SD
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="sctv5hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/SCTV5_logo_19-01-2023_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20240226015928&path-prefix=vi",SCTV5
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765642144/ei/Pzs9aYDyO_3g1d8P94WDgQo/ip/171.251.237.255/id/r-ONTN5KDAU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3Bsabcqh9SulIPIWDtDPxp6eecIzVcejdYhjPmS4sQ456cFOcy_EuEdI1yAQOVpdWzbd4BAgr5C/spc/wH4Qq7LcjWZ6Id_-dVfXBRbb8lzrl81-kFOE2bMGWLMEeowcpvMytdJPW24eDlXrEIo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVcIFDuQ3QKvLA7uXnN9tMiUFAnSx-EuDTPXTJAEK-gwCIQCmpqaFhjMOSwWdqimaBSfNDYlMSKSAkJ71V4v51LyNEA%3D%3D/file/04.m3u8
+#EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 14/12/2025
+https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251213065815.mp4
+#EXTINF:-1 tvg-id="459266" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Canal%2B_Sport_2023.svg/revision/latest/scale-to-width-down/284?cb=20230901182304",CANAL+ SPORT
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
+#EXTINF:-1 tvg-id="459645" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Canal%2BSport52022.svg/revision/latest/scale-to-width-down/250?cb=20231216124604",CANAL+ SPORT 5
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233714&extension=ts&play_token=klT8fyTCz5
+#EXTINF:-1 tvg-id="459188" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Canal%2B_Foot_2023.svg/revision/latest/scale-to-width-down/284?cb=20230901182252",CANAL+ FOOT
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+#EXTINF:-1 tvg-id="7449" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307202520.png",DIEMA SPORT
+http://filex.me:8080/live/drzain/002808/318159.ts
+#EXTINF:-1 tvg-id="7448" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307151168.png",DIEMA SPORT 2
+http://filex.me:8080/live/drzain/002808/318160.ts
+#EXTINF:-1 tvg-id="7447" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307213719.png",DIEMA SPORT 3
+http://filex.me:8080/live/drzain/002808/318161.ts
+#EXTINF:-1 tvg-id="7449" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1.svg/revision/latest/scale-to-width-down/284?cb=20210911124742",EURO SPORT 1
+http://filex.me:8080/live/drzain/002808/318162.ts
+#EXTINF:-1 tvg-id="6819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest/scale-to-width-down/284?cb=20171209134527",EURO SPORT 2
+http://filex.me:8080/live/drzain/002808/318163.ts
+#EXTINF:-1 tvg-id="44879" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002452",MAX SPORT 1
+http://filex.me:8080/live/drzain/002808/318164.ts
+#EXTINF:-1 tvg-id="6062" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Max_Sport_2_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002701",MAX SPORT 2
+http://filex.me:8080/live/drzain/002808/318165.ts
+#EXTINF:-1 tvg-id="6061" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Max_Sport_3_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002837",MAX SPORT 3
+http://filex.me:8080/live/drzain/002808/318166.ts
+#EXTINF:-1 tvg-id="6060" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Max_Sport_4_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505003011",MAX SPORT 4
+http://filex.me:8080/live/drzain/002808/318167.ts
+#EXTINF:-1 tvg-id="7673" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Sky_Sports_NFL.svg/revision/latest/scale-to-width-down/284?cb=20200924152829",SKY SPORT NFL
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="6626" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152703",SKY SPORTS NEWS
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="6317" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152412",SKY SPORT F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="6958" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152906",SKY SPORT PREMIER LEAGUE
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="5791" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152526",SKY SPORT FOOTBALL
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="6254" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924153122",SKY SPORT CRICKET
+https://7pal.short.gy/ssportscrk
+#EXTINF:-1 tvg-id="412959" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sky_Sports%2B.svg/revision/latest/scale-to-width-down/340?cb=20240808030609",SKY SPORT +
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="7673" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sky_Sports_Main_Event_2025.svg/revision/latest/scale-to-width-down/340?cb=20251016165734",SKY SPORT MAIN EVENT
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="6553" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152645",SKY SPORT MIX
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/145813.ts
+#EXTINF:-1 tvg-id="405554" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212",SKY SPORT TENNIS
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
+#EXTINF:-1 tvg-id="6445" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/284?cb=20200924152539",SKY SPORT GOLF
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 tvg-id="426062" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021328", SPORTV 1
+http://filex.me:8080/live/drzain/002808/304301.ts
+#EXTINF:-1 tvg-id="426082" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021523", SPORTV 2
+http://filex.me:8080/live/drzain/002808/304302.ts
+#EXTINF:-1 tvg-id="426005" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021644", SPORTV 3
+http://filex.me:8080/live/drzain/002808/304303.ts
