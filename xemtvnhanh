@@ -14,6 +14,9 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=459645"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=459188"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=465279"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=426005"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=426062"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=426082"
 
 #EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 12/12/2025
 https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251213065815.mp4
@@ -41,11 +44,11 @@ http://filex.me:8080/live/drzain/002808/318165.ts
 http://filex.me:8080/live/drzain/002808/318166.ts
 #EXTINF:-1 tvg-id="6060" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Max_Sport_4_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505003011",MAX SPORT 4
 http://filex.me:8080/live/drzain/002808/318167.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021328", SPORTV 1
+#EXTINF:-1 tvg-id="426062" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021328", SPORTV 1
 http://filex.me:8080/live/drzain/002808/304301.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021523", SPORTV 2
+#EXTINF:-1 tvg-id="426082" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021523", SPORTV 2
 http://filex.me:8080/live/drzain/002808/304302.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021644", SPORTV 3
+#EXTINF:-1 tvg-id="426005" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest/scale-to-width-down/284?cb=20211208021644", SPORTV 3
 http://filex.me:8080/live/drzain/002808/304303.ts
 #EXTINF:0 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
