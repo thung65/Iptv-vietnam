@@ -5,14 +5,18 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6061"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=6060"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/66093.xml.gz"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7449"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7448"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7447"
+
 
 #EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 12/12/2025
 https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251213065815.mp4
-#EXTINF:-1 tvg-id="6062" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307202520.png",DIEMA SPORT
+#EXTINF:-1 tvg-id="7449" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307202520.png",DIEMA SPORT
 http://filex.me:8080/live/drzain/002808/318159.ts
-#EXTINF:-1 tvg-id="6061" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307151168.png",DIEMA SPORT 2
+#EXTINF:-1 tvg-id="7448" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307151168.png",DIEMA SPORT 2
 http://filex.me:8080/live/drzain/002808/318160.ts
-#EXTINF:-1 tvg-id="6060" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307213719.png",DIEMA SPORT 3
+#EXTINF:-1 tvg-id="7447" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/2025121307213719.png",DIEMA SPORT 3
 http://filex.me:8080/live/drzain/002808/318161.ts
 #EXTINF:-1 tvg-id="6063" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest/scale-to-width-down/284?cb=20250505002452",MAX SPORT 1
 http://filex.me:8080/live/drzain/002808/318164.ts
