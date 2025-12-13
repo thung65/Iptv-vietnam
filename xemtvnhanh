@@ -13,6 +13,7 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=459266"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=459645"
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=459188"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=465279"
 
 #EXTINF:0 tvg-id "update" ,Cập nhật từ ngày 12/12/2025
 https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251213065815.mp4
@@ -237,6 +238,12 @@ https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dw" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (ENGLISH) HD
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hbohits" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/HBO_Hits_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505122814", HBO HITS HD
+http://filex.me:8080/live/drzain/002808/302250.ts
+#EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/HBO_Family_Asia_logo.png/revision/latest?cb=20231212234832&path-prefix=vi", HBO FAMILY HD
+http://filex.me:8080/live/drzain/002808/302249.ts
+#EXTINF:0 tvg-id="465279" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120",HBO SIGNATURE HD
+http://filex.me:8080/live/drzain/002808/302251.ts
 #EXTINF:0 tvg-id="kbsworld" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD HD
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="kix" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX HD
