@@ -285,7 +285,21 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON LIFE
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF
-https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=ongolf
 #EXTINF:0 tvg-id="afnhd" tvg-logo="https://i.imgur.com/KL9oaqc.png",ASIAN FOOD NETWORK HD
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="animalplanet" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET HD
