@@ -190,6 +190,46 @@ https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="thanhhoa" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV HD _ TH THANH HÓA 
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://i.imgur.com/7GSKm46.png",ON VIE GIẢI TRÍ
+http://khaitv.giize.com:1979/mytv/new/get.php?id=197
+#EXTINF:-1 tvg-id="onphimviet" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON PHIM VIỆT
+http://khaitv.giize.com:1979/mytv/new/get.php?id=198
+#EXTINF:-1 tvg-id="onsports" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS
+http://khaitv.giize.com:1979/mytv/new/get.php?id=200
+#EXTINF:-1 tvg-id="onmovies" tvg-logo="https://i.imgur.com/765Y3jw.png",ON MOVIES
+http://khaitv.giize.com:1979/mytv/new/get.php?id=435
+#EXTINF:-1 tvg-id="onechannel" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E CHANNEL
+http://khaitv.giize.com:1979/mytv/new/get.php?id=202
+#EXTINF:-1 tvg-id="onsportsplus" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+
+http://khaitv.giize.com:1979/mytv/new/get.php?id=203
+#EXTINF:-1 tvg-id="ono2tv" tvg-logo="https://i.imgur.com/nqwVkmM.png", ON O2TV
+http://khaitv.giize.com:1979/mytv/new/get.php?id=27
+#EXTINF:-1 tvg-id="onbibi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BIBI
+http://khaitv.giize.com:1979/mytv/new/get.php?id=205
+#EXTINF:-1 tvg-id="oninfotv" tvg-logo="https://i.imgur.com/jp57P0v.png",ON INFO TV
+http://khaitv.giize.com:1979/mytv/new/get.php?id=437
+#EXTINF:-1 tvg-id="oncine" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON CINE
+http://khaitv.giize.com:1979/mytv/new/get.php?id=204
+#EXTINF:-1 tvg-id="onstyle" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON STYLE TV
+http://khaitv.giize.com:1979/mytv/new/get.php?id=206
+#EXTINF:-1 tvg-id="onmusic" tvg-logo="https://i.imgur.com/45BXPY3.png",ON MUSIC
+http://khaitv.giize.com:1979/mytv/new/get.php?id=439
+#EXTINF:-1 tvg-id="onfootball" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL
+http://khaitv.giize.com:1979/mytv/new/get.php?id=208
+#EXTINF:1 tvg-id="ontrending" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON TRENDING TV
+http://khaitv.giize.com:1979/mytv/new/get.php?id=209
+#EXTINF:-1 tvg-id="onsportsnews" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON SPORTS NEWS
+http://khaitv.giize.com:1979/mytv/new/get.php?id=441
+#EXTINF:-1 tvg-id="onviedramas" tvg-logo="https://i.imgur.com/n7QICK7.png",ON VIE DRAMAS
+http://khaitv.giize.com:1979/mytv/new/get.php?id=201
+#EXTINF:-1 tvg-id="onvfamily" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFAMILY
+http://khaitv.giize.com:1979/mytv/new/get.php?id=241
+#EXTINF:-1 tvg-id="onkids" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON KIDS
+http://khaitv.giize.com:1979/mytv/new/get.php?id=742
+#EXTINF:-1 tvg-id="onlife" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON LIFE
+http://khaitv.giize.com:1979/mytv/new/get.php?id=745
+#EXTINF:-1 tvg-id="ongolf" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF
+http://khaitv.giize.com:1979/mytv/new/get.php?id=415
 #EXTINF:0 tvg-id="afnhd" tvg-logo="https://i.imgur.com/KL9oaqc.png",ASIAN FOOD NETWORK HD
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="animalplanet" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET HD
@@ -250,25 +290,25 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="tv5monde" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE HD
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",BOX MOVIE 1
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.imgur.com/leWw1zz.png",BOX MOVIE 1
 https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",HOLLYWOOD CLASSICS
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://i.imgur.com/2EDOvcL.png",HOLLYWOOD CLASSICS
 https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1c0LQq5.png",IN THE BOX
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://i.imgur.com/1c0LQq5.png",IN THE BOX
 https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/o5loJ2m.png",BOX HITS
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://i.imgur.com/o5loJ2m.png",BOX HITS
 https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/MUSSjG8.png",MAN
+#EXTINF:-1 tvg-id="man" tvg-logo="https://i.imgur.com/MUSSjG8.png",MAN
 https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",DR.FIT
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.imgur.com/1D37LIf.png",DR.FIT
 https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",HAPPY KIDS
+#EXTINF:-1 tvg-id="happykids" tvg-logo="https://i.imgur.com/KbZPtgB.png",HAPPY KIDS
 https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",MUSIC BOX
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://i.imgur.com/kPJktTH.png",MUSIC BOX
 https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/GKOac3p.png",PLANET EARTH
+#EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://i.imgur.com/GKOac3p.png",PLANET EARTH
 https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",WOMAN
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://i.imgur.com/s8nALCG.png",WOMAN
 https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 SD
 https://liveh12.seenow.vn/hls/VTV1_HD/02.m3u8
