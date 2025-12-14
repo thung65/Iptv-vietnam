@@ -389,7 +389,7 @@ https://ace.hoiquan.click/module/IPTV/?id=ksport2&accKenh=vmt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://ace.hoiquan.click/module/IPTV/?id=kkids&accKenh=vmt
+https://ace.hoiquan.click/module/IPTV/?id=kkidsCine&accKenh=admin
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 SD
 https://liveh12.seenow.vn/hls/VTV1_HD/02.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 SD
