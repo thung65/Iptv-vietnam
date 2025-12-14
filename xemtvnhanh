@@ -310,15 +310,85 @@ https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://i.imgur.com/s8nALCG.png",WOMAN
 https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE
+#EXTINF:0 tvg-id="kcinehd" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=kcine&accKenh=vmt
-#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION
+#EXTINF:0 tvg-id="kaction" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=kaction&accKenh=vmt
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT 1
+#EXTINF:0 tvg-id="ksport1hd" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT 1
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=ksport1&accKenh=vmt
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT 2
+#EXTINF:0 tvg-id="ksport2hd" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT 2
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=ksport2&accKenh=vmt
-#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS
+#EXTINF:0 tvg-id="kkidshd" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=kkids&accKenh=vmt
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 SD
 https://liveh12.seenow.vn/hls/VTV1_HD/02.m3u8
