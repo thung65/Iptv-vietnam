@@ -195,41 +195,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON PHIM VIỆT
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onsports" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsports
+https://freem3u.xyz/api/live/play.m3u8?oid=onsports
 #EXTINF:-1 tvg-id="onmovies" tvg-logo="https://i.imgur.com/765Y3jw.png",ON MOVIES
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E CHANNEL
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="onsportsplus" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsportsplus
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 #EXTINF:-1 tvg-id="ono2tv" tvg-logo="https://i.imgur.com/nqwVkmM.png", ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="onbibi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BIBI
@@ -243,39 +215,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-id="onmusic" tvg-logo="https://i.imgur.com/45BXPY3.png",ON MUSIC
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="onfootball" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onfootball
+https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #EXTINF:1 tvg-id="ontrending" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON TRENDING TV
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 tvg-id="onsportsnews" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON SPORTS NEWS
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=onsportsnews
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:-1 tvg-id="onviedramas" tvg-logo="https://i.imgur.com/n7QICK7.png",ON VIE DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTINF:-1 tvg-id="onvfamily" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFAMILY
@@ -285,21 +229,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON LIFE
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://toiyeuvietnam.dpdns.org/TichHop/OnLive/LIVE/?user=ongolf
+https://freem3u.xyz/api/live/play.m3u8?oid=ongolf
 #EXTINF:0 tvg-id="afnhd" tvg-logo="https://i.imgur.com/KL9oaqc.png",ASIAN FOOD NETWORK HD
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="animalplanet" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET HD
