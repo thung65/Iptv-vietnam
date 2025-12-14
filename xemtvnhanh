@@ -89,7 +89,7 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hanoi1" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH HÀ NỘI 
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH HÀ NỘI 
-https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8
+http://14.248.224.236:8889/Vieon.php?id=hanoi2
 #EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/jA1bqI4.png",H2 UHD _ TH HÀ NỘI 
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:0 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. HẢI PHÒNG 
@@ -524,6 +524,8 @@ https://live.fptplay53.net/epzsd1/lamdong01_hls.smil/chunklist_b1800000.m3u8
 https://cmcdp.vtvdigital.vn/live/dongnai1tv/chunklist_1.m3u8
 #EXTINF:0 tvg-id="dongnai2" tvg-logo="https://i.imgur.com/CCavB9h.png",ĐNRTV2 SD _ TH ĐỒNG NAI 
 https://cmcdp.vtvdigital.vn/live/dongnai2tv/chunklist_1.m3u8
+#EXTINF:0 tvg-id="dongnai3" tvg-logo="https://i.imgur.com/CCavB9h.png",ĐNRTV2 SD _ TH ĐỒNG NAI 
+http://14.248.224.236:8889/Vieon.php?id=dongnai3
 #EXTINF:0 tvg-id="tayninh2" tvg-logo="https://i.imgur.com/dnxIv2A.png",TTV2 SD _ TH TÂY NINH 
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="dongthap" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 SD _ TH ĐỒNG THÁP 
