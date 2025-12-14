@@ -241,6 +241,15 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
+#EXTINF:0 tvg-id="axnhd" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent=cv
+#EXTVLCOPT:http-user-agent=VMTTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11
+https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC EARTH HD
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
