@@ -109,7 +109,7 @@ https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/126.png",TN HD _ TH THÁI NGUYÊN
 https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH PHÚ THỌ
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/118.png",PTV HD _ TH PHÚ THỌ
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/120.png",QTV1 HD _ TH QUẢNG NINH
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
@@ -119,6 +119,8 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/100.png",H1 HD _ TH HÀ NỘI
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/101.png",H2 HD _ TH HÀ NỘI
+https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/101.png",H2 UHD _ TH HÀ NỘI
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/103.png",THP HD _ TH TP. HẢI PHÒNG
