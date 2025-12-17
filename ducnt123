@@ -321,7 +321,7 @@ https://ace.hoiquan.click/module/IPTV/?id=fashiontv&accKenh=vuminhthanh1
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/160.png",KBS WORLD HD
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/kix.png”,KIX HD
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F167.png&w=800”,KIX HD
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/161.png",NHK WORLD JAPAN HD
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
@@ -356,3 +356,23 @@ https://freem3u.xyz/api/live/play.mpd?vid=99
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.imgur.com/leWw1zz.png",BOX MOVIE 1 HD
+https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://i.imgur.com/2EDOvcL.png",HOLLYWOOD CLASSICS HD
+https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://i.imgur.com/1c0LQq5.png",IN THE BOX HD
+https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://i.imgur.com/o5loJ2m.png",BOX HITS HD
+https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="man" tvg-logo="https://i.imgur.com/MUSSjG8.png",MAN HD
+https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.imgur.com/1D37LIf.png",DR.FIT HD
+https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="happykids" tvg-logo="https://i.imgur.com/KbZPtgB.png",HAPPY KIDS HD
+https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://i.imgur.com/kPJktTH.png",MUSIC BOX HD
+https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://i.imgur.com/GKOac3p.png",PLANET EARTH HD
+https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://i.imgur.com/s8nALCG.png",WOMAN HD
+https://freem3u.xyz/api/live/play.m3u8?vid=163
