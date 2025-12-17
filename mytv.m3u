@@ -224,27 +224,27 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title=" Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Khám phá" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi”,KIX
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/167.png”,KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Quốc Tế",DA VINCI
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="Quốc Tế",DA VINCI
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://i.imgur.com/isCqVcE.png" group-title="Quốc Tế",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://vnepg.site/logos/146.png" group-title="Quốc Tế",OUTDOOR CHANNEL
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="afnhd" group-title="Khám phá" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Quốc Tế",ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://vnepg.site/logos/172.png" group-title="Quốc Tế",ASIAN FOOD NETWORK
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/155.png",CNBC
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/157.png",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/160.png",KBS WORLD
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/161.png",NHK WORLD JAPAN
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW ENGLISH
+#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/158.png",DW ENGLISH
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG WORLD
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/152.png",ARIRANG WORLD
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",FRANCE 24H ENGLISH
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/159.png",FRANCE 24H ENGLISH
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5MONDE ASIE
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/162.png",TV5MONDE ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
