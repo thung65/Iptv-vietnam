@@ -297,7 +297,7 @@ https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-http://125hvt.ddns.net:21585/bbc/index.m3u8
+http://live247.freem3u.xyz:21585/bbc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/157.png",CNA HD
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/155.png",CNBC SD
@@ -310,7 +310,7 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-http://125hvt.ddns.net:21585/cnn/index.m3u8
+http://live247.freem3u.xyz:21585/cnn/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="Quốc Tế",DA VINCI HD
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="discoveryasiahd" tvg-logo="https://vnepg.site/logos/145.png",DISCOVERY ASIA HD
@@ -351,7 +351,7 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-https://ace.hoiquan.click/module/IPTV/?id=tlc&accKenh=vuminhthanh1
+http://live247.freem3u.xyz:21585/bbc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/162.png",TV5MONDE ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/166.png",HGTV HD
