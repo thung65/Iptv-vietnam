@@ -192,7 +192,7 @@ https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/98.png",THĐT2 MIỀN TÂY _ TH ĐỒNG THÁP
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/79.png",ATV1 HD _ TH AN GIANG
+#EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="",ATV1 HD _ TH AN GIANG
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/80.png",ATV2 HD _ TH AN GIANG
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
