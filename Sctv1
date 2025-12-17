@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO" tvg-logo="bit.ly",VTV1 HD (MyTV)
+#EXTINF:-1 tvg-id="VTV1" tvg-logo="bit.ly",VTV1 HD (MyTV)
 https://live.fptplay53.net/fnxhd1/vtv1hd_abr.smil/chunklist_b4200000.m3u8
