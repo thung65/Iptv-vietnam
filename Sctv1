@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO" tvg-logo="bit.ly", HBO HD (MyTV)
-#EXT-X-KODI-PROP:inputstream.adaptive.license_type=clearkey
-#EXT-X-KODI-PROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 tvg-id="HBO" tvg-logo="bit.ly",VTV1 HD (MyTV)
+https://live.fptplay53.net/fnxhd1/vtv1hd_abr.smil/chunklist_b4200000.m3u8
