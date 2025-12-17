@@ -95,9 +95,9 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/43.png",HTVC CA NHẠC
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/115.png",THLC _ TH LÀO CAI
+#EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/115.png",THLC HD _ TH LÀO CAI
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/92.png",ĐTV _ TH ĐIỆN BIÊN
+#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/92.png",ĐTV HD _ TH ĐIỆN BIÊN
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/110.png",LTV HD _ TH LAI CHÂU
 https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
@@ -173,7 +173,7 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/80.png",ATV2 HD _ TH AN GIANG
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="angiang3" group-title="Địa Phương" tvg-logo=https://vnepg.site/logos/81.png",ATV3 HD _ TH AN GIANG
+#EXTINF:0 tvg-id="angiang3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/81.png",ATV3 HD _ TH AN GIANG
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/86.png",CẦN THƠ 1 HD _ TH TP. CẦN THƠ
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
@@ -191,3 +191,13 @@ https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/106.png",HUETV _ TH THỪA THIÊN HUẾ
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/75.png",THVL1 HD - VĨNH LONG 1
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/76.png",THVL2 HD - VĨNH LONG 2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/77.png",THVL3 HD - VĨNH LONG 3
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/78.png",THVL4 HD - VĨNH LONG 4
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
+https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
