@@ -1,2 +1,5 @@
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
-https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021|Referer=http://vieon.vn
+#EXTM3U
+#EXTINF:-1 tvg-id="HBO" tvg-logo="bit.ly", HBO HD (MyTV)
+#EXT-X-KODI-PROP:inputstream.adaptive.license_type=clearkey
+#EXT-X-KODI-PROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
