@@ -119,7 +119,7 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/73.png",HITV _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?fl=096fde45d23058e1cc230e4c7ac40964f44ef806c198fd0905aa634c8d19b4c57d44575290589bd78c61c11f1e81a8a97c3184df9bb3ed6c28f6532981892f3d8f3b3a8fe51f|User-Agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?fl=096fde45d23058e1cc230e4c7ac40964f44ef806c198fd0905aa634c8d19b4c57d44575290589bd78c61c11f1e81a8a97c3184df9bb3ed6c28f6532981892f3d8f3b3a8fe51f
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/100.png",H1 HD _ TH HÀ NỘI
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/101.png",H2 HD _ TH HÀ NỘI
