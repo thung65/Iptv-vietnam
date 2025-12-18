@@ -230,17 +230,17 @@ https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/106.png",HUETV _ TH THỪA THIÊN HUẾ
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title=" Địa Phương" tvg-logo="https://vnepg.site/logos/75.png",THVL1 HD - VĨNH LONG 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/75.png",THVL1 HD - VĨNH LONG 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title=" Địa phương" tvg-logo="https://vnepg.site/logos/76.png",THVL2 HD - VĨNH LONG 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/76.png",THVL2 HD - VĨNH LONG 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title=" Địa Phương" tvg-logo="https://vnepg.site/logos/77.png",THVL3 HD - VĨNH LONG 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/77.png",THVL3 HD - VĨNH LONG 3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title=" Địa Phương" tvg-logo="https://vnepg.site/logos/78.png",THVL4 HD - VĨNH LONG 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/78.png",THVL4 HD - VĨNH LONG 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title=" Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="abcaustralia" tvg-logo="https://vnepg.site/logos/153.png",ABC AUSTRALIA HD
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế tvg-logo="https://vnepg.site/logos/153.png",ABC AUSTRALIA HD
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=cv
