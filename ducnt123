@@ -210,97 +210,43 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/153.png",ABC AUSTRALIA HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=abcaustralia&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://vnepg.site/logos/172.png" group-title="Quốc Tế",ASIAN FOOD NETWORK HD
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="animalplanet" tvg-logo="https://vnepg.site/logos/143.png",ANIMAL PLANET HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="axnhd" tvg-logo="https://vnepg.site/logos/163.png",AXN HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11
 https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/152.png",ARIRANG WORLD HD
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="bbcearth" tvg-logo="https://vnepg.site/logos/148.png",BBC EARTH HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="bbclifestyle" tvg-logo="https://vnepg.site/logos/149.png",BBC LIFESTYLE HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="bbcworldnews" tvg-logo="https://vnepg.site/logos/151.png",BBC NEWS HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 http://live247.freem3u.xyz:21585/bbc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/157.png",CNA HD
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/155.png",CNBC SD
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://vnepg.site/logos/156.png",CNN HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 http://live247.freem3u.xyz:21585/cnn/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="Quốc Tế",DA VINCI HD
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="discoveryasiahd" tvg-logo="https://vnepg.site/logos/145.png",DISCOVERY ASIA HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/158.png",DW ENGLISH HD
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="fashionhd" tvg-logo="https://vnepg.site/logos/165.png",FASHION TV HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://ace.hoiquan.click/module/IPTV/?id=fashiontv&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/159.png",FRANCE 24H ENGLISH SD
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
@@ -313,33 +259,15 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://vnepg.site/logos/146.png" group-title="Quốc Tế",OUTDOOR CHANNEL HD
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="tlchd" tvg-logo="https://vnepg.site/logos/168.png",TLC HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 http://live247.freem3u.xyz:21585/tlc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/162.png",TV5MONDE ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/166.png",HGTV HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://freem3u.xyz/api/live/play.mpd?vid=99
 #EXTINF:-1 tvg-id "history" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/147.png",HISTORY HD
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=cv
-#EXTVLCOPT:http-user-agent=VMTTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://deptraivkl.com/
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://vnepg.site/logos/131.png",BOX MOVIE 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
