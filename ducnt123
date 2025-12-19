@@ -229,6 +229,16 @@ https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F66.png&w=800",K+ CINE HD
+https://ace.hoiquan.click/module/IPTV/?id=kcine&accKenh=vmt
+#EXTINF:-1 tvg-id="kactionhd" group-title="K+" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F67.png&w=900",K+ ACTION HD
+https://ace.hoiquan.click/module/IPTV/?id=kaction&accKenh=vmt
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F68.png&w=900",K+ SPORT1 HD
+https://ace.hoiquan.click/module/IPTV/?id=ksport1&accKenh=vmt
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F69.png&w=900",K+ SPORT2 HD
+https://ace.hoiquan.click/module/IPTV/?id=ksport2&accKenh=vmt
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F70.png&w=900",K+ KIDS HD
+https://ace.hoiquan.click/module/IPTV/?id=kkids&accKenh=vmt
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/153.png",ABC AUSTRALIA HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ace.hoiquan.click/module/IPTV/?id=abcaustralia&accKenh=vuminhthanh1
