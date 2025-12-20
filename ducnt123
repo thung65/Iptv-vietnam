@@ -290,12 +290,12 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="tlchd" tvg-logo="https://vnepg.site/logos/168.png",TLC HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live247.freem3u.xyz:21585/tlc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
+https://ace.hoiquan.click/module/IPTV/?id=tlc&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/162.png",TV5MONDE ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/166.png",HGTV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.mpd?vid=99
+https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8
 #EXTINF:-1 tvg-id "history" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/147.png",HISTORY HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
