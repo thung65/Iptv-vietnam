@@ -32,7 +32,7 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-phimviet.jpg",ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=175
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=vtvcab-2-phim-viet-hd
 #EXTINF:-1 tvg-id="onsports" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg",ON SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=onsports
@@ -139,7 +139,7 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/73.png",HITV _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?fl=096fde45d23058e1cc230e4c7ac40964f44ef806c198fd0905aa634c8d19b4c57d44575290589bd78c61c11f1e81a8a97c3184df9bb3ed6c28f6532981892f3d8f3b3a8fe51f
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=hitv
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/100.png",H1 HD _ TH HÀ NỘI
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/101.png",H2 HD _ TH HÀ NỘI
@@ -291,31 +291,31 @@ https://liveh34.seenow.vn/hls/HGTV/03.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://vnepg.site/logos/131.png",BOX MOVIE 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=box-movie-1-hd
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://vnepg.site/logos/132.png",HOLLYWOOD CLASSICS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=hollywood-classic-hd
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://vnepg.site/logos/133.png",IN THE BOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=in-the-box
 #EXTINF:-1 tvg-id="boxhits" tvg-logo="https://vnepg.site/logos/134.png",BOX HITS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=box-hits
 #EXTINF:-1 tvg-id="man" tvg-logo="https://vnepg.site/logos/135.png",MAN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=man
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="https://vnepg.site/logos/136.png",DR.FIT HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=dr-fit-hd
 #EXTINF:-1 tvg-id="happykids" tvg-logo="https://vnepg.site/logos/137.png",HAPPY KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=happy-kids-hd
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://vnepg.site/logos/171.png",MUSIC BOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=music-box
 #EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://vnepg.site/logos/138.png",PLANET EARTH HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=planet-earth-hd
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://vnepg.site/logos/139.png",WOMAN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
+http://toiyeuvietnam.dpdns.org/KenhCoBan/View.php?id=woman-hd
