@@ -32,7 +32,7 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-phimviet.jpg",ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?fl=096fde45d23058e1cc230e4c7ac40964f44ef806c198fd0905aa634c8d19b4c57d445752905885ca8e748f2946cae0ad9d2699af4859af90b07bd5dc0203e18a8778ba17ef57760675e0f5613fe9dde3f44b3de40a868b
+http://dvrfl05.bozztv.com/vch_vchannel4/index.m3u8
 #EXTINF:-1 tvg-id="onsports" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg",ON SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=onsports
