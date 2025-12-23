@@ -260,6 +260,9 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 http://live247.freem3u.xyz:21585/cnn/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="Quốc Tế",DA VINCI HD
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F144.png&w=800" group-title="Quốc Tế",DISCOVERY HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://akasajir.myftp.org:8080/discovery/index.m3u8
 #EXTINF:0 tvg-id="discoveryasiahd" tvg-logo="https://vnepg.site/logos/145.png" group-title="Quốc Tế",DISCOVERY ASIA HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
@@ -270,6 +273,9 @@ https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 https://ace.hoiquan.click/module/IPTV/?id=fashiontv&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/159.png",FRANCE 24H ENGLISH SD
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="hbohd" tvg-logo="https://vnepg.site/logos/165.png" group-title="Quốc Tế",HBO HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://akasajir.myftp.org:8080/hbo/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/160.png",KBS WORLD HD
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F167.png&w=800”,KIX HD
