@@ -239,7 +239,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="axnhd" tvg-logo="https://vnepg.site/logos/163.png",AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
+http://akasajir.myftp.org:8080/axn/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/152.png",ARIRANG WORLD HD
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="bbcearth" tvg-logo="https://vnepg.site/logos/148.png" group-title="Quốc Tế",BBC EARTH HD
