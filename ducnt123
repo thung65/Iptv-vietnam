@@ -239,7 +239,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="axnhd" tvg-logo="https://vnepg.site/logos/163.png",AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://akasaijr.myftp.org:21585/axn/index.m3u8
+https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/152.png",ARIRANG WORLD HD
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="bbcearth" tvg-logo="https://vnepg.site/logos/148.png" group-title="Quốc Tế",BBC EARTH HD
@@ -253,6 +253,8 @@ https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
 http://live247.freem3u.xyz:21585/bbc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F140.png&w=800",CARTOON NETWORK HD
 http://dinhdong.ddns.net:13579/udp/225.1.2.231:30120?pkt_size=1316&buffer_size=10000000
+#EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cbeebies.jpg",BBC CBEEBIES HD
+http://dinhdong.ddns.net:13579/udp/225.1.1.134:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/157.png" group-title="Quốc Tế",CNA HD
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/155.png" group-title="Quốc Tế",CNBC SD
