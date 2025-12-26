@@ -250,7 +250,7 @@ https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
 https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
 #EXTINF:0 tvg-id="bbcworldnews" tvg-logo="https://vnepg.site/logos/151.png" group-title="Quốc Tế",BBC NEWS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live247.freem3u.xyz:21585/bbc/tracks-v1a1/mono.m3u8?_xt=1760153748&_xtfc=44d09c01497eee012768fc3ebbee1c78
+http://dinhdong.ddns.net:13579/udp/225.1.2.74:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F140.png&w=800",CARTOON NETWORK HD
 http://dinhdong.ddns.net:13579/udp/225.1.2.231:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cbeebies.jpg",BBC CBEEBIES HD
