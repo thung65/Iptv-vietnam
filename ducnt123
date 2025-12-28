@@ -1,28 +1,64 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz,https://vnepg.site/epg.xml.gz"
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/1.png",VTV1
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/2.png",VTV2
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/3.png",VTV3
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/4.png",VTV4
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/5.png",VTV5
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://vnepg.site/logos/8.png",VTV CẦN THƠ
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/9.png",VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/10.png",VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/11.png",VTV9
-https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://vnepg.site/logos/6.png",VTV5 TÂY NĂM BỘ
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://vnepg.site/logos/7.png",VTV5 TÂY NGUYÊN
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://vnepg.site/logos/176.png",VIETNAM TODAY
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://vnepg.site/logos/172.png" group-title="Quốc Tế",ASIAN FOOD NETWORK HD
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/152.png",ARIRANG WORLD HD
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/157.png" group-title="Quốc Tế",CNA HD
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/155.png" group-title="Quốc Tế",CNBC SD
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="Quốc Tế",DA VINCI HD
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/158.png",DW ENGLISH HD
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/159.png",FRANCE 24H ENGLISH SD
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/160.png",KBS WORLD HD
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/167.png”,KIX HD
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/161.png",NHK WORLD JAPAN HD
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://vnepg.site/logos/146.png" group-title="Quốc Tế",OUTDOOR CHANNEL HD
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/162.png",TV5MONDE ASIE
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/166.png",HGTV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://liveh34.seenow.vn/hls/HGTV/03.m3u8
+#EXTINF:-1 tvg-id "history" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/147.png",HISTORY HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://vnepg.site/logos/131.png" group-title="Quốc Tế",BOX MOVIE 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=boxmovie1hd&accKenh=madam69
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://vnepg.site/logos/132.png" group-title="Quốc Tế",HOLLYWOOD CLASSICS HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=hollywoodclassicshd&accKenh=madam69
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://vnepg.site/logos/133.png" group-title="Quốc Tế",IN THE BOX HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=intheboxhd&accKenh=madam69
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://vnepg.site/logos/134.png" group-title="Quốc Tế",BOX HITS HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=boxhitshd&accKenh=madam69
+#EXTINF:-1 tvg-id="man" tvg-logo="https://vnepg.site/logos/135.png" group-title="Quốc Tế",MAN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=manhd&accKenh=madam69
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://vnepg.site/logos/136.png" group-title="Quốc Tế",DR.FIT HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=drfithd&accKenh=madam69
+#EXTINF:-1 tvg-id="happykids" tvg-logo="https://vnepg.site/logos/137.png" group-title="Quốc Tế",HAPPY KIDS HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=happykidshd&accKenh=madam69
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://vnepg.site/logos/171.png" group-title="Quốc Tế",MUSIC BOX HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=musicbox&accKenh=madam69
+#EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://vnepg.site/logos/138.png" group-title="Quốc Tế",PLANET EARTH HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=planetearthhd&accKenh=madam69
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://vnepg.site/logos/139.png" group-title="Quốc Tế",WOMAN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=womanhd&accKenh=madam69
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F71.png&w=800",ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F72.png&w=800",QPVN HD
@@ -271,63 +307,4 @@ https://liveh34.seenow.vn/hls/SCTV21/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F170.png&w=800", SCTV PHIM TỔNG HỢP
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://vnepg.site/logos/172.png" group-title="Quốc Tế",ASIAN FOOD NETWORK HD
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/152.png",ARIRANG WORLD HD
-https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/157.png" group-title="Quốc Tế",CNA HD
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/155.png" group-title="Quốc Tế",CNBC SD
-https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://vnepg.site/logos/142.png" group-title="Quốc Tế",DA VINCI HD
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/158.png",DW ENGLISH HD
-https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/159.png",FRANCE 24H ENGLISH SD
-https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/160.png",KBS WORLD HD
-https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/167.png”,KIX HD
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/161.png",NHK WORLD JAPAN HD
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://vnepg.site/logos/146.png" group-title="Quốc Tế",OUTDOOR CHANNEL HD
-https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/162.png",TV5MONDE ASIE
-https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id "hgtv" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/166.png",HGTV HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://liveh34.seenow.vn/hls/HGTV/03.m3u8
-#EXTINF:-1 tvg-id "history" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/147.png",HISTORY HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://vnepg.site/logos/131.png" group-title="Quốc Tế",BOX MOVIE 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=boxmovie1hd&accKenh=madam69
-#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://vnepg.site/logos/132.png" group-title="Quốc Tế",HOLLYWOOD CLASSICS HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=hollywoodclassicshd&accKenh=madam69
-#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://vnepg.site/logos/133.png" group-title="Quốc Tế",IN THE BOX HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=intheboxhd&accKenh=madam69
-#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://vnepg.site/logos/134.png" group-title="Quốc Tế",BOX HITS HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=boxhitshd&accKenh=madam69
-#EXTINF:-1 tvg-id="man" tvg-logo="https://vnepg.site/logos/135.png" group-title="Quốc Tế",MAN HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=manhd&accKenh=madam69
-#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://vnepg.site/logos/136.png" group-title="Quốc Tế",DR.FIT HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=drfithd&accKenh=madam69
-#EXTINF:-1 tvg-id="happykids" tvg-logo="https://vnepg.site/logos/137.png" group-title="Quốc Tế",HAPPY KIDS HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=happykidshd&accKenh=madam69
-#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://vnepg.site/logos/171.png" group-title="Quốc Tế",MUSIC BOX HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=musicbox&accKenh=madam69
-#EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://vnepg.site/logos/138.png" group-title="Quốc Tế",PLANET EARTH HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=planetearthhd&accKenh=madam69
-#EXTINF:-1 tvg-id="woman" tvg-logo="https://vnepg.site/logos/139.png" group-title="Quốc Tế",WOMAN HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=womanhd&accKenh=madam69
+
