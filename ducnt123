@@ -137,7 +137,7 @@ https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/82.png",BTV _ TH BẮC NINH
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="youtv.VN" group-title="Địa Phương" tvg-logo="",YOUTV _ TH HÀ NỘI
+#EXTINF:0 tvg-id="youtv.VN" group-title="Địa Phương" tvg-logo="https://i.imgur.com/B6HKlqq.jpeg",YOUTV _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:0 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/73.png",HITV _ TH HÀ NỘI
@@ -288,10 +288,10 @@ http://khaitv.giize.com:8090/225.1.2.74:30120?pkt_size=1316&buffer_size=10000000
 http://khaitv.giize.com:8090/225.1.1.139:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="bloomberg" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F154.png&w=800" group-title="Quốc Tế",BLOOMBERG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=fashiontv&accKenh=vuminhthanh1
+http://khaitv.giize.com:8090/225.1.2.91:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="fashionhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F165.png&w=800" group-title="Quốc Tế",FASHION TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://ace.hoiquan.click/module/IPTV/?id=fashiontv&accKenh=vuminhthanh1
+http://khaitv.giize.com:8090/225.1.2.227:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://vnepg.site/logos/172.png" group-title="Quốc Tế",ASIAN FOOD NETWORK
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/152.png",ARIRANG WORLD
@@ -305,10 +305,10 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/158.png",DW ENGLISH
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/159.png",FRANCE 24H ENGLISH
-https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/160.png",KBS WORLD
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế",KIX
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/167.png" ,KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://vnepg.site/logos/161.png",NHK WORLD JAPAN
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
