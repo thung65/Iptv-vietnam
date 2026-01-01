@@ -240,7 +240,7 @@ http://khaitv.giize.com:8090/225.1.2.225:30120?pkt_size=1316&buffer_size=1000000
 http://khaitv.giize.com:8090/225.1.2.86:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="cinemaworldhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F164.png&w=800",CINEMA WORLD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.2.225:30120?pkt_size=1316&buffer_size=10000000
+http://khaitv.giize.com:8090/225.1.1.142:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F153.png&w=800",ABC AUSTRALIA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://khaitv.giize.com:8090/225.1.2.21:30120?pkt_size=1316&buffer_size=10000000
@@ -267,7 +267,7 @@ http://khaitv.giize.com:8090/225.1.2.223:30120?pkt_size=1316&buffer_size=1000000
 http://khaitv.giize.com:8090/225.1.2.231:30120?pkt_size=1316&buffer_size=1000000
 #EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/lv_0_20251231164825.jpg",DREAMWORKS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.2.231:30120?pkt_size=1316&buffer_size=1000000
+http://khaitv.giize.com:8090/225.1.1.136:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F150.png&w=800",BBC CBEEBIES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://khaitv.giize.com:8090/225.1.1.134:30120?pkt_size=1316&buffer_size=10000000
