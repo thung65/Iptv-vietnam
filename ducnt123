@@ -194,12 +194,8 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/96.png",ĐNNRTV2 HD _ TH ĐỒNG NAI
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/124.png",TTV1 _ TH TÂY NINH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=72
-#EXTINF:0 tvg-id="tayninh2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/125.png",TTV2 _ TH TÂY NINH
-https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/124.png",TN _ TH TÂY NINH
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/97.png",THĐT1 _ TH ĐỒNG THÁP
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/98.png",THĐT2 MIỀN TÂY _ TH ĐỒNG THÁP
