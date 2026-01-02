@@ -1,69 +1,103 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV" ,VTV1
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV",VTV1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv1-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV" ,VTV2
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV",VTV2
+##EXTVLCOPT:http-user-agent=Dalvik/2.1.0:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv2-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV" ,VTV3
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="VTV",VTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv3-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="VTV",VTV4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv4-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV",VTV5
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV",VTV5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=110
-#EXTINF:-1 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ
+#EXTINF:-1 tvg-id="vtvcantho" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="VTV",VTV CẦN THƠ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv-can-tho/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" ​​tvg-name="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV" ,VTV7
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV",VTV7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv7-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="VTV",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="VTV",VTV8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv8-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="VTV",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="VTV",VTV9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv9-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="VTV",VTV5 TÂY NAM BỘ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="VTV",VTV5 TÂY NAM BỘ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nam-bo/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 TÂY NGUYÊN
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="VTV",VTV5 TÂY NGUYÊN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png", VIETNAM TODAY
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/Vietnam_Today_v2.png" group-title="VTV", VIETNAM TODAY
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 #EXTINF:0 tvg-id="antvhd" group-title="THIẾT YẾU" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:0 tvg-id="qpvnhd" group-title="THIẾT YẾU" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=19
 #EXTINF:0 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON VIE GIẢI TRÍ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:0 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON PHIM VIỆT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:0 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON SPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=onsports
 #EXTINF:0 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON MOVIES
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:0 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:0 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON SPORTS+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 #EXTINF:0 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:0 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BIBI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:0 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON INFO TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:0 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+#EXTINF:0 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON CINE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:0 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+#EXTINF:0 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON STYLE TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:0 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON MUSIC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:0 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
+#EXTINF:0 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON TRENDING TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:0 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (HD 8Mbps)
+#EXTINF:0 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON SPORTS NEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:0 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON VIE DRAMAS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:0 tvg-id="onvfamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON V FAMILY 
+#EXTINF:0 tvg-id="onvfamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON V FAMILY
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:0 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON KIDS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:0 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON LIFE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:0 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON GOLF
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=ongolf
