@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 http://khaitv.giize.com:8090/225.1.2.249:30120?pkt_size=1316&buffer_size=5000000
