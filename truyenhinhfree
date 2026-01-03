@@ -116,6 +116,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:0 tvg-id="anvienhd" group-title="Kênh VTV Cab" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=151
+#EXTINF:0 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="Kênh quốc tế",HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://khaitv.giize.com:8090/225.1.2.233:30120?pkt_size=1316&buffer_size=10000000
+#EXTINF:0 tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Kênh quốc tế",CINEMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://khaitv.giize.com:8090/225.1.2.86:30120?pkt_size=1316&buffer_size=10000000
+
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=190
