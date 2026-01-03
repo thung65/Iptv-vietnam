@@ -86,7 +86,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:0 tvg-id="onmusic" group-title="Kênh VTV Cab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON MUSIC
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:0 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON TRENDING TV
+#EXTINF:0 tvg-id="ontrending" group-title="Kênh VTV Cab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:0 tvg-id="onvfamily" group-title="Kênh VTV Cab" tvg-logo="https://i.imgur.com/R82M53x.png",ON V FAMILY
@@ -107,7 +107,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=190
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2
+#EXTINF:-1 tvg-id="htv2hd" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 tvg-id="htv3" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
@@ -251,7 +251,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=68
 #EXTINF:0 tvg-id="lamdong1" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 | LÂM ĐỒNG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=69
-#EXTINF:0 tvg-id="langson" group-title=Kênh địa phương" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV | LẠNG SƠN
+#EXTINF:0 tvg-id="langson" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV | LẠNG SƠN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=70
 #EXTINF:-1 tvg-id="laocai" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png", THLC | LÀO CAI
