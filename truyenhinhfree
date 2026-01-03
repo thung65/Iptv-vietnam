@@ -41,6 +41,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=19
+#EXTINF:0 tvg-id="tv360promo" group-title="Sự kiện trực tiếp" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png",TV360 PROMO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9902
 #EXTINF:0 tvg-id="tv360phimviet" group-title="Sự kiện trực tiếp" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_480_270.png",TV360 PHIM VIỆT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9902
