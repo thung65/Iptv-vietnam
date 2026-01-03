@@ -41,6 +41,15 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=19
+#EXTINF:0 tvg-id="tv360phimviet" group-title="Sự kiện trực tiếp" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_480_270.png",TV360 PHIM VIỆT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9902
+#EXTINF:0 tvg-id="tv360aumy" group-title="Sự kiện trực tiếp" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_480_270.png",TV360 PHIM ÂU MỸ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9903
+#EXTINF:0 tvg-id="tv360hoathinh" group-title="Sự kiện trực tiếp" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_480_270.png",TV360 HOẠT HÌNH
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9934
 #EXTINF:0 tvg-id="onfootball" group-title="Kênh VTV Cab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
