@@ -158,18 +158,18 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:0 tvg-id="vinhlong5hd" group-title="Kênh Vĩnh Long" tvg-logo="https://i.imgur.com/GlQQ4KU.png",THVL5 | VĨNH LONG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:0 tvg-id="sctv6hd" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
+#EXTINF:0 tvg-id="sctv6hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=232
-#EXTINF:0 tvg-id="sctv2hd" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
+#EXTINF:0 tvg-id="sctv2hd" group-title="Kênh SCTV" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 | TH QUẢNG NINH
+#EXTINF:0 tvg-id="quangninh3" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 | TH QUẢNG NINH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=134
-#EXTINF:0 tvg-id="hanoi1" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 _ TH HÀ NỘI
+#EXTINF:0 tvg-id="hanoi1" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=33
-#EXTINF:0 tvg-id="hanoi2" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 _ TH HÀ NỘI
+#EXTINF:0 tvg-id="hanoi2" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=34
+https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
