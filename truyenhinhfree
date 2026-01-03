@@ -137,6 +137,18 @@ https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
 #EXTINF:0 tvg-id="dreamworks" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="Kênh quốc tế",DREAMWORKS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://khaitv.giize.com:8090/225.1.1.136:30120?pkt_size=1316&buffer_size=10000000
+#EXTINF:0 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/6oXQdBZ.png" group-title="Kênh quốc tế",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://khaitv.giize.com:8090/225.1.2.231:30120?pkt_size=1316&buffer_size=1000000
+#EXTINF:-1 tvg-id="happykids" tvg-logo="https://i.imgur.com/KbZPtgB.png" group-title="Kênh quốc tế",HAPPY KIDS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/Start/VMT567_HappyKid
+#EXTINF:0 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/ALDt1JX.png" group-title="Kênh quốc tế",FASHION TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://khaitv.giize.com:8090/225.1.2.227:30120?pkt_size=1316&buffer_size=10000000
+#EXTINF:0 tvg-id="bloomberg" tvg-logo="https://i.imgur.com/rxFZgIK.png" group-title="Quốc Tế",BLOOMBERG
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://khaitv.giize.com:8090/225.1.2.91:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=190
