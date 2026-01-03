@@ -121,34 +121,46 @@ https://freem3u.xyz/api/live/play.m3u8?vid=151
 http://khaitv.giize.com:8090/225.1.4.90:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Kênh quốc tế",CINEMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.2.86:30120?pkt_size=1316&buffer_size=10000000
+http://khaitv.giize.com:8090/225.1.2.86:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="Kênh quốc tế",WBTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.1.139:30120?pkt_size=1316&buffer_size=10000000
+http://khaitv.giize.com:8090/225.1.1.139:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="axnhd" tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="Kênh quốc tế",AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://khaitv.giize.com:8090/225.1.4.9:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="cinemaworldhd" tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="Kênh quốc tế",CINEMA WORLD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.1.142:30120?pkt_size=1316&buffer_size=10000000
+http://khaitv.giize.com:8090/225.1.1.142:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://i.imgur.com/2EDOvcL.png" group-title="Kênh quốc tế",HOLLYWOOD CLASSICS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
 #EXTINF:0 tvg-id="dreamworks" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="Kênh quốc tế",DREAMWORKS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.1.136:30120?pkt_size=1316&buffer_size=10000000
+http://khaitv.giize.com:8090/225.1.1.136:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/6oXQdBZ.png" group-title="Kênh quốc tế",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.2.231:30120?pkt_size=1316&buffer_size=1000000
+http://khaitv.giize.com:8090/225.1.2.231:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:-1 tvg-id="happykids" tvg-logo="https://i.imgur.com/KbZPtgB.png" group-title="Kênh quốc tế",HAPPY KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/Start/VMT567_HappyKid
 #EXTINF:0 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/ALDt1JX.png" group-title="Kênh quốc tế",FASHION TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.2.227:30120?pkt_size=1316&buffer_size=10000000
+http://khaitv.giize.com:8090/225.1.4.20:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="bloomberg" tvg-logo="https://i.imgur.com/rxFZgIK.png" group-title="Quốc Tế",BLOOMBERG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://khaitv.giize.com:8090/225.1.2.91:30120?pkt_size=1316&buffer_size=10000000
+http://khaitv.giize.com:8090/225.1.4.18:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/2JR5vSZ.png" group-title="Kênh quốc tế",DISCOVERY
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://khaitv.giize.com:8090/225.1.1.238:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://i.imgur.com/GKOac3p.png" group-title="Kênh quốc tế",PLANET EARTH HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/Start/VMT345_PlanetEarth
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.imgur.com/1D37LIf.png" group-title="Kênh quốc tế",DR.FIT HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/Start/VMT456_DrFit
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://i.imgur.com/kPJktTH.png" group-title="Kênh quốc tế",MUSIC BOX HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/Start/VMT567_MusicBox
 #EXTINF:-1 tvg-id="htv1" group-title="Kênh HTV" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=190
