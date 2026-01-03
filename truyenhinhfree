@@ -197,6 +197,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=47
 #EXTINF:0 tvg-id="caobang" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV | CAO BẰNG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=48
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | ĐÀ NẴNG
+#EXTINF:0 tvg-id="danang1" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | ĐÀ NẴNG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=49
+#EXTINF:-1 tvg-id="lamdong3" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png", LTV3 HD | LÂM ĐỒNG
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=50
