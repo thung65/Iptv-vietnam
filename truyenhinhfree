@@ -278,6 +278,27 @@ https://freem3u.xyz/api/live/play.m3u8?vid=81
 #EXTINF:0 tvg-id="quangninh1" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 | QUẢNG NINH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=82
+#EXTINF:0 tvg-id="quangtri" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV | QUẢNG TRỊ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=83
+#EXTINF:-1 tvg-id="cantho3" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png", CẦN THƠ 3 | TP. CẦN THƠ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=84
+#EXTINF:0 tvg-id="sonla" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV | SƠN LA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=85
+#EXTINF:0 tvg-id="thainguyen" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | THÁI NGUYÊN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=88
+#EXTINF:0 tvg-id="thanhhoa" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | THANH HÓA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=89
+#EXTINF:0 tvg-id="dongthap2" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY | ĐỒNG THÁP
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=90
+#EXTINF:0 tvg-id="tuyenquang" group-title="Kênh địa phương" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV | TUYÊN QUANG
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=92
 #EXTINF:-1 tvg-id="dongnai2" group-title="Kênh địa phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 | ĐỒNG NAI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=255
