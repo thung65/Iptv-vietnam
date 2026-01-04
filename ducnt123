@@ -152,7 +152,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/103.png",THP HD _ TH TP. HẢI PHÒNG
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/104.png",THP3 HD _ TH TP. HẢI PHÒNG
+#EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/105.png",THP3 HD _ TH TP. HẢI PHÒNG
 https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/117.png",NTV HD _ TH NINH BÌNH
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
@@ -190,8 +190,9 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/96.png",ĐNNRTV2 HD _ TH ĐỒNG NAI
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/174.png",ĐNNRTV3 _ TH ĐỒNG NAI
-https://zaltv.dpdns.org/1767198680/diaphuong_live/dongnai3/index.m3u8
+https://1.org.vn/dnrtv3
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/124.png",TN _ TH TÂY NINH
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist-b5000000.m3u8
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/97.png",THĐT1 _ TH ĐỒNG THÁP
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
