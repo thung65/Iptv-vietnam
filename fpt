@@ -146,7 +146,7 @@ http://khaitv.giize.com:8090/225.1.1.153:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.1.151:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | ĐỒNG THÁP
 http://khaitv.giize.com:8090/225.1.1.163:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây | ĐỒNG THÁP
+#EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY | ĐỒNG THÁP
 http://khaitv.giize.com:8090/225.1.1.210:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 | VĨNH LONG
 http://khaitv.giize.com:8090/225.1.1.155:30120?pkt_size=1316&buffer_size=5000000
@@ -296,6 +296,40 @@ http://khaitv.giize.com:8090/225.1.4.221:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.4.170:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 | HÀ NỘI
 http://khaitv.giize.com:8090/225.1.4.203:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | HẢI PHÒNG
+http://khaitv.giize.com:8090/225.1.4.131:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | HẢI PHÒNG
+http://khaitv.giize.com:8090/225.1.4.130:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV | HUẾ
+http://khaitv.giize.com:8090/225.1.4.135:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | ĐÀ NẴNG
+http://khaitv.giize.com:8090/225.1.4.120:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | ĐÀ NẴNG
+http://khaitv.giize.com:8090/225.1.4.121:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B CHANNEL
+http://khaitv.giize.com:8090/225.1.4.99:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",CẦN THƠ 1
+http://khaitv.giize.com:8090/225.1.4.118:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",CẦN THƠ 2
+http://khaitv.giize.com:8090/225.1.4.133:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",CẦN THƠ 3
+http://khaitv.giize.com:8090/225.1.4.157:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV | ĐIỆN BIÊN
+http://khaitv.giize.com:8090/225.1.4.123:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV | LAI CHÂU
+http://khaitv.giize.com:8090/225.1.4.140:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC | LÀO CAI
+http://khaitv.giize.com:8090/225.1.4.143:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV | SƠN LA
+http://khaitv.giize.com:8090/225.1.4.158:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV | TUYÊN QUANG
+http://khaitv.giize.com:8090/225.1.4.165:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV | CAO BẰNG
+http://khaitv.giize.com:8090/225.1.4.119:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV | LẠNG SƠN
+http://khaitv.giize.com:8090/225.1.4.142:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | THÁI NGUYÊN
+http://khaitv.giize.com:8090/225.1.4.161:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | ĐỒNG THÁP
 http://khaitv.giize.com:8090/225.1.4.125:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY | ĐỒNG THÁP
@@ -314,12 +348,8 @@ http://khaitv.giize.com:8090/225.1.4.164:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.4.138:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | AN GIANG
 http://khaitv.giize.com:8090/225.1.4.171:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",CẦN THƠ 1
-http://khaitv.giize.com:8090/225.1.4.118:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",CẦN THƠ 2
-http://khaitv.giize.com:8090/225.1.4.133:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",CẦN THƠ 3
-http://khaitv.giize.com:8090/225.1.4.157:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV3_AnGiang.png",ATV3 | AN GIANG
+http://khaitv.giize.com:8090/225.1.1.174:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA
 http://khaitv.giize.com:8090/225.1.4.19:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET
@@ -384,42 +414,24 @@ http://khaitv.giize.com:8090/225.1.4.77:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.4.86:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai
 http://khaitv.giize.com:8090/225.1.4.85:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 An Viên HD
-http://khaitv.giize.com:8090/225.1.4.99:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",Gia Lai HD
 http://khaitv.giize.com:8090/225.1.4.112:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",Lâm Đồng 2 HD
 http://khaitv.giize.com:8090/225.1.4.114:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/cYqXh3i.png",Cà Mau HD
 http://khaitv.giize.com:8090/225.1.4.117:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/YCrYT2p.png",Cao Bằng HD
-http://khaitv.giize.com:8090/225.1.4.119:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/H2LOZ2A.png",Đắk Lắk HD
 http://khaitv.giize.com:8090/225.1.4.122:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Rky1N5S.png",Điện Biên HD
-http://khaitv.giize.com:8090/225.1.4.123:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",Đồng Nai 1 HD
 http://khaitv.giize.com:8090/225.1.4.124:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",Hà Tĩnh HD
 http://khaitv.giize.com:8090/225.1.4.129:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",Hải Phòng 3 HD
-http://khaitv.giize.com:8090/225.1.4.130:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/StFk4PA.png",Hải Phòng HD
-http://khaitv.giize.com:8090/225.1.4.131:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/q5MBibm.png",Huế
-http://khaitv.giize.com:8090/225.1.4.135:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV_KhanhHoa.png",Khánh Hòa HD
 http://khaitv.giize.com:8090/225.1.4.137:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",Quảng Ngãi HD
 http://khaitv.giize.com:8090/225.1.4.139:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/we3GCjr.png",Lai Châu HD
-http://khaitv.giize.com:8090/225.1.4.140:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",Lâm Đồng 1 HD
 http://khaitv.giize.com:8090/225.1.4.141:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6FCXyrr.png",Lạng Sơn HD
-http://khaitv.giize.com:8090/225.1.4.142:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/QAVSUBu.png",Lào Cai HD
-http://khaitv.giize.com:8090/225.1.4.143:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_TayNinh.png",Tây Ninh
 http://khaitv.giize.com:8090/225.1.4.144:30120?pkt_size=1316&buffeHDr_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/5HEfwZz.png",Nghệ An 
@@ -436,14 +448,8 @@ http://khaitv.giize.com:8090/225.1.4.154:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.4.155:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",Quảng Trị HD
 http://khaitv.giize.com:8090/225.1.4.156:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/QZT6GIh.png",Sơn La
-http://khaitv.giize.com:8090/225.1.4.158:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",Thái Nguyên 1 HD
-http://khaitv.giize.com:8090/225.1.4.161:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/NlOwltd.png",Thanh Hóa
 http://khaitv.giize.com:8090/225.1.4.162:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/6RPgRE7.png",Tuyên Quang
-http://khaitv.giize.com:8090/225.1.4.165:30120?pkt_size=1316&buffer_size=5000000
 #-------------------FPT Service-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 http://khaitv.giize.com:8090/225.1.1.2:30120?pkt_size=1316&buffer_size=5000000
