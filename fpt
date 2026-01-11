@@ -6,15 +6,15 @@ http://khaitv.giize.com:8090/225.1.2.13:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.2.247:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 http://khaitv.giize.com:8090/225.1.2.20:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",VIETNAM TODAY
 http://khaitv.giize.com:8090/225.1.2.190:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 http://khaitv.giize.com:8090/225.1.1.131:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 TÂY NAM BỘ
 http://khaitv.giize.com:8090/225.1.2.236:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 TÂY NGUYÊN
 http://khaitv.giize.com:8090/225.1.1.108:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ
 http://khaitv.giize.com:8090/225.1.2.245:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 http://khaitv.giize.com:8090/225.1.2.96:30120?pkt_size=1316&buffer_size=5000000
@@ -23,42 +23,42 @@ http://khaitv.giize.com:8090/225.1.2.166:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 http://khaitv.giize.com:8090/225.1.1.128:30120?pkt_size=1316&buffer_size=5000000
 #-------------------Thiết yếu-------------------#
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
+#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://khaitv.giize.com:8090/225.1.2.169:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://khaitv.giize.com:8090/225.1.2.217:30120?pkt_size=1316&buffer_size=5000000
 #-------------------HTV/HTVC-------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 http://khaitv.giize.com:8090/225.1.1.180:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL
 http://khaitv.giize.com:8090/225.1.1.193:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 http://khaitv.giize.com:8090/225.1.1.178:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV KEYS
 http://khaitv.giize.com:8090/225.1.1.177:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
 http://khaitv.giize.com:8090/225.1.1.192:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
 http://khaitv.giize.com:8090/225.1.1.190:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO
 http://khaitv.giize.com:8090/225.1.1.165:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC CA NHẠC
 http://khaitv.giize.com:8090/225.1.1.185:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH VÀ CUỘC SỐNG
 http://khaitv.giize.com:8090/225.1.1.166:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC GIA ĐÌNH
 http://khaitv.giize.com:8090/225.1.1.170:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
+#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC PHIM
 http://khaitv.giize.com:8090/225.1.1.184:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC PHỤ NỮ
 http://khaitv.giize.com:8090/225.1.1.171:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC THUẦN VIỆT
 http://khaitv.giize.com:8090/225.1.1.186:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 http://khaitv.giize.com:8090/225.1.1.181:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 http://khaitv.giize.com:8090/225.1.1.150:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO
 http://khaitv.giize.com:8090/225.1.2.175:30120?pkt_size=1316&buffer_size=5000000
 #-------------------SCTV-------------------#
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6
@@ -443,28 +443,29 @@ http://khaitv.giize.com:8090/225.1.4.74:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 http://khaitv.giize.com:8090/225.1.4.77:30120?pkt_size=1316&buffer_size=5000000
 #-------------------FPT Service-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT GIỚI THIỆU CHƯƠNG TRÌNH
 http://khaitv.giize.com:8090/225.1.1.2:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT GIỚI THIỆU CHƯƠNG TRÌNH
 http://khaitv.giize.com:8090/225.1.4.199:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT GIỚI THIỆU CHƯƠNG TRÌNH
 http://khaitv.giize.com:8090/225.1.4.200:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Test Channel
+#EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",TEST CHANNEL
 http://khaitv.giize.com:8090/225.1.2.242:30120?pkt_size=1316&buffer_size=5000000
 #-------------------FPT Advertisement-------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",Dolife Hospital
+#EXTINF:0 tvg-id="" group-title="FPT Advertisement" tvg-logo="https://dolifehospital.vn/wp-content/uploads/2023/02/logo.png",DOLIFE HOSPITAL
 http://khaitv.giize.com:8090/225.1.1.127:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",Grand Phoenix Hotel
+#EXTINF:0 tvg-id="" group-title="FPT Advertisement" tvg-logo="https://www.grandphoenixhotel.com.vn/wp-content/uploads/2019/12/Logo-Full.png",GRAND PHOENIX HOTEL
 http://khaitv.giize.com:8090/225.1.1.66:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",The Mira Hotel
+#EXTINF:0 tvg-id="" group-title="FPT Advertisement" tvg-logo="https://themirahotel.com.vn/uploads/logo/logo-themira-vuong.png",THE MIRA HOTEL
 http://khaitv.giize.com:8090/225.1.1.123:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Advertisement",The Ocean Resort
+#EXTINF:0 tvg-id="" group-title="FPT Advertisement" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/logo.png",THE OCEAN RESORT
 http://khaitv.giize.com:8090/225.1.1.121:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0,(THP3 Testcard)
+#-------------------Testcard-------------------#
+#EXTINF:0 tvg-id="" group-title="Testcard" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8f/Channel_27_Test_Card_%282019-2023%29.png/revision/latest?cb=20220212161426",(THP3 Testcard)
 http://khaitv.giize.com:8090/225.1.1.158:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0,(THP3 Testcard)
+#EXTINF:0 tvg-id="" group-title="Testcard" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8f/Channel_27_Test_Card_%282019-2023%29.png/revision/latest?cb=20220212161426",(THP3 Testcard)
 http://khaitv.giize.com:8090/225.1.3.153:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0,(Testcard)
+#EXTINF:0 tvg-id="" group-title="Testcard" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8f/Channel_27_Test_Card_%282019-2023%29.png/revision/latest?cb=20220212161426",(Testcard)
 http://khaitv.giize.com:8090/225.1.1.130:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0,(Testcard)
+#EXTINF:0 tvg-id="" group-title="Testcard" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8f/Channel_27_Test_Card_%282019-2023%29.png/revision/latest?cb=20220212161426",(Testcard)
 http://khaitv.giize.com:8090/225.1.4.159:30120?pkt_size=1316&buffer_size=5000000
