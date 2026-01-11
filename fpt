@@ -203,7 +203,7 @@ http://khaitv.giize.com:8090/225.1.2.86:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.1.202:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
 http://khaitv.giize.com:8090/225.1.1.242:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
+#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",DA VINCI (HD 8Mbps)
 http://khaitv.giize.com:8090/225.1.1.197:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",DISCOVERY ASIA (HD 8Mbps)
 http://khaitv.giize.com:8090/225.1.2.223:30120?pkt_size=1316&buffer_size=5000000
@@ -261,7 +261,7 @@ http://khaitv.giize.com:8090/225.1.4.8:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.4.184:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 TÂY NGUYÊN (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.179:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.55:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.56:30120?pkt_size=1316&buffer_size=5000000
@@ -297,9 +297,9 @@ http://khaitv.giize.com:8090/225.1.4.221:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.4.170:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | HÀ NỘI (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.203:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH ĐỒNG THÁP (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD | ĐỒNG THÁP (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.125:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY | ĐỒNG THÁP (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.177:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD | VĨNH LONG (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.202:30120?pkt_size=1316&buffer_size=5000000
@@ -309,9 +309,9 @@ http://khaitv.giize.com:8090/225.1.4.87:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.4.176:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD | VĨNH LONG (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.217:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | VĨNH LONG (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.164:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",Cần Thơ 2 (HD 4Mbps)
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",CẦN THƠ 2 (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.133:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.19:30120?pkt_size=1316&buffer_size=5000000
@@ -369,14 +369,14 @@ http://khaitv.giize.com:8090/225.1.4.26:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.4.213:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV HD (HD 4Mbps)
 http://khaitv.giize.com:8090/225.1.4.14:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG (SD 4Mbps)
+http://khaitv.giize.com:8090/225.1.4.74:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC (SD 4Mbps)
+http://khaitv.giize.com:8090/225.1.4.77:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play",QTV3 HD | Quảng Ninh
 http://khaitv.giize.com:8090/225.1.4.86:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play",ĐNNRTV2 HD | Đồng Nai
 http://khaitv.giize.com:8090/225.1.4.85:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play",Arirang
-http://khaitv.giize.com:8090/225.1.4.74:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="" group-title="FPT Play",CNBC
-http://khaitv.giize.com:8090/225.1.4.77:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play",BTV9 An Viên HD
 http://khaitv.giize.com:8090/225.1.4.99:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="" group-title="FPT Play",Gia Lai HD
