@@ -1,0 +1,39 @@
+name: MPD to M3U8 Converter
+on:
+  workflow_dispatch:
+    inputs:
+      mpd_url:
+        description: 'Dán link MPD'
+        default: 'https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd'
+        required: true
+      clear_key:
+        description: 'Dán Key (KID:KEY)'
+        default: '53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec'
+        required: true
+      duration:
+        description: 'Thời gian quay (giây)'
+        default: '60'
+        required: true
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Start Converting
+        run: |
+          ffmpeg -decryption_key "${{ github.event.inputs.clear_key }}" \
+          -i "${{ github.event.inputs.mpd_url }}" \
+          -t "${{ github.event.inputs.duration }}" \
+          -c copy -hls_time 10 -hls_list_size 0 index.m3u8
+
+      - name: Upload Result
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-result
+          path: |
+            index.m3u8
+            *.ts
+
