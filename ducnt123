@@ -207,13 +207,13 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hbohd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F129.png&w=800" group-title="Quốc Tế",HBO
-http://khaitv.giize.com:8090/225.1.2.233:30120?pkt_size=1316&buffer_size=10000000
+https://ace.hoiquan.click/module/IPTV/?id=hbo&accKenh=madam69
 #EXTINF:0 tvg-id="axnhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F163.png&w=800" group-title="Quốc Tế",AXN
-http://khaitv.giize.com:8090/225.1.2.225:30120?pkt_size=1316&buffer_size=10000000
+https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=madam69
 #EXTINF:0 tvg-id="cinemaxhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F130.png&w=800" group-title="Quốc Tế",CINEMAX
-http://khaitv.giize.com:8090/225.1.2.86:30120?pkt_size=1316&buffer_size=10000000
+https://ace.hoiquan.click/module/IPTV/?id=cinemax&accKenh=madam69
 #EXTINF:0 tvg-id="cinemaworldhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F164.png&w=800" group-title="Quốc Tế",CINEMA WORLD
-http://khaitv.giize.com:8090/225.1.1.142:30120?pkt_size=1316&buffer_size=10000000
+https://ace.hoiquan.click/module/IPTV/?id=cinemaworld&accKenh=madam69
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F153.png&w=800",ABC AUSTRALIA
 http://khaitv.giize.com:8090/225.1.2.21:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="animalplanet" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F143.png&w=800" group-title="Quốc Tế",ANIMAL PLANET
@@ -223,7 +223,7 @@ http://khaitv.giize.com:8090/225.1.1.236:30120?pkt_size=1316&buffer_size=1000000
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F156.png&w=800" group-title="Quốc Tế",CNN
 http://khaitv.giize.com:8090/225.1.1.242:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="cartoonito" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fwww.diversetechgeek.com%2Fwp-content%2Fuploads%2F2021%2F09%2Fcartoonito_logo.jpeg&w=800" group-title="Quốc Tế",CARTOONITO
-http://khaitv.giize.com:8090/225.1.1.138:30120?pkt_size=1316&buffer_size=10000000
+https://ace.hoiquan.click/module/IPTV/?id=cartoonito&accKenh=madam69
 #EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F144.png&w=800" group-title="Quốc Tế",DISCOVERY
 http://khaitv.giize.com:8090/225.1.1.238:30120?pkt_size=1316&buffer_size=10000000
 #EXTINF:0 tvg-id="discoveryasiahd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F145.png&w=800" group-title="Quốc Tế",DISCOVERY ASIA
