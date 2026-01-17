@@ -143,7 +143,9 @@ https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/94.png",DNRT2 HD _ TH TP. ĐÀ NẴNG
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/119.png",QNGTV _ TH QUẢNG NGÃI
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/119.png",QNGTV1 _ TH QUẢNG NGÃI
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="quangngai2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/125.png",QNGTV2 _ TH QUẢNG NGÃI
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/108.png",KTV HD _ TH KHÁNH HÒA
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
@@ -169,7 +171,7 @@ https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/174.png",ĐNNRTV3 _ TH ĐỒNG NAI
 https://1.org.vn/dnrtv3
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/124.png",TN _ TH TÂY NINH
-https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist-b5000000.m3u8
+https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/97.png",THĐT1 _ TH ĐỒNG THÁP
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/98.png",THĐT2 MIỀN TÂY _ TH ĐỒNG THÁP
