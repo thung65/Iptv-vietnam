@@ -64,13 +64,13 @@ http://khaitv.giize.com:8090/225.1.1.188:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.3.34:30120?pkt_size=1316&buffer_size=5000000
 #-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",YOUTV | HÀ NỘI
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:0 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://i.imgur.com/78fQx65.png",HITV | HÀ NỘI
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | HÀ NỘI
 http://khaitv.giize.com:8090/225.1.2.186:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | HÀ NỘI
-https://freem3u.xyz/api/live/play.m3u8?vid=32
+https://freem3u.xyz/api/live/play.m3u8?vid=34
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | HÀ NỘI
 http://khaitv.giize.com:8090/225.1.1.109:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | HẢI PHÒNG
