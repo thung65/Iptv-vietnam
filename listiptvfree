@@ -29,17 +29,17 @@ http://khaitv.giize.com:8090/225.1.2.169:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="qpvnhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://khaitv.giize.com:8090/225.1.2.217:30120?pkt_size=1316&buffer_size=5000000
 #-------------------HTV/HTVC-------------------#
-#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
+#EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://imgur.com/gftnwdV.png",HTV1
 http://khaitv.giize.com:8090/225.1.1.180:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/EAUoAfJ.png",HTV2 VIE CHANNEL
 http://khaitv.giize.com:8090/225.1.1.193:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+#EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://imgur.com/gjZnjmF.png",HTV3
 http://khaitv.giize.com:8090/225.1.1.178:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV KEYS
 http://khaitv.giize.com:8090/225.1.1.177:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
+#EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/y6qeB1l.png",HTV7
 http://khaitv.giize.com:8090/225.1.1.192:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
+#EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/4lye78k.png",HTV9
 http://khaitv.giize.com:8090/225.1.1.190:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO
 http://khaitv.giize.com:8090/225.1.1.165:30120?pkt_size=1316&buffer_size=5000000
