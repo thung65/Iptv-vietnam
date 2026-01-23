@@ -3,7 +3,7 @@
 http://khaitv.giize.com:8090/225.1.2.249:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://imgur.com/3tbJKRi.png",VTV2
 http://khaitv.giize.com:8090/225.1.2.13:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://imgur.com/GkxqoUF.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://imgur.com/AV2Lj7h.png",VTV3
 http://khaitv.giize.com:8090/225.1.2.247:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://imgur.com/2aFkzq6.png",VTV4
 http://khaitv.giize.com:8090/225.1.2.20:30120?pkt_size=1316&buffer_size=5000000
@@ -146,7 +146,7 @@ http://khaitv.giize.com:8090/225.1.1.153:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | ĐỒNG NAI
 http://khaitv.giize.com:8090/225.1.1.151:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/DNNRTV3_DongNai.png",ĐNNRTV3 | ĐỒNG NAI
-http://khaitv.giize.com:8090/225.1.1.151:30120?pkt_size=1316&buffer_size=5000000
+https://1.org.vn/dnrtv3
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | ĐỒNG THÁP
 http://khaitv.giize.com:8090/225.1.1.163:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 MIỀN TÂY | ĐỒNG THÁP
