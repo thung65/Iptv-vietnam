@@ -24,9 +24,9 @@ http://khaitv.giize.com:8090/225.1.2.166:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://imgur.com/tjH2BXJ.png",VTV9
 http://khaitv.giize.com:8090/225.1.1.128:30120?pkt_size=1316&buffer_size=5000000
 #-------------------Thiết yếu-------------------#
-#EXTINF:0 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+#EXTINF:0 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://imgur.com/kHZtzZw.png",ANTV
 http://khaitv.giize.com:8090/225.1.2.169:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="qpvnhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+#EXTINF:0 tvg-id="qpvnhd" group-title="Thiết Yếu" tvg-logo="https://imgur.com/xtA4AlV.png",QPVN
 http://khaitv.giize.com:8090/225.1.2.217:30120?pkt_size=1316&buffer_size=5000000
 #-------------------HTV/HTVC-------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://imgur.com/gftnwdV.png",HTV1
