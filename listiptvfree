@@ -139,11 +139,13 @@ http://khaitv.giize.com:8090/225.1.2.178:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.2.177:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | LÂM ĐỒNG
 http://khaitv.giize.com:8090/225.1.1.124:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="lamdong3" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV2 | LÂM ĐỒNG
+#EXTINF:0 tvg-id="lamdong3" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 | LÂM ĐỒNG
 https://freem3u.xyz/api/live/play.m3u8?vid=50
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | ĐỒNG NAI
 http://khaitv.giize.com:8090/225.1.1.153:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | ĐỒNG NAI
+http://khaitv.giize.com:8090/225.1.1.151:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/DNNRTV3_DongNai.png",ĐNNRTV3 | ĐỒNG NAI
 http://khaitv.giize.com:8090/225.1.1.151:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | ĐỒNG THÁP
 http://khaitv.giize.com:8090/225.1.1.163:30120?pkt_size=1316&buffer_size=5000000
