@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz,https://bit.ly/98shopiptvbkepg"
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://imgur.com/4zZj2Yo.png",VTV1
 http://khaitv.giize.com:8090/225.1.2.249:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://imgur.com/3tbJKRi.png",VTV2
 http://khaitv.giize.com:8090/225.1.2.13:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://imgur.com/2aFkzq6.png",VTV3
 http://khaitv.giize.com:8090/225.1.2.247:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://imgur.com/2aFkzq6.png",VTV4
 http://khaitv.giize.com:8090/225.1.2.20:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",VIETNAM TODAY
 http://khaitv.giize.com:8090/225.1.2.190:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://imgur.com/0K2F6O9.png",VTV5
 http://khaitv.giize.com:8090/225.1.1.131:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 TÂY NAM BỘ
 http://khaitv.giize.com:8090/225.1.2.236:30120?pkt_size=1316&buffer_size=5000000
@@ -17,11 +17,11 @@ http://khaitv.giize.com:8090/225.1.2.236:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.1.108:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV CẦN THƠ
 http://khaitv.giize.com:8090/225.1.2.245:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://imgur.com/g87494g.png",VTV7
 http://khaitv.giize.com:8090/225.1.2.96:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://imgur.com/FRNYBR0.png",VTV8
 http://khaitv.giize.com:8090/225.1.2.166:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://imgur.com/tjH2BXJ.png",VTV9
 http://khaitv.giize.com:8090/225.1.1.128:30120?pkt_size=1316&buffer_size=5000000
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Thiết Yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
