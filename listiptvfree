@@ -195,7 +195,7 @@ http://khaitv.giize.com:8090/225.1.2.74:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.2.91:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 http://khaitv.giize.com:8090/225.1.2.231:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",CARTOONITO
+#EXTINF:0 tvg-id="boomerang" tvg-id="cartoonito" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",CARTOONITO
 http://khaitv.giize.com:8090/225.1.1.138:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="cinemaworld" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vFVxJx4.png",CINEMA WORLD
 http://khaitv.giize.com:8090/225.1.1.142:30120?pkt_size=1316&buffer_size=5000000
