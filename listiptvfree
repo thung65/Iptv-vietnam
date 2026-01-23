@@ -3,7 +3,7 @@
 http://khaitv.giize.com:8090/225.1.2.249:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://imgur.com/3tbJKRi.png",VTV2
 http://khaitv.giize.com:8090/225.1.2.13:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://imgur.com/2aFkzq6.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://imgur.com/GkxqoUF.png",VTV3
 http://khaitv.giize.com:8090/225.1.2.247:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://imgur.com/2aFkzq6.png",VTV4
 http://khaitv.giize.com:8090/225.1.2.20:30120?pkt_size=1316&buffer_size=5000000
