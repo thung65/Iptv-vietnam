@@ -64,13 +64,13 @@ http://khaitv.giize.com:8090/225.1.1.188:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.3.34:30120?pkt_size=1316&buffer_size=5000000
 #-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",YOUTV | HÀ NỘI
-https://ace.hoiquan.click/module/IPTV/?id=youtv&accKenh=madam69
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
 #EXTINF:0 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://i.imgur.com/78fQx65.png",HITV | HÀ NỘI
-https://ace.hoiquan.click/module/IPTV/?id=hitv&accKenh=madam69
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | HÀ NỘI
 http://khaitv.giize.com:8090/225.1.2.186:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | HÀ NỘI
-https://ace.hoiquan.click/module/IPTV/?id=hanoi2&accKenh=madam69
+https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | HÀ NỘI
 http://khaitv.giize.com:8090/225.1.1.109:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | HẢI PHÒNG
@@ -139,6 +139,8 @@ http://khaitv.giize.com:8090/225.1.2.178:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.2.177:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | LÂM ĐỒNG
 http://khaitv.giize.com:8090/225.1.1.124:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="lamdong3" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV2 | LÂM ĐỒNG
+https://freem3u.xyz/api/live/play.m3u8?vid=50
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | ĐỒNG NAI
 http://khaitv.giize.com:8090/225.1.1.153:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | ĐỒNG NAI
@@ -170,7 +172,7 @@ http://khaitv.giize.com:8090/225.1.1.118:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | THANH HÓA
 http://khaitv.giize.com:8090/225.1.2.184:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_TayNinh.png",TN | TÂY NINH
-http://khaitv.giize.com:8090/225.1.4.144:30120?pkt_size=1316&buffeHDr_size=5000000
+https://freem3u.xyz/api/live/play.m3u8?vid=72
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA
 http://khaitv.giize.com:8090/225.1.2.21:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET
