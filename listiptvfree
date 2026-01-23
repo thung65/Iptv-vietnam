@@ -241,3 +241,5 @@ http://khaitv.giize.com:8090/225.1.1.139:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.1.201:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC
 http://khaitv.giize.com:8090/225.1.1.227:30120?pkt_size=1316&buffer_size=5000000
+#EXTINF:0 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/HGTV.png",HGTV
+https://bit.ly/hgtvasia
