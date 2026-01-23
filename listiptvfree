@@ -15,7 +15,7 @@ http://khaitv.giize.com:8090/225.1.1.131:30120?pkt_size=1316&buffer_size=5000000
 http://khaitv.giize.com:8090/225.1.2.236:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://imgur.com/2L8mb6F.png",VTV5 TÂY NGUYÊN
 http://khaitv.giize.com:8090/225.1.1.108:30120?pkt_size=1316&buffer_size=5000000
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://imgur.com/fztZ8Om.png",VTV CẦN THƠ
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://imgur.com/pvTzTQs.png",VTV CẦN THƠ
 http://khaitv.giize.com:8090/225.1.2.245:30120?pkt_size=1316&buffer_size=5000000
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://imgur.com/X8yL4IZ.png",VTV7
 http://khaitv.giize.com:8090/225.1.2.96:30120?pkt_size=1316&buffer_size=5000000
