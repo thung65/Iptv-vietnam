@@ -1,5 +1,29 @@
-      - name: Bắt đầu chuyển đổi
+name: Phat_AVG_Vaughn_247
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  streaming:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cai_dat_FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Phat_Video_Loop_Sach_Logo
         run: |
-          ffmpeg -cenc_decryption_key "0c64ccfb978e7390bd33344075492aec" \
-          -i "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd" \
-          -t 60 -c copy -hls_time 10 -hls_list_size 0 index.m3u8
+          # Link video goc tu LiveReacting cua ban
+          URL="https://files.livereacting.com/encoded_encoded_lv_0_20251128163603_1769910380801-kg708b.mp4"
+          
+          # Ma luong chinh xac tu anh chup (chu l viet thuong)
+          KEY="live_Wil8dO_cwY31q"
+          
+          # Server Ingest tu anh chup Vaughn.live
+          SERVER="rtmp://live.vaughnsoft.net/live"
+
+          ffmpeg -re -stream_loop -1 -i "$URL" \
+          -vf "scale=1400:-1,crop=1280:720" \
+          -c:v libx264 -preset ultrafast -b:v 2000k -maxrate 2000k -bufsize 4000k \
+          -c:a aac -b:a 128k -ar 44100 -f flv "$SERVER/$KEY"
+          
