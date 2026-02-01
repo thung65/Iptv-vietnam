@@ -140,10 +140,16 @@ https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.146:30120
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.189:30120
 #EXTINF:0 tvg-id="cantho1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",CẦN THƠ 1
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.132:30120
+#EXTINF:0 tvg-id="cantho1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",CẦN THƠ 1
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.69:30120
 #EXTINF:0 tvg-id="cantho2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",CẦN THƠ 2
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.157:30120
+#EXTINF:0 tvg-id="cantho2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",CẦN THƠ 2
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.126:30120
 #EXTINF:0 tvg-id="cantho3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",CẦN THƠ 3
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.159:30120
+#EXTINF:0 tvg-id="cantho3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",CẦN THƠ 3
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.119:30120
 #EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV | ĐIỆN BIÊN
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.74:30120
 #EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV | LAI CHÂU
@@ -160,6 +166,8 @@ https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.102:30120
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.160:30120
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | THÁI NGUYÊN
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.179:30120
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN | THÁI NGUYÊN
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.62:30120
 #EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | PHÚ THỌ
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.165:30120
 #EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV | BẮC NINH
@@ -220,12 +228,16 @@ https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.173:30120
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.174:30120
 #EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | CÀ MAU
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.104:30120
+#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | CÀ MAU
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.100:30120
 #EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY | HƯNG YÊN
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.118:30120
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY | HƯNG YÊN
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.155:30120
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV | THANH HÓA
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.184:30120
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa phương (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_TayNinh.png",TN | TÂY NINH
-https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.4.144:30120?pkt_size=1316&buffeHDr_size=5000000
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.4.144:30120
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC AUSTRALIA
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.21:30120
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",ANIMAL PLANET
