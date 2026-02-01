@@ -338,22 +338,36 @@ https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.112:30120
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.233:30120
 #EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.196:30120
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS WORLD
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.196:30120
+#EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.144:30120
 #EXTINF:0 tvg-id="kix" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/pxigRGm.png",KIX
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.144:30120
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.47:30120
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.47:30120
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",OUTDOOR CHANNEL
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.215:30120
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",OUTDOOR CHANNEL
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.215:30120
 #EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.236:30120
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.200:30120
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 MONDE ASIE
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.139:30120
 #EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.201:30120
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.135:30120
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.227:30120
+#EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.143:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.4.1:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
