@@ -122,16 +122,24 @@ https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.34:30120
 #-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | HÀ NỘI
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.186:30120
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | HÀ NỘI
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.22:30120
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | HÀ NỘI
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.49:30120
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | HÀ NỘI
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.109:30120
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | HẢI PHÒNG
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.44:30120
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP | HẢI PHÒNG
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.80:30120
 #EXTINF:0 tvg-id="haiphong3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | HẢI PHÒNG
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.113:30120
+#EXTINF:0 tvg-id="haiphong3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | HẢI PHÒNG
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.46:30120
 #EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV | HUẾ
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.161:30120
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV | HUẾ
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.109:30120
 #EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | ĐÀ NẴNG
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.147:30120
 #EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | ĐÀ NẴNG
