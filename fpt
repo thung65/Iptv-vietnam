@@ -200,7 +200,7 @@ https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.75:30120
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.117:30120
 #EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV | QUẢNG TRỊ
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.3.118:30120
-#EXTINF:0 tvg-id="quangngai1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | QUẢNG NGÃI
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV1_QuangNgai.png",QNgTV1 | QUẢNG NGÃI
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.2.174:30120
 #EXTINF:0 tvg-id="quangngai2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV2_QuangNgai.png",QNgTV2 | QUẢNG NGÃI
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.1.36:30120
@@ -398,6 +398,8 @@ https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.4.184:30120
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.4.179:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.4.55:30120
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
+https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.4.115:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 VIE CHANNEL
 https://onnanetwork.xyz/http://42.115.209.229:8090/225.1.4.56:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
