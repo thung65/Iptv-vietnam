@@ -59,4 +59,26 @@ https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="",DTV - HA NOI 1 HD
 https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
 #EXTINF:-1 tvg-id="",DTV - HA NOI 2 HD
-https://liveh34.vtvprime.vn/hls/HANOI2TV/03.m3u8
+#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=34
+#EXTINF:-1 tvg-id="",DTV - HAI PHONG 3 HD
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="",DTV - HAI PHONG HD
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="",DTV - QPVN HD
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="",DTV - BTV6(Shopping)
+http://113.175.203.139:8182/rtp/232.84.2.197:10966
+#EXTINF:-1 tvg-id="",DTV - NINH BINH HD
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="",DTV - THAI NGUYEN HD
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="",DTV - QUANGNINH1 HD
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="",DTV - QUANGNINH3
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="",DTV - HUNG YEN HD
+https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="",DTV - PHU THO HD
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
