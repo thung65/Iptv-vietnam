@@ -56,3 +56,7 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="",NBTV - Ninh Binh HD
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="",DTV - HA NOI 1 HD
+https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
+#EXTINF:-1 tvg-id="",DTV - HA NOI 2 HD
+https://liveh34.vtvprime.vn/hls/HANOI2TV/03.m3u8
