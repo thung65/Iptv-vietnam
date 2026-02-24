@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=411383,https://epg.pw/api/epg.xml?channel_id=411493,https://epg.pw/api/epg.xml?channel_id=411494,https://epg.pw/api/epg.xml?channel_id=411406,
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=411383,https://epg.pw/api/epg.xml?channel_id=411493,https://epg.pw/api/epg.xml?channel_id=411494,https://epg.pw/api/epg.xml?channel_id=411406,https://epg.pw/api/epg.xml?channel_id=411399,https://epg.pw/api/epg.xml?channel_id=411401,https://epg.pw/api/epg.xml?channel_id=https://epg.pw/api/epg.xml?channel_id=475254,https://epg.pw/api/epg.xml?channel_id=411376"
 #EXTINF:-1 tvg-id="41383",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="411493",VTV2 HD
@@ -9,19 +9,19 @@ https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="",VTV5 HD
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtvcantho",VTV Can Tho
+#EXTINF:-1 tvg-id="411399",VTV Can Tho
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="",VTV7 HD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd",VTV8 HD
+#EXTINF:-1 tvg-id="411401",VTV8 HD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd",VTV9 HD
+#EXTINF:-1 tvg-id="411369",VTV9 HD
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 TNB HD
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd",VTV4 SD
+#EXTINF:-1 tvg-id="411406",VTV4 SD
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="",VTV7 SD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b1800000.m3u8
@@ -45,13 +45,13 @@ https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="",DTV - THVL1 HD
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="hungyen",HY - Hung Yen HD
+#EXTINF:-1 tvg-id="411376",HY - Hung Yen HD
 https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" ,Hướng dẫn khách hàng
 https://dl.dropboxusercontent.com/scl/fi/rfttwrpuinj90q3qyalvo/lv_0_20260224141527.mp4?rlkey=uh40bzspzhtxfpiyaeib3zy6u&st=p2vai3d8&dl=0
 #EXTINF:-1 tvg-id="",LTV - Lai Chau HD
 https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd",QPVN HD
+#EXTINF:-1 tvg-id="475254",QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="",TTV - Tuyen Quang HD
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
