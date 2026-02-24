@@ -158,6 +158,8 @@ http://113.175.203.139:8182/rtp/232.84.2.182:9306
 http://113.175.203.139:8182/rtp/232.84.3.56:11716
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 6Mbps)
 http://113.175.203.139:8182/rtp/232.84.3.55:11722
+#EXTINF:0 tvg-id="anvienhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/EI0mJRf.png",HTV5 (HD 6Mbps)
+http://113.175.203.139:8182/rtp/232.84.3.199:11116
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (HD 8.5Mbps)
 http://113.175.203.139:8182/rtp/232.84.1.223:9312
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 (HD 8.5Mbps)
