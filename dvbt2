@@ -1,10 +1,11 @@
-#EXTINF:-1 tvg-id="vtv1hd",VTV1 HD
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=411383,https://epg.pw/api/epg.xml?channel_id=411493,https://epg.pw/api/epg.xml?channel_id=411494,https://epg.pw/api/epg.xml?channel_id=411406,
+#EXTINF:-1 tvg-id="41383",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd",VTV2 HD
+#EXTINF:-1 tvg-id="411493",VTV2 HD
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd",VTV3 HD
+#EXTINF:-1 tvg-id="411494",VTV3 HD
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd",VTV4 HD
+#EXTINF:-1 tvg-id="411406",VTV4 HD
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="",VTV5 HD
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
