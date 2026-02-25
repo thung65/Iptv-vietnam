@@ -277,34 +277,34 @@ https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://vnepg.site/logos/131.png" group-title="Quốc Tế",BOX MOVIE 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
+https://toiyeuvietnam.dpdns.org/Start/VMT0678_BoxMovie1
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://vnepg.site/logos/132.png" group-title="Quốc Tế",HOLLYWOOD CLASSICS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
+https://toiyeuvietnam.dpdns.org/Start/VMT0678_HW
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://vnepg.site/logos/133.png" group-title="Quốc Tế",IN THE BOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
+https://toiyeuvietnam.dpdns.org/Start/VMT0567_InTheBox
 #EXTINF:-1 tvg-id="boxhits" tvg-logo="https://vnepg.site/logos/134.png" group-title="Quốc Tế",BOX HITS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
+https://toiyeuvietnam.dpdns.org/Start/VMT0456_BoxHit
 #EXTINF:-1 tvg-id="man" tvg-logo="https://vnepg.site/logos/135.png" group-title="Quốc Tế",MAN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT456_MAN
+https://toiyeuvietnam.dpdns.org/Start/VMT0456_MAN
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="https://vnepg.site/logos/136.png" group-title="Quốc Tế",DR.FIT HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT456_DrFit
+https://toiyeuvietnam.dpdns.org/Start/VMT0456_DrFit
 #EXTINF:-1 tvg-id="happykids" tvg-logo="https://vnepg.site/logos/137.png" group-title="Quốc Tế",HAPPY KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT567_HappyKid
+https://toiyeuvietnam.dpdns.org/Start/VMT0567_HappyKid
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://vnepg.site/logos/171.png" group-title="Quốc Tế",MUSIC BOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT567_MusicBox
+https://toiyeuvietnam.dpdns.org/Start/VMT0567_MusicBox
 #EXTINF:-1 tvg-id="planetearthhd" tvg-logo="https://vnepg.site/logos/138.png" group-title="Quốc Tế",PLANET EARTH HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT345_PlanetEarth
+https://toiyeuvietnam.dpdns.org/Start/VMT0345_PlanetEarth
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://vnepg.site/logos/139.png" group-title="Quốc Tế",WOMAN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT789_Women
+https://toiyeuvietnam.dpdns.org/Start/VMT0789_Women
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F46.png&w=800",SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F47.png&w=800",SCTV2
@@ -320,6 +320,8 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV7/01.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F52.png&w=800",SCTV8
 https://liveh34.vtvprime.vn/hls/SCTV8/01.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F53.png&w=800",SCTV9
+http://160.191.243.68/sctv9/ts
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F54.png&w=800",SCTV11
 https://liveh34.vtvprime.vn/hls/SCTV11/01.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F55.png&w=800",SCTV12
