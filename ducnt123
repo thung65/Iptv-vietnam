@@ -410,6 +410,6 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F64.png&w=800",SCTV21
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F65.png&w=800",SCTV22
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F170.png&w=800",SCTV PHIM TỔNG HỢP
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
