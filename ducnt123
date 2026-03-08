@@ -253,7 +253,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:0 tvg-id="cartoonito" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fwww.diversetechgeek.com%2Fwp-content%2Fuploads%2F2021%2F09%2Fcartoonito_logo.jpeg&w=800" group-title="Quốc Tế",CARTOONITO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sfDXWekUNp2ziLOw3IFZcQ","k":"VnjTF-FwB6iKm5U55FJlEg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 #EXTINF:0 tvg-id="discoveryhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F144.png&w=800" group-title="Quốc Tế",DISCOVERY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
