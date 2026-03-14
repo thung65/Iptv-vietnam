@@ -28,7 +28,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F72.png&w=800",QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-viegiaitri.jpg",ON VIE GIẢI TRÍ
-https://vietanhtv.id.vn/tv360/180/index.m3u8
+https://vietanhtv.id.vn/vieon.php?type=tivi&kenh=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-phimviet.jpg",ON PHIM VIỆT
 https://vietanhtv.id.vn/tv360/175/index.m3u8
 #EXTINF:-1 tvg-id="onsports" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg",ON SPORTS
@@ -58,7 +58,7 @@ https://vietanhtv.id.vn/tv360/186/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-sportsnews.jpg",ON SPORTS NEWS
 https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-viedramas.jpg",ON VIE DRAMAS
-https://vietanhtv.id.vn/tv360/177/index.m3u8
+https://vietanhtv.id.vn/vieon.php?type=tivi&kenh=vie-dramas-hd
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-vfamily.jpg",ON VFAMILY
 https://vietanhtv.id.vn/tv360/187/index.m3u8
 #EXTINF:-1 tvg-id="onkids" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-kids.jpg",ON KIDS
