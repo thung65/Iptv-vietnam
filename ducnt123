@@ -1,4 +1,20 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
+https://vietanhtv.id.vn/tv360/9887/index.m3u8
+#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
+https://vietanhtv.id.vn/tv360/9957/index.m3u8
+#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
+https://vietanhtv.id.vn/tv360/9958/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
+https://vietanhtv.id.vn/tv360/9904/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229355411/83a9c979634e_180_180.png", TV360 Livestream
+https://vietanhtv.id.vn/tv360/9902/index.m3u8
+#EXTINF:-1 tvg-id="tv360phimviet" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png", Phim Việt
+https://vietanhtv.id.vn/tv360/9902/index.m3u8
+#EXTINF:-1 tvg-id="tv360aumy" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
+https://vietanhtv.id.vn/tv360/9903/index.m3u8
+#EXTINF:-1 tvg-id="tv360hoathinh" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_640_360.png", Hoạt hình
+https://vietanhtv.id.vn/tv360/9934/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/1.png",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/2.png",VTV2
@@ -120,8 +136,10 @@ https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/82.png",BTV _ TH BẮC NINH
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/74.png",YOUTV _ TH HÀ NỘI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/31/index.m3u8
 #EXTINF:0 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/73.png",HITV _ TH HÀ NỘI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/32/index.m3u8
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/100.png",H1 HD _ TH HÀ NỘI
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
