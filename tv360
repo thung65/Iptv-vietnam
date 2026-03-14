@@ -96,3 +96,7 @@ https://vietanhtv.id.vn/tv360/15/index.m3u8
 https://vietanhtv.id.vn/tv360/132/index.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/43.png",HTVC CA NHẠC
 https://vietanhtv.id.vn/tv360/14/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vnepg.site/logo/47.png",SCTV2
+https://vietanhtv.id.vn/tv360/201/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vnepg.site/logo/50.png",SCTV6
+https://vietanhtv.id.vn/tv360/232/index.m3u8
