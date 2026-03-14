@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
-https://vietanhtv.id.vn/tv360/9887/index.m3u8
+https://vietanh18h1.duckdns.org/tv360/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
-https://vietanhtv.id.vn/tv360/9957/index.m3u8
+https://vietanh18h1.duckdns.org/tv360/9957/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
-https://vietanhtv.id.vn/tv360/9958/index.m3u8
+https://vietanh18h1.duckdns.org/tv360/9958/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
 https://vietanhtv.id.vn/tv360/9904/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229355411/83a9c979634e_180_180.png", TV360 Livestream
