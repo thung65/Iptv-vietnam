@@ -114,7 +114,7 @@ https://vietanhtv.id.vn/tv360/185/index.m3u8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key=a7393a24105642dfa2e6a043b218f891:28d831ab911247e782f4e1a2b97937fb
 https://livesct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTINF:1 tvg-id="ontrending" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-trending.jpg",ON TRENDING TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
