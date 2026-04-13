@@ -327,7 +327,7 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #EXTINF:0 tvg-id="hbohd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F129.png&w=800" group-title="Quốc Tế",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://0.0.0.0:8080/clearkey.php?id=hbo
+#KODIPROP:inputstream.adaptive.license_key=http://vietanh17h1.mywebcommunity.org/clearkey.php?id=hbo
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:0 tvg-id="axnhd" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F163.png&w=800" group-title="Quốc Tế",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
