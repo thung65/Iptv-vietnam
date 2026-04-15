@@ -469,25 +469,25 @@ https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key=http://truyenhinhvn18h1.mywebcommunity.org/vtvprime.php?id=vtvprime
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #EXTINF:-1 tvg-id="boxhits" tvg-logo="https://vnepg.site/logos/134.png" group-title="Quốc Tế",BOX HITS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key=http://truyenhinhvn18h1.mywebcommunity.org/vtvprime.php?id=vtvprime
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://vnepg.site/logos/171.png" group-title="Quốc Tế",MUSIC BOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key=http://truyenhinhvn18h1.mywebcommunity.org/vtvprime.php?id=vtvprime
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://vnepg.site/logos/139.png" group-title="Quốc Tế",WOMAN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#KODIPROP:inputstream.adaptive.license_key=http://truyenhinhvn18h1.mywebcommunity.org/vtvprime.php?id=vtvprime
 https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F46.png&w=800",SCTV1
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
