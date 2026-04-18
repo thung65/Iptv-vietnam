@@ -155,26 +155,37 @@ https://truyenhinhvn21h1.duckdns.org/tv360/201/index.m3u8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/232/index.m3u8
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/115.png",THLC HD _ TH LÀO CAI
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/71/index.m3u8
 #EXTINF:0 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/92.png",ĐTV HD _ TH ĐIỆN BIÊN
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/52/index.m3u8
 #EXTINF:0 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/110.png",LTV HD _ TH LAI CHÂU
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/68/index.m3u8
 #EXTINF:0 tvg-id="caobang" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/90.png",CRTV _ TH CAO BẰNG
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/48/index.m3u8
 #EXTINF:0 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/114.png",LSTV HD _ TH LẠNG SƠN
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/70/index.m3u8
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/128.png",TTV HD _ TH TUYÊN QUANG
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/92/index.m3u8
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/126.png",TN _ TH THÁI NGUYÊN
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/88/index.m3u8
 #EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/118.png",PTV HD _ TH PHÚ THỌ
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/77/index.m3u8
 #EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/120.png",QTV1 HD _ TH QUẢNG NINH
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/82/index.m3u8
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/121.png",QTV3 HD _ TH QUẢNG NINH
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/134/index.m3u8
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/82.png",BTV _ TH BẮC NINH
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/39/index.m3u8
 #EXTINF:0 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/74.png",YOUTV _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
@@ -183,20 +194,28 @@ https://truyenhinhvn21h1.duckdns.org/tv360/31/index.m3u8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/32/index.m3u8
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/100.png",H1 HD _ TH HÀ NỘI
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/33/index.m3u8
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/101.png",H2 HD _ TH HÀ NỘI
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/34/index.m3u8
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/103.png",THP HD _ TH TP. HẢI PHÒNG
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/6/index.m3u8
 #EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/105.png",THP3 HD _ TH TP. HẢI PHÒNG
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/59/index.m3u8
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/117.png",NTV HD _ TH NINH BÌNH
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/75/index.m3u8
 #EXTINF:0 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/116.png",NTV HD _ TH NGHỆ AN
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/74/index.m3u8
 #EXTINF:0 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/102.png",BHT HD _ TH HÀ TĨNH
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/58/index.m3u8
 #EXTINF:0 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/122.png",QTTV HD _ TH QUẢNG TRỊ
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/83/index.m3u8
 #EXTINF:0 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/93.png",DNRT1 HD _ TH TP. ĐÀ NẴNG
 
@@ -229,8 +248,6 @@ https://truyenhinhvn21h1.duckdns.org/tv360/83/index.m3u8
 #EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/79.png",ATV1 HD _ TH AN GIANG
 
 #EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/80.png",ATV2 HD _ TH AN GIANG
-
-#EXTINF:0 tvg-id="angiang3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/81.png",ATV3 HD _ TH AN GIANG
 
 #EXTINF:0 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/86.png",CẦN THƠ 1 HD _ TH TP. CẦN THƠ
 
