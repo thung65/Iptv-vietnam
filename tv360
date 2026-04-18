@@ -201,7 +201,7 @@ https://truyenhinhvn21h1.duckdns.org/tv360/33/index.m3u8
 https://truyenhinhvn21h1.duckdns.org/tv360/34/index.m3u8
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/103.png",THP HD _ TH TP. HẢI PHÒNG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/6/index.m3u8
+https://truyenhinhvn21h1.duckdns.org/tv360/60/index.m3u8
 #EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/105.png",THP3 HD _ TH TP. HẢI PHÒNG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/59/index.m3u8
@@ -218,29 +218,35 @@ https://truyenhinhvn21h1.duckdns.org/tv360/58/index.m3u8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/83/index.m3u8
 #EXTINF:0 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/93.png",DNRT1 HD _ TH TP. ĐÀ NẴNG
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://vietanhtv.id.vn/tv360/49/index.m3u8
 #EXTINF:0 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/94.png",DNRT2 HD _ TH TP. ĐÀ NẴNG
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://vietanhtv.id.vn/tv360/80/index.m3u8
 #EXTINF:0 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/119.png",QNGTV1 _ TH QUẢNG NGÃI
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://vietanhtv.id.vn/tv360/81/index.m3u8
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/108.png",KTV HD _ TH KHÁNH HÒA
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://vietanhtv.id.vn/tv360/65/index.m3u8
 #EXTINF:0 tvg-id="khanhhoa1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/109.png",KTV1 HD _ TH KHÁNH HOÀ
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://vietanhtv.id.vn/tv360/76/index.m3u8
 #EXTINF:0 tvg-id="lamdong1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/111.png",LTV1 HD _ TH LÂM ĐỒNG
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/112.png",LTV2 HD _ TH LÂM ĐỒNG
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:0 tvg-id="gialai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/99.png",GTV HD _ TH GIA LAI
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:0 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/91.png",DRT HD _ TH ĐẮK LẮK
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/95.png",ĐNNRTV1 HD _ TH ĐỒNG NAI
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/96.png",ĐNNRTV2 HD _ TH ĐỒNG NAI
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/124.png",TN _ TH TÂY NINH
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://truyenhinhvn21h1.duckdns.org/tv360/72/index.m3u8
 #EXTINF:0 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/97.png",THĐT1 _ TH ĐỒNG THÁP
 
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/98.png",THĐT2 MIỀN TÂY _ TH ĐỒNG THÁP
@@ -262,7 +268,8 @@ https://truyenhinhvn21h1.duckdns.org/tv360/83/index.m3u8
 #EXTINF:0 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/107.png",HY _ TH HƯNG YÊN
 
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/127.png",TTV _ TH THANH HÓA
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://vietanhtv.id.vn/tv360/89/index.m3u8
 #EXTINF:0 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/106.png",HUETV _ TH THỪA THIÊN HUẾ
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/75.png",THVL1 HD - VĨNH LONG 1
@@ -274,3 +281,5 @@ https://truyenhinhvn21h1.duckdns.org/tv360/83/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/78.png",THVL4 HD - VĨNH LONG 4
 
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://vietanhtv.id.vn/tv360/91/index.m3u8
