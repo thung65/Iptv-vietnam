@@ -1,111 +1,156 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/1.png",VTV1
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv1hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/2.png",VTV2
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv2hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/3.png",VTV3
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv3hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/4.png",VTV4
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv4hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/5.png",VTV5
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv5hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/9.png",VTV7
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv7hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/10.png",VTV8
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv8hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/11.png",VTV9
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv9hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/8.png",VTV10
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv10hd&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://vnepg.site/logos/6.png",VTV5 TÂY NĂM BỘ
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv5taynambo&accKenh=madam69
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://vnepg.site/logos/7.png",VTV5 TÂY NGUYÊN
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vtv5taynguyen&accKenh=madam69
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://vnepg.site/logos/176.png",VIETNAM TODAY
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=vietnamtoday&accKenh=madam69
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F71.png&w=800",ANTV HD
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=antv&accKenh=madam69
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F72.png&w=800",QPVN HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?urlHD. ttps%3A%2F%2Fvnepg.site%2Flogos%2F72.png&w=800",QPVN HD
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=qpvn&accKenh=madam69
 #EXTINF:-1 tvg-id="tv360plus9" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/05/14/177537340488/3a48e602a9fa_640_360.png",360 GOAL
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=360goal&accKenh=madam69
 #EXTINF:-1 tvg-id="tv360plus10" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/10/15/1775809165214/8794af214760_640_360.png",360 V-SPORT
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=360v-sport&accKenh=madam69
 #EXTINF:-1 tvg-id="tv360plus11" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/05/11/1775362675178/41a612b20e5c_640_360.png",360 NHỊP ĐẬP
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://ace.hoiquan.click/module/IPTV/?id=360nhipdap&accKenh=madam69
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-viegiaitri.jpg",ON VIE GIẢI TRÍ
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/180/index.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-phimviet.jpg",ON PHIM VIỆT
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/175/index.m3u8
 #EXTINF:-1 tvg-id="onsports" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg",ON SPORTS
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-movies.jpg",ON MOVIES
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/181/index.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-echannel.jpg",ON E CHANNEL
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/182/index.m3u8
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVCab" tvg-logo="https://i.imgur.com/Wr9Rrsk.jpeg",ON SPORTS+
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-o2tv.jpg", ON O2TV
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/136/index.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-bibi.jpg",ON BIBI
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/178/index.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-infotv.jpg",ON INFO TV
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/189/index.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-cine.jpg",ON CINE
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/176/index.m3u8
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-style.jpg",ON STYLE TV
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/184/index.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-music.jpg",ON MUSIC
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/185/index.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-football.jpg",ON FOOTBALL
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:1 tvg-id="ontrending" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-trending.jpg",ON TRENDING TV
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/186/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-sportsnews.jpg",ON SPORTS NEWS
-
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-viedramas.jpg",ON VIE DRAMAS
 https://vietanhtv.id.vn/tv360/177/index.m3u8
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-vfamily.jpg",ON VFAMILY
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/187/index.m3u8
 #EXTINF:-1 tvg-id="onkids" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-kids.jpg",ON KIDS
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/179/index.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-life.jpg",ON LIFE
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/188/index.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-golf.jpg",ON GOLF
-https://vietanhtv.id.vn/tv360/169/index.m3u8
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://vnepg.site/logos/32.png",HTV1
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/190/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://vnepg.site/logos/33.png",HTV2
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/191/index.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://vnepg.site/logos/34.png",HTV3
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/192/index.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://vnepg.site/logos/35.png",HTV4
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://vnepg.site/logos/35.png",HTV4
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/9/index.m3u8
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://vnepg.site/logos/85.png",HTV5
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/151/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://vnepg.site/logos/36.png",HTV7
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/193/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://vnepg.site/logos/37.png",HTV9
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/194/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://vnepg.site/logos/38.png",HTV THỂ THAO
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/195/index.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://vnepg.site/logos/39.png",HTVC THUẦN VIỆT HD
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/13/index.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/44.png",HTVC DU LỊCH & CUỘC SỐNG HD
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/133/index.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/40.png",HTVC GIA ĐÌNH HD
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/11/index.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/41.png",HTVC PHỤ NỮ HD
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/12/index.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/42.png",HTVC PHIM HD
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/15/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/45.png",HTVC PLUS HD
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/132/index.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/43.png",HTVC CA NHẠC
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/14/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/47.png",SCTV2
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/201/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/50.png",SCTV6
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/232/index.m3u8
