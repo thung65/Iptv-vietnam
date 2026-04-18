@@ -154,4 +154,106 @@ https://truyenhinhvn21h1.duckdns.org/tv360/201/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/50.png",SCTV6
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn21h1.duckdns.org/tv360/232/index.m3u8
+#EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/115.png",THLC HD _ TH LÀO CAI
+https://truyenhinhvn21h1.duckdns.org/tv360/71/index.m3u8
+#EXTINF:0 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/92.png",ĐTV HD _ TH ĐIỆN BIÊN
+https://truyenhinhvn21h1.duckdns.org/tv360/52/index.m3u8
+#EXTINF:0 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/110.png",LTV HD _ TH LAI CHÂU
+https://truyenhinhvn21h1.duckdns.org/tv360/68/index.m3u8
+#EXTINF:0 tvg-id="caobang" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/90.png",CRTV _ TH CAO BẰNG
+https://truyenhinhvn21h1.duckdns.org/tv360/48/index.m3u8
+#EXTINF:0 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/114.png",LSTV HD _ TH LẠNG SƠN
+https://truyenhinhvn21h1.duckdns.org/tv360/70/index.m3u8
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/128.png",TTV HD _ TH TUYÊN QUANG
+https://truyenhinhvn21h1.duckdns.org/tv360/92/index.m3u8
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/126.png",TN _ TH THÁI NGUYÊN
+https://truyenhinhvn21h1.duckdns.org/tv360/88/index.m3u8
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/118.png",PTV HD _ TH PHÚ THỌ
+https://truyenhinhvn21h1.duckdns.org/tv360/77/index.m3u8
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/120.png",QTV1 HD _ TH QUẢNG NINH
+https://truyenhinhvn21h1.duckdns.org/tv360/82/index.m3u8
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/121.png",QTV3 HD _ TH QUẢNG NINH
+https://truyenhinhvn21h1.duckdns.org/tv360/134/index.m3u8
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/82.png",BTV _ TH BẮC NINH
+https://truyenhinhvn21h1.duckdns.org/tv360/39/index.m3u8
+#EXTINF:0 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/74.png",YOUTV _ TH HÀ NỘI
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
+https://truyenhinhvn21h1.duckdns.org/tv360/31/index.m3u8
+#EXTINF:0 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/73.png",HITV _ TH HÀ NỘI
+#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
+https://truyenhinhvn21h1.duckdns.org/tv360/32/index.m3u8
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/100.png",H1 HD _ TH HÀ NỘI
+https://truyenhinhvn21h1.duckdns.org/tv360/33/index.m3u8
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/101.png",H2 HD _ TH HÀ NỘI
+https://truyenhinhvn21h1.duckdns.org/tv360/34/index.m3u8
+#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/103.png",THP HD _ TH TP. HẢI PHÒNG
+https://truyenhinhvn21h1.duckdns.org/tv360/6/index.m3u8
+#EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/105.png",THP3 HD _ TH TP. HẢI PHÒNG
+https://truyenhinhvn21h1.duckdns.org/tv360/59/index.m3u8
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/117.png",NTV HD _ TH NINH BÌNH
+https://truyenhinhvn21h1.duckdns.org/tv360/75/index.m3u8
+#EXTINF:0 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/116.png",NTV HD _ TH NGHỆ AN
+https://truyenhinhvn21h1.duckdns.org/tv360/74/index.m3u8
+#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/102.png",BHT HD _ TH HÀ TĨNH
+https://truyenhinhvn21h1.duckdns.org/tv360/58/index.m3u8
+#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/122.png",QTTV HD _ TH QUẢNG TRỊ
+https://truyenhinhvn21h1.duckdns.org/tv360/83/index.m3u8
+#EXTINF:0 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/93.png",DNRT1 HD _ TH TP. ĐÀ NẴNG
 
+#EXTINF:0 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/94.png",DNRT2 HD _ TH TP. ĐÀ NẴNG
+
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/119.png",QNGTV1 _ TH QUẢNG NGÃI
+
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/108.png",KTV HD _ TH KHÁNH HÒA
+
+#EXTINF:0 tvg-id="khanhhoa1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/109.png",KTV1 HD _ TH KHÁNH HOÀ
+
+#EXTINF:0 tvg-id="lamdong1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/111.png",LTV1 HD _ TH LÂM ĐỒNG
+
+#EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/112.png",LTV2 HD _ TH LÂM ĐỒNG
+
+#EXTINF:0 tvg-id="gialai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/99.png",GTV HD _ TH GIA LAI
+
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/91.png",DRT HD _ TH ĐẮK LẮK
+
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/95.png",ĐNNRTV1 HD _ TH ĐỒNG NAI
+
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/96.png",ĐNNRTV2 HD _ TH ĐỒNG NAI
+
+#EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/124.png",TN _ TH TÂY NINH
+
+#EXTINF:0 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/97.png",THĐT1 _ TH ĐỒNG THÁP
+
+#EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/98.png",THĐT2 MIỀN TÂY _ TH ĐỒNG THÁP
+
+#EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/79.png",ATV1 HD _ TH AN GIANG
+
+#EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/80.png",ATV2 HD _ TH AN GIANG
+
+#EXTINF:0 tvg-id="angiang3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/81.png",ATV3 HD _ TH AN GIANG
+
+#EXTINF:0 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/86.png",CẦN THƠ 1 HD _ TH TP. CẦN THƠ
+
+#EXTINF:0 tvg-id="cantho2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/87.png",CẦN THƠ 2 HD _ TH CẦN THƠ
+
+#EXTINF:0 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/88.png",CẦN THƠ 3 HD _ TH TP. CẦN THƠ
+
+#EXTINF:0 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/89.png",CTV HD _ TH CÀ MAU
+
+#EXTINF:0 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/123.png",STV _ TH SƠN LA
+
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/107.png",HY _ TH HƯNG YÊN
+
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/127.png",TTV _ TH THANH HÓA
+
+#EXTINF:0 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/106.png",HUETV _ TH THỪA THIÊN HUẾ
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/75.png",THVL1 HD - VĨNH LONG 1
+
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/76.png",THVL2 HD - VĨNH LONG 2
+
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/77.png",THVL3 HD - VĨNH LONG 3
+
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/78.png",THVL4 HD - VĨNH LONG 4
+
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
