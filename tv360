@@ -157,6 +157,7 @@ https://vietanhtv.id.vn/tv360/179/index.m3u8
 https://vietanhtv.id.vn/tv360/188/index.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-golf.jpg",ON GOLF
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
+https://truyenhinhvn21h1.duckdns.org/tv360/169/index.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://vnepg.site/logos/32.png",HTV1
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://vietanhtv.id.vn/tv360/190/index.m3u8
