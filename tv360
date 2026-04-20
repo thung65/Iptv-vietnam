@@ -1,237 +1,237 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/1.png",VTV1
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/2/index.m3u8
+https://vietanhtv.id.vn/tv360/2/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/2.png",VTV2
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/3/index.m3u8
+https://vietanhtv.id.vn/tv360/3/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/3.png",VTV3
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/4/index.m3u8
+https://vietanhtv.id.vn/tv360/4/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/4.png",VTV4
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/108/index.m3u8
+https://vietanhtv.id.vn/tv360/108/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/5.png",VTV5
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/110/index.m3u8
+https://vietanhtv.id.vn/tv360/110/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/9.png",VTV7
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/6/index.m3u8
+https://vietanhtv.id.vn/tv360/6/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/10.png",VTV8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/115/index.m3u8
+https://vietanhtv.id.vn/tv360/115/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/11.png",VTV9
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/8/index.m3u8
+https://vietanhtv.id.vn/tv360/8/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/8.png",VTV10
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/98/index.m3u8
+https://vietanhtv.id.vn/tv360/98/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://vnepg.site/logos/6.png",VTV5 TÂY NĂM BỘ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/157/index.m3u8
+https://vietanhtv.id.vn/tv360/157/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://vnepg.site/logos/7.png",VTV5 TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/207/index.m3u8
+https://vietanhtv.id.vn/tv360/207/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://vnepg.site/logos/176.png",VIETNAM TODAY
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/9951/index.m3u8
+https://vietanhtv.id.vn/tv360/9951/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F71.png&w=800",ANTV HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/20/index.m3u8
+https://vietanhtv.id.vn/tv360/20/index.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F72.png&w=800",QPVN HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/19/index.m3u8
+https://vietanhtv.id.vn/tv360/19/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus9" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png",TV360+9
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/9887/index.m3u8
+https://vietanhtv.id.vn/tv360/9887/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus10" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",TV360+10
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/9957/index.m3u8
+https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus11" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png",TV360+11
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/9958/index.m3u8
+https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-viegiaitri.jpg",ON VIE GIẢI TRÍ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/180/index.m3u8
+https://vietanhtv.id.vn/tv360/180/index.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-phimviet.jpg",ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/175/index.m3u8
+https://vietanhtv.id.vn/tv360/175/index.m3u8
 #EXTINF:-1 tvg-id="onsports" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg",ON SPORTS
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-movies.jpg",ON MOVIES
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/181/index.m3u8
+https://vietanhtv.id.vn/tv360/181/index.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-echannel.jpg",ON E CHANNEL
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/182/index.m3u8
+https://vietanhtv.id.vn/tv360/182/index.m3u8
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVCab" tvg-logo="https://i.imgur.com/Wr9Rrsk.jpeg",ON SPORTS+
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-o2tv.jpg", ON O2TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/136/index.m3u8
+https://vietanhtv.id.vn/tv360/136/index.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-bibi.jpg",ON BIBI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/178/index.m3u8
+https://vietanhtv.id.vn/tv360/178/index.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-infotv.jpg",ON INFO TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/189/index.m3u8
+https://vietanhtv.id.vn/tv360/189/index.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-cine.jpg",ON CINE
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/176/index.m3u8
+https://vietanhtv.id.vn/tv360/176/index.m3u8
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-style.jpg",ON STYLE TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/184/index.m3u8
+https://vietanhtv.id.vn/tv360/184/index.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-music.jpg",ON MUSIC
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/185/index.m3u8
+https://vietanhtv.id.vn/tv360/185/index.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-football.jpg",ON FOOTBALL
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:1 tvg-id="ontrending" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-trending.jpg",ON TRENDING TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/186/index.m3u8
+https://vietanhtv.id.vn/tv360/186/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-sportsnews.jpg",ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-viedramas.jpg",ON VIE DRAMAS
-https://truyenhinhvn21h1.duckdns.org/tv360/177/index.m3u8
+https://vietanhtv.id.vn/tv360/177/index.m3u8
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-vfamily.jpg",ON VFAMILY
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/187/index.m3u8
+https://vietanhtv.id.vn/tv360/187/index.m3u8
 #EXTINF:-1 tvg-id="onkids" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-kids.jpg",ON KIDS
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/179/index.m3u8
+https://vietanhtv.id.vn/tv360/179/index.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-life.jpg",ON LIFE
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/188/index.m3u8
+https://vietanhtv.id.vn/tv360/188/index.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-golf.jpg",ON GOLF
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://vnepg.site/logos/32.png",HTV1
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/190/index.m3u8
+https://vietanhtv.id.vn/tv360/190/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://vnepg.site/logos/33.png",HTV2
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/191/index.m3u8
+https://vietanhtv.id.vn/tv360/191/index.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://vnepg.site/logos/34.png",HTV3
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/192/index.m3u8
+https://vietanhtv.id.vn/tv360/192/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://vnepg.site/logos/35.png",HTV4
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/9/index.m3u8
+https://vietanhtv.id.vn/tv360/9/index.m3u8
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://vnepg.site/logos/85.png",HTV5
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/151/index.m3u8
+https://vietanhtv.id.vn/tv360/151/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://vnepg.site/logos/36.png",HTV7
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/193/index.m3u8
+https://vietanhtv.id.vn/tv360/193/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://vnepg.site/logos/37.png",HTV9
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/194/index.m3u8
+https://vietanhtv.id.vn/tv360/194/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://vnepg.site/logos/38.png",HTV THỂ THAO
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/195/index.m3u8
+https://vietanhtv.id.vn/tv360/195/index.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://vnepg.site/logos/39.png",HTVC THUẦN VIỆT HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/13/index.m3u8
+https://vietanhtv.id.vn/tv360/13/index.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/44.png",HTVC DU LỊCH & CUỘC SỐNG HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/133/index.m3u8
+https://vietanhtv.id.vn/tv360/133/index.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/40.png",HTVC GIA ĐÌNH HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/11/index.m3u8
+https://vietanhtv.id.vn/tv360/11/index.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/41.png",HTVC PHỤ NỮ HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/12/index.m3u8
+https://vietanhtv.id.vn/tv360/12/index.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/42.png",HTVC PHIM HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/15/index.m3u8
+https://vietanhtv.id.vn/tv360/15/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/45.png",HTVC PLUS HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/132/index.m3u8
+https://vietanhtv.id.vn/tv360/132/index.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://vnepg.site/logos/43.png",HTVC CA NHẠC
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/14/index.m3u8
+https://vietanhtv.id.vn/tv360/14/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/47.png",SCTV2
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/201/index.m3u8
+https://vietanhtv.id.vn/tv360/201/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vnepg.site/logos/50.png",SCTV6
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/232/index.m3u8
+https://vietanhtv.id.vn/tv360/232/index.m3u8
 #EXTINF:0 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/115.png",THLC HD _ TH LÀO CAI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/71/index.m3u8
+https://vietanhtv.id.vn/tv360/71/index.m3u8
 #EXTINF:0 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/92.png",ĐTV HD _ TH ĐIỆN BIÊN
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/52/index.m3u8
+https://vietanhtv.id.vn/tv360/52/index.m3u8
 #EXTINF:0 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/110.png",LTV HD _ TH LAI CHÂU
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/68/index.m3u8
+https://vietanhtv.id.vn/tv360/68/index.m3u8
 #EXTINF:0 tvg-id="caobang" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/90.png",CRTV _ TH CAO BẰNG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/48/index.m3u8
+https://vietanhtv.id.vn/tv360/48/index.m3u8
 #EXTINF:0 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/114.png",LSTV HD _ TH LẠNG SƠN
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/70/index.m3u8
+https://vietanhtv.id.vn/tv360/70/index.m3u8
 #EXTINF:0 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/128.png",TTV HD _ TH TUYÊN QUANG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/92/index.m3u8
+https://vietanhtv.id.vn/tv360/92/index.m3u8
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/126.png",TN _ TH THÁI NGUYÊN
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/88/index.m3u8
+https://vietanhtv.id.vn/tv360/88/index.m3u8
 #EXTINF:0 tvg-id="phutho" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/118.png",PTV HD _ TH PHÚ THỌ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/77/index.m3u8
+https://vietanhtv.id.vn/tv360/77/index.m3u8
 #EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/120.png",QTV1 HD _ TH QUẢNG NINH
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/82/index.m3u8
+https://vietanhtv.id.vn/tv360/82/index.m3u8
 #EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/121.png",QTV3 HD _ TH QUẢNG NINH
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/134/index.m3u8
+https://vietanhtv.id.vn/tv360/134/index.m3u8
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/82.png",BTV _ TH BẮC NINH
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/39/index.m3u8
+https://vietanhtv.id.vn/tv360/39/index.m3u8
 #EXTINF:0 tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/74.png",YOUTV _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/31/index.m3u8
+https://vietanhtv.id.vn/tv360/31/index.m3u8
 #EXTINF:0 tvg-id="hitv" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/73.png",HITV _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/32/index.m3u8
+https://vietanhtv.id.vn/tv360/32/index.m3u8
 #EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/100.png",H1 HD _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/33/index.m3u8
+https://vietanhtv.id.vn/tv360/33/index.m3u8
 #EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/101.png",H2 HD _ TH HÀ NỘI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/34/index.m3u8
+https://vietanhtv.id.vn/tv360/34/index.m3u8
 #EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/103.png",THP HD _ TH TP. HẢI PHÒNG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/60/index.m3u8
+https://vietanhtv.id.vn/tv360/60/index.m3u8
 #EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/105.png",THP3 HD _ TH TP. HẢI PHÒNG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/59/index.m3u8
+https://vietanhtv.id.vn/tv360/59/index.m3u8
 #EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/117.png",NTV HD _ TH NINH BÌNH
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/75/index.m3u8
+https://vietanhtv.id.vn/tv360/75/index.m3u8
 #EXTINF:0 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/116.png",NTV HD _ TH NGHỆ AN
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/74/index.m3u8
+https://vietanhtv.id.vn/tv360/74/index.m3u8
 #EXTINF:0 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/102.png",BHT HD _ TH HÀ TĨNH
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/58/index.m3u8
+https://vietanhtv.id.vn/tv360/58/index.m3u8
 #EXTINF:0 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/122.png",QTTV HD _ TH QUẢNG TRỊ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/83/index.m3u8
+https://vietanhtv.id.vn/tv360/83/index.m3u8
 #EXTINF:0 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/93.png",DNRT1 HD _ TH TP. ĐÀ NẴNG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/49/index.m3u8
+https://vietanhtv.id.vn/tv360/49/index.m3u8
 #EXTINF:0 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/94.png",DNRT2 HD _ TH TP. ĐÀ NẴNG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/80/index.m3u8
+https://vietanhtv.id.vn/tv360/80/index.m3u8
 #EXTINF:0 tvg-id="quangngai" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/119.png",QNGTV1 _ TH QUẢNG NGÃI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/81/index.m3u8
+https://vietanhtv.id.vn/tv360/81/index.m3u8
 #EXTINF:0 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/108.png",KTV HD _ TH KHÁNH HÒA
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/65/index.m3u8
+https://vietanhtv.id.vn/tv360/65/index.m3u8
 #EXTINF:0 tvg-id="khanhhoa1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/109.png",KTV1 HD _ TH KHÁNH HOÀ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/76/index.m3u8
+https://vietanhtv.id.vn/tv360/76/index.m3u8
 #EXTINF:0 tvg-id="lamdong1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/111.png",LTV1 HD _ TH LÂM ĐỒNG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/112.png",LTV2 HD _ TH LÂM ĐỒNG
@@ -246,55 +246,55 @@ https://truyenhinhvn21h1.duckdns.org/tv360/76/index.m3u8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/124.png",TN _ TH TÂY NINH
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/72/index.m3u8
+https://vietanhtv.id.vn/tv360/72/index.m3u8
 #EXTINF:0 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/97.png",THĐT1 _ TH ĐỒNG THÁP
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/54/index.m3u8
+https://vietanhtv.id.vn/tv360/54/index.m3u8
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/98.png",THĐT2 MIỀN TÂY _ TH ĐỒNG THÁP
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/90/index.m3u8
+https://vietanhtv.id.vn/tv360/90/index.m3u8
 #EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/79.png",ATV1 HD _ TH AN GIANG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/35/index.m3u8
+https://vietanhtv.id.vn/tv360/35/index.m3u8
 #EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/80.png",ATV2 HD _ TH AN GIANG
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/66/index.m3u8
+https://vietanhtv.id.vn/tv360/66/index.m3u8
 #EXTINF:0 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/86.png",CẦN THƠ 1 HD _ TH TP. CẦN THƠ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/47/index.m3u8
+https://vietanhtv.id.vn/tv360/47/index.m3u8
 #EXTINF:0 tvg-id="cantho2" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/87.png",CẦN THƠ 2 HD _ TH CẦN THƠ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/61/index.m3u8
+https://vietanhtv.id.vn/tv360/61/index.m3u8
 #EXTINF:0 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/88.png",CẦN THƠ 3 HD _ TH TP. CẦN THƠ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/84/index.m3u8
+https://vietanhtv.id.vn/tv360/84/index.m3u8
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/89.png",CTV HD _ TH CÀ MAU
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/46/index.m3u8
+https://vietanhtv.id.vn/tv360/46/index.m3u8
 #EXTINF:0 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/123.png",STV _ TH SƠN LA
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/85/index.m3u8
+https://vietanhtv.id.vn/tv360/85/index.m3u8
 #EXTINF:0 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/107.png",HY _ TH HƯNG YÊN
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/64/index.m3u8
+https://vietanhtv.id.vn/tv360/64/index.m3u8
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/127.png",TTV _ TH THANH HÓA
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/89/index.m3u8
+https://vietanhtv.id.vn/tv360/89/index.m3u8
 #EXTINF:0 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/106.png",HUETV _ TH THỪA THIÊN HUẾ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/63/index.m3u8
+https://vietanhtv.id.vn/tv360/63/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/75.png",THVL1 HD - VĨNH LONG 1
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/25/index.m3u8
+https://vietanhtv.id.vn/tv360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/76.png",THVL2 HD - VĨNH LONG 2
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/26/index.m3u8
+https://vietanhtv.id.vn/tv360/26/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/77.png",THVL3 HD - VĨNH LONG 3
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/219/index.m3u8
+https://vietanhtv.id.vn/tv360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/78.png",THVL4 HD - VĨNH LONG 4
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/220/index.m3u8
+https://vietanhtv.id.vn/tv360/220/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa Phương" tvg-logo="https://vnepg.site/logos/175.png",THVL5 HD - VĨNH LONG 5
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn21h1.duckdns.org/tv360/91/index.m3u8
+https://vietanhtv.id.vn/tv360/91/index.m3u8
