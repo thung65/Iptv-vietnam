@@ -1,109 +1,109 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/1.png",VTV1
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=2
+https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/2.png",VTV2
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=3
+https://sgclient.duckdns.org/source/tv360.m3u8?id=3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/3.png",VTV3
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=4
+https://sgclient.duckdns.org/source/tv360.m3u8?id=4
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/4.png",VTV4
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=108
+https://sgclient.duckdns.org/source/tv360.m3u8?id=108
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/5.png",VTV5
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=110
+https://sgclient.duckdns.org/source/tv360.m3u8?id=110
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/9.png",VTV7
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=6
+https://sgclient.duckdns.org/source/tv360.m3u8?id=6
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/10.png",VTV8
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=115
+https://sgclient.duckdns.org/source/tv360.m3u8?id=115
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/11.png",VTV9
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://vnepg.site/logos/8.png",VTV10
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=98
+https://sgclient.duckdns.org/source/tv360.m3u8?id=98
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://vnepg.site/logos/6.png",VTV5 TÂY NĂM BỘ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=157
+https://sgclient.duckdns.org/source/tv360.m3u8?id=157
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://vnepg.site/logos/7.png",VTV5 TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=207
+https://sgclient.duckdns.org/source/tv360.m3u8?id=207
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://vnepg.site/logos/176.png",VIETNAM TODAY
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=9951
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9951
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F71.png&w=800",ANTV HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=20
+https://sgclient.duckdns.org/source/tv360.m3u8?id=20
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F72.png&w=800",QPVN HD
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=19
+https://sgclient.duckdns.org/source/tv360.m3u8?id=19
 #EXTINF:-1 tvg-id="tv360plus9" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png",TV360+9
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=9887
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 #EXTINF:-1 tvg-id="tv360plus10" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",TV360+10
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=9957
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9957
 #EXTINF:-1 tvg-id="tv360plus11" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png",TV360+11
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=9958
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-viegiaitri.jpg",ON VIE GIẢI TRÍ
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=180
+https://sgclient.duckdns.org/source/tv360.m3u8?id=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-phimviet.jpg",ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=175
+https://sgclient.duckdns.org/source/tv360.m3u8?id=175
 #EXTINF:-1 tvg-id="onsports" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg",ON SPORTS
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-movies.jpg",ON MOVIES
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=181
+https://sgclient.duckdns.org/source/tv360.m3u8?id=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-echannel.jpg",ON E CHANNEL
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=182
+https://sgclient.duckdns.org/source/tv360.m3u8?id=182
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVCab" tvg-logo="https://i.imgur.com/Wr9Rrsk.jpeg",ON SPORTS+
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-o2tv.jpg", ON O2TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=136
+https://sgclient.duckdns.org/source/tv360.m3u8?id=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-bibi.jpg",ON BIBI
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=178
+https://sgclient.duckdns.org/source/tv360.m3u8?id=178
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-infotv.jpg",ON INFO TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=189
+https://sgclient.duckdns.org/source/tv360.m3u8?id=189
 #EXTINF:-1 tvg-id="oncine" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-cine.jpg",ON CINE
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=176
+https://sgclient.duckdns.org/source/tv360.m3u8?id=176
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-style.jpg",ON STYLE TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=184
+https://sgclient.duckdns.org/source/tv360.m3u8?id=184
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-music.jpg",ON MUSIC
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=185
+https://sgclient.duckdns.org/source/tv360.m3u8?id=185
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-football.jpg",ON FOOTBALL
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:1 tvg-id="ontrending" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-trending.jpg",ON TRENDING TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=186
+https://sgclient.duckdns.org/source/tv360.m3u8?id=186
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-sportsnews.jpg",ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-viedramas.jpg",ON VIE DRAMAS
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=177
+https://sgclient.duckdns.org/source/tv360.m3u8?id=177
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-vfamily.jpg",ON VFAMILY
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=187
+https://sgclient.duckdns.org/source/tv360.m3u8?id=187
 #EXTINF:-1 tvg-id="onkids" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-kids.jpg",ON KIDS
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=179
+https://sgclient.duckdns.org/source/tv360.m3u8?id=179
 #EXTINF:-1 tvg-id="onlife" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-life.jpg",ON LIFE
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=188
+https://sgclient.duckdns.org/source/tv360.m3u8?id=188
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-golf.jpg",ON GOLF
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
-https://truyenhinhvn18h1.thungtran729.workers.dev/tv360?id=169
+https://sgclient.duckdns.org/source/tv360.m3u8?id=169
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://vnepg.site/logos/32.png",HTV1
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://truyenhinhvn18h1.duckdns.org/tv360/190/index.m3u8
