@@ -109,16 +109,12 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-phimviet.jpg",ON PHIM VIỆT
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://sgclient.duckdns.org/source/tv360.m3u8?id=175
-#EXTINF:-1 tvg-id="onsports" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg",ON SPORTS
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-movies.jpg",ON MOVIES
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://sgclient.duckdns.org/source/tv360.m3u8?id=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-echannel.jpg",ON E CHANNEL
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://sgclient.duckdns.org/source/tv360.m3u8?id=182
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVCab" tvg-logo="https://i.imgur.com/Wr9Rrsk.jpeg",ON SPORTS+
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-o2tv.jpg", ON O2TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://sgclient.duckdns.org/source/tv360.m3u8?id=136
@@ -137,13 +133,9 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=184
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVCab" tvg-logo="https://image4.vnmedia.xyz/logo/on-music.jpg",ON MUSIC
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://sgclient.duckdns.org/source/tv360.m3u8?id=185
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVCab" tvg-logo="https://image1.vnmedia.xyz/logo/on-football.jpg",ON FOOTBALL
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:1 tvg-id="ontrending" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-trending.jpg",ON TRENDING TV
 #EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 https://sgclient.duckdns.org/source/tv360.m3u8?id=186
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-sportsnews.jpg",ON SPORTS NEWS
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 10; K) ExoPlayerLib/2.18.2
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVCab" tvg-logo="https://image2.vnmedia.xyz/logo/on-viedramas.jpg",ON VIE DRAMAS
 https://sgclient.duckdns.org/source/tv360.m3u8?id=177
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVCab" tvg-logo="https://image3.vnmedia.xyz/logo/on-vfamily.jpg",ON VFAMILY
