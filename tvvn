@@ -1,0 +1,339 @@
+#*--_--*VTV*--_--*#
+#EXTINF:-1 tvg-id="vtv1" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv1.png",VTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv2" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv2.png",VTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv3" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv3.png",VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv4" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv4.png",VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vntoday" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vietnamtoday.png",Vietnam Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv5.png",VTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv5tnb.png",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5tn" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv5tn.png",VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv7" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv7.png",VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u81
+#EXTINF:-1 tvg-id="vtv8" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv8.png",VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv9" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv9.png",VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv10" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv10.png",VTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+#*--_--*VTVcab*--_--*#
+#EXTINF:-1 tvg-id="vtvcab1" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab1.png",ON Vie GIẢI TRÍ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=180
+#EXTINF:-1 tvg-id="vtvcab2" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab2.png",ON Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=175
+#EXTINF:-1 tvg-id="vtvcab4" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab4.png",ON Movies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=181
+#EXTINF:-1 tvg-id="vtvcab5" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab5.png",ON EChannel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=182
+#EXTINF:-1 tvg-id="vtvcab7" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab7.png",ON O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=136
+#EXTINF:-1 tvg-id="vtvcab8" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab8.png",ON BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=178
+#EXTINF:-1 tvg-id="vtvcab9" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab9.png",ON Info TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=189
+#EXTINF:-1 tvg-id="vtvcab10" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab10.png",ON Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=176
+#EXTINF:-1 tvg-id="vtvcab12" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab12.png",ON Style TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=184
+#EXTINF:-1 tvg-id="vtvcab15" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab15.png",ON Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=185
+#EXTINF:-1 tvg-id="vtvcab17" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab17.png",ON Trending TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=186
+#EXTINF:-1 tvg-id="vtvcab19" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab19.png",ON Vie DRAMAS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=177
+#EXTINF:-1 tvg-id="vtvcab20" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab20.png",ON VFamily
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=187
+#EXTINF:-1 tvg-id="vtvcab21" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab21.png",ON Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=179
+#EXTINF:-1 tvg-id="vtvcab22" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab22.png",ON Life
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=188
+#EXTINF:-1 tvg-id="vtvcab23" group-title="VTVcab" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtvcab.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtvcab/vtvcab23.png",ON Golf
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=169
+#*--_--HTV/C*--_--*#
+#EXTINF:-1 tvg-id="htv1" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htv1.png",HTV1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/hplus.m3u8?id=2631
+#EXTINF:-1 tvg-id="htv2" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htv2.png",HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/hplus.m3u8?id=2669
+#EXTINF:-1 tvg-id="htv3" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htv3.png",HTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/hplus.m3u8?id=2535
+#EXTINF:-1 tvg-id="htv4" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htv4_original.png",HTV4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/hplus.m3u8?id=2528
+#EXTINF:-1 tvg-id="htv5" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htv5bchannel.png",HTV5 - BChannel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htv5
+#EXTINF:-1 tvg-id="htv7" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htv7.png",HTV7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/hplus.m3u8?id=256
+#EXTINF:-1 tvg-id="htv9" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htv9.png",HTV9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/hplus.m3u8?id=2667
+#EXTINF:-1 tvg-id="htvthethao" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htvthethao.png",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htvthethao
+#EXTINF:-1 tvg-id="htvccanhac" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htvccanhac.png",HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htvccanhac
+#EXTINF:-1 tvg-id="htvcdulich" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htvcdulich.png",HTVC Du Lịch
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htvcdulich
+#EXTINF:-1 tvg-id="htvcgiadinh" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htvcgiadinh.png",HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htvcgiadinh
+#EXTINF:-1 tvg-id="htvcphim" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htvcphim.png",HTVC Phim
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htvcphim
+#EXTINF:-1 tvg-id="htvcphunu" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htvcphunu.png",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htvcphunu
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htvcthuanviet.png",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htvcthuanviet
+#EXTINF:-1 tvg-id="htvcplus" group-title="HTV/C" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/hplus.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/hplus/htvcplus.png",HTVC Plus
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=htvcplus
+#*--_--*SCTV*--_--*#
+#EXTINF:-1 tvg-id="sctv1" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv1.png",SCTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 tvg-id="sctv2" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv2.png",SCTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=201
+#EXTINF:-1 tvg-id="sctv3" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv3.png",SCTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
+#EXTINF:-1 tvg-id="sctv4" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv4.png",SCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
+#EXTINF:-1 tvg-id="sctv6" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv6.png",SCTV6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=232
+#EXTINF:-1 tvg-id="sctv7" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv7.png",SCTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
+#EXTINF:-1 tvg-id="sctv8" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv8.png",SCTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
+#EXTINF:-1 tvg-id="sctv10" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv10.png",SCTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
+#EXTINF:-1 tvg-id="sctv11" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv11.png",SCTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
+#EXTINF:-1 tvg-id="sctv12" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv12.png",SCTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
+#EXTINF:-1 tvg-id="sctv13" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv13.png,SCTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
+#EXTINF:-1 tvg-id="sctv14" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv14.png",SCTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
+#EXTINF:-1 tvg-id="sctv16" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv16.png",SCTV16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8
+#EXTINF:-1 tvg-id="sctv18" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv18.png",SCTV18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
+#EXTINF:-1 tvg-id="sctv19" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv19.png",SCTV19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
+#EXTINF:-1 tvg-id="sctv20" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv20.png",SCTV20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
+#EXTINF:-1 tvg-id="sctv21" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv21.png",SCTV21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
+#EXTINF:-1 tvg-id="sctv22" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctv22.png",SCTV22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
+#EXTINF:-1 tvg-id="sctvpth" group-title="SCTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/sctv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/sctv/sctvpth.png",SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#*--_--*Thiết yếu*--_--*#
+#EXTINF:-1 tvg-id="antv" group-title="Thiết yếu" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/thietyeu/antv.png",An Ninh TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=antv
+#EXTINF:-1 tvg-id="qpvn" group-title="Thiết yếu" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/thietyeu/qpvn.png",Quốc Phòng VN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=qpvn
+#EXTINF:-1 tvg-id="hitv" group-title="Thiết yếu" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/thietyeu/hitv.png",HiTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=32
+#EXTINF:-1 tvg-id="youtv" group-title="Thiết yếu" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/thietyeu/youtv.png",YouTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=31
+#*--_--*Địa phương*--_--*#
+#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/angiang1.png",An Giang 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=66
+#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/angiang2.png",An Giang 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=35
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/bacninh.png",Bắc Ninh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=bacninh
+#EXTINF:-1 tvg-id="caobang" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/caobang.png",Cao Bằng
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=48
+#EXTINF:-1 tvg-id="camau" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/camau.png",Cà Mau
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=camau
+#EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/cantho1.png",Cần Thơ 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=cantho1
+#EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/cantho2.png",Cần Thơ 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=cantho2
+#EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/cantho3.png",Cần Thơ 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=cantho3
+#EXTINF:-1 tvg-id="daklak" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/daklak.png",Đắk Lắk
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=51
+#EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/dienbien.png",Điện Biên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=52
+#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/danang1.png",Đà Nẵng 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=49
+#EXTINF:-1 tvg-id="danang2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/danang2.png",Đà Nẵng 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=80
+#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/dongnai1.png",Đồng Nai 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=53
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/dongnai2.png",Đồng Nai 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=255
+#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/dongnai3.png",Đồng Nai 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=dongnai3
+#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/gialai.png",Gia Lai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=55
+#EXTINF:-1 tvg-id="hue" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/hue.png",Huế
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=63
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/hanoi1.png",Hà Nội 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=hanoi1
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/hanoi2.png",Hà Nội 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=hanoi2
+#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/haiphong.png",Hải Phòng
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=60
+#EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/haiphong3.png",Hải Phòng 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=59
+#EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/hatinh.png",Hà Tĩnh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=58
+#EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/hungyen.png",Hưng Yên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=64
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/khanhhoa.png",Khánh Hoà
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=65
+#EXTINF:-1 tvg-id="laocai" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/laocai.png",Lào Cai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=71
+#EXTINF:-1 tvg-id="laichau" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/laichau.png",Lai Châu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=68
+#EXTINF:-1 tvg-id="lamdong1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/lamdong1.png",Lâm Đồng 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=69
+#EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/lamdong2.png",Lâm Đồng 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=45
+#EXTINF:-1 tvg-id="nghean" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/nghean.png",Nghệ An
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=74
+#EXTINF:-1 tvg-id="phutho" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/phutho.png",Phú Thọ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=77
+#EXTINF:-1 tvg-id="quangngai1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/quangngai1.png",Quảng Ngãi 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=81
+#EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/quangngai2.png",Quảng Ngãi 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=quangngai2
+#EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/quangninh1.png",Quảng Ninh 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=82
+#EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/quangninh3.png",Quảng Ninh 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=134
+#EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/quangtri.png",Quảng Trị
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=83
+#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/thanhhoa.png",Thanh Hoá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=89
+#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/tuyenquang.png",Tuyên Quang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=92
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/thainguyen.png",Thái Nguyên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=88
+#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/tayninh1.png",Tây Ninh 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=72
+#EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/tayninh2.png",Tây Ninh 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/tv360.m3u8?id=86
+#EXTINF:-1 tvg-id="vinhlong1" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/vinhlong1.png",Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=thvl1
+#EXTINF:-1 tvg-id="vinhlong2" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/vinhlong2.png",Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=thvl2
+#EXTINF:-1 tvg-id="vinhlong3" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/vinhlong3.png",Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=thvl3
+#EXTINF:-1 tvg-id="vinhlong4" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/vinhlong4.png",Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=thvl4
+#EXTINF:-1 tvg-id="vinhlong5" group-title="Địa phương" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/diaphuong/vinhlong5.png",Vĩnh Long 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://truyenhinhvn18h1.duckdns.org/source/vieon.m3u8?id=thvl5
