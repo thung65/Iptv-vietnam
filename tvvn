@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://truyenhinhvn18h1.duckdns.org/epg/tv.xml"
 #*--_--*VTV*--_--*#
 #EXTINF:-1 tvg-id="vtv1" group-title="VTV" group-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/logo/vtv.png" tvg-logo="https://truyenhinhvn18h1.duckdns.org/assets/images/tv/vtv/vtv1.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
