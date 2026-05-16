@@ -316,12 +316,9 @@ https://truyenhinhvn.nichesite.org/source/tv360.m3u8?id=92
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" group-logo="https://truyenhinhvn.nichesite.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn.nichesite.org/assets/images/tv/diaphuong/thainguyen.png",Thái Nguyên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://truyenhinhvn.nichesite.org/source/tv360.m3u8?id=88
-#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" group-logo="https://truyenhinhvn.nichesite.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn.nichesite.org/assets/images/tv/diaphuong/tayninh1.png",Tây Ninh 1
+#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" group-logo="https://truyenhinhvn.nichesite.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn.nichesite.org/assets/images/tv/diaphuong/tayninh.png",Tây Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://truyenhinhvn.nichesite.org/source/tv360.m3u8?id=72
-#EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" group-logo="https://truyenhinhvn.nichesite.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn.nichesite.org/assets/images/tv/diaphuong/tayninh2.png",Tây Ninh 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://truyenhinhvn.nichesite.org/source/tv360.m3u8?id=86
 #EXTINF:-1 tvg-id="vinhlong1" group-title="Địa phương" group-logo="https://truyenhinhvn.nichesite.org/assets/images/flag/vietnam.png" tvg-logo="https://truyenhinhvn.nichesite.org/assets/images/tv/diaphuong/vinhlong1.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://truyenhinhvn.nichesite.org/source/vieon.m3u8?id=thvl1
