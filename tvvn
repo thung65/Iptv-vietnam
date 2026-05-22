@@ -324,18 +324,18 @@ https://sgchill.duckdns.org/source/tv360.m3u8?id=88
 #EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/tayninh.png",Tây Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/tv360.m3u8?id=72
-#EXTINF:-1 tvg-id="vinhlong1" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong1.png",Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong1.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/vieon.m3u8?id=thvl1
-#EXTINF:-1 tvg-id="vinhlong2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong2.png",Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong2.png",Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/vieon.m3u8?id=thvl2
-#EXTINF:-1 tvg-id="vinhlong3" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong3.png",Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong3.png",Vĩnh Long 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/vieon.m3u8?id=thvl3
-#EXTINF:-1 tvg-id="vinhlong4" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong4.png",Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong4.png",Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/vieon.m3u8?id=thvl4
-#EXTINF:-1 tvg-id="vinhlong5" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong5.png",Vĩnh Long 5
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/assets/images/flag/vietnam.png" tvg-logo="https://sgchill.duckdns.org/assets/images/tv/diaphuong/vinhlong5.png",Vĩnh Long 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/vieon.m3u8?id=thvl5
