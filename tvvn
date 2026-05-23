@@ -378,3 +378,40 @@ https://sgchill.duckdns.org/stream/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/hgtv.png",Hgtv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/stream/hgtv/index.m3u8
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/abcaustralia.png",ABC Australia
+
+#EXTINF:-1 tvg-id="axn" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/axn.png",AXN
+
+#EXTINF:-1 tvg-id="bbccbeebies" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/bbccbeebies.png",BBC CBeebies
+
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/bbcearth.png",BBC Earth
+
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/bbclifestyle.png",BBC Lifestyle
+
+#EXTINF:-1 tvg-id="bbcnews" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/bbcnews.png",BBC News
+
+#EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/bloomberg.png",Bloomberg
+
+#EXTINF:-1 tvg-id="cartoonito" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/cartoonito.png",Cartoonito
+
+#EXTINF:-1 tvg-id="cartoonnetwork" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/cartoonnetwork.png",Cartoon Network
+
+#EXTINF:-1 tvg-id="cinemaworld" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/cinemaworld.png",Cinema World
+
+#EXTINF:-1 tvg-id="cinemax" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/cinemax.png",Cinemax
+
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/cnn.png",CNN
+
+#EXTINF:-1 tvg-id="discoveryasia" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/discoveryasia.png",Discovery Asia
+
+#EXTINF:-1 tvg-id="discoverychannel" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/discoverychannel.png",Discovery Channel
+
+#EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/dmax.png",DMAX
+
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/dreamworks.png",DreamWorks
+
+#EXTINF:-1 tvg-id="fashiontv" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/fashiontv.png",Fashion TV
+
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/hbo.png",HBO
+
+#EXTINF:-1 tvg-id="warnertv" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/warnertv.png",Warner TV
