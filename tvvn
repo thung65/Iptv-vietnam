@@ -1,21 +1,21 @@
 #EXTINF:-1 tvg-id="vtv1" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv1.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv1hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv1/index.m3u8
 #EXTINF:-1 tvg-id="vtv2" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv2.png",VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv2hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv2/index.m3u8
 #EXTINF:-1 tvg-id="vtv3" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv3.png",VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv3hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="vtv4" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv4.png",VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv4hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="vntoday" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vietnamtoday.png",Vietnam Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/stream/vietnamtoday/index.m3u8
 #EXTINF:-1 tvg-id="vtv5" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5.png",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv5hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="vtv5tnb" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tnb.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/stream/vtv5tnb/index.m3u8
@@ -24,16 +24,16 @@ https://sgchill.duckdns.org/stream/vtv5tnb/index.m3u8
 https://sgchill.duckdns.org/stream/vtv5tn/index.m3u8
 #EXTINF:-1 tvg-id="vtv7" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv7.png",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv7hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv8.png",VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv8hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv9.png",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv9hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="vtv10" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv10.png",VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://sgchill.duckdns.org/stream/vtv10hd/index.m3u8
+https://sgchill.duckdns.org/stream/vtv10/index.m3u8
 #*--_--*VTVcab*--_--*#
 #EXTINF:-1 tvg-id="vtvcab1" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab1.png",ON Vie GIẢI TRÍ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -89,10 +89,10 @@ https://sgchill.duckdns.org/stream/ongolf/index.m3u8
 https://sgchill.duckdns.org/stream/htv1/index.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv2.png",HTV2 - Vie Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv2hd/index.m3u8
+https://sgchill.duckdns.org/stream/htv2/index.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv3.png",HTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv3hd/index.m3u8
+https://sgchill.duckdns.org/stream/htv3/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv4_original.png",HTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/stream/htvkey/index.m3u8
@@ -101,10 +101,10 @@ https://sgchill.duckdns.org/stream/htvkey/index.m3u8
 https://sgchill.duckdns.org/stream/htv5/index.m3u8
 #EXTINF:-1 tvg-id="htv7" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv7.png",HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv7hd/index.m3u8
+https://sgchill.duckdns.org/stream/htv7/index.m3u8
 #EXTINF:-1 tvg-id="htv9" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv9.png",HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv9hd/index.m3u8
+https://sgchill.duckdns.org/stream/htv9/index.m3u8
 #EXTINF:-1 tvg-id="htvthethao" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvthethao.png",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/stream/htvthethao/index.m3u8
