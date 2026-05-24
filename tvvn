@@ -132,7 +132,7 @@ https://sgchill.duckdns.org/stream/htvcplus/index.m3u8
 https://sgchill.duckdns.org/stream/sctv1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv2.png",SCTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/?id=SCTV2
+https://sgchill.duckdns.org/stream/sctv2/index.m3u8
 #EXTINF:-1 tvg-id="sctv3" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv3.png",SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/stream/sctv3/index.m3u8
