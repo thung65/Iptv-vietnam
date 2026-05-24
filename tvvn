@@ -370,7 +370,7 @@ https://sgchill.duckdns.org/stream/outdoor/index.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/tv5monde.png",TV5 Monde
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/stream/tv5monde/index.m3u8
-#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/hgtv.png",Hgtv
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/hgtv.png",HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/stream/hgtv/index.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/abcaustralia.png",ABC Australia
