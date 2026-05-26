@@ -84,49 +84,49 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv1.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv1/index.m3u8
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv2.png",HTV2 - Vie Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv2/index.m3u8
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv3.png",HTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv3/index.m3u8
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv4_original.png",HTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvkey/index.m3u8
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv5" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv5bchannel.png",HTV5 - BChannel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv5/index.m3u8
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv7.png",HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv7/index.m3u8
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="htv9" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv9.png",HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htv9/index.m3u8
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethao" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvthethao.png",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvthethao/index.m3u8
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvccanhac" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvccanhac.png",HTVC Ca Nhạc
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvccanhac/index.m3u8
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcdulich" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvcdulich.png",HTVC Du Lịch
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvcdulich/index.m3u8
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinh" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvcgiadinh.png",HTVC Gia Đình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvcgiadinh/index.m3u8
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcphim" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvcphim.png",HTVC Phim
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvcphim/index.m3u8
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcphunu" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvcphunu.png",HTVC Phụ Nữ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvcphunu/index.m3u8
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvcthuanviet.png",HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvcthuanviet/index.m3u8
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcplus" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvcplus.png",HTVC Plus
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/stream/htvcplus/index.m3u8
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv1.png",SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv1
