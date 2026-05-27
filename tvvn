@@ -9,7 +9,7 @@ https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=vtv2
 https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=vtv3
 #EXTINF:-1 tvg-id="vtv4" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv4.png",VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=vntoday
+https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=vtv4
 #EXTINF:-1 tvg-id="vntoday" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vietnamtoday.png",Vietnam Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=vntoday
