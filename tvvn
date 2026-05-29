@@ -352,6 +352,9 @@ https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=davinci
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/dw.png",DW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=dw
+#EXTINF:-1 tvg-id="france24" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/france24eng.png",France 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=france24
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/kbsworld.png",KBS WORLD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=kbsworld
