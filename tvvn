@@ -246,7 +246,7 @@ https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=dongnai1
 https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=dongnai2
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/dongnai3.png",Đồng Nai 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xemtvtructuyen.duckdns.org/source/vieon.m3u8?id=dongnai3
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/gialai.png",Gia Lai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=gialai
@@ -297,7 +297,7 @@ https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=phutho
 https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=quangngai
 #EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/quangngai2.png",Quảng Ngãi 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://xemtvtructuyen.duckdns.org/source/vieon.m3u8?id=quangngai2
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/quangninh1.png",Quảng Ninh 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xemtvtructuyen.duckdns.org/source/fptplay.m3u8?id=quangninh1
