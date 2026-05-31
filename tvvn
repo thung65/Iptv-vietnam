@@ -563,7 +563,7 @@ https://xemtvtructuyen.duckdns.org/source/tv360.m3u8?id=9869
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/clearkey.php?id=tv360plus8
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=tv360plus8
 https://xemtvtructuyen.duckdns.org/source/tv360.m3u8?id=9870
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://xemtvtructuyen.duckdns.org/source/tv360.m3u8?id=9887
