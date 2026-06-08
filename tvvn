@@ -1107,7 +1107,7 @@ https://vpsttt.vietanhtv.top/sctv/tv.php?id=tv5-8a3d24f4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
-https://sgchill.duckdns.org/playlist1080p.m3u8?_xtfc=6864eb7721a75224098f21dba116e648&_xt=1772525259
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/hgtv.png",HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
