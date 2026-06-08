@@ -938,16 +938,31 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=vinhlong5hd
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=afnhd
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/afn.png",AFN (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=asian-food-network
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/arirang.png",Arirang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=arirang
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/arirang.png",Arirang (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=arirang
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/cna.png",CNA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=cna
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/cna.png",CNA (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=cna-5490efe4
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/cnbc.png",CNBC
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
@@ -958,21 +973,46 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=cnbc
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=davinci
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/davinci.png",Da Vinci (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=da-vinci
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/dw.png",DW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=dw
+#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/dw.png",DW (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=dw-channel-5d4a820a
 #EXTINF:-1 tvg-id="france24" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/france24eng.png",France 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=france24
+#EXTINF:-1 tvg-id="france24" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/france24eng.png",France 24 (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=france-24-tieng-anh
+#EXTINF:-1 tvg-id="france24" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/france24fr.png",France 24 Français (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=france-24
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/kbsworld.png",KBS WORLD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=kbsworld
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/kbsworld.png",KBS WORLD (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=kbsworld-734f83fe
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/kix.png",Kix
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
@@ -993,6 +1033,11 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=outdoorhd
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=tv5monde
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/tv5monde.png",TV5 Monde (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=tv5-8a3d24f4
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" group-logo="https://sgchill.duckdns.org/logo/global.png" tvg-logo="https://sgchill.duckdns.org/logo/hgtv.png",HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
