@@ -406,6 +406,9 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=caobang
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/camau.png",Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=camau
+#EXTINF:-1 tvg-id="camau" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/camau.png",Cà Mau
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=dai-pt-th-ca-mau
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/cantho1.png",Cần Thơ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=cantho1
@@ -445,9 +448,15 @@ https://vpsttt.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/dongthap1.png", THĐT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=dongthap1
+#EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/dongthap1.png", THĐT1 (SCTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=th-dong-thap-1-8f098772
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/dongthap2.png", THĐT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=dongthap2
+#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/dongthap2.png", THĐT2 (SCTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=truyen-hinh-dong-thap-2-mien-tay-thdt2
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/gialai.png",Gia Lai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=gialai
