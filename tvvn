@@ -43,7 +43,7 @@ https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv5-truyen-hinh-dan-toc
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tnb.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv5tnb
-#EXTINF:-1 tvg-id="vtv5hftnb" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tnb.png",VTV5 Tây Nam Bộ (SCTV)
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tnb.png",VTV5 Tây Nam Bộ (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv5-tay-nam-bo-tieng-dan-toc-khu-vuc-tay-nam-bo
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tn.png",VTV5 Tây Nguyên
@@ -52,6 +52,9 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv5tn
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tn.png",VTV5 Tây Nguyên (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv5-tay-nguyen
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv6.png",VTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv6
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv7.png",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv7
