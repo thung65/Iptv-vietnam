@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-id="tv360plus13" group-title="Sự Kiện TV360" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus13.png",TV360+13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hW8pGvNaXbe30MlEsymTuQ","k":"qjVHVH8IT-TJ6lIG7_treA"}],"type":"temporary"}
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10022
+#EXTINF:-1 tvg-id="tv360plus14" group-title="Sự Kiện TV360" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus14.png",TV360+14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5XsAjO26XRKhkuZhUrthyg","k":"pLWNVDscBC-LOZ8mgEC2Iw"}],"type":"temporary"}
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10023
+#EXTINF:-1 tvg-id="tv360plus15" group-title="Sự Kiện TV360" tvg-logo="https://sgchill.duckdns.org/logo/tv360plus15.png",TV360+15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wwWyLf1tVeOZirJ5zJjg0w","k":"EpmDNcfaiYd6obHVDx7BdA"}],"type":"temporary"}
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10024
