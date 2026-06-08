@@ -5,185 +5,185 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv1.png",VTV1 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "Referer": "https://sctvonline.vn/"}
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv1-hd-72574f3e
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv1-hd-72574f3e
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv2.png",VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv2.png",VTV2 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "Referer": "https://sctvonline.vn/"}
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv2-kenh-khoa-hoc-va-giao-duc
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv2-kenh-khoa-hoc-va-giao-duc
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv3.png",VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv3.png",VTV3 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "Referer": "https://sctvonline.vn/"}
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv3-hd-d605e3bf
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv3-hd-d605e3bf
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv4.png",VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv4
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv4.png",VTV4 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "Referer": "https://sctvonline.vn/"}
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv4-truyen-hinh-doi-ngoai
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv4-truyen-hinh-doi-ngoai
 #EXTINF:-1 tvg-id="vietnantoday" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vietnamtoday.png",Vietnam Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vntoday
 #EXTINF:-1 tvg-id="vietnantoday" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vietnamtoday.png",Vietnam Today (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "Referer": "https://sctvonline.vn/"}
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=kenh-truyen-hinh-doi-ngoai-quoc-gia-vietnam-today
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=kenh-truyen-hinh-doi-ngoai-quoc-gia-vietnam-today
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5.png",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5.png",VTV5 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv5-truyen-hinh-dan-toc
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv5-truyen-hinh-dan-toc
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tnb.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv5tnb
 #EXTINF:-1 tvg-id="vtv5hftnb" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tnb.png",VTV5 Tây Nam Bộ (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv5-tay-nam-bo-tieng-dan-toc-khu-vuc-tay-nam-bo
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv5-tay-nam-bo-tieng-dan-toc-khu-vuc-tay-nam-bo
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tn.png",VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv5tn
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv5tn.png",VTV5 Tây Nguyên (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv5-tay-nguyen
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv5-tay-nguyen
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv7.png",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv7
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv7.png",VTV7 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv7-dabb4fb7
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv7-dabb4fb7
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv8.png",VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv8.png",VTV8 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv8-kenh-tong-hop-mien-trung-tay-nguyen
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv8-kenh-tong-hop-mien-trung-tay-nguyen
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv9.png",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv9
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv9.png",VTV9 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv9-87299929
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv9-87299929
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv10.png",VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv10
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv10.png",VTV10 (SCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtv6-69452026
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtv6-69452026
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab1.png",ON Vie Giải Trí (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab1.png",ON Vie Giải Trí (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab1-6faca302
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab1-6faca302
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab2.png",ON Phim Việt (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab2.png",ON Phim Việt (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab2-f8476be0
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab2-f8476be0
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab3-8dbaf8a2
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab3-8dbaf8a2
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab4.png",ON Movies (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab4.png",ON Movies (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab4-6c8bde4e
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab4-6c8bde4e
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab5.png",ON EChannel (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab5.png",ON EChannel (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab5-aef122e7
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab5-aef122e7
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON Sports+ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab6-c29bb965
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab6-c29bb965
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab7.png",ON O2TV (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab7.png",ON O2TV (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab7-a4f4497a
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab7-a4f4497a
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab8.png",ON BiBi (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab8.png",ON BiBi (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab8-a3ddf386
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab8-a3ddf386
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab9.png",ON Info TV (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab9.png",ON Info TV (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab9-18f41040
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab9-18f41040
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab10.png",ON Cine (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab10.png",ON Cine (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab10-31e7edd3
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab10-31e7edd3
 #EXTINF:-1 tvg-id="onstyletv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab12.png",ON Style TV (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab12.png",ON Style TV (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab12-455a5b1f
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab12-455a5b1f
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab15.png",ON Music (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab15.png",ON Music (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab15-ae9c052c
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab15-ae9c052c
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON Football
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab16-8865162b
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab16-8865162b
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab17.png",ON Trending TV (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab17.png",ON Trending TV (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab17-8155c5b0
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab17-8155c5b0
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON Sports News (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab-on-golf
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab-on-golf
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab19.png",ON Vie DRAMAS (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab19.png",ON Vie DRAMAS (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab19-a7618de8
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab19-a7618de8
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab20.png",ON VFamily (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab20.png",ON VFamily (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab20-01ae8160
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab20-01ae8160
 #EXTINF:-1 tvg-id="onkids" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab21.png",ON Kids (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
 #EXTINF:-1 tvg-id="onkids" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab21.png",ON Kids (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab-on-kids
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab-on-kids
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab22.png",ON Life (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab22.png",ON Life (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab-on-life
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab-on-life
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab23.png",ON Golf (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp",ON Golf (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=vtvcab-on-golf-1
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab-on-golf-1
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv1.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=htv1
@@ -204,13 +204,13 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=htv5
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=htv7
 #EXTINF:-1 tvg-id="htv7" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv7.png",HTV7 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=htv7-96634500
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=htv7-96634500
 #EXTINF:-1 tvg-id="htv9" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv9.png",HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=htv9
 #EXTINF:-1 tvg-id="htv9" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv9.png",HTV9 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=htv9-c6c29fcd
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=htv9-c6c29fcd
 #EXTINF:-1 tvg-id="htvthethao" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htvthethao.png",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=htvthethao
@@ -237,76 +237,76 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=htvcthuanviet
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=htvcplus
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv1.png",SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv1-hd-7f2aafec
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv1-hd-7f2aafec
 #EXTINF:-1 tvg-id="sctv2" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv2.png",SCTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv2-57c3884d
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv2-57c3884d
 #EXTINF:-1 tvg-id="sctv3" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv3.png",SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv3-hd-cf3adaca
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv3-hd-cf3adaca
 #EXTINF:-1 tvg-id="sctv4" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv4.png",SCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv4-ae779f7e
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv4-ae779f7e
 #EXTINF:-1 tvg-id="sctv5" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv5.png",SCTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv5-a3cdb592
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv5-a3cdb592
 #EXTINF:-1 tvg-id="sctv6" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv6.png",SCTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv6-202e4566
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv6-202e4566
 #EXTINF:-1 tvg-id="sctv7" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv7.png",SCTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv7-ef7e259a
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv7-ef7e259a
 #EXTINF:-1 tvg-id="sctv8" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv8.png",SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv8-c12d138b
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv8-c12d138b
 #EXTINF:-1 tvg-id="sctv9" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv9.png",SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv9-cdd19ab2
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv9-cdd19ab2
 #EXTINF:-1 tvg-id="sctv10" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv10.png",SCTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv10-0faf313b
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv10-0faf313b
 #EXTINF:-1 tvg-id="sctv11" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv11.png",SCTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv11-1d565c47
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv11-1d565c47
 #EXTINF:-1 tvg-id="sctv12" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv12.png",SCTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv12-b0d6c023
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv12-b0d6c023
 #EXTINF:-1 tvg-id="sctv13" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv13.png",SCTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv13-67f88fcb
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv13-67f88fcb
 #EXTINF:-1 tvg-id="sctv14" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv14.png",SCTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv14-789c9f45
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv14-789c9f45
 #EXTINF:-1 tvg-id="sctv15" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv15.png",SCTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv15-4aec9a9f
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv15-4aec9a9f
 #EXTINF:-1 tvg-id="sctv16" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv16.png",SCTV16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv16-dd1535e8
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv16-dd1535e8
 #EXTINF:-1 tvg-id="sctv17" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv17.png",SCTV17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv17-hd-87f0ff9d
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv17-hd-87f0ff9d
 #EXTINF:-1 tvg-id="sctv18" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv18.png",SCTV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv18-398b0b4e
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv18-398b0b4e
 #EXTINF:-1 tvg-id="sctv19" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv19.png",SCTV19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-bf00bd02
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv19-bf00bd02
 #EXTINF:-1 tvg-id="sctv20" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv20.png",SCTV20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv19-cb98949a
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv19-cb98949a
 #EXTINF:-1 tvg-id="sctv21" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv21.png",SCTV21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-21-57de221a
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv-21-57de221a
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv22.png",SCTV22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv22-d388dc25
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv22-d388dc25
 #EXTINF:-1 tvg-id="sctvpth" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctvpth.png",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-phim-tong-hop-e6d2df88
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv-phim-tong-hop-e6d2df88
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv4k.png",SCTV4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-4k
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=sctv-4k
 #EXTINF:-1 tvg-id="sctv1" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv1.png",SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv1
@@ -372,13 +372,13 @@ https://hoiquan.dpdns.org/VTVGo/?sctvphim
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=antvhd
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/antv.png",An Ninh TV (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=antv-1debf072
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=antv-1debf072
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/qpvn.png",Quốc Phòng VN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=qpvnhd
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/qpvn.png",Quốc Phòng VN (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=qpvn-fea05134
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=qpvn-fea05134
 #EXTINF:-1 tvg-id="hitv" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/hitv.png",HiTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=32
@@ -393,7 +393,7 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=angiang1
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=angiang2
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/angiang2.png",An Giang 2 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=th-an-giang-e2b64bbf
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=th-an-giang-e2b64bbf
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/angiang3.png",An Giang 3 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=angiang3
@@ -414,7 +414,7 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=cantho1
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=cantho2
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/cantho2.png",Cần Thơ 2 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=th-hau-giang-ac0ec36d
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=th-hau-giang-ac0ec36d
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/cantho3.png",Cần Thơ 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=cantho3
@@ -423,7 +423,7 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=cantho3
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=daklak
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/daklak.png",Đắk Lắk
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=dai-phat-thanh-va-truyen-hinh-dak-lak
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=dai-phat-thanh-va-truyen-hinh-dak-lak
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/dienbien.png",Điện Biên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=dienbien
@@ -480,13 +480,13 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=laichau
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=lamdong1
 #EXTINF:-1 tvg-id="lamdong1" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/lamdong1.png",Lâm Đồng 1 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=bao-va-pt-th-lam-dong-ltv3
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=bao-va-pt-th-lam-dong-ltv3
 #EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/lamdong2.png",Lâm Đồng 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=lamdong2
 #EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/lamdong2.png",Lâm Đồng 2 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=dai-pt-th-binh-thuan
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=dai-pt-th-binh-thuan
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/nghean.png",Nghệ An
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=nghean
@@ -498,7 +498,7 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=phutho
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=quangngai
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/quangngai1.png",Quảng Ngãi 1 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=bao-va-pt-th-quang-ngai
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=bao-va-pt-th-quang-ngai
 #EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/quangngai2.png",Quảng Ngãi 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
@@ -528,13 +528,13 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=tayninh
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vinhlong1hd
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/vinhlong1.png",Vĩnh Long 1 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=thvl1-1384da2a
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=thvl1-1384da2a
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/vinhlong2.png",Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vinhlong2hd
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/vinhlong2.png",Vĩnh Long 2 (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=thvl2-f66e61f0
+https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=thvl2-f66e61f0
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/vinhlong3.png",Vĩnh Long 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vinhlong3hd
