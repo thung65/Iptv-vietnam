@@ -216,6 +216,14 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab2-f8476be0
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=onsports
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg",ON Sports (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab3-8dbaf8a2
@@ -240,6 +248,14 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 #EXTVLCOPT:network-caching=5000
 https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab5-aef122e7
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON Sports+ 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=onsportsplus
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON Sports+ (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
@@ -311,6 +327,14 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
 https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab15-ae9c052c
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON Football
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=onfootball
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON Football (SCTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab16-8865162b
@@ -324,6 +348,14 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
 #EXTVLCOPT:adaptive-variant=max
 #EXTVLCOPT:network-caching=5000
 https://vpsttt.vietanhtv.top/sctv/tv.php?ua=android&id=vtvcab17-8155c5b0
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=onsportsnews
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON Sports News (SCTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:adaptive-variant=max
