@@ -35,25 +35,25 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv9
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" group-logo="https://sgchill.duckdns.org/logo/vtv.png" tvg-logo="https://sgchill.duckdns.org/logo/vtv10.png",VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv10
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab1.png",ON Vie Giải Trí (TV360)
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab1.png",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=180&token=NinoExility
-#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab2.png",ON Phim Việt (TV360)
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab2.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
-#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab4.png",ON Movies (TV360)
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab4.png",ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
-#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab5.png",ON EChannel (TV360)
+#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab5.png",ON EChannel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
-#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab7.png",ON O2TV (TV360)
+#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab7.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
-#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab8.png",ON BiBi (TV360)
+#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab8.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
-#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab9.png",ON Info TV (TV360)
+#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab9.png",ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab10.png",ON Cine (TV360)
@@ -65,22 +65,22 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab15.png",ON Music (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
-#EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab17.png",ON Trending TV (TV360)
+#EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab17.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
-#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab19.png",ON Vie DRAMAS (TV360)
+#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab19.png",ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=177&token=NinoExility
-#EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab20.png",ON VFamily (TV360)
+#EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab20.png",ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
-#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab21.png",ON Kids (TV360)
+#EXTINF:-1 tvg-id="onkids" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab21.png",ON Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
-#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab22.png",ON Life (TV360)
+#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab22.png",ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab23.png",ON Golf (TV360)
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab23.png",ON Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=169&token=NinoExility
 #EXTINF:-1 tvg-id="htv1" group-title="HTV/C" group-logo="https://sgchill.duckdns.org/logo/hplus.png" tvg-logo="https://sgchill.duckdns.org/logo/htv1.png",HTV1
