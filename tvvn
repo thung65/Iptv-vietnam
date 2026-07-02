@@ -209,15 +209,9 @@ https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-4k
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/antv.png",An Ninh TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=antvhd
-#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/antv.png",An Ninh TV (SCTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=antv-1debf072
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/qpvn.png",Quốc Phòng VN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=qpvnhd
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/qpvn.png",Quốc Phòng VN (SCTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=qpvn-fea05134
 #EXTINF:-1 tvg-id="hitv" group-title="Thiết yếu" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/hitv.png",HiTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=32
@@ -230,9 +224,6 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=angiang1
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/angiang2.png",An Giang 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=angiang2
-#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/angiang2.png",An Giang 2 (SCTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=th-an-giang-e2b64bbf
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/angiang3.png",An Giang 3 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=angiang3
@@ -251,9 +242,6 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=cantho1
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/cantho2.png",Cần Thơ 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=cantho2
-#EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/cantho2.png",Cần Thơ 2 (SCTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/sctv/tv.php?id=th-hau-giang-ac0ec36d
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/cantho3.png",Cần Thơ 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=cantho3
