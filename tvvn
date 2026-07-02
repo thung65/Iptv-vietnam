@@ -310,10 +310,10 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=nghean
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=phutho
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/quangngai1.png",Quảng Ngãi 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgchill.duckdns.org/source/fptplay.m3u8?id=quangngai
+https://sgchill.duckdns.org/source/fptplay.m3u8?id=quangngai1
 #EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/quangngai2.png",Quảng Ngãi 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
+https://sgchill.duckdns.org/source/fptplay.m3u8?id=quangngai2
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" group-logo="https://sgchill.duckdns.org/logo/vietnam.png" tvg-logo="https://sgchill.duckdns.org/logo/quangninh1.png",Quảng Ninh 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=quangninh1
