@@ -37,7 +37,7 @@ https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv9
 https://sgchill.duckdns.org/source/fptplay.m3u8?id=vtv10
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab1.png",ON Vie Giải Trí (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=180&token=NinoExility
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab2.png",ON Phim Việt (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
@@ -70,7 +70,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab19.png",ON Vie DRAMAS (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=177&token=NinoExility
 #EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab" group-logo="https://sgchill.duckdns.org/logo/vtvcab.png" tvg-logo="https://sgchill.duckdns.org/logo/vtvcab20.png",ON VFamily (TV360)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
